@@ -40,6 +40,7 @@ p {text-align: justify;}
 .wy-menu-vertical a {color: #404040;}
 .wy-menu-vertical a:hover { background-color: rgba(241,141,54,0.8)}
 .wy-menu a:hover {color: #fff;}
+.wy-menu-vertical a:visited {color: #404040;}
 .wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {background: #c1e045;}
 .wy-menu-vertical li.toctree-l1.current > a {
     border-bottom: solid 0 #fff;
@@ -52,7 +53,8 @@ p {text-align: justify;}
 .wy-menu-vertical li.toctree-l2.current>a { background: rgba(193,224,69,0.6); }
 .wy-menu-vertical li.toctree-l2.hover>a { background: rgba(193,224,69,0.75); }
 
-
+/* mobile */
+.wy-nav-top {background: linear-gradient(#67b03a, #589632); }
 
 a {color: #f18d36; }
 a:hover {color: #589632; text-decoration:underline; }
