@@ -29,6 +29,7 @@ p {text-align: justify;}
 /* adatta il nav-content a fullhd */
 .wy-nav-content {max-width: 1920px;}
 
+/* background menu sx*/
 .wy-side-nav-search {background: linear-gradient(#67b03a, #589632); }
 
 
