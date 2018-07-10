@@ -88,11 +88,11 @@ pygments_style = 'sphinx'
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-html_favicon = "img/favicon.ico"
+html_favicon = "img/favicon_h.ico"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "img/hfcqgis_ods.png"
+html_logo = "img/logo_rtd_white.svg"
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
