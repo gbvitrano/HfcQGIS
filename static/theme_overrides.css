@@ -30,8 +30,8 @@ p {text-align: justify;}
 .wy-nav-content {max-width: 1920px;}
 
 /* background menu sx*/
-.wy-side-nav-search {background: linear-gradient(#67b03a, #589632); }
-
+/*.wy-side-nav-search {background: linear-gradient(#67b03a, #589632); } */
+.wy-side-nav-search {background:  #f18d36;}
 
 /* testo caption menu sx */
 .wy-nav-side {color: #589632;}
