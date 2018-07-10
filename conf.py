@@ -92,7 +92,7 @@ html_favicon = "img/favicon_h.ico"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "img/logo_hfc_00.png"
+html_logo = "img/logo_hfc_01.png"
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
