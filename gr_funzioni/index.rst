@@ -56,7 +56,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
    :maxdepth: 1
  
 
-  aggregates/index
+  aggregates/README
   arrays/index
   campi_e_valori/index
   colore/index
