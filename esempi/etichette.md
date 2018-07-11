@@ -1,4 +1,4 @@
-## Etichettare usando attibuto _geometry_
+# Etichettare usando attibuto _geometry_
 
 L'attributo _geometry_ è l'unico campo non visibile nella tabella attributi, ma c'è!!!
 
