@@ -1,4 +1,4 @@
-## Tematizzare utilizzando la sovrascrittura definita dai dati ![icon](/img/mIconDataDefine.png)
+# Tematizzare utilizzando la sovrascrittura definita dai dati ![icon](/img/mIconDataDefine.png)
 
 Ad uno shapefile puntuale attribuire al simbolo colori diversi in funzione di un campo e la dimensione in funzione di un altro campo.
 
