@@ -28,7 +28,7 @@ La versione in formato **[Read The Docs](https://docs.readthedocs.io/en/latest/i
 
 ### Autore HfcQGIS
 
-* [Salvatore FIANDACA](./autore.md) (_aka pigreco_) [Sito web - pigrecoinfinito](https://pigrecoinfinito.wordpress.com/)
+[Salvatore FIANDACA](./autore.md) -  (_aka pigreco_) - [Sito web - pigrecoinfinito](https://pigrecoinfinito.wordpress.com/)
 
 ### Licenze
 
