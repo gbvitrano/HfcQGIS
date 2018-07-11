@@ -54,14 +54,14 @@ Contenuti:
   :includehidden: Home <https://hfcqgis.readthedocs.io/it/latest/>
   
   
-Ringraziamenti
-~~~~~~~~~~~~~~
+Il manuale
+~~~~~~~~~~
 
--  `Andrea Borruso`_ per il supporto tecnico GitHub, VScode, Markdown,
-   RTD e gitbook;
--  `Giovan Battista Vitrano`_ per l’idea di realizzare **HfcQGIS** in
-   RTD e la predisposizione del repo GitHub per RTD;
--  `Ciro Spataro`_ per la `guida`_ Read The Docs
+La versione in formato `Read The Docs`_ del `lavoro`_ di `Salvatore
+FIANDACA`_, è stata realizzata dalla comunità
+[@OpenDataSicilia](http://opendatasicilia.it/) (in particolare da:
+`Andrea Borruso`_, `Salvatore Fiandaca`_, `Giovan Battista Vitrano`_ e
+`Ciro Spataro`_)
 
 Autore HfcQGIS
 ~~~~~~~~~~~~~~
@@ -75,10 +75,13 @@ Se non specificato diversamente, tutti i contenuti sono soggetti alla
 licenza: `Creative Commons Attribution-ShareAlike 4.0 licence (CC
 BY-SA)`_
 
+.. _Read The Docs: https://docs.readthedocs.io/en/latest/index.html
+.. _lavoro: https://github.com/pigreco/HfcQGIS
+.. _Salvatore FIANDACA: ./autore.md
 .. _Andrea Borruso: https://twitter.com/aborruso?lang=it
+.. _Salvatore Fiandaca: https://twitter.com/totofiandaca
 .. _Giovan Battista Vitrano: https://twitter.com/gbvitrano?lang=it
 .. _Ciro Spataro: https://twitter.com/cirospat?lang=it
-.. _guida: http://come-creare-guida.readthedocs.io/it/latest/
-.. _Salvatore FIANDACA: ./autore.md
 .. _Sito web - pigrecoinfinito: https://pigrecoinfinito.wordpress.com/
 .. _Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA): https://creativecommons.org/licenses/by-sa/4.0/
+
