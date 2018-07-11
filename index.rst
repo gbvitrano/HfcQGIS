@@ -27,7 +27,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 .. toctree::
    :maxdepth: 2
-    :caption: Novità rilevanti
+   :caption: Novità rilevanti
  
    release/index
    
