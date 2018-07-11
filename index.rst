@@ -34,6 +34,10 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
    gr_funzioni/index
    
 .. toctree::
+   :maxdepth: 3
+   contributing
+   
+.. toctree::
   :glob:
   :includehidden: Home <https://hfcqgis.readthedocs.io/it/latest/>
    
