@@ -76,11 +76,11 @@ BY-SA)`_
 
 .. _Read The Docs: https://docs.readthedocs.io/en/latest/index.html
 .. _lavoro: https://github.com/pigreco/HfcQGIS
-.. _Salvatore FIANDACA: ./autore.md
 .. _@OpenDataSicilia: http://opendatasicilia.it/
 .. _Andrea Borruso: https://twitter.com/aborruso?lang=it
-.. _Salvatore Fiandaca: https://twitter.com/totofiandaca?lang=it
+.. _Salvatore Fiandaca: https://twitter.com/totofiandaca
 .. _Giovan Battista Vitrano: https://twitter.com/gbvitrano?lang=it
 .. _Ciro Spataro: https://twitter.com/cirospat?lang=it
+.. _Salvatore FIANDACA: ./autore.md
 .. _Sito web - pigrecoinfinito: https://pigrecoinfinito.wordpress.com/
 .. _Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA): https://creativecommons.org/licenses/by-sa/4.0/
