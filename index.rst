@@ -11,12 +11,15 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
    :maxdepth: 1
    
    calcolatore_campi/index
-
+   calcolatore_campi/concetti
+   calcolatore_campi/interfaccia
+   calcolatore_campi/operatori
 
 .. toctree::
    :maxdepth: 1
  
    release/index
+   release/novita_3.2
    
 .. toctree::
    :maxdepth: 1
