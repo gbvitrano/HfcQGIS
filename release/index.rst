@@ -4,7 +4,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt ex se
 
 .. toctree::
    :maxdepth: 1
-   :caption: Novità
-
+  
    release/novita_3.2
    
