@@ -62,9 +62,9 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. _Campi e valori: campi_e_valori/index
 .. _Colore: colore/index
 .. _Condizioni: condizioni/index
-.. _Conversioni: conversioni/README.html
-.. _Corrispondenza fuzzy: corrispondenza_fuzzy/README.html
-.. _Custom: custom/README.html
+.. _Conversioni: conversioni/index
+.. _Corrispondenza fuzzy: corrispondenza_fuzzy/index
+.. _Custom: custom/index
 .. _Data e ora: data_ora/README.html
 .. _Generale: generale/README.html
 .. _Geometria: geometria/README.html
