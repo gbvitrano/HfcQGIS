@@ -65,7 +65,7 @@ Battista Vitrano`_ e `Ciro Spataro`_)
 Autore HfcQGIS
 ~~~~~~~~~~~~~~
 
-`Salvatore Fiandaca <autore>`__ (aka pigreco) - `Sito web -
+`Salvatore Fiandaca <./autore.html>`__ (aka pigreco) - `Sito web -
 pigrecoinfinito`_
 
 Licenze
