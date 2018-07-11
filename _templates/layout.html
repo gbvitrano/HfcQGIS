@@ -1,12 +1,8 @@
 {% extends "!layout.html" %}
 {% block extrahead %}
     {{ super() }}
-    
-<link href="http://palermohub.opendatasicilia.it/lib/js/top/jquerysctipttop.css" rel="stylesheet" type="text/css" />
-<link href="http://palermohub.opendatasicilia.it/lib/js/top/backTop.css" rel="stylesheet" type="text/css" />
- <script type="text/javascript" src="http://palermohub.opendatasicilia.it/lib/js/dist/jquery.min.js"></script>
- 
-<meta property="og:title" content="HfcQGIS - Help funzioni calcolatore di campi di QGIS" />
+
+	<meta property="og:title" content="HfcQGIS - Help funzioni calcolatore di campi di QGIS" />
 <meta property="og:description" content="Questa guida nasce per rispondere alle numerose richieste di aiuto sull’uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot." />
 <meta property="og:url" content="http://hfcqgis-test.rtfd.io/" />
 <meta property="article:author" content="Salvatore Fiandaca" />
@@ -21,18 +17,19 @@
 <meta name="twitter:site" content="hfcqgis.opendatasicilia.it" />
 <meta name="twitter:url" content="http://hfcqgis-test.rtfd.io/">
 
- <a id='backTop'>Back To Top</a>
- <!-- script toptoback automatico mobile/desktop -->  
- <script type="text/javascript" src="http://palermohub.opendatasicilia.it/lib/js/top/jquery.backTop.min.js"></script>
-<script>
-            $(document).ready( function() {
-                $('#backTop').backTop({
-                    'position' : 400,
-                    'speed' : 300,
-                    'color' : 'red',
-					
-					                });
-            });
-        </script>
-        
+ 
+ <script type="text/javascript" // ===== Scroll to Top ==== 
+$(window).scroll(function() {
+    if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+        $('#return-to-top').fadeIn(200);    // Fade in the arrow
+    } else {
+        $('#return-to-top').fadeOut(200);   // Else fade out the arrow
+    }
+});
+$('#return-to-top').click(function() {      // When arrow is clicked
+    $('body,html').animate({
+        scrollTop : 0                       // Scroll to top of body
+    }, 500);
+});</script>
+
 {% endblock %}
