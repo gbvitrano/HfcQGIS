@@ -58,10 +58,10 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 +-----------------------+-----------------------+-----------------------+
 
 .. _Aggregates: aggregates/index
-.. _Arrays: arrays/README.html
-.. _Campi e valori: campi_e_valori/README.html
-.. _Colore: colore/README.html
-.. _Condizioni: condizioni/README.html
+.. _Arrays: arrays/index
+.. _Campi e valori: campi_e_valori/index
+.. _Colore: colore/index
+.. _Condizioni: condizioni/index
 .. _Conversioni: conversioni/README.html
 .. _Corrispondenza fuzzy: corrispondenza_fuzzy/README.html
 .. _Custom: custom/README.html
