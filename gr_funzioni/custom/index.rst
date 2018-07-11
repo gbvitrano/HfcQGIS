@@ -1,4 +1,51 @@
 Custom
 ===================================
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt ex sed enim tristique, id bibendum diam euismod. Etiam fermentum facilisis nibh vel vestibulum. Duis in ligula eu nunc volutpat malesuada ut rutrum augue. Quisque sed felis vel odio vulputate vulputate. Praesent et libero vitae urna accumsan fringilla. Nullam efficitur bibendum lectus. Donec ut diam pulvinar, accumsan elit vel, suscipit ligula. Pellentesque consectetur ante eu iaculis porttitor. In tincidunt felis velit, eu commodo nisl mattis eu. Curabitur suscipit tortor ac velit posuere egestas. Mauris blandit vel tortor sed finibus. Pellentesque eget tellus sodales, gravida purus sit amet, rutrum arcu. Nullam augue arcu, interdum ut urna sed, semper pretium augue. 
 
+Questo gruppo contiene *funzioni Python* create in modo personalizzato
+dall'utente.
+
++---------------------------------+------------------------------------+
+| Funzione                        | Descrizione                        |
++=================================+====================================+
+| `my_sum`_                       | Calcola la somma dei due parametri |
+|                                 | valore1 e valore2                  |
++---------------------------------+------------------------------------+
+| `reverse_string`_               | Questa funzione ritorna il valore  |
+|                                 | rovesciato di un testo             |
++---------------------------------+------------------------------------+
+| `perimetro_km()`_               | Questa funzione ritorna il valore  |
+|                                 | del perimetro della geometria in   |
+|                                 | km                                 |
++---------------------------------+------------------------------------+
+| `controlla_file`_               | Questa funzione ritorna true se il |
+|                                 | percorso esiste altrimenti false   |
++---------------------------------+------------------------------------+
+
+|image0|
+
+Il codice Python va incollato qui:
+
+|image1|
+
+.. _my_sum: my_sum.html
+.. _reverse_string: reverse_string.html
+.. _perimetro_km(): perimetro_km().html
+.. _controlla_file: controlla_file.html
+
+.. |image0| image:: /img/custom/gruppo_custom1.png
+.. |image1| image:: /img/custom/editor_funzioni1.png
+
+
+**Elenco funzioni Custom**
+
+.. toctree::
+   :maxdepth: 3
+   
+   controlla_file
+   my_sum
+   perimetro_km()
+   reverse_string
+   
+   
+   
+   
