@@ -8,7 +8,7 @@ Il calcolatore di campo è ora disponibile su qualsiasi livello che supporti la 
 
 La barra di calcolo del campo rapido nella parte superiore della tabella degli attributi è visibile solo se il livello è modificabile:
 
-.. figure:: img/field_calc_rapida1.png
+.. figure:: /img/field_calc_rapida1.png
 
 
 .. toctree::
