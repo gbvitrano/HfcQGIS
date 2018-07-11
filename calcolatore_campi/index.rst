@@ -4,8 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt ex se
 
 .. toctree::
    :maxdepth: 2
-   :caption: Calcolatore di campi
-
+  
    calcolatore_campi/concetti
    calcolatore_campi/interfaccia
    calcolatore_campi/operatori
