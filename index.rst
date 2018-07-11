@@ -11,12 +11,12 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
   Home <https://hfcqgis.readthedocs.io/it/latest/>
   
 .. toctree::
-   :maxdepth: 1
+   :glob:
    
    calcolatore_campi/index
 
 .. toctree::
-   :maxdepth: 1
+   :glob:
  
    release/index
    
