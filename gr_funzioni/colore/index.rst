@@ -1,9 +1,6 @@
 Colore
 ===================================
 
-Colore
-======
-
 Questo gruppo contiene le funzioni per manipolare i colori
 
 +---------------------------------+------------------------------------+
@@ -109,7 +106,7 @@ Questo gruppo contiene le funzioni per manipolare i colori
 
 .. |image0| image:: /img/colore/gruppo_colore1.png
 
-**Elenco funzioni Arrays**
+**Elenco funzioni Colore**
 
 .. toctree::
    :maxdepth: 3
