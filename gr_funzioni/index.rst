@@ -52,8 +52,6 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 +-----------------------+-----------------------+-----------------------+
 | `TimeManager`_        | (0/5)                 | Plugin Time Manager   |
 +-----------------------+-----------------------+-----------------------+
-| `Transformation`_     | (0/4)                 | Plugin refFunction    |
-+-----------------------+-----------------------+-----------------------+
 | `Variabili`_          | (0/64)                | >= QGIS 2.12          |
 +-----------------------+-----------------------+-----------------------+
 
@@ -66,19 +64,18 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. _Corrispondenza fuzzy: corrispondenza_fuzzy/index.html
 .. _Custom: custom/index.html
 .. _Data e ora: data_ora/README.html
-.. _Generale: generale/Rindex.html
+.. _Generale: generale/index.html
 .. _Geometria: geometria/README.html
-.. _Layer della mappa: layer_della_mappa/README.html
+.. _Layer della mappa: layer_della_mappa/index.html
 .. _Maps: maps/README.html
 .. _Matematica: matematica/README.html
 .. _Operatori: operatori/README.html
-.. _Recente: recente/README.html
-.. _Record e attributi: record_e_attributi/README.html
+.. _Recente: recente/index.html
+.. _Record e attributi: record_e_attributi/index.html
 .. _Reference: reference/README.html
 .. _Plugin refFunction: https://plugins.qgis.org/plugins/refFunctions/README.html
 .. _Stringhe di testo: stringhe_di_testo/README.html
-.. _TimeManager: timemanager/README.html
-.. _Transformation: transformation/README.html
+.. _TimeManager: timemanager/index.html
 .. _Variabili: variabili/README.html
 
 **Indice gruppi di funzioni/espressioni (302/397)**
