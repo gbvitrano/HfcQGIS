@@ -24,7 +24,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 ### Il manuale
 
-La versione in formato **[Read The Docs](https://docs.readthedocs.io/en/latest/index.html)** del [lavoro](https://github.com/pigreco/HfcQGIS) di [Salvatore FIANDACA](./autore.md), è stata realizzata dalla comunità [@OpenDataSicilia](http://opendatasicilia.it/) (in particolare da: [Andrea Borruso](https://twitter.com/aborruso?lang=it), [Salvatore Fiandaca](https://twitter.com/totofiandaca), [Giovan Battista Vitrano](https://twitter.com/gbvitrano?lang=it) e  [Ciro Spataro](https://twitter.com/cirospat?lang=it))
+La versione in formato **[Read The Docs](https://docs.readthedocs.io/en/latest/index.html)** del [lavoro](https://github.com/pigreco/HfcQGIS) di Salvatore FIANDACA, è stata realizzata dalla comunità [@OpenDataSicilia](http://opendatasicilia.it/) (in particolare da: [Andrea Borruso](https://twitter.com/aborruso?lang=it), [Salvatore Fiandaca](https://twitter.com/totofiandaca), [Giovan Battista Vitrano](https://twitter.com/gbvitrano?lang=it) e  [Ciro Spataro](https://twitter.com/cirospat?lang=it))
 
 ### Autore HfcQGIS
 
