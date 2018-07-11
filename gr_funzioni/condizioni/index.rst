@@ -1,4 +1,56 @@
 Condizioni
 ===================================
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt ex sed enim tristique, id bibendum diam euismod. Etiam fermentum facilisis nibh vel vestibulum. Duis in ligula eu nunc volutpat malesuada ut rutrum augue. Quisque sed felis vel odio vulputate vulputate. Praesent et libero vitae urna accumsan fringilla. Nullam efficitur bibendum lectus. Donec ut diam pulvinar, accumsan elit vel, suscipit ligula. Pellentesque consectetur ante eu iaculis porttitor. In tincidunt felis velit, eu commodo nisl mattis eu. Curabitur suscipit tortor ac velit posuere egestas. Mauris blandit vel tortor sed finibus. Pellentesque eget tellus sodales, gravida purus sit amet, rutrum arcu. Nullam augue arcu, interdum ut urna sed, semper pretium augue. 
 
+Questo gruppo contiene funzioni per eseguire controlli condizionali
+nelle espressioni.
+
++---------------------------------+------------------------------------+
+| Funzione                        | Descrizione                        |
++=================================+====================================+
+| `CASE`_                         | Valuta un'espressione e            |
+|                                 | restituisce un risultato diverso,  |
+|                                 | sia esso vero o falso. Puoi        |
+|                                 | testare più condizioni             |
++---------------------------------+------------------------------------+
+| `coalesce`_                     | Restituisce il primo valore non    |
+|                                 | NULL dalla lista delle             |
+|                                 | espressioni. Questa funzione può   |
+|                                 | usare qualsiasi numero di          |
+|                                 | argomenti                          |
++---------------------------------+------------------------------------+
+| `if`_                           | Tests a condition and returns a    |
+|                                 | different result depending on the  |
+|                                 | conditional check                  |
++---------------------------------+------------------------------------+
+| `regexp_match`_                 | Restituisce la prima posizione di  |
+|                                 | corrispondenza che soddisfa        |
+|                                 | un'espressione regolare            |
+|                                 | all'interno di una stringa, o 0 se |
+|                                 | la sottostringa non viene trovata  |
++---------------------------------+------------------------------------+
+
+|image0|
+
+.. _CASE: case.html
+.. _coalesce: coalesce.html
+.. _if: if.html
+.. _regexp_match: regexp_match.html
+
+.. |image0| image:: /img/condizioni/gruppo_condizioni1.png
+
+
+**Elenco funzioni Condizioni**
+
+.. toctree::
+   :maxdepth: 3
+   
+   case
+   coalesce
+   if
+   regexp_match
+   
+   
+   
+   
+   
+   
