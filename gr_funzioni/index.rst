@@ -66,7 +66,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. _Corrispondenza fuzzy: corrispondenza_fuzzy/index.html
 .. _Custom: custom/index.html
 .. _Data e ora: data_ora/README.html
-.. _Generale: generale/README.html
+.. _Generale: generale/Rindex.html
 .. _Geometria: geometria/README.html
 .. _Layer della mappa: layer_della_mappa/README.html
 .. _Maps: maps/README.html
