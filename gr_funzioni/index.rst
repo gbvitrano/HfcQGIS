@@ -87,13 +87,13 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
    :maxdepth: 1
  
   aggregates/index
-  arrays/README
-  campi_e_valori/README
-  colore/README
-  condizioni/README
-  conversioni/README
-  corrispondenza_fuzzy/README
-  custom/README
+  arrays/index
+  campi_e_valori/index
+  colore/index
+  condizioni/index
+  conversioni/index
+  corrispondenza_fuzzy/index
+  custom/index
   data_ora/README
   generale/README
   geometria/README
