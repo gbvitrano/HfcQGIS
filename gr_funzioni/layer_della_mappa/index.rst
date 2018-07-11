@@ -1,4 +1,28 @@
 Layer della mappa
 ===================================
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt ex sed enim tristique, id bibendum diam euismod. Etiam fermentum facilisis nibh vel vestibulum. Duis in ligula eu nunc volutpat malesuada ut rutrum augue. Quisque sed felis vel odio vulputate vulputate. Praesent et libero vitae urna accumsan fringilla. Nullam efficitur bibendum lectus. Donec ut diam pulvinar, accumsan elit vel, suscipit ligula. Pellentesque consectetur ante eu iaculis porttitor. In tincidunt felis velit, eu commodo nisl mattis eu. Curabitur suscipit tortor ac velit posuere egestas. Mauris blandit vel tortor sed finibus. Pellentesque eget tellus sodales, gravida purus sit amet, rutrum arcu. Nullam augue arcu, interdum ut urna sed, semper pretium augue. 
 
+Questo gruppo contiene un elenco dei livelli disponibili nel progetto
+corrente. Questo offre un modo conveniente per scrivere espressioni che
+si riferiscono a più livelli, ad esempio quando si eseguono aggregati,
+attributi o query spaziali.
+
++-----------------------------------+-----------------------------------+
+| Funzione                          | Descrizione                       |
++===================================+===================================+
+| `Layer della mappa`_              | Questo gruppo contiene un elenco  |
+|                                   | dei livelli disponibili nel       |
+|                                   | progetto corrente                 |
++-----------------------------------+-----------------------------------+
+
+|image0|
+
+.. _Layer della mappa: layer_della_mappa.html
+
+.. |image0| image:: /img/layer_della_mappa/gruppo_layer_della_mappa1.png
+
+**Elenco funzioni Layer della mappa**
+   
+.. toctree::
+   :maxdepth: 3
+   
+   layer_della_mappa
