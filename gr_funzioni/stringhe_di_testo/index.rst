@@ -1,9 +1,6 @@
 Stringhe di testo
 ===================================
 
-Stringhe di testo
-=================
-
 Questo gruppo contiene le funzioni che operano sulle stringhe es.*sostituzione*, *conversione in maiuscolo*.
 
 +-----------------------------+----------------------------------------+
@@ -131,10 +128,31 @@ Questo gruppo contiene le funzioni che operano sulle stringhe es.*sostituzione*,
 .. |image0| image:: /img/stringhe_di_testo/gruppo_stringhe_di_testo1.png
 
 
-**Elenco funzioni Aggregates**
+**Elenco funzioni Stringhe di testo**
    
 .. toctree::
    :maxdepth: 3
    
-   
+   char
+   concat
+   format
+   format_date
+   format_number
+   left
+   length
+   lower
+   lpad
+   regexp_match
+   regexp_replace
+   regexp_substr
+   replace
+   right
+   rpad
+   strpos
+   substr
+   title
+   to_string
+   trim
+   upper
+   wordwrap
    
