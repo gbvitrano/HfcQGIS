@@ -57,14 +57,14 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 | `Variabili`_          | (0/64)                | >= QGIS 2.12          |
 +-----------------------+-----------------------+-----------------------+
 
-.. _Aggregates: aggregates/index
-.. _Arrays: arrays/index
-.. _Campi e valori: campi_e_valori/index
-.. _Colore: colore/index
-.. _Condizioni: condizioni/index
-.. _Conversioni: conversioni/index
-.. _Corrispondenza fuzzy: corrispondenza_fuzzy/index
-.. _Custom: custom/index
+.. _Aggregates: aggregates/index.html
+.. _Arrays: arrays/index.html
+.. _Campi e valori: campi_e_valori/index.html
+.. _Colore: colore/index.html
+.. _Condizioni: condizioni/index.html
+.. _Conversioni: conversioni/index.html
+.. _Corrispondenza fuzzy: corrispondenza_fuzzy/index.html
+.. _Custom: custom/index.html
 .. _Data e ora: data_ora/README.html
 .. _Generale: generale/README.html
 .. _Geometria: geometria/README.html
