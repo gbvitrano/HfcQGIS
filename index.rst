@@ -8,22 +8,19 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Calcolatore di campi
-
+   :maxdepth: 1
+   
    calcolatore_campi/index
 
 
 .. toctree::
    :maxdepth: 1
-   :caption: Novità
-
+ 
    release/index
    
 .. toctree::
    :maxdepth: 1
-   :caption: Funzioni QGIS 
-
+   
    gr_funzioni/index
    
 .. toctree::
