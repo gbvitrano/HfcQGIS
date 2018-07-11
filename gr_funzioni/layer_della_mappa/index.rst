@@ -21,7 +21,7 @@ attributi o query spaziali.
 .. |image0| image:: /img/layer_della_mappa/gruppo_layer_della_mappa1.png
 
 **Elenco funzioni Layer della mappa**
-   
+
 .. toctree::
    :maxdepth: 3
    
