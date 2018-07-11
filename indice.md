@@ -22,7 +22,8 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 * [Cosa puoi fare](/CONTRIBUTING.md) ❔
 * [Donazioni](https://www.paypal.me/pigrecoinfinito) 💶 💳
 
-### Ringraziamenti
+### Il manuale
+La versione in formato **[Read The Docs](https://docs.readthedocs.io/en/latest/index.html)** del [lavoro](https://github.com/pigreco/HfcQGIS) di [Salvatore FIANDACA](./autore.md), è stata realizzata dalla comunità [@OpenDataSicilia](http://opendatasicilia.it/) (in particolare da: [Andrea Borruso](https://twitter.com/aborruso?lang=it), [Salvatore Fiandaca](https://twitter.com/totofiandaca), [Giovan Battista Vitrano](https://twitter.com/gbvitrano?lang=it) e  [Ciro Spataro](https://twitter.com/cirospat?lang=it))
 
 * [Andrea Borruso](https://twitter.com/aborruso?lang=it) per il supporto tecnico GitHub, VScode, Markdown, RTD e gitbook;
 * [Giovan Battista Vitrano](https://twitter.com/gbvitrano?lang=it) per l'idea di realizzare **HfcQGIS** in RTD e la predisposizione del repo GitHub per RTD;
