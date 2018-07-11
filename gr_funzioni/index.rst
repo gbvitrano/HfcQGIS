@@ -72,7 +72,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. _Operatori: operatori/README.html
 .. _Recente: recente/index.html
 .. _Record e attributi: record_e_attributi/index.html
-.. _Reference: reference/README.html
+.. _Reference: reference/index.html
 .. _Plugin refFunction: https://plugins.qgis.org/plugins/refFunctions/README.html
 .. _Stringhe di testo: stringhe_di_testo/README.html
 .. _TimeManager: timemanager/index.html
