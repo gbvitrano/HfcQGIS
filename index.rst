@@ -65,7 +65,7 @@ Battista Vitrano`_ e `Ciro Spataro`_)
 Autore HfcQGIS
 ~~~~~~~~~~~~~~
 
-`Salvatore FIANDACA`_ - (*aka pigreco*) - `Sito web - pigrecoinfinito`_
+`Salvatore FIANDACA`_ - (aka pigreco) - `Sito web - pigrecoinfinito`_
 
 Licenze
 ~~~~~~~
@@ -81,6 +81,6 @@ BY-SA)`_
 .. _Salvatore Fiandaca: https://twitter.com/totofiandaca
 .. _Giovan Battista Vitrano: https://twitter.com/gbvitrano?lang=it
 .. _Ciro Spataro: https://twitter.com/cirospat?lang=it
-.. _Salvatore FIANDACA: ./autore.md
-.. _Sito web - pigrecoinfinito: https://pigrecoinfinito.wordpress.com/
 .. _Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA): https://creativecommons.org/licenses/by-sa/4.0/
+.. _Salvatore FIANDACA: autore
+.. _Sito web - pigrecoinfinito: https://pigrecoinfinito.wordpress.com/
