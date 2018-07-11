@@ -29,7 +29,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 * [Ciro Spataro](https://twitter.com/cirospat?lang=it) per la [guida](http://come-creare-guida.readthedocs.io/it/latest/) Read The Docs
 
 ### Autore HfcQGIS
-* [Salvatore FIANDACA](./autore.md) (_aka pigreco_)
+* [Salvatore FIANDACA](./autore.md) (_aka pigreco_) [Sito web - pigrecoinfinito](https://pigrecoinfinito.wordpress.com/)
 
 ### Licenze
 
