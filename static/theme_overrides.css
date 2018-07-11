@@ -41,9 +41,8 @@ p {text-align: justify;}
 .wy-menu-vertical a:hover { background-color: rgba(241,141,54,0.8)}
 .wy-menu a:hover {color: #fff;}
 .wy-menu a:visited {color: #fff;}
-
-
 .wy-menu-vertical a:visited {color: #404040;}
+
 .wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {background: #c1e045;}
 .wy-menu-vertical li.toctree-l1.current > a {
     border-bottom: solid 0 #fff;
@@ -60,8 +59,8 @@ p {text-align: justify;}
 .wy-nav-top {background: linear-gradient(#67b03a, #589632); }
 
 a {color: #f18d36; }
-a:hover {color: #589632; text-decoration:underline; }
-a:visited {color: #f18d36; text-decoration:underline; }
+a:hover {color: #f18d36; text-decoration:underline; }
+a:visited {color: #589632; text-decoration:none; }
 
 .wy-body-for-nav .keep-us-sustainable {
     color: #404040;}
