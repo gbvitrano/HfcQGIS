@@ -1,6 +1,7 @@
 # Novità rilevanti introdotte nella 3.2
 
-### **FEATURE**: generatore di espressioni più utile.
+### Generatore di espressioni più utile.
+
 Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!
 
 - Il builder ora mostra la descrizione per i valori definiti dai dati, compreso l'intervallo di valori attesi dall'espressione
@@ -19,7 +20,7 @@ Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!
 
 ---
 
-### **FEATURE**: Form drill-down (a cascata)  WIDGET Value Relation (Relazione valore):
+### Form drill-down (a cascata)  WIDGET Value Relation (Relazione valore):
 
 consente l'implementazione di filtri complessi e dinamici all'interno di moduli di attributo QGIS. La funzionalità può essere utilizzata per implementare moduli "drill-down" all'interno di QGIS, in cui i valori disponibili in un campo dipendono dai valori di altri campi:
 

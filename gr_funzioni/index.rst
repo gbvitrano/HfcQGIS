@@ -51,3 +51,30 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 | Variabili            | (0/65)      | >= QGIS 2.12                                         |
 +----------------------+-------------+------------------------------------------------------+
 
+
+.. toctree::
+   :maxdepth: 1
+ 
+
+  aggregates/index
+  arrays/index
+  campi_e_valori/index
+  colore/index
+  condizioni/index
+  conversioni/index
+  corrispondenza_fuzzy/index
+  custom/index
+  data_ora/index
+  generale/index
+  geometria/index
+  layer_della_mappa/index
+  maps/index
+  matematica/index
+  operatori/index
+  recente/index
+  record_e_attributi/index
+  reference/index
+  stringhe_di_testo/index
+  timemanager/index
+  transformation/index
+  variabili/index

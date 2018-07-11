@@ -1,4 +1,4 @@
-## Esempi uso delle funzioni
+# Esempi uso delle funzioni
 
 Esempio|Descrizione
 ------:|:----------
