@@ -1,4 +1,4 @@
-## Gruppo `TimeManager`
+# TimeManager
 
 Questo gruppo contiene le funzioni del plugin Time Manager
 
