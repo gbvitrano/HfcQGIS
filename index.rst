@@ -52,5 +52,33 @@ Contenuti:
 .. toctree::
   :glob:
   :includehidden: Home <https://hfcqgis.readthedocs.io/it/latest/>
-   
-   
+  
+  
+Ringraziamenti
+~~~~~~~~~~~~~~
+
+-  `Andrea Borruso`_ per il supporto tecnico GitHub, VScode, Markdown,
+   RTD e gitbook;
+-  `Giovan Battista Vitrano`_ per l’idea di realizzare **HfcQGIS** in
+   RTD e la predisposizione del repo GitHub per RTD;
+-  `Ciro Spataro`_ per la `guida`_ Read The Docs
+
+Autore HfcQGIS
+~~~~~~~~~~~~~~
+
+-  `Salvatore FIANDACA`_ (*aka pigreco*) `Sito web - pigrecoinfinito`_
+
+Licenze
+~~~~~~~
+
+Se non specificato diversamente, tutti i contenuti sono soggetti alla
+licenza: `Creative Commons Attribution-ShareAlike 4.0 licence (CC
+BY-SA)`_
+
+.. _Andrea Borruso: https://twitter.com/aborruso?lang=it
+.. _Giovan Battista Vitrano: https://twitter.com/gbvitrano?lang=it
+.. _Ciro Spataro: https://twitter.com/cirospat?lang=it
+.. _guida: http://come-creare-guida.readthedocs.io/it/latest/
+.. _Salvatore FIANDACA: ./autore.md
+.. _Sito web - pigrecoinfinito: https://pigrecoinfinito.wordpress.com/
+.. _Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA): https://creativecommons.org/licenses/by-sa/4.0/
