@@ -11,7 +11,7 @@ Un campo virtuale è un campo basato su un'espressione calcolata al volo, il che
 
 Il calcolatore di campo è ora disponibile su qualsiasi livello che supporti la modifica. 
 
-La barra di calcolo del campo rapido nella parte superiore della tabella degli attributi è visibile solo se il livello è modificabile:
+La **barra di calcolo del campo rapido** nella parte superiore della tabella degli attributi è visibile solo se il livello è *modificabile*:
 
 .. figure:: /img/field_calc_rapida1.png
 
