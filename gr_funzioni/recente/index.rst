@@ -1,4 +1,10 @@
 Recente
 ===================================
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt ex sed enim tristique, id bibendum diam euismod. Etiam fermentum facilisis nibh vel vestibulum. Duis in ligula eu nunc volutpat malesuada ut rutrum augue. Quisque sed felis vel odio vulputate vulputate. Praesent et libero vitae urna accumsan fringilla. Nullam efficitur bibendum lectus. Donec ut diam pulvinar, accumsan elit vel, suscipit ligula. Pellentesque consectetur ante eu iaculis porttitor. In tincidunt felis velit, eu commodo nisl mattis eu. Curabitur suscipit tortor ac velit posuere egestas. Mauris blandit vel tortor sed finibus. Pellentesque eget tellus sodales, gravida purus sit amet, rutrum arcu. Nullam augue arcu, interdum ut urna sed, semper pretium augue. 
+
+Questo gruppo contiene funzioni usate di recente. A seconda del contesto del suo utilizzo (selezione delle funzionalità, calcolatrice di campo,generico), qualsiasi espressione applicata viene aggiunta all'elenco
+corrispondente (fino a dieci espressioni), ordinata dalla più recente alla meno una. Ciò aiuta a recuperare e riapplicare rapidamente qualsiasi espressione utilizzata in precedenza.
+
+|image0|
+
+.. |image0| image:: /img/recente/gruppo_recente1.png
 
