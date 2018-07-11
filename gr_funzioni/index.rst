@@ -3,8 +3,6 @@ Elenco funzioni QGIS
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
-**Indice gruppi di funzioni/espressioni (302/397)**
-
 
 +-----------------------+-----------------------+-----------------------+
 | Gruppo funzioni       | nro funzioni          | info                  |
@@ -83,10 +81,11 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. _Transformation: transformation/README.html
 .. _Variabili: variabili/README.html
 
+**Indice gruppi di funzioni/espressioni (302/397)**
+
 .. toctree::
    :maxdepth: 1
  
-
   aggregates/README
   arrays/README
   campi_e_valori/README
