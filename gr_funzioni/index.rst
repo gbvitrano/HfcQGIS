@@ -57,7 +57,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 | `Variabili`_          | (0/64)                | >= QGIS 2.12          |
 +-----------------------+-----------------------+-----------------------+
 
-.. _Aggregates: aggregates/README.html
+.. _Aggregates: aggregates/index
 .. _Arrays: arrays/README.html
 .. _Campi e valori: campi_e_valori/README.html
 .. _Colore: colore/README.html
@@ -86,7 +86,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. toctree::
    :maxdepth: 1
  
-  aggregates/README
+  aggregates/index
   arrays/README
   campi_e_valori/README
   colore/README
