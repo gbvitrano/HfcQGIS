@@ -1,5 +1,8 @@
 /* override css */
 
+/* @http://hfcqgis.opendatasicilia.it*/
+
+
 span.pre {
  overflow-x: auto;  
 }
@@ -57,15 +60,15 @@ p {text-align: justify;}
 
 /* mobile */
 .wy-nav-top {background: linear-gradient(#67b03a, #589632); }
-
+/* @http://hfcqgis.opendatasicilia.it*/
 a {color: #f18d36; }
 a:hover {color: #f18d36; text-decoration:underline; }
 a:visited {color: #589632; text-decoration:none; }
 
-.wy-body-for-nav .keep-us-sustainable {
-    color: #404040;}
-	.wy-body-for-nav .keep-us-sustainable a {
-    color: #404040; }
+/* Blocco pbubblicita */
+.wy-body-for-nav .keep-us-sustainable {color: #404040;}
+.wy-body-for-nav .keep-us-sustainable a {color: #404040; }
+.wy-body-for-nav .keep-us-sustainable {background-color: #404040;}
 
 /* testo caption menu sx 
 .wy-nav-side {color: #589632;}*/
@@ -77,7 +80,7 @@ a:visited {color: #589632; text-decoration:none; }
 /* disattiva testo Home  menu sx */
 .wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {
        font-size: 0; }
-	   
+/* @http://hfcqgis.opendatasicilia.it*/	   
 
 /* disattiva background logo latest  menu sx */
 .wy-side-nav-search > a:hover, .wy-side-nav-search .wy-dropdown > a:hover {
