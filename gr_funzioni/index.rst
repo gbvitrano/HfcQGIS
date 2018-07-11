@@ -57,24 +57,24 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
  
 
   aggregates/README
-  arrays/index
-  campi_e_valori/index
-  colore/index
-  condizioni/index
-  conversioni/index
-  corrispondenza_fuzzy/index
-  custom/index
-  data_ora/index
-  generale/index
-  geometria/index
-  layer_della_mappa/index
-  maps/index
-  matematica/index
-  operatori/index
-  recente/index
-  record_e_attributi/index
-  reference/index
-  stringhe_di_testo/index
-  timemanager/index
-  transformation/index
-  variabili/index
+  arrays/README
+  campi_e_valori/README
+  colore/README
+  condizioni/README
+  conversioni/README
+  corrispondenza_fuzzy/README
+  custom/README
+  data_ora/README
+  generale/README
+  geometria/README
+  layer_della_mappa/README
+  maps/README
+  matematica/README
+  operatori/README
+  recente/README
+  record_e_attributi/README
+  reference/README
+  stringhe_di_testo/README
+  timemanager/README
+  transformation/README
+  variabili/README
