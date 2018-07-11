@@ -59,29 +59,29 @@ Indice gruppi di funzioni/espressioni (302/397)
 | `Variabili`_          | (0/64)                | >= QGIS 2.12          |
 +-----------------------+-----------------------+-----------------------+
 
-.. _Aggregates: ./gr_funzioni/aggregates
-.. _Arrays: ./gr_funzioni/arrays
-.. _Campi e valori: ./gr_funzioni/campi_e_valori
-.. _Colore: ./gr_funzioni/colore
-.. _Condizioni: ./gr_funzioni/condizioni
-.. _Conversioni: ./gr_funzioni/conversioni
-.. _Corrispondenza fuzzy: ./gr_funzioni/corrispondenza_fuzzy
-.. _Custom: ./gr_funzioni/custom
-.. _Data e ora: ./gr_funzioni/data_ora
-.. _Generale: ./gr_funzioni/generale
-.. _Geometria: ./gr_funzioni/geometria
-.. _Layer della mappa: ./gr_funzioni/layer_della_mappa
-.. _Maps: ./gr_funzioni/maps
-.. _Matematica: ./gr_funzioni/matematica
-.. _Operatori: ./gr_funzioni/operatori
-.. _Recente: ./gr_funzioni/recente
-.. _Record e attributi: ./gr_funzioni/record_e_attributi
-.. _Reference: ./gr_funzioni/reference
-.. _Plugin refFunction: https://plugins.qgis.org/plugins/refFunctions/
-.. _Stringhe di testo: ./gr_funzioni/stringhe_di_testo
-.. _TimeManager: ./gr_funzioni/timemanager
-.. _Transformation: ./gr_funzioni/transformation
-.. _Variabili: ./gr_funzioni/variabili
+.. _Aggregates: ./gr_funzioni/aggregates.html
+.. _Arrays: ./gr_funzioni/arrays.html
+.. _Campi e valori: ./gr_funzioni/campi_e_valori.html
+.. _Colore: ./gr_funzioni/colore.html
+.. _Condizioni: ./gr_funzioni/condizioni.html
+.. _Conversioni: ./gr_funzioni/conversioni.html
+.. _Corrispondenza fuzzy: ./gr_funzioni/corrispondenza_fuzzy.html
+.. _Custom: ./gr_funzioni/custom.html
+.. _Data e ora: ./gr_funzioni/data_ora.html
+.. _Generale: ./gr_funzioni/generale.html
+.. _Geometria: ./gr_funzioni/geometria.html
+.. _Layer della mappa: ./gr_funzioni/layer_della_mappa.html
+.. _Maps: ./gr_funzioni/maps.html
+.. _Matematica: ./gr_funzioni/matematica.html
+.. _Operatori: ./gr_funzioni/operatori.html
+.. _Recente: ./gr_funzioni/recente.html
+.. _Record e attributi: ./gr_funzioni/record_e_attributi.html
+.. _Reference: ./gr_funzioni/reference.html
+.. _Plugin refFunction: https://plugins.qgis.org/plugins/refFunctions.html
+.. _Stringhe di testo: ./gr_funzioni/stringhe_di_testo.html
+.. _TimeManager: ./gr_funzioni/timemanager.html
+.. _Transformation: ./gr_funzioni/transformation.html
+.. _Variabili: ./gr_funzioni/variabili.html
 
 .. toctree::
    :maxdepth: 1
