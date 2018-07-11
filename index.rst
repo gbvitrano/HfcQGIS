@@ -83,5 +83,4 @@ BY-SA)`_
 .. _Giovan Battista Vitrano: https://twitter.com/gbvitrano?lang=it
 .. _Ciro Spataro: https://twitter.com/cirospat?lang=it
 .. _Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA): https://creativecommons.org/licenses/by-sa/4.0/
-.. _Salvatore FIANDACA: autore
 .. _Sito web - pigrecoinfinito: https://pigrecoinfinito.wordpress.com/
