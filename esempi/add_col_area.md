@@ -29,4 +29,3 @@ il geopackage è scaricabile [qui](/esempi/dati_esempi.gpkg)
 
 [![add_col_area_perimetro](https://img.youtube.com/vi/pKh0UErx6GE/0.jpg)](https://www.youtube.com/watch?v=IymSgXmbAFM&list=PLqDFjeQq7NBjz5PWb66PNUqMgN1fce4cu&index "add_col_area_perimetro")
 
-[video youtube](https://www.youtube.com/watch?v=IymSgXmbAFM&list=PLqDFjeQq7NBjz5PWb66PNUqMgN1fce4cu&index)
