@@ -1,4 +1,4 @@
-## Come aggiungere le coordinate x e y alla tabella attributi
+# Come aggiungere le coordinate x e y alla tabella attributi
 
 Facciamo un esempio, geopackage con vettore puntuale:
 
