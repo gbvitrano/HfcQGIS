@@ -15,6 +15,11 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
    :maxdepth: 3
    
    calcolatore_campi/index
+   
+.. toctree::
+   :maxdepth: 3
+   
+   calcolatore_campi/esempi
 
 .. toctree::
    :maxdepth: 3
