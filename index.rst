@@ -9,32 +9,37 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. figure:: img/beta_01.png  
 
 .. toctree::
-  :maxdepth: 3
+  :maxdepth: 2
  
   Home <https://hfcqgis.readthedocs.io/it/latest/>
   
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
+   :caption: Calcolatore di campi
    
    calcolatore_campi/index
    
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
+   :caption: Esempi
    
-   calcolatore_campi/esempi
+   esempi/index
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
+    :caption: Novità rilevanti
  
    release/index
    
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
+   :caption: Le funzioni
    
    gr_funzioni/index
    
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
+   :caption: Come puoi contribuire
    
    contributing
    
