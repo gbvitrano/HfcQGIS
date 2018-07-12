@@ -25,8 +25,8 @@ background-color: rgba(27,31,35,0.05) !important;
       overflow: visible !important;
    }
 }
-
-/*p {text-align: justify;}*/
+/* Testo paragrafo giustificto*/
+p {text-align: justify;}
 
 
 /* adatta il nav-content a fullhd */
@@ -63,16 +63,16 @@ background-color: rgba(27,31,35,0.05) !important;
 .wy-menu-vertical li.toctree-l2.current>a { background: rgba(193,224,69,0.6); }
 .wy-menu-vertical li.toctree-l2.hover>a { background: rgba(193,224,69,0.75); }
 
-
 /* @http://hfcqgis.opendatasicilia.it*/
+
 a {color: #f18d36; }
 a:hover {color: #f18d36; text-decoration:underline; }
 a:visited {color: #589632; text-decoration:none; }
 
 /* Blocco pbubblicita */
-.wy-body-for-nav .keep-us-sustainable {color: #404040;}
+.wy-body-for-nav .keep-us-sustainable {color: #404040; text-align: center;}
 .wy-body-for-nav .keep-us-sustainable a {color: #404040; }
-.wy-body-for-nav .keep-us-sustainable {background-color: #404040;}
+.wy-body-for-nav .keep-us-sustainable {background-color: #404040; text-align: center;}
 
 /* testo caption menu sx 
 .wy-nav-side {color: #589632;}*/
