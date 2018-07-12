@@ -17,20 +17,9 @@ potrebbero non essere disponibili in base al contesto:
 
 \* compositore di stampe |print|
 
+In QGIS, puoi utilizzare le variabili per memorizzare dati utili con valori ricorrenti (ad esempio il titolo del progetto o il nome completo dell’utente) che possono essere utilizzati nelle espressioni. Le variabili possono essere definite a livello globale dell’applicazione, a livello di progetto, a livello di layer, a livello di composizione e a livello di elemento del compositore. Proprio come le regole CSS a cascata, le variabili possono essere sovrascritte, ad esempio una variabile a livello di progetto sovrascrive le variabili di livello globale di qualsiasi applicazione impostate con lo stesso nome.
 
-In QGIS, puoi utilizzare le variabili per memorizzare dati utili con
-valori ricorrenti (ad esempio il titolo del progetto o il nome completo
-dell’utente) che possono essere utilizzati nelle espressioni. Le
-variabili possono essere definite a livello globale dell’applicazione, a
-livello di progetto, a livello di layer, a livello di composizione e a
-livello di elemento del compositore. Proprio come le regole CSS a
-cascata, le variabili possono essere sovrascritte, ad esempio una
-variabile a livello di progetto sovrascrive le variabili di livello
-globale di qualsiasi applicazione impostate con lo stesso nome.
-
-Puoi utilizzare queste variabili per creare stringhe di testo o altre
-espressioni personalizzate utilizzando il carattere @ prima del nome
-della variabile.
+Puoi utilizzare queste variabili per creare stringhe di testo o altre espressioni personalizzate utilizzando il carattere @ prima del nome della variabile.
 
 Riguardano:
 
@@ -347,16 +336,33 @@ Riguardano:
 +---------------------+-----------------------+-----------------------+
 
 
-Gruppo sul calcolatore di campi,Seleziona per espressione |image0|
+Gruppo sul calcolatore di campi,Seleziona per espressione 
 
-Geometry generator - stile |epsilos| |image2|
+|image0|
 
-Selezione per espressione |exp| |image4|
+Geometry generator - stile
 
-Calcolatore di campi,Seleziona per espressione |calc| |image6|
+|epsilos| 
 
-Compositore di stampe |print| |image8|
+|image2|
 
+Selezione per espressione
+
+|exp|
+
+|image4|
+
+Calcolatore di campi,Seleziona per espressione
+
+|calc| 
+
+|image6|
+
+Compositore di stampe
+
+|print|
+
+|image8|
 
 .. _atlas_feature: atlas_feature.html
 .. _atlas_featureid: atlas_featureid.html
