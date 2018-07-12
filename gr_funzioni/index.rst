@@ -63,13 +63,13 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. _Conversioni: conversioni/index.html
 .. _Corrispondenza fuzzy: corrispondenza_fuzzy/index.html
 .. _Custom: custom/index.html
-.. _Data e ora: data_ora/README.html
+.. _Data e ora: data_ora/index.html
 .. _Generale: generale/index.html
 .. _Geometria: geometria/README.html
 .. _Layer della mappa: layer_della_mappa/index.html
-.. _Maps: maps/README.html
-.. _Matematica: matematica/README.html
-.. _Operatori: operatori/README.html
+.. _Maps: maps/index.html
+.. _Matematica: matematica/index.html
+.. _Operatori: operatori/index.html
 .. _Recente: recente/index.html
 .. _Record e attributi: record_e_attributi/index.html
 .. _Reference: reference/index.html
@@ -91,17 +91,16 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
   conversioni/index
   corrispondenza_fuzzy/index
   custom/index
-  data_ora/README
-  generale/README
+  data_ora/index
+  generale/index
   geometria/README
-  layer_della_mappa/README
-  maps/README
-  matematica/README
-  operatori/README
-  recente/README
-  record_e_attributi/README
-  reference/README
-  stringhe_di_testo/README
-  timemanager/README
-  transformation/README
+  layer_della_mappa/index
+  maps/index
+  matematica/index
+  operatori/index
+  recente/index
+  record_e_attributi/index
+  reference/index
+  stringhe_di_testo/index
+  timemanager/index
   variabili/README
