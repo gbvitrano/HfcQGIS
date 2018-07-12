@@ -56,8 +56,9 @@ master_doc = 'index'
 
 # General information about the project.
 
-# project = u ["img/logo_mobile_00.png"]
-project = u'HfcQGIS'
+
+# project = u'HfcQGIS'
+project = u''
 copyright = u'2018, Salvatore Fiandaca'
 author = u'Salvatore Fiandaca'
 

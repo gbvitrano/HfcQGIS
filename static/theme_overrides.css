@@ -26,7 +26,7 @@ background-color: rgba(27,31,35,0.05) !important;
    }
 }
 
-p {text-align: justify;}
+/*p {text-align: justify;}*/
 
 
 /* adatta il nav-content a fullhd */
@@ -99,7 +99,11 @@ a:visited {color: #589632; text-decoration:none; }
 .wy-nav-top a:visited,  .wy-nav-top a:hover {
     color: #fff !important;
     font-weight: bold !important;
-}
+	text-decoration:none;
+	background-image:url(../img/logo_mobile_01.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	}
 
 
 
