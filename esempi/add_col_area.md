@@ -23,7 +23,7 @@ selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabe
 
 ![](/img/esempi/add_col_area/add_col_a4.png)
 
-verrà aggiunta la colonna _area_ e popolata con la funzione [\$area](./gr_funzioni/geometria/$area.html)
+verrà aggiunta la colonna _area_ e popolata con la funzione [\$area](../gr_funzioni/geometria/$area.html)
 
 il geopackage è scaricabile [qui](/esempi/dati_esempi.gpkg)
 
