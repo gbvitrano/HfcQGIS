@@ -19,7 +19,7 @@ selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabe
 
 ![](/img/esempi/add_campo_virtuale/add_campo_virt2.png)
 
-verrà aggiunta la colonna _lunghezza_dimanica_ popolata con la funzione [\$lenght](./gr_funzioni/geometria/$lenght.html)
+verrà aggiunta la colonna _lunghezza_dimanica_ popolata con la funzione [\$lenght](../gr_funzioni/geometria/$lenght.html)
 
 ## Osservazioni
 
