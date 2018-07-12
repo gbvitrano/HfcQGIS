@@ -340,27 +340,19 @@ Gruppo sul calcolatore di campi,Seleziona per espressione
 
 |image0|
 
-Geometry generator - stile
-
-|epsilos| 
+Geometry generator - stile  |epsilos| 
 
 |image2|
 
-Selezione per espressione
-
-|exp|
+Selezione per espressione  |exp|
 
 |image4|
 
-Calcolatore di campi,Seleziona per espressione
-
-|calc| 
+Calcolatore di campi,Seleziona per espressione  |calc| 
 
 |image6|
 
-Compositore di stampe
-
-|print|
+Compositore di stampe  |print|
 
 |image8|
 
