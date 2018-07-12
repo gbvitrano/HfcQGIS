@@ -146,7 +146,32 @@ coseno.
 .. toctree::
    :maxdepth: 3
    
+   abs
+   acos
+   asin
+   atan
+   atan2
+   azimuth
+   ceil
+   clamp
+   cos
+   degrees
+   exp
+   floor
+   inclination
+   ln
+   log
+   log10
+   max
+   min
+   pi
+   radians
+   rand
+   randf
+   round
+   scale_exp
+   scale_linear
+   sin
+   sqrt
+   tan
    
-   
-   
-
