@@ -439,8 +439,6 @@ Compositore di stampe  |print|
 .. |print| image:: https://docs.qgis.org/testing/en/_images/mActionNewLayout.png
 .. |image8| image:: /img/variabili/gruppo_variabili5.png
 
-**Elenco funzioni Variabili**
-
 .. toctree::
    :maxdepth: 3
    :hidden:
