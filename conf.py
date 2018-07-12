@@ -100,14 +100,3 @@ html_theme_options = {
     'display_version': False,
     'description': 'HfcQGIS - Help funzioni calcolatore di campi di QGIS',
 }
-html_sidebars = {
-    '**': [ 'index.html',
-	        'calcolatore_campi/index.html',
-            'esempi/index.html',
-            'navigation.html',
-            'release/index.html',
-            'gr_funzioni/index.html',
-            'contributing.html',
-            ],
-}
-
