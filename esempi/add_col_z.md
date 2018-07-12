@@ -22,7 +22,7 @@ evidenziata la colonna con le quote z
 ## riassunto
 
 * in caso di PointZ → z($geometry)
-* in caso di (Multi)LinestringZ → z([start_point](./gr_funzioni/geometria/start_point.html)($geometry)) isoipse;
-* in caso di PoligonZ z([point_n](./gr_funzioni/geometria/point_n.html)($geometry,1))
+* in caso di (Multi)LinestringZ → z([start_point](../gr_funzioni/geometria/start_point.html)($geometry)) isoipse;
+* in caso di PoligonZ z([point_n](../gr_funzioni/geometria/point_n.html)($geometry,1))
 
 il geopackage è scaricabile [qui](/esempi/dati_esempi.gpkg)
