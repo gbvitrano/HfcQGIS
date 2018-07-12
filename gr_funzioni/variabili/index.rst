@@ -439,44 +439,74 @@ Compositore di stampe  |print|
 .. |print| image:: https://docs.qgis.org/testing/en/_images/mActionNewLayout.png
 .. |image8| image:: /img/variabili/gruppo_variabili5.png
 
-**Elenco funzioni Arrays**
+**Elenco funzioni Variabili**
 
 .. toctree::
    :maxdepth: 3
    
+   atlas_feature
+   atlas_featureid
+   atlas_featurenumber
+   atlas_filename
+   atlas_geometry
+   atlas_layerid
+   atlas_layername
+   atlas_pagename
+   atlas_totalfeatures
+   cluster_color
+   cluster_size
+   geometry_part_count
+   geometry_part_num
+   geometry_point_count
+   geometry_point_num
+   grid_axis
+   grid_number
+   item_id
+   item_uuid
+   layer
+   layer_id
+   layer_name
+   layout_dpi
+   layout_name
+   layout_numpages
+   layout_page
+   layout_pageheight
+   layout_pagewidth
+   map_crs
+   map_crs_definition
+   map_extent
+   map_extent_center
+   map_extent_height
+   map_extent_width
+   map_id
+   map_rotation
+   map_scale
+   map_units
+   parent
+   project_abstract
+   project_author
+   project_creation_date
+   project_crs
+   project_crs_definition
+   project_filename
+   project_folder
+   project_identifier
+   project_keywords
+   project_path
+   project_title
+   qgis_locale
+   qgis_os_name
+   qgis_platform
+   qgis_release_name
+   qgis_short_version
+   qgis_version
+   qgis_version_no
+   row_number
+   snapping_results
+   symbol_angle
+   symbol_color
+   user_account_name
+   user_full_name
+   value
+   value
    
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-
-
