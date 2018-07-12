@@ -85,7 +85,7 @@ a:visited {color: #589632; text-decoration:none; }
 
 /* disattiva testo Home  menu sx */
 .wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {
-       font-size: 0; }
+       font-size: 0;  color: #fff !important; font-weight: bold !important; ext-decoration:none;}
 /* @http://hfcqgis.opendatasicilia.it*/	   
 
 /* disattiva background logo latest  menu sx */
@@ -112,4 +112,5 @@ background-color: #67b03a;
 	}
 
 
-
+.wy-side-nav-search > a.icon img.logo, .wy-side-nav-search .wy-dropdown > a.icon img.logo
+img.logo {    margin-top: -30px; }
