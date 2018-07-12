@@ -18,9 +18,9 @@ else regexp_replace( "TRIM_STR_C" , '(\\S+\\s+\\S+)(\\s+)(.*)','\\1$\\3')
 END
 ```
 
-Questa espressione [condizionale](/gr_funzioni/condizioni/case.html) controlla prima la lunghezza della stringa (label) e se >34 applica la prima regexp_replace altrimenti la seconda;
+Questa espressione [condizionale](./gr_funzioni/condizioni/case.html) controlla prima la lunghezza della stringa (label) e se >34 applica la prima regexp_replace altrimenti la seconda;
 
-la [regexp_replace](/gr_funzioni/stringhe_di_testo/regexp_replace.html):
+la [regexp_replace](./gr_funzioni/stringhe_di_testo/regexp_replace.html):
 
 `(\\S+\\s+\\S+\\s+\\S+)(\\s+)(.*)` acchiappa il terzo spazio presente in tutta la frase e per sostituirgli un carattere spaciale: `\\1$\\3` dove `\\1` è la prima parte prima del terzo spazio mentre `\\3` è la terza parte contando anche lo spazio;
 
