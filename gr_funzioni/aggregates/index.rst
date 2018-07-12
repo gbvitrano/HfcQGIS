@@ -1,5 +1,5 @@
 Aggregates
-===================================
+===========
 
 Contiene funzioni che aggregano valori nei livelli e campi. A partire da
 **QGIS 2.16** il motore di espressioni supporta l'uso di `parametri con
@@ -100,8 +100,7 @@ nome`_.
 
 |image0|
 
-Nota bene
----------
+**Nota bene**
 
 Grazie ai `parametri denominati`_ non è più indispensabile seguire,
 nella sintassi, l'ordine degli argomenti, ecco un esempio:
