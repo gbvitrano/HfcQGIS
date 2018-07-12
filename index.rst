@@ -2,7 +2,7 @@ Benvenuti
 ===================================
 .. figure:: img/beta_01.png  
 
-|logo| HfcQGIS: Help funzioni calcolatore di campi di `QGIS`_
+|logo| Help funzioni calcolatore di campi di `QGIS`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _QGIS: https://qgis.org/it/site/
