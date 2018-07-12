@@ -443,6 +443,7 @@ Compositore di stampe  |print|
 
 .. toctree::
    :maxdepth: 3
+   :hidden:
    
    atlas_feature
    atlas_featureid
