@@ -97,7 +97,7 @@ a:visited {color: #589632; text-decoration:none; }
 
 
 /* mobile logo */
-.wy-nav-top {/*background: linear-gradient(#67b03a, #589632); background-position-x: center; */
+.wy-nav-top { /*background: linear-gradient(#67b03a, #589632); background-position-x: center; */
 background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logo_mobile_01.png);
 background-repeat: no-repeat;
 background-position: center;
@@ -105,11 +105,11 @@ background-color: #67b03a;
  }
 
 /* Nome sito in mobile sempre bianco */
-.wy-nav-top a:visited,  .wy-nav-top a:hover {
+/* .wy-nav-top a:visited,  .wy-nav-top a:hover {
     color: #fff !important;
     font-weight: bold !important;
 	text-decoration:none;
-	}
+	} */
 
 
 /* .wy-side-nav-search > a.icon img.logo, .wy-side-nav-search .wy-dropdown > a.icon img.logo
