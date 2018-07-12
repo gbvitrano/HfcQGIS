@@ -24,8 +24,9 @@ background-color: rgba(27,31,35,0.05) !important;
    .wy-table-responsive {
       overflow: visible !important;
    }
-/* Testo paragrafo giustificto
-p {text-align: justify;}*/
+   
+/* Testo paragrafo giustificto*/
+/*p {text-align: justify;}*/
 
 
 /* adatta il nav-content a fullhd */
@@ -73,7 +74,7 @@ a:visited {color: #589632; text-decoration:none; }
 
 .wy-body-for-nav .keep-us-sustainable {
     background-color: #404040;
-    text-align: center !important;
+    text-align: center !important;}
 
 /* testo caption menu sx */
 /*.wy-nav-side {color: #589632;} */
