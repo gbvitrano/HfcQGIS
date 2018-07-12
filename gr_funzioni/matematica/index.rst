@@ -1,8 +1,7 @@
-Matematic
+Matematica
 ===================================
 
-Questo gruppo contiene funzioni matematiche es. radice quadrata, seno e
-coseno.
+Questo gruppo contiene funzioni matematiche es. radice quadrata, seno e coseno.
 
 +---------------------------------+------------------------------------+
 | Funzione                        | Descrizione                        |
