@@ -141,23 +141,142 @@ Geometria
 |                           | linestring di una quantità     |         |
 |                           | specificata                    |         |
 +---------------------------+--------------------------------+---------+
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| `exterior_ring`_          | Restituisce una linestring che | >=2.14  |
+|                           | rappresenta l’anello esterno   |         |
+|                           | di una geometria poligonale.   |         |
+|                           | Se la geometria non è un       |         |
+|                           | poligono, il risultato sarà    |         |
+|                           | nullo.                         |         |
++---------------------------+--------------------------------+---------+
+| `extrude`_                | Restituisce una versione       | 2.18    |
+|                           | estrusa della geometria        |         |
+|                           | (Multi-)Curve o                |         |
+|                           | (Multi-)Linestring in          |         |
+|                           | ingresso, con un’estensione    |         |
+|                           | specificata da x e y.          |         |
++---------------------------+--------------------------------+---------+
+| `flip_coordinates`_       | Restituisce una copia della    | **>=3.2 |
+|                           | geometria con le coordinate x  | **      |
+|                           | e y scambiate                  |         |
++---------------------------+--------------------------------+---------+
+| `geom_from_gml`_          | Restituisce una geometria da   | 2.18    |
+|                           | una rappresentazione GML di    |         |
+|                           | una geometria                  |         |
++---------------------------+--------------------------------+---------+
+| `geom_from_wkt`_          | Restituisce una geometria      | 2.18    |
+|                           | creata da una rappresentazione |         |
+|                           | Well-Known Text (WKT)          |         |
++---------------------------+--------------------------------+---------+
+| `geom_to_wkt`_            | Restituisce la                 | 2.18    |
+|                           | rappresentazione Well-Known    |         |
+|                           | Text (WKT) della geometria     |         |
+|                           | senza metadati del SR          |         |
++---------------------------+--------------------------------+---------+
+| `geometry`_               | Restituisce la geometria di un | 2.18    |
+|                           | elemento                       |         |
++---------------------------+--------------------------------+---------+
+| `geometry_n`_             | Restituisce una geometria      | >=2.14  |
+|                           | specifica da una raccolta di   |         |
+|                           | geometrie, o null se la        |         |
+|                           | geometria in ingresso non è    |         |
+|                           | una raccolta                   |         |
++---------------------------+--------------------------------+---------+
+| `hausdorff_distance`_     | Restituisce la distanza di     | **>=3.0 |
+|                           | Hausdorff tra due geometrie    | **      |
++---------------------------+--------------------------------+---------+
+| `inclination`_            | Restituisce l’inclinazione     | **>=3.0 |
+|                           | misurata dallo zenit (0) al    | **      |
+|                           | nadir (180) del punto_a al     |         |
+|                           | punto_b                        |         |
++---------------------------+--------------------------------+---------+
+| `interior_ring_n`_        | Restituisce un anello interno  | >=2.14  |
+|                           | specifico da una geometria     |         |
+|                           | poligonale, o null se la       |         |
+|                           | geometria non è un poligono    |         |
++---------------------------+--------------------------------+---------+
+| `intersection`_           | Restituisce una geometria che  | 2.18    |
+|                           | rappresenta la porzione        |         |
+|                           | condivisa fra le due geometrie |         |
++---------------------------+--------------------------------+---------+
+| `intersects`_             | Controlla qualora una          | 2.18    |
+|                           | geometria ne interseca         |         |
+|                           | un’altra                       |         |
++---------------------------+--------------------------------+---------+
+| `intersects_bbox`_        | Controlla se il perimetro di   | 2.18    |
+|                           | delimitazione della geometria  |         |
+|                           | si sovrappone a quello di      |         |
+|                           | un’altra geometria             |         |
++---------------------------+--------------------------------+---------+
+| `is_closed`_              | Restituisce vero se una line   | >=2.14  |
+|                           | string è chiusa (i punti di    |         |
+|                           | inizio e di fine coincidono),  |         |
+|                           | o falso se una linea string    |         |
+|                           | non è chiusa                   |         |
++---------------------------+--------------------------------+---------+
+| `length`_                 | Restituisce il numero di       | 2.18    |
+|                           | caratteri in una stringa o la  |         |
+|                           | lunghezza di una geometria di  |         |
+|                           | tipo linestring                |         |
++---------------------------+--------------------------------+---------+
+| `line_interpolate_angle`_ | Restituisce l’angolo parallelo | >=2.18  |
+|                           | alla geometria ad una distanza |         |
+|                           | specifica lungo una geometria  |         |
+|                           | di tipo linestring             |         |
++---------------------------+--------------------------------+---------+
+| `line_interpolate_point`_ | Restituisce il punto           | >=2.18  |
+|                           | interpolato ad una specifica   |         |
+|                           | distanza lungo un geometria di |         |
+|                           | tipo linestring                |         |
++---------------------------+--------------------------------+---------+
+| `line_locate_point`_      | Restituisce la distanza lungo  | >=2.18  |
+|                           | una linestring corrispondente  |         |
+|                           | alla posizione più vicina alla |         |
+|                           | linestring di una geometria    |         |
+|                           | puntuale specificata           |         |
++---------------------------+--------------------------------+---------+
+| `line_merge`_             | Restituisce una geometria di   | >=2.18  |
+|                           | tipo LineString o              |         |
+|                           | MultiLineString, dove          |         |
+|                           | qualsiasi LineString connessa  |         |
+|                           | dalla geometria in ingresso è  |         |
+|                           | stata fusa (merge) in una      |         |
+|                           | linestring singola             |         |
++---------------------------+--------------------------------+---------+
+| `m`_                      | Restituisce il valore m di una | >=2.14  |
+|                           | geometria puntuale             |         |
++---------------------------+--------------------------------+---------+
+| `make_circle`_            | Crea un poligono circolare     | **>=3.0 |
+|                           |                                | **      |
++---------------------------+--------------------------------+---------+
+| `make_ellipse`_           | Crea un poligono ellittico     | **>=3.0 |
+|                           |                                | **      |
++---------------------------+--------------------------------+---------+
+| `make_line`_              | Crea una geometria linea da    | >=2.14  |
+|                           | una serie di geometrie punto   |         |
++---------------------------+--------------------------------+---------+
+| `make_point`_             | Crea una geometria punto da    | >=2.14  |
+|                           | valori x ed y (e opzionalmente |         |
+|                           | z ed m)                        |         |
++---------------------------+--------------------------------+---------+
+| `make_point_m`_           | Crea una geometria punto da    | >=2.14  |
+|                           | una coordinata x, y ed un      |         |
+|                           | valore m                       |         |
++---------------------------+--------------------------------+---------+
+| `make_polygon`_           | Crea una geometria poligono da | >=2.14  |
+|                           | un’anello esterno e            |         |
+|                           | opzionalmente da geometrie ad  |         |
+|                           | anello interne                 |         |
++---------------------------+--------------------------------+---------+
+| `make_regular_polygon`_   | Crea un poligono regolare      | **>=3.0 |
+|                           |                                | **      |
++---------------------------+--------------------------------+---------+
+| `make_triangle`_          | Crea un poligono triangolare   | **>=3.0 |
+|                           |                                | **      |
++---------------------------+--------------------------------+---------+
+| `minimal_circle`_         | Restituisce la circonferenza   | **>=3.0 |
+|                           | circoscritta minima di una     | **      |
+|                           | geometria                      |         |
++---------------------------+--------------------------------+---------+
 
 
 
@@ -191,7 +310,36 @@ Geometria
 .. _distance_to_vertex: distance_to_vertex.html
 .. _end_point: end_point.html
 .. _extend: extend.html
-
+.. _exterior_ring: exterior_ring.html
+.. _extrude: extrude.html
+.. _flip_coordinates: flip_coordinates.html
+.. _geom_from_gml: geom_from_gml.html
+.. _geom_from_wkt: geom_from_wkt.html
+.. _geom_to_wkt: geom_to_wkt.html
+.. _geometry: geometry.html
+.. _geometry_n: geometry_n.html
+.. _hausdorff_distance: hausdorff_distance.html
+.. _inclination: inclination.html
+.. _interior_ring_n: interior_ring_n.html
+.. _intersection: intersection.html
+.. _intersects: intersects.html
+.. _intersects_bbox: intersects_bbox.html
+.. _is_closed: is_closed.html
+.. _length: length.html
+.. _line_interpolate_angle: line_interpolate_angle.html
+.. _line_interpolate_point: line_interpolate_point.html
+.. _line_locate_point: line_locate_point.html
+.. _line_merge: line_merge.html
+.. _m: m.html
+.. _make_circle: make_circle.html
+.. _make_ellipse: make_ellipse.html
+.. _make_line: make_line.html
+.. _make_point: make_point.html
+.. _make_point_m: make_point_m.html
+.. _make_polygon: make_polygon.html
+.. _make_regular_polygon: make_regular_polygon.html
+.. _make_triangle: make_triangle.html
+.. _minimal_circle: minimal_circle.html
 
 
 
