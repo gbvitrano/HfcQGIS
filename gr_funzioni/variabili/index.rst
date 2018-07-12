@@ -1,4 +1,37 @@
 Variabili
 ===================================
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt ex sed enim tristique, id bibendum diam euismod. Etiam fermentum facilisis nibh vel vestibulum. Duis in ligula eu nunc volutpat malesuada ut rutrum augue. Quisque sed felis vel odio vulputate vulputate. Praesent et libero vitae urna accumsan fringilla. Nullam efficitur bibendum lectus. Donec ut diam pulvinar, accumsan elit vel, suscipit ligula. Pellentesque consectetur ante eu iaculis porttitor. In tincidunt felis velit, eu commodo nisl mattis eu. Curabitur suscipit tortor ac velit posuere egestas. Mauris blandit vel tortor sed finibus. Pellentesque eget tellus sodales, gravida purus sit amet, rutrum arcu. Nullam augue arcu, interdum ut urna sed, semper pretium augue. 
+
+`Funzionalità`_ introdotta da Nyall Dowson nella QGIS 2.12
+
+Questo gruppo contiene variabili dinamiche relative all'applicazione, al
+file di progetto e ad altre impostazioni. Significa che alcune funzioni
+potrebbero non essere disponibili in base al contesto: \* seleziona per
+espressione |exp| \* calcolatore di campi |calc| \* geometry generator
+|epsilos| \* proprietà del layer |mod| \* compositore di stampe |print|
+
+In QGIS, puoi utilizzare le variabili per memorizzare dati utili con
+valori ricorrenti (ad esempio il titolo del progetto o il nome completo
+dell’utente) che possono essere utilizzati nelle espressioni. Le
+variabili possono essere definite a livello globale dell’applicazione, a
+livello di progetto, a livello di layer, a livello di composizione e a
+livello di elemento del compositore. Proprio come le regole CSS a
+cascata, le variabili possono essere sovrascritte, ad esempio una
+variabile a livello di progetto sovrascrive le variabili di livello
+globale di qualsiasi applicazione impostate con lo stesso nome.
+
+Puoi utilizzare queste variabili per creare stringhe di testo o altre
+espressioni personalizzate utilizzando il carattere @ prima del nome
+della variabile.
+
+Riguardano:
+
+.. _Funzionalità: http://nyalldawson.net/2015/12/exploring-variables-in-qgis-2-12-part-1/
+
+.. |exp| image:: https://docs.qgis.org/testing/en/_images/mIconExpressionSelect.png
+.. |calc| image:: https://docs.qgis.org/testing/en/_images/mActionCalculateField.png
+.. |epsilos| image:: https://docs.qgis.org/testing/en/_images/mIconExpression.png
+.. |mod| image:: https://docs.qgis.org/testing/en/_images/mIconDataDefine.png
+.. |print| image:: https://docs.qgis.org/testing/en/_images/mActionNewLayout.png
+
+
 
