@@ -277,6 +277,150 @@ Geometria
 |                           | circoscritta minima di una     | **      |
 |                           | geometria                      |         |
 +---------------------------+--------------------------------+---------+
+| `nodes_to_points`_        | Restituisce una geometria      | >=2.14  |
+|                           | multi linea costituita da ogni |         |
+|                           | nodo della geometria in        |         |
+|                           | ingresso                       |         |
++---------------------------+--------------------------------+---------+
+| `num_geometries`_         | Restituisce il numero di       | >=2.14  |
+|                           | geometrie in una raccolta di   |         |
+|                           | geometrie, o null se la        |         |
+|                           | geometria in ingresso non è    |         |
+|                           | una raccolta                   |         |
++---------------------------+--------------------------------+---------+
+| `num_interior_rings`_     | Restituisce il numero di       | >=2.14  |
+|                           | anelli interni in un poligono  |         |
+|                           | o in una raccolta di           |         |
+|                           | geometrie, o null se la        |         |
+|                           | geometria in ingresso non è un |         |
+|                           | poligono o una raccolta        |         |
++---------------------------+--------------------------------+---------+
+| `num_points`_             | Restituisce il numero di       | 2.18    |
+|                           | vertici in una geometria       |         |
++---------------------------+--------------------------------+---------+
+| `num_rings`_              | Restituisce il numero di       | >=2.14  |
+|                           | anelli (includendo anche       |         |
+|                           | anelli esterni) in un poligono |         |
+|                           | o in una raccolta di           |         |
+|                           | geometrie, o null se la        |         |
+|                           | geometria in ingresso non è un |         |
+|                           | poligono o una raccolta        |         |
++---------------------------+--------------------------------+---------+
+| `offset_curve`_           | Restituisce una geometria      | **>=3.0 |
+|                           | formata facendo l’offset di    | **      |
+|                           | una geometria di tipo          |         |
+|                           | linestring a lato              |         |
++---------------------------+--------------------------------+---------+
+| `order_parts`_            | Ordina le parti di una         | 2.18    |
+|                           | MultiGeometria secondo un dato |         |
+|                           | criterio                       |         |
++---------------------------+--------------------------------+---------+
+| `oriented_bbox`_          | Restituisce una geometria che  | **>=3.0 |
+|                           | rappresenta il perimetro di    | **      |
+|                           | delimitazione minimo orientato |         |
+|                           | di una geometria               |         |
++---------------------------+--------------------------------+---------+
+| `overlaps`_               | Controlla qualora una          | 2.18    |
+|                           | geometria si sovrapponga ad    |         |
+|                           | un’altra                       |         |
++---------------------------+--------------------------------+---------+
+| `perimeter`_              | Calcola il perimetro di un     | 2.18    |
+|                           | oggetto a geometria poligonale |         |
++---------------------------+--------------------------------+---------+
+| `point_n`_                | Restituisce un nodo specifico  | 2.18    |
+|                           | da una geometria               |         |
++---------------------------+--------------------------------+---------+
+| `point_on_surface`_       | Restituisce un punto           | >=2.14  |
+|                           | garantendo che sia giacente    |         |
+|                           | sulla superficie della         |         |
+|                           | geometria                      |         |
++---------------------------+--------------------------------+---------+
+| `pole_of_inaccessibility` | Calcola il polo                | **>=3.0 |
+| _                         | dell’inaccessibilità           | **      |
+|                           | approssimato per una           |         |
+|                           | superficie, che è il punto     |         |
+|                           | interno più distante dal       |         |
+|                           | contorno della superficie      |         |
++---------------------------+--------------------------------+---------+
+| `project`_                | Restituisce un punto           | 2.18    |
+|                           | proiettato da un punto di      |         |
+|                           | partenza usando una distanza e |         |
+|                           | una direzione di immersione    |         |
+|                           | (azimut) in radianti           |         |
++---------------------------+--------------------------------+---------+
+| `relate`_                 | Testa la rappresentazione      | >=2.14  |
+|                           | Dimensional Extended 9         |         |
+|                           | Intersection Model (DE-9IM)    |         |
+|                           | della relazione tra due        |         |
+|                           | geometrie                      |         |
++---------------------------+--------------------------------+---------+
+| `reverse`_                | Inverte la direzione di una    | >=2.14  |
+|                           | line string invertendo         |         |
+|                           | l’ordine dei sui vertici       |         |
++---------------------------+--------------------------------+---------+
+| `segments_to_lines`_      | Restituisce una geometria      | >=2.14  |
+|                           | multi linea consistente in una |         |
+|                           | linea per ogni segmento nella  |         |
+|                           | geometria in ingresso          |         |
++---------------------------+--------------------------------+---------+
+| `shortest_line`_          | Restituisce la linea più corta | >=2.14  |
+|                           | che unisce la geometria 1 alla |         |
+|                           | geometria 2                    |         |
++---------------------------+--------------------------------+---------+
+| `simplify`_               | Semplifica una geometria       | **>=3.0 |
+|                           | rimuovendo nodi usando una     | **      |
+|                           | soglia basata sulla distanza   |         |
+|                           | (cioè, l’algoritmo Douglas     |         |
+|                           | Peucker)                       |         |
++---------------------------+--------------------------------+---------+
+| `simplify_vw`_            | Semplifica una geometria       | **>=3.0 |
+|                           | rimuovendo nodi usando una     | **      |
+|                           | soglia basata sull’area (cioè, |         |
+|                           | l’algoritmo Visvalingam-Whyatt |         |
+|                           | )                              |         |
++---------------------------+--------------------------------+---------+
+| `single_sided_buffer`_    | Restituisce una geometria      | **>=3.0 |
+|                           | formata facendo un buffer solo | **      |
+|                           | da un lato di una geometria di |         |
+|                           | tipo linestring                |         |
++---------------------------+--------------------------------+---------+
+| `smooth`_                 | Smussa una geometria con       | **>=3.0 |
+|                           | l’aggiunta di ulteriori nodi   | **      |
+|                           | che arrotondano gli angoli     |         |
+|                           | nella geometria                |         |
++---------------------------+--------------------------------+---------+
+| `start_point`_            | Restituisce il primo nodo di   | 2.18    |
+|                           | una geometria                  |         |
++---------------------------+--------------------------------+---------+
+| `sym_difference`_         | Restituisce una geometria che  | 2.18    |
+|                           | rappresenta la porzione di due |         |
+|                           | geometrie che non si interseca |         |
++---------------------------+--------------------------------+---------+
+| `tapered_buffer`_         | Crea un buffer lungo una       | **>=3.2 |
+|                           | geometria della linea in cui   | **      |
+|                           | il diametro del buffer varia   |         |
+|                           | in modo uniforme sulla         |         |
+|                           | lunghezza della linea          |         |
++---------------------------+--------------------------------+---------+
+| `touches`_                | Verifica se una geometria      | 2.18    |
+|                           | tocca un’altra                 |         |
++---------------------------+--------------------------------+---------+
+| `transform`_              | Restituisce la geometria       | 2.18    |
+|                           | trasformata da un SR sorgente  |         |
+|                           | ad un SR di destinazione       |         |
++---------------------------+--------------------------------+---------+
+| `translate`_              | Restituisce una versione       | >=2.14  |
+|                           | traslata di una geometria      |         |
++---------------------------+--------------------------------+---------+
+| `union`_                  | Restituisce una geometria che  | 2.18    |
+|                           | rappresenta l’insieme dei      |         |
+|                           | punti dell’unione delle        |         |
+|                           | geometrie                      |         |
++---------------------------+--------------------------------+---------+
+| `wedge_buffer`_           | Restituisce un buffer a forma  | **>=3.2 |
+|                           | di cuneo che ha origine da una | **      |
+|                           | geometria del punto            |         |
++---------------------------+--------------------------------+---------+
 
 
 
@@ -340,6 +484,37 @@ Geometria
 .. _make_regular_polygon: make_regular_polygon.html
 .. _make_triangle: make_triangle.html
 .. _minimal_circle: minimal_circle.html
+.. _nodes_to_points: nodes_to_points.html
+.. _num_geometries: num_geometries.html
+.. _num_interior_rings: num_interior_rings.html
+.. _num_points: num_points.html
+.. _num_rings: num_rings.html
+.. _offset_curve: offset_curve.html
+.. _order_parts: order_parts.html
+.. _oriented_bbox: oriented_bbox.html
+.. _overlaps: overlaps.html
+.. _perimeter: perimeter.html
+.. _point_n: point_n.html
+.. _point_on_surface: point_on_surface.html
+.. _pole_of_inaccessibility: pole_of_inaccessibility.html
+.. _project: project.html
+.. _relate: relate.html
+.. _reverse: reverse.html
+.. _segments_to_lines: segments_to_lines.html
+.. _shortest_line: shortest_line.html
+.. _simplify: simplify.html
+.. _simplify_vw: simplify_vw.html
+.. _single_sided_buffer: single_sided_buffer.html
+.. _smooth: smooth.html
+.. _start_point: start_point.html
+.. _sym_difference: sym_difference.html
+.. _tapered_buffer: tapered_buffer.html
+.. _touches: touches.html
+.. _transform: transform.html
+.. _translate: translate.html
+.. _union: union.html
+.. _wedge_buffer: wedge_buffer.html
+
 
 
 
