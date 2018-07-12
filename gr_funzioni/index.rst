@@ -46,13 +46,13 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 +-----------------------+-----------------------+-----------------------+
 | `Record e attributi`_ | (10/10)               |                       |
 +-----------------------+-----------------------+-----------------------+
-| Reference             | (0/21)                | `Plugin refFunction`_ |
+| `Reference`_          | (0/21)                | `Plugin refFunction`_ |
 +-----------------------+-----------------------+-----------------------+
 | `Stringhe di testo`_  | (22/22)               |                       |
 +-----------------------+-----------------------+-----------------------+
-|  TimeManager          | (0/5)                 | Plugin Time Manager   |
+| `TimeManager`_        | (0/5)                 | Plugin Time Manager   |
 +-----------------------+-----------------------+-----------------------+
-|  Variabili            | (0/64)                | >= QGIS 2.12          |
+| `Variabili`_          | (0/64)                | >= QGIS 2.12          |
 +-----------------------+-----------------------+-----------------------+
 
 .. _Aggregates: aggregates/index.html
@@ -72,8 +72,11 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. _Operatori: operatori/index.html
 .. _Recente: recente/index.html
 .. _Record e attributi: record_e_attributi/index.html
+.. _Reference: reference/index.html
 .. _Plugin refFunction: https://plugins.qgis.org/plugins/refFunctions/README.html
 .. _Stringhe di testo: stringhe_di_testo/index.html
+.. _TimeManager: timemanager/index.html
+.. _Variabili: variabili/index.html
 
 **Indice gruppi di funzioni/espressioni (302/397)**
 
@@ -97,5 +100,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
   operatori/index
   recente/index
   record_e_attributi/index
+  reference/index
   stringhe_di_testo/index
-  
+  timemanager/index
+  variabili/index
