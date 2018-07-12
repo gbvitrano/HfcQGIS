@@ -10,7 +10,7 @@ selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabe
 2. aprire calcolatore di campi ![calc](https://docs.qgis.org/testing/en/_images/mActionCalculateField.png)
 3. crea nuovo campo e digittare nome campo **quota**;
 4. tipo campo uscita Real e lunghezza uscita 13 e 2;
-5. cercare la funzione [z](./gr_funzioni/geometria/z.html);
+5. cercare la funzione [z](../gr_funzioni/geometria/z.html);
 6. doppio clic sul risultato della ricerca per inserire la funzione;
 7. aggiungere la funzione **start_point** e poi **$geometry** come argomento delle _z(start_point())_;
 8. OK per eseguire; verrà aggiunta la colonna quotaz e popolata;
@@ -25,4 +25,4 @@ evidenziata la colonna con le quote z
 * in caso di (Multi)LinestringZ → z([start_point](../gr_funzioni/geometria/start_point.html)($geometry)) isoipse;
 * in caso di PoligonZ z([point_n](../gr_funzioni/geometria/point_n.html)($geometry,1))
 
-il geopackage è scaricabile [qui](/esempi/dati_esempi.gpkg)
+il geopackage è scaricabile [qui](dati_esempi.zip)

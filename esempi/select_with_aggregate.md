@@ -1,4 +1,4 @@
-# Selezionare tramite funzioni di aggregazione - caso `minimun`
+# Selezionare tramite funzioni di aggregazione - caso minimun
 
 Facciamo un esempio, uso vettore _province_g_ del geopackage allegato e seleziono i comuni che hanno superficie più piccola per ogni provincia: 
 
@@ -21,4 +21,4 @@ funzioni usate:
 
 
 
-il geopackage è scaricabile [qui](/esempi/dati_esempi.gpkg)
+il geopackage è scaricabile [qui](dati_esempi.zip)

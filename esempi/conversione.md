@@ -24,4 +24,4 @@ Funzione [floor](./gr_funzioni/matematica/floor.html)
 ![](/img/esempi/conversione/conversione2.png)
 
 
-Geopackage è [qui](/esempi/dati_esempi.gpkg)
+Geopackage è [qui](dati_esempi.zip)

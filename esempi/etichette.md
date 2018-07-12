@@ -45,4 +45,4 @@ espressione da scrivere nel calcolatore di campi
  ```
  ![](/img/esempi/etichette/etichette3.png)
 
- Geopackage è [qui](/esempi/dati_esempi.gpkg)
+ Geopackage è [qui](dati_esempi.zip)
