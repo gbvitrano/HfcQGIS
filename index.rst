@@ -7,7 +7,7 @@ Benvenuti
 
 .. _QGIS: https://qgis.org/it/site/
 
-.. |logo| image:: img/logo_def2_64.png
+.. |logo| image:: img/text960.png
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
