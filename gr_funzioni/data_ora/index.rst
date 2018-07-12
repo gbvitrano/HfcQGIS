@@ -66,8 +66,7 @@ Questo gruppo contiene funzioni per gestire dati con *date* e *ore*.
 |                                 | intervallo                         |
 +---------------------------------+------------------------------------+
 
-Osservazione
-------------
+**Osservazione**
 
 La possibilità di memorizzare i valori di data, ora e datetime
 direttamente sui campi può dipendere dal fornitore dell'origine dati (ad
