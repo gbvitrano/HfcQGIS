@@ -26,7 +26,7 @@ background-color: rgba(27,31,35,0.05) !important;
    }
    
 /* Testo paragrafo giustificto*/
-/*p {text-align: justify;}*/
+/*p {text-align: justify;} */
 
 
 /* adatta il nav-content a fullhd */
@@ -72,20 +72,16 @@ a:visited {color: #589632; text-decoration:none; }
 /* Blocco pbubblicita */
 .wy-body-for-nav .keep-us-sustainable {color: #404040; background-color: #404040; text-align: center !important;}
 
-.wy-body-for-nav .keep-us-sustainable {
-    background-color: #404040;
-    text-align: center !important;}
-
 /* testo caption menu sx */
 /*.wy-nav-side {color: #589632;} */
 .wy-nav-side {color: #497d29;}
 
 /* disattiva testo latest  menu sx */
-.wy-side-nav-search>div.version {    display: none;}
+.wy-side-nav-search>div.version {display: none;}
 
 /* disattiva testo Home  menu sx */
-.wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {
-       font-size: 0;  color: #fff !important; font-weight: bold !important; ext-decoration:none;}
+.wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {font-size: 0;  color: #fff; font-weight: bold; text-decoration:none; }
+
 /* @http://hfcqgis.opendatasicilia.it*/	   
 
 /* disattiva background logo latest  menu sx */
@@ -93,12 +89,11 @@ a:visited {color: #589632; text-decoration:none; }
     background: rgba(255,255,255,0); }
 .wy-side-nav-search {margin-top: -20px;}
 	
-.wy-body-for-nav {background: #efefef; }
+.wy-body-for-nav { background: #efefef; }
 
 
 /* mobile logo */
-.wy-nav-top { /*background: linear-gradient(#67b03a, #589632); background-position-x: center; */
-background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logo_mobile_01.png);
+.wy-nav-top { background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logo_mobile_01.png);
 background-repeat: no-repeat;
 background-position: center;
 background-color: #67b03a;
