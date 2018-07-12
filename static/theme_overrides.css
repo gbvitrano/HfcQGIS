@@ -94,5 +94,10 @@ a:visited {color: #589632; text-decoration:none; }
 	
 .wy-body-for-nav {background: #efefef; }
 
+.wy-nav-top a:visited {
+    color: #fff !important;
+    font-weight: bold !important;
+}
+
 
 
