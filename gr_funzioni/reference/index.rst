@@ -135,8 +135,6 @@ livello usando come valore di campo o una condizione spaziale
 .. _geomcrosses: geomcrosses.html
 .. _plugin: https://geogear.wordpress.com/2014/11/13/reffunctions-v1-0/
 
-**Elenco funzioni Reference**
-   
 .. toctree::
    :maxdepth: 3
    :hidden:
