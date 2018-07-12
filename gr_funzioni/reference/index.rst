@@ -139,6 +139,7 @@ livello usando come valore di campo o una condizione spaziale
    
 .. toctree::
    :maxdepth: 3
+   :hidden:
    
    dbquery
    dbsql
