@@ -1,7 +1,7 @@
 Variabili
 ===================================
 
-`Funzionalità`_ introdotta da Nyall Dowson nella QGIS 2.12
+`Funzionalità`_ introdotta da Nyall Dawson nella QGIS 2.12
 
 Questo gruppo contiene variabili dinamiche relative all'applicazione, al
 file di progetto e ad altre impostazioni. Significa che alcune funzioni
