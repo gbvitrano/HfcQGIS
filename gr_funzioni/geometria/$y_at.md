@@ -4,7 +4,7 @@ Recupera una coordinata y per la geometria dell'elemento corrente.
 
 ## Sintassi
 
-$y_at(I)
+$y_at(i)
 
 ## Argomento
 
