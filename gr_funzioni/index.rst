@@ -65,7 +65,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. _Custom: custom/index.html
 .. _Data e ora: data_ora/index.html
 .. _Generale: generale/index.html
-.. _Geometria: geometria/README.html
+.. _Geometria: geometria/index.html
 .. _Layer della mappa: layer_della_mappa/index.html
 .. _Maps: maps/index.html
 .. _Matematica: matematica/index.html
@@ -74,9 +74,9 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. _Record e attributi: record_e_attributi/index.html
 .. _Reference: reference/index.html
 .. _Plugin refFunction: https://plugins.qgis.org/plugins/refFunctions/README.html
-.. _Stringhe di testo: stringhe_di_testo/README.html
+.. _Stringhe di testo: stringhe_di_testo/index.html
 .. _TimeManager: timemanager/index.html
-.. _Variabili: variabili/README.html
+.. _Variabili: variabili/index.html
 
 **Indice gruppi di funzioni/espressioni (302/397)**
 
@@ -93,7 +93,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
   custom/index
   data_ora/index
   generale/index
-  geometria/README
+  geometria/index
   layer_della_mappa/index
   maps/index
   matematica/index
@@ -103,4 +103,4 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
   reference/index
   stringhe_di_testo/index
   timemanager/index
-  variabili/README
+  variabili/index
