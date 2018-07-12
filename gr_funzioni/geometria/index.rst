@@ -53,56 +53,54 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt ex se
    is_closed
    length
    line_interpolate_angle
-line_interpolate_point
-line_locate_point
-line_merge
-m
-make_circle
-make_ellipse
-make_line
-make_point
-make_point_m
-make_polygon
-make_regular_polygon
-make_triangle
-minimal_circle
-nodes_to_points
-num_geometries
-num_interior_rings
-num_points
-num_rings
-offset_curve
-order_parts
-oriented_bbox
-overlaps
-perimeter
-point_n
-point_on_surface
-pole_of_inaccessibility
-project
-relate
-reverse
-segments_to_lines
-shortest_line
-simplify
-simplify_vw
-single_sided_buffer
-smooth
-start_point
-sym_difference
-tapered_buffer
-touches
-transform
-translate
-union
-wedge_buffer
-within
-x
-x_min
-x_max
-y
-y_min
-y_max
-z
-
-   
+   line_interpolate_point
+   line_locate_point
+   line_merge
+   m
+   make_circle
+   make_ellipse
+   make_line
+   make_point
+   make_point_m
+   make_polygon
+   make_regular_polygon
+   make_triangle
+   minimal_circle
+   nodes_to_points
+   num_geometries
+   num_interior_rings
+   num_points
+   num_rings
+   offset_curve
+   order_parts
+   oriented_bbox
+   overlaps
+   perimeter
+   point_n
+   point_on_surface
+   pole_of_inaccessibility
+   project
+   relate
+   reverse
+   segments_to_lines
+   shortest_line
+   simplify
+   simplify_vw
+   single_sided_buffer
+   smooth
+   start_point
+   sym_difference
+   tapered_buffer
+   touches
+   transform
+   translate
+   union
+   wedge_buffer
+   within
+   x
+   x_min
+   x_max
+   y
+   y_min
+   y_max
+   z 
