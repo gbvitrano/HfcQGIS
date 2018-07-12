@@ -57,7 +57,7 @@ master_doc = 'index'
 # General information about the project.
 
 # project = u ["img/logo_mobile_00.png"]
- project = u'HfcQGIS'
+project = u'HfcQGIS'
 copyright = u'2018, Salvatore Fiandaca'
 author = u'Salvatore Fiandaca'
 
@@ -98,5 +98,5 @@ html_logo = "img/logo_hfc_00.png"
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
-	'description': 'HfcQGIS - Help funzioni calcolatore di campi di QGIS'
+    'description': 'HfcQGIS - Help funzioni calcolatore di campi di QGIS',
 }
