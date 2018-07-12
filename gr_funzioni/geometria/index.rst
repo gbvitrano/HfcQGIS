@@ -464,9 +464,6 @@ Geometria
 +---------------------------+--------------------------------+---------+
 
 
-
-
-
 .. _$area: $area.html
 .. _$geometry: $geometry.html
 .. _$length: $length.html
@@ -567,14 +564,12 @@ Geometria
 
 |image0|
 
-Evoluzione funzioni
--------------------
+**Evoluzione funzioni**
 
 |image1|
 
 .. |image0| image:: /img/geometria/gruppo_geometria1.png
 .. |image1| image:: /img/geometria/gruppo_geometria2.png
-
 
 
 **Elenco funzioni Geometria**
