@@ -5,9 +5,18 @@ Variabili
 
 Questo gruppo contiene variabili dinamiche relative all'applicazione, al
 file di progetto e ad altre impostazioni. Significa che alcune funzioni
-potrebbero non essere disponibili in base al contesto: \* seleziona per
-espressione |exp| \* calcolatore di campi |calc| \* geometry generator
-|epsilos| \* proprietà del layer |mod| \* compositore di stampe |print|
+potrebbero non essere disponibili in base al contesto:
+
+\* seleziona per espressione |exp| 
+
+\* calcolatore di campi |calc| 
+
+\* geometry generator |epsilos|
+
+\* proprietà del layer |mod|
+
+\* compositore di stampe |print|
+
 
 In QGIS, puoi utilizzare le variabili per memorizzare dati utili con
 valori ricorrenti (ad esempio il titolo del progetto o il nome completo
