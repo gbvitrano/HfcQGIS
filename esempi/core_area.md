@@ -23,4 +23,4 @@ Vediamo l'espressione utilizzata:
 1. `buffer($geometry,-20)`: Crea un [buffer](../gr_funzioni/geometria/buffer.html) del poligono utilizzando la funzione [$geometry](../gr_funzioni/geometria/$geometry.html), con una profondità negativa di 20 metri (buffer interno)
 2. `area`: Calcola l'[area](../gr_funzioni/geometria/area.html) della geometria appena definita, in ettari (/10000)
 
-Il GeoPackage, con il vettore bosco, è disponibile [qui](core_area.zip)
+Il GeoPackage, con il vettore bosco, è disponibile [qui](https://github.com/gbvitrano/HfcQGIS/blob/master/esempi/core_area.zip?raw=true)

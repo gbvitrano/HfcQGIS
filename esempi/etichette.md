@@ -45,4 +45,4 @@ espressione da scrivere nel calcolatore di campi
  ```
  ![](/img/esempi/etichette/etichette3.png)
 
- Geopackage è [qui](dati_esempi.zip)
+ Geopackage è [qui](https://github.com/gbvitrano/HfcQGIS/blob/master/esempi/dati_esempi.zip?raw=true)

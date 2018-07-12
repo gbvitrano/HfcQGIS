@@ -21,4 +21,4 @@ funzioni usate:
 
 
 
-il geopackage è scaricabile [qui](dati_esempi.zip)
+il geopackage è scaricabile [qui](https://github.com/gbvitrano/HfcQGIS/blob/master/esempi/dati_esempi.zip?raw=true)
