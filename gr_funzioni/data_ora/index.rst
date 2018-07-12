@@ -103,7 +103,7 @@ data (ad es. *day()* per ottenere l'intervallo espresso in giorni)
 
 .. |image0| image:: /img/data_e_ora/gruppo_data_e_ora1.png
 
-**Elenco funzioni Arrays**
+**Elenco funzioni Data e ora**
 
 .. toctree::
    :maxdepth: 3
