@@ -16,7 +16,7 @@ selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabe
 6. doppio clic sul risultato della ricerca per inserire la funzione;
 7. OK per eseguire; verrà aggiunta la colonna coord_x e popolata;
 
-ripere gli stessi passi per la **coord_y** e usare la funzione [\$y](/gr_funzioni/geometria/$y.html):
+ripere gli stessi passi per la **coord_y** e usare la funzione [\$y](./gr_funzioni/geometria/$y.html):
 
 ![](/img/esempi/add_coord_xy/add_coord3.png)
 
