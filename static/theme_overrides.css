@@ -94,7 +94,9 @@ a:visited {color: #589632; text-decoration:none; }
 	
 .wy-body-for-nav {background: #efefef; }
 
-.wy-nav-top a:visited {
+
+/* Nome sito in mobile sempre bianco */
+.wy-nav-top a:visited,  .wy-nav-top a:hover {
     color: #fff !important;
     font-weight: bold !important;
 }
