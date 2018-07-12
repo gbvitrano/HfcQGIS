@@ -421,6 +421,48 @@ Geometria
 |                           | di cuneo che ha origine da una | **      |
 |                           | geometria del punto            |         |
 +---------------------------+--------------------------------+---------+
+| `within`_                 | Controlla qualora una          | 2.18    |
+|                           | geometria sia interna ad       |         |
+|                           | un’altra                       |         |
++---------------------------+--------------------------------+---------+
+| `x`_                      | Restituisce la coordinata x di | 2.18    |
+|                           | una geometria punto, o la      |         |
+|                           | coordinata x del centroide di  |         |
+|                           | una geometria non puntuale     |         |
++---------------------------+--------------------------------+---------+
+| `x_min`_                  | Restituisce la coordinata x    | 2.18    |
+|                           | minima di una geometria. I     |         |
+|                           | calcoli sono effettuati nel    |         |
+|                           | sistema di riferimento         |         |
+|                           | spaziale di tale geometria     |         |
++---------------------------+--------------------------------+---------+
+| `x_max`_                  | Restituisce la coordinata x    | 2.18    |
+|                           | massima di una geometria. I    |         |
+|                           | calcoli sono effettuati nel    |         |
+|                           | sistema di riferimento         |         |
+|                           | spaziale di tale geometria     |         |
++---------------------------+--------------------------------+---------+
+| `y`_                      | Restituisce la coordinata y di | 2.18    |
+|                           | una geometria puntuale, o la   |         |
+|                           | coordinata y del centroide di  |         |
+|                           | una geometria non puntuale     |         |
++---------------------------+--------------------------------+---------+
+| `y_min`_                  | Restituisce la coordinata y    | 2.18    |
+|                           | minima di una geometria. I     |         |
+|                           | calcoli sono effettuati nel    |         |
+|                           | sistema di riferimento         |         |
+|                           | spaziale di tale geometria     |         |
++---------------------------+--------------------------------+---------+
+| `y_max`_                  | Restituisce la coordinata y    | 2.18    |
+|                           | massima di una geometria. I    |         |
+|                           | calcoli sono effettuati nel    |         |
+|                           | sistema di riferimento         |         |
+|                           | spaziale di tale geometria     |         |
++---------------------------+--------------------------------+---------+
+| `z`_                      | Restituisce la coordinata z di | >=2.14  |
+|                           | una geometria puntuale         |         |
++---------------------------+--------------------------------+---------+
+
 
 
 
@@ -514,8 +556,24 @@ Geometria
 .. _translate: translate.html
 .. _union: union.html
 .. _wedge_buffer: wedge_buffer.html
+.. _within: within.html
+.. _x: x.html
+.. _x_min: x_min.html
+.. _x_max: x_max.html
+.. _y: y.html
+.. _y_min: y_min.html
+.. _y_max: y_max.html
+.. _z: z.html
 
+|image0|
 
+Evoluzione funzioni
+-------------------
+
+|image1|
+
+.. |image0| image:: /img/geometria/gruppo_geometria1.png
+.. |image1| image:: /img/geometria/gruppo_geometria2.png
 
 
 
