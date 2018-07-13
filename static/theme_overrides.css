@@ -52,11 +52,27 @@ text-transform: uppercase!important;}
 
 
 
+
+
+element.style {
+}
+.wy-menu-vertical a:visited {
+    color: #404040;
+}
+.wy-menu a:visited {
+    color: #fff;
+}
+a:visited {
+    color: #589632;
+    text-decoration: none;
+}
 .wy-menu-vertical a {color: #404040;}
-.wy-menu-vertical a:hover { background-color: rgba(241,141,54,0.8) color: #ffffff !important;}
+.wy-menu-vertical a:hover { background-color: rgba(241,141,54,0.8); color: #ffffff!important;}
+.wy-menu-vertical a:visited {color: #404040;}
+
 .wy-menu a:hover {color: #fff important;}
 .wy-menu a:visited {color: #fff;}
-.wy-menu-vertical a:visited {color: #404040;}
+
 
 .wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {
 	background: #c1e045; 
