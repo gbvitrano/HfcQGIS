@@ -1,4 +1,4 @@
-# `array_get`
+# array_get
 
 Restituisce il valore ennesimo (0 per il primo elemento) di un array.
 

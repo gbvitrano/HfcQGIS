@@ -1,4 +1,4 @@
-# `clamp`
+# clamp
 
 Limita un valore in ingresso a un intervallo specificato.
 

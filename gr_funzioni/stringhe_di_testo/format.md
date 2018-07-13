@@ -1,4 +1,4 @@
-# `format`
+# format
 
 Formatta una stringa usando gli argomenti forniti.
 

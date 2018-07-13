@@ -1,4 +1,4 @@
-# `map`
+# map
 
 Restituisce una mappa con tutte le chiavi ed i valori passati come coppie di parametri.
 

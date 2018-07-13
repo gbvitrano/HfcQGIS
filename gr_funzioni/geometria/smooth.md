@@ -1,4 +1,4 @@
-# `smooth`
+# smooth
 
 Smussa una geometria con l'aggiunta di ulteriori nodi che arrotondano gli angoli nella geometria.
 

@@ -1,4 +1,4 @@
-# `array_to_string`
+# array_to_string
 
 Concatena gli elementi di un array in una stringa separata da un delimitatore usando una stringa opzionale per valori mancanti.
 

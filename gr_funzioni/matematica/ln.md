@@ -1,4 +1,4 @@
-# `ln`
+# ln
 
 Restituisce il logaritmo naturale di un valore.
 

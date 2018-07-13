@@ -1,4 +1,4 @@
-# `randf`
+# randf
 
 Restituisce un numero in virgola mobile casuale nell'intervallo specificato da un minimo ed un massimo (inclusi).
 

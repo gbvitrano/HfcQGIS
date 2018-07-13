@@ -1,4 +1,4 @@
-# `array_length`
+# array_length
 
 Restituisce il numero di elementi di un array.
 

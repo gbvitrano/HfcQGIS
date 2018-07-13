@@ -1,4 +1,4 @@
-# `left`
+# left
 
 Restituisce una sottostringa che contiene gli n caratteri più a sinistra della stringa.
 

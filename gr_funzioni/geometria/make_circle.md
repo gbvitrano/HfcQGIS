@@ -1,4 +1,4 @@
-# `make_circle`
+# make_circle
 
 Crea un poligono circolare.
 

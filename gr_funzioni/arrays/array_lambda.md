@@ -1,4 +1,4 @@
-# `array_lambda`
+# array_lambda
 
 Applica una funzione personalizzata a ciascun elemento (x)
 

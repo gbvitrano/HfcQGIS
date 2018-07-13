@@ -1,4 +1,4 @@
-# `lighter`
+# lighter
 
 Restituisce una stringa di colore più chiaro (o più scuro)
 

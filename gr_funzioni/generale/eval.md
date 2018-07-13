@@ -1,4 +1,4 @@
-# `eval`
+# eval
 
 Valuta una espressione che viene passata in una stringa. Molto utile per espandere parametri dinamici passati come variabili contestuali o campi.
 

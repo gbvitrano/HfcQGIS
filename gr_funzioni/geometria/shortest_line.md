@@ -1,4 +1,4 @@
-# `shortest_line`
+# shortest_line
 
 Restituisce la linea più corta che unisce la geometria 1 alla geometria 2. La linea risultante partirà dalla geometria 1 e finirà nella geometria 2.
 

@@ -1,4 +1,4 @@
-# `$geometry`
+# $geometry
 
 Restituisce la geometria dell'elemento attuale. Può essere usato per il processamento con altre funzioni.
 

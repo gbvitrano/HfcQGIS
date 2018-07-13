@@ -1,4 +1,4 @@
-# `array`
+# array
 
 Restituisce un array contenente tutti i valori passati come parametro.
 

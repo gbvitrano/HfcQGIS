@@ -1,4 +1,4 @@
-# `count_missing`
+# count_missing
 
 Restituisce il conteggio dei valori mancanti (nulli).
 

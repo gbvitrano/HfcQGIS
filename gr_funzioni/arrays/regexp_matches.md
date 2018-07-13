@@ -1,4 +1,4 @@
-# `regexp_matches`
+# regexp_matches
 
 Restituisce un array di tutte le stringhe catturate dai gruppo, nell'ordine che i gruppi stessi compaiono con l'espressione regolare fornita con una stringa.
 

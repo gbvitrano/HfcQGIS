@@ -1,4 +1,4 @@
-# `sqrt`
+# sqrt
 
 Restituisce la radice quadrata di un valore.
 

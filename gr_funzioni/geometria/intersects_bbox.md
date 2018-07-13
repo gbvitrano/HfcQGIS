@@ -1,4 +1,4 @@
-# `intersects_bbox`
+# intersects_bbox
 
 Controlla se il perimetro di delimitazione della geometria si sovrappone a quello di un'altra geometria. Restituisce vero (1) se le geometrie intersecano spazialmente il perimetro di delimitazione definito e falso (0) se non lo intersecano.
 

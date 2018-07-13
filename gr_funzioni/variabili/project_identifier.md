@@ -1,4 +1,4 @@
-# `project_identifier`
+# project_identifier
 
 --
 

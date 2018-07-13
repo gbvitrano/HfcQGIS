@@ -1,4 +1,4 @@
-# `x`
+# x
 
 Restituisce la minima coordinata x di una geometria punto, o la coordinata x del centroide di una geometria non puntuale.
 

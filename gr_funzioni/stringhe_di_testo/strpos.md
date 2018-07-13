@@ -1,4 +1,4 @@
-# `strpos`
+# strpos
 
 Restituisce la prima posizione di corrispondenza di una sottostringa dentro in un'altra stringa o 0 se la sottostringa non viene trovata.
 

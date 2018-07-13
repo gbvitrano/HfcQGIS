@@ -1,4 +1,4 @@
-# `array_insert`
+# array_insert
 
 Restituisce un array con il valore passato aggiunto nella posizione indicata.
 

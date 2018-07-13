@@ -1,4 +1,4 @@
-# `touches`
+# touches
 
 Verifica se una geometria tocca un'altra. Restituisce vero (1) se le geometrie hanno almeno un punto in comune, ma i loro interni non si intersecano.
 

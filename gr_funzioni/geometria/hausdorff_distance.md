@@ -1,4 +1,4 @@
-# `hausdorff_distance`
+# hausdorff_distance
 
 Restituisce la distanza di _Hausdorff_ tra due geometrie. Questa è in sostanza una misura di come le 2 geometrie sono simili o dissimili: una distanza più bassa indica geometrie più simili. 
 La funzione può essere eseguita con un argomento opzionale di densificazione della frazione. Se non viene specificato, viene utilizzata una approssimazione alla distanza standard di Hausdorff. Questa approssimazione è esatta o abbastanza vicina per un grande sottoinsieme di casi utili. Esempi di questi sono: 

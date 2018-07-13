@@ -1,4 +1,4 @@
-# `row_number`
+# row_number
 
 Memorizza il numero della riga corrente.
 

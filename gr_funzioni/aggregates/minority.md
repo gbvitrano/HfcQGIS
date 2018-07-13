@@ -1,4 +1,4 @@
-# `minority`
+# minority
 
 Restituisce la minoranza aggregata di valori (valore meno comunemente presente) da un campo o espressione.
 

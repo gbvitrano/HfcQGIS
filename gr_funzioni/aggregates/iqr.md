@@ -1,4 +1,4 @@
-# `iqr`
+# iqr
 
 Restituisce lo scarto interquartile calcolato da un campo o espressione.
 

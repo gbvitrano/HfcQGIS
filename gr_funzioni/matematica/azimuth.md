@@ -1,4 +1,4 @@
-# `azimuth`
+# azimuth
 
 Restituisce l'azimut dal nord quale angolo in radianti misurato in senso orario dalla verticale del punto_a al punto_b.
 

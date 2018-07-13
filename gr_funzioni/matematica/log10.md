@@ -1,4 +1,4 @@
-# `log10`
+# log10
 
 Restituisce il valore del logaritmo in base10 dell'espressione passata.
 

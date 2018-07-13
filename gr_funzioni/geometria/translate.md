@@ -1,4 +1,4 @@
-# `translate`
+# translate
 
 Restituisce una versione traslata di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria.
 

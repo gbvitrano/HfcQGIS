@@ -1,4 +1,4 @@
-# `color_part`
+# color_part
 
 Restituisce uno specifico componente colore da una stringa colore, es. la componente rosso o alfa.
 

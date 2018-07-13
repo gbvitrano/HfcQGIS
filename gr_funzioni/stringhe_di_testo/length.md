@@ -1,4 +1,4 @@
-# `length`
+# length
 
 Restituisce il numero di caratteri in una stringa o la lunghezza di una geometria di tipo linestring.
 

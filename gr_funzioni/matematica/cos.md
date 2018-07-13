@@ -1,4 +1,4 @@
-# `cos`
+# cos
 
 Restituisce il coseno di un angolo.
 

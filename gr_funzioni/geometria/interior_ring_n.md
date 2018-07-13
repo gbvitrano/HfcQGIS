@@ -1,4 +1,4 @@
-# `interior_ring_n`
+# interior_ring_n
 
 Restituisce un anello interno specifico da una geometria poligonale, o null se la geometria non è un poligono.
 

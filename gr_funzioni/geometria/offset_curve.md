@@ -1,4 +1,4 @@
-# `offset_curve`
+# offset_curve
 
 Restituisce una geometria formata facendo l'offset di una geometria di tipo linestring a lato. Le distanze sono espresse nel SR di tale geometria.
 

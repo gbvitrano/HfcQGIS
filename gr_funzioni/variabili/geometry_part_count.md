@@ -1,4 +1,4 @@
-# `geometry_part_count`
+# geometry_part_count
 
 --
 

@@ -1,4 +1,4 @@
-# `make_ellipse`
+# make_ellipse
 
 Crea un poligono ellittico.
 

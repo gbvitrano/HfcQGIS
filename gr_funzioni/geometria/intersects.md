@@ -1,4 +1,4 @@
-# `intersects`
+# intersects
 
 Controlla qualora una geometria ne interseca un'altra. Restituisce true (1) se la geometrie si intersecano spazialmente (condividono una porzione di spazio) altrimenti da false (0).
 

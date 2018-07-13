@@ -1,4 +1,4 @@
-# `map_concat`
+# map_concat
 
 Restituisce una mappa con tutte le entità della mappe fornite. Se due mappe contengono la stessa chiave, viene restituito il valore della seconda mappa.
 

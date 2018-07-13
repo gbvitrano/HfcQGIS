@@ -1,4 +1,4 @@
-# `color_hsva`
+# color_hsva
 
 Restituisce una rappresentazione stringa di un colore basato sui suoi attributi tonalità, saturazione, valore e alfa (trasparenza).
 

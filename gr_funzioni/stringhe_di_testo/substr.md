@@ -1,4 +1,4 @@
-# `substr`
+# substr
 
 Restituisce una parte di una stringa.
 

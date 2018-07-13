@@ -1,4 +1,4 @@
-# `qgis_locale`
+# qgis_locale
 
 --
 

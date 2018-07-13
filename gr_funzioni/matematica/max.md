@@ -1,4 +1,4 @@
-# `max`
+# max
 
 Restituisce il valore maggiore di un insieme di valori.
 

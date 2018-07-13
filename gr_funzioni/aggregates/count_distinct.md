@@ -1,4 +1,4 @@
-# `count_distinct`
+# count_distinct
 
 Restituisce il conteggio dei valori differenti.
 

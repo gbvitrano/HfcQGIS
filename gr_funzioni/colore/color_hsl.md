@@ -1,4 +1,4 @@
-# `color_hsl`
+# color_hsl
 
 Restituisce una rappresentazione stringa di un colore basato sui suoi attributi tonalità, saturazione e luminosità.
 

@@ -1,4 +1,4 @@
-# `stdev`
+# stdev
 
 Restituisce il valore di deviazione standard aggregato da un campo o espressione.
 

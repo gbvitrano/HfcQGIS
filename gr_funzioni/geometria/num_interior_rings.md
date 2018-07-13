@@ -1,4 +1,4 @@
-# `num_interior_rings`
+# num_interior_rings
 
 Restituisce il numero di anelli interni in un poligono o in una raccolta di geometrie, o null se la geometria in ingresso non è un poligono o una raccolta.
 

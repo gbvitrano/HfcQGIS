@@ -1,4 +1,4 @@
-# `array_remove_at`
+# array_remove_at
 
 Restituisce un array con l'indice passato rimosso.
 

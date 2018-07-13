@@ -1,4 +1,4 @@
-# `majority`
+# majority
 
 Restituisce la maggioranza aggregata di valori (valore più comunemente presente) da un campo o espressione.
 

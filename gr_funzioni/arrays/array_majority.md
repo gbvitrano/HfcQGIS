@@ -1,4 +1,4 @@
-# `array_majority`
+# array_majority
 
 Restituisce il valore più comune. Restituisce un valore arbitrario se ex-equo.
 

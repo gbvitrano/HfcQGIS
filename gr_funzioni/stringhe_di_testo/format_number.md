@@ -1,4 +1,4 @@
-# `format_number`
+# format_number
 
 Restituisce un numero formattato con il separatore locale per le migliaia. Inoltre tronca il numero al numero di posti forniti.
 

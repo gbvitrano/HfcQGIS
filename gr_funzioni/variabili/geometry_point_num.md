@@ -1,4 +1,4 @@
-# `geometry_point_num`
+# geometry_point_num
 
 --
 

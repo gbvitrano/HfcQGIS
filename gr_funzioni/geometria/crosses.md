@@ -1,4 +1,4 @@
-# `crosses`
+# crosses
 
 Verifica se una geometria interseca un'altra. Restituisce vero (1) se le geometrie interessate hanno qualche, ma non tutti, punto interno in comune.
 

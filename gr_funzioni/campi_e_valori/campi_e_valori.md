@@ -1,4 +1,4 @@
-## gruppo `campi e valori`
+# gruppo campi e valori
 
 Contiene un elenco di campi del layer selezionato. Si possono ottenere valori campione con il click del tasto destro del mouse.
 Seleziona il nome del campo dall'elenco e fai click con il tasto destro per aprire il men� con le opzioni per caricare un campione di valori dal campo selezionato.

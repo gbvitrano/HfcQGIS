@@ -1,4 +1,4 @@
-# `regexp_substr`
+# regexp_substr
 
 Restituisce la porzione di una stringa che soddisfa l'espressione regolare passata.
 

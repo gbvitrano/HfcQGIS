@@ -1,4 +1,4 @@
-# `lpad`
+# lpad
 
 Restituisce una stringa riempita a sinistra fino alla larghezza specificata, utilizzando un carattere di riempimento. Se la larghezza della destinazione è inferiore alla lunghezza della stringa, la stringa viene troncata.
 

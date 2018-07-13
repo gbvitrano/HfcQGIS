@@ -1,4 +1,4 @@
-# `scale_linear`
+# scale_linear
 
 Trasforma un dato valore da un dominio in ingresso ad un intervallo in uscita usando un'interpolazione lineare.
 

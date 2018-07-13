@@ -1,4 +1,4 @@
-# `day`
+# day
 
 Estrae il giorno da una data, o il numero dei giorni da un intervallo.
 

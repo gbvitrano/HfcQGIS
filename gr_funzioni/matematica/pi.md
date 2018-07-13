@@ -1,4 +1,4 @@
-# `pi`
+# pi
 
 Restituisce il valore di Pi greco
 

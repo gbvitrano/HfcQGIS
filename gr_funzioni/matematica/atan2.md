@@ -1,4 +1,4 @@
-# `atan2`
+# atan2
 
 Restituisce la arcotangente di dy/dx usando i segni dei due argomenti per determinare il quadrante del risultato.
 

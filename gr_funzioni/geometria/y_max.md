@@ -1,4 +1,4 @@
-# `y_max`
+# y_max
 
 Restituisce la coordinata y massima di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria.
 

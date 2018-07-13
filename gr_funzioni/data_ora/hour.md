@@ -1,4 +1,4 @@
-# `hour`
+# hour
 
 Estrae la parte ore da una data/ora o orario, o il numero delle ore da un intervallo.
 

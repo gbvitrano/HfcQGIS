@@ -1,4 +1,4 @@
-# `array_distinct`
+# array_distinct
 
 Restituisce un array contenente valori distinti dell'array dato.
 

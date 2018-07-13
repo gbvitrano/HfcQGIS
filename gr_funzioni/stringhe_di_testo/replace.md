@@ -1,4 +1,4 @@
-# `replace`
+# replace
 
 Restituisce una stringa con la stringa, array o mappa di stringhe passate sostituite.
 

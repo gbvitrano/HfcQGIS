@@ -1,4 +1,4 @@
-## Espressione `CASE`
+# Espressione CASE
 ```
 CASE
 WHEN condizione THEN risultato

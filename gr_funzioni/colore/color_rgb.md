@@ -1,4 +1,4 @@
-# `color_rgb`
+# color_rgb
 
 Restituisce una rappresentazione stringa di un colore basato sui suoi componenti rosso, verde e blu.
 

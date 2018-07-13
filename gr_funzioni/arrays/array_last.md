@@ -1,4 +1,4 @@
-# `array_last`
+# array_last
 
 Restituisce l'ultimo valore di un array.
 

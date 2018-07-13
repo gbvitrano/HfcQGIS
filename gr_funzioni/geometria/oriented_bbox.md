@@ -1,4 +1,4 @@
-# `oriented_bbox`
+# oriented_bbox
 
 Restituisce una geometria che rappresenta il perimetro di delimitazione minimo orientato di una geometria.
 

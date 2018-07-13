@@ -1,4 +1,4 @@
-# `angle_at_vertex`
+# angle_at_vertex
 
 Restituisce l'angolo della bisettrice (angolo medio) della geometria per un vertice specifico di una geometria di tipo linestring. Gli angoli sono in gradi in senso orario dal nord.
 

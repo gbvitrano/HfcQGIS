@@ -1,4 +1,4 @@
-# `difference`
+# difference
 
 Restituisce una geometria che rappresenta la porzione della _geometry_a_ che non interseca la _geometry_b_.
 

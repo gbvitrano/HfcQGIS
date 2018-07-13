@@ -1,4 +1,4 @@
-# `qgis_release_name`
+# qgis_release_name
 
 --
 

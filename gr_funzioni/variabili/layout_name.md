@@ -1,4 +1,4 @@
-# `layout_name`
+# layout_name
 
 --
 

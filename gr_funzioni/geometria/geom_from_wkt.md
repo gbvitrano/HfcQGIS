@@ -1,4 +1,4 @@
-# `geom_from_wkt`
+# geom_from_wkt
 
 Restituisce una geometria creata da una rappresentazione Well-Known Text (WKT).
 

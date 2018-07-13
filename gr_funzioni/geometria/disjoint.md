@@ -1,4 +1,4 @@
-# `disjoint`
+# disjoint
 
 Controlla qualora una geometria non ne interseca spazialmente un'altra. Restituisce true (1) se le geometrie non condividono nessuno spazio comune.
 

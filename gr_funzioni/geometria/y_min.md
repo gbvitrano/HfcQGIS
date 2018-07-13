@@ -1,4 +1,4 @@
-# `y_min`
+# y_min
 
 Restituisce la coordinata y minima di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria.
 

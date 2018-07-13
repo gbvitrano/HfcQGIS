@@ -1,4 +1,4 @@
-# `array_reverse`
+# array_reverse
 
 Restituisce l'array dato con valori dell'array in ordine inverso.
 

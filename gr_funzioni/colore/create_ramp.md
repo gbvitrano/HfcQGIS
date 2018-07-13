@@ -1,4 +1,4 @@
-# `create_ramp`
+# create_ramp
 
 Restituisce una scala di colori a gradiente per una mappa di colori e passi.
 

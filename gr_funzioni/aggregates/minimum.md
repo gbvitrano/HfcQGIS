@@ -1,4 +1,4 @@
-# `minimum`
+# minimum
 
 Restituisce il valore minimo aggregato da un campo o espressione.
 

@@ -1,4 +1,4 @@
-# `array_find`
+# array_find
 
 Restituisce l'indice (0 per il primo elemento) di un valore all'interno di un array. Restiuisce -1 se il valore non viene trovato
 

@@ -1,4 +1,4 @@
-# `num_geometries`
+# num_geometries
 
 Restituisce il numero di geometrie in una raccolta di geometrie, o null se la geometria in ingresso non è una raccolta.
 

@@ -1,4 +1,4 @@
-# `represent_value`
+# represent_value
 
 Restituisce il valore di rappresentazione configurato per un valore di campo. Dipende dal tipo di widget configurato. Spesso, questo è utile per i widget di 'Value Map'.
 

@@ -1,4 +1,4 @@
-# `floor`
+# floor
 
 Arrotonda un numero all'intero inferiore.
 

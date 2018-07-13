@@ -1,4 +1,4 @@
-# `color_mix_rgb`
+# color_mix_rgb
 
 Restituisce una stringa che rappresenta un colore che mescola i valori rosso, verde, blu e alfa di due colori forniti in base a un determinato rapporto.
 

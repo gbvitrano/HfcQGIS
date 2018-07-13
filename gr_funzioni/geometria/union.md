@@ -1,4 +1,4 @@
-# `union`
+# union
 
 Restituisce una geometria che rappresenta l'insieme dei punti dell'unione delle geometrie.
 

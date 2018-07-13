@@ -1,4 +1,4 @@
-# `layer_property`
+# layer_property
 
 Restituisce una proprietà del layer corrispondente o un valore dei metadati.
 

@@ -1,4 +1,4 @@
-# `line_interpolate_point`
+# line_interpolate_point
 
 Restituisce il punto interpolato ad una specifica distanza lungo una geometria di tipo linestring.
 

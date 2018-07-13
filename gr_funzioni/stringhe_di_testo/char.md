@@ -1,4 +1,4 @@
-# `char`
+# char
 
 Restituisce il carattere associato ad un codice unicode.
 

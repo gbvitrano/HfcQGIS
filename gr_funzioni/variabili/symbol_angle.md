@@ -1,4 +1,4 @@
-# `symbol_angle`
+# symbol_angle
 
 --
 

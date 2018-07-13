@@ -1,4 +1,4 @@
-# `$x_at`
+# $x_at
 
 Recupera una coordinata x per la geometria dell'elemento corrente.
 

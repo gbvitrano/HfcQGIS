@@ -1,4 +1,4 @@
-# `convex_hull`
+# convex_hull
 
 Restituisce il poligono convesso di una geometria. Rappresenta la minima geometria convessa che racchiude tutte le geometria contenute nell'insieme.
 

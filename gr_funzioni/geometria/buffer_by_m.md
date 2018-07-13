@@ -1,4 +1,4 @@
-# `buffer_by_m`
+# buffer_by_m
 
 Crea un _buffer_ lungo una geometria _linestring_ in cui il diametro del buffer varia in base ai valori _m_ nei vertici della linea.
 

@@ -1,4 +1,4 @@
-# `perimetro_km()`
+# perimetro_km()
 
 Questa funzione ritorna il valore del perimetro della geometria in km 
 

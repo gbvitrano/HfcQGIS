@@ -1,4 +1,4 @@
-# `trim`
+# trim
 
 Rimuove tutti gli spazi vuoti (spazi, tabulazioni, etc.) all'inizio e alla fine di una stringa.
 

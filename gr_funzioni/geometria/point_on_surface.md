@@ -1,4 +1,4 @@
-# `point_on_surface`
+# point_on_surface
 
 Restituisce un punto garantendo che sia giacente sulla superficie della geometria.
 

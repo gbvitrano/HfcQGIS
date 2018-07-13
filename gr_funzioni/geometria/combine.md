@@ -1,4 +1,4 @@
-# `combine`
+# combine
 
 Restituisce la combinazione di due geometrie.
 

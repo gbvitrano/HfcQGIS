@@ -1,4 +1,4 @@
-# `map_avals`
+# map_avals
 
 Restituisce tutti valori di una mappa come un array.
 

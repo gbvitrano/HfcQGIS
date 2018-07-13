@@ -1,4 +1,4 @@
-# `distance`
+# distance
 
 Restituisce la distanza minima (basata su riferimento spaziale) tra due geometrie in unità proiettate.
 

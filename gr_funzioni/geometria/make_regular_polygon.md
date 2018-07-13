@@ -1,4 +1,4 @@
-# `make_regular_polygon`
+# make_regular_polygon
 
 Crea un poligono regolare.
 

@@ -1,4 +1,4 @@
-# `inclination`
+# inclination
 
 Restituisce l'inclinazione misurata dallo zenit (0) al nadir (180) del _punto_a_ al _punto_b_.
 

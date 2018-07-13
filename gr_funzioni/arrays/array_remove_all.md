@@ -1,4 +1,4 @@
-# `array_remove_all`
+# array_remove_all
 
 Restituisce un array con tutti gli elementi del valore passato rimossi.
 

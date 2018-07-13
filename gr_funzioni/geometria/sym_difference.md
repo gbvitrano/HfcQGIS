@@ -1,4 +1,4 @@
-# `sym_difference`
+# sym_difference
 
 Restituisce una geometria che rappresenta la porzione di due geometrie che non si interseca.
 

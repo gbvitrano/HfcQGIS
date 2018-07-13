@@ -1,4 +1,4 @@
-# `line_interpolate_angle`
+# line_interpolate_angle
 
 Restituisce l'angolo parallelo alla geometria ad una distanza specifica lungo una geometria di tipo linestring. Gli angoli sono in gradi in senso orario dal nord.
 

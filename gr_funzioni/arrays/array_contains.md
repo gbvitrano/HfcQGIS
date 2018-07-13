@@ -1,4 +1,4 @@
-# `array_contains`
+# array_contains
 
 Restituisce _true_ se un array contiene il valore specificato.
 

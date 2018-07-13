@@ -1,4 +1,4 @@
-# `array_prioritize`
+# array_prioritize
 
 Ordina un array rispetto ad un altro
 

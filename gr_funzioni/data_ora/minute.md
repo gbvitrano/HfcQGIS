@@ -1,4 +1,4 @@
-# `minute`
+# minute
 
 Estrae la parte minuti da un data/ora o ora, o il numero dei minuti da un intervallo.
 

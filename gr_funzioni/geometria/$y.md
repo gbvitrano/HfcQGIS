@@ -1,4 +1,4 @@
-# `$y`
+# $y
 
 Restituisce la coordinata y della geometria corrente.
 

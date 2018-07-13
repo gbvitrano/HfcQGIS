@@ -1,4 +1,4 @@
-# `aggregate`
+# aggregate
 
 Restituisce un valore aggregato calcolato usando elementi da un altro vettore.
 

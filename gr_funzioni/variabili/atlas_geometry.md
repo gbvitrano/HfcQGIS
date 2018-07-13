@@ -1,4 +1,4 @@
-# `atlas_geometry`
+# atlas_geometry
 
 --
 

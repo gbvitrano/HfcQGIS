@@ -1,4 +1,4 @@
-# `to_datetime`
+# to_datetime
 
 Converte una stringa in un oggetto datetime.
 

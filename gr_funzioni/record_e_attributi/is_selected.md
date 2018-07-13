@@ -1,4 +1,4 @@
-# `is_selected`
+# is_selected
 
 Indica se una geometria è selezionata. Se chiamata senza parametri, controlla la geometria corrente.
 

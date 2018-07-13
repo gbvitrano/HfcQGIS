@@ -1,4 +1,4 @@
-# `flip_coordinates`
+# flip_coordinates
 
 Restituisce una copia della geometria con le coordinate x e y scambiate. Utile per riparare le geometrie che hanno invertito i valori di latitudine e longitudine.
 

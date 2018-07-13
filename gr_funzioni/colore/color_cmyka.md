@@ -1,4 +1,4 @@
-# `color_cmyka`
+# color_cmyka
 
 Restituisce una rappresentazione stringa di un colore basato sui suoi componenti ciano, magenta, giallo, nero e alfa (trasparenza)
 

@@ -1,4 +1,4 @@
-# `array_max`
+# array_max
 
 Restituisce il valore massimo di un array.
 ## Sintassi

@@ -1,4 +1,4 @@
-# `geom_to_wkt`
+# geom_to_wkt
 
 Restituisce la rappresentazione Well-Known Text (WKT) della geometria senza metadati del SR
 

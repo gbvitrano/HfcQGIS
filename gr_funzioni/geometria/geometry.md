@@ -1,4 +1,4 @@
-# `geometry`
+# geometry
 
 Restituisce la geometria di un elemento.
 

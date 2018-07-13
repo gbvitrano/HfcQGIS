@@ -1,4 +1,4 @@
-# `array_sum`
+# array_sum
 
 Calcola la sommo dei valori.
 

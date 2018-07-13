@@ -1,4 +1,4 @@
-# Operatore + (somma)
+# Operatore  (somma)
 
 Addizione di due valori. Se uno dei due valori è NULL il risultato sarà NULL.
 

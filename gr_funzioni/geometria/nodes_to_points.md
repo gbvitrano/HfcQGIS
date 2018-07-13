@@ -1,4 +1,4 @@
-# `nodes_to_points`
+# nodes_to_points
 
 Restituisce una geometria multi-punti costituita da ogni nodo della geometria in ingresso.
 

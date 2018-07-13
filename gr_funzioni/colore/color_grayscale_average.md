@@ -1,4 +1,4 @@
-# `color_grayscale_average`
+# color_grayscale_average
 
 Applica un filtro in scala di grigio e restituisce una rappresentazione di stringa da un colore fornito.
 

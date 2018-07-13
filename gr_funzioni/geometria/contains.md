@@ -1,4 +1,4 @@
-# `contains`
+# contains
 
 Verifica se una geometria ne contiene un'altra. Restituisce vero (1) se, e solo se, nessun punto della _geometria b_ giace all'esterno della _geometria a_, ed almeno un punto dell'interno di _b_ si trova all'interno di _a_.
 

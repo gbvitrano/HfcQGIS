@@ -1,4 +1,4 @@
-# `geometry_n`
+# geometry_n
 
 Restituisce una geometria specifica da una raccolta di geometrie, o null se la geometria in ingresso non è una raccolta.
 

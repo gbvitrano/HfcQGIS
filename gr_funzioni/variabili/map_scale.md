@@ -1,4 +1,4 @@
-# `map_scale`
+# map_scale
 
 --
 

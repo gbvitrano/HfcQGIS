@@ -1,4 +1,4 @@
-# `to_time`
+# to_time
 
 Converti una stringa in un oggetto time.
 

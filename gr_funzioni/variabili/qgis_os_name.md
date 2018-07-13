@@ -1,4 +1,4 @@
-# `qgis_os_name`
+# qgis_os_name
 
 --
 

@@ -1,4 +1,4 @@
-# `array_cat`
+# array_cat
 
 Restituisce un array contenente tutti gli arrays passati concatenati.
 

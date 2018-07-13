@@ -1,4 +1,4 @@
-# `controlla_file`
+# controlla_file
 
 Questa funzione ritorna true se il percorso esiste altrimenti false.
 

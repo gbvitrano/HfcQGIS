@@ -1,4 +1,4 @@
-# `wedge_buffer`
+# wedge_buffer
 
 Restituisce un buffer a forma di cuneo che origina da una geometria del punto.
 

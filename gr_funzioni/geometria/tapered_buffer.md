@@ -1,4 +1,4 @@
-# `tapered_buffer`
+# tapered_buffer
 
 Crea un buffer lungo una geometria della linea in cui il diametro del buffer varia in modo uniforme sulla lunghezza della linea.
 

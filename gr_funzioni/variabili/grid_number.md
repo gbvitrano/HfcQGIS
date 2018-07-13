@@ -1,4 +1,4 @@
-# `grid_number`
+# grid_number
 
 --
 

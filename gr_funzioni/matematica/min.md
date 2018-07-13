@@ -1,4 +1,4 @@
-# `min`
+# min
 
 Restituisce il valore minore di un insieme di valori.
 

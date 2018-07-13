@@ -1,4 +1,4 @@
-# `intersection`
+# intersection
 
 Restituisce una geometria che rappresenta la porzione condivisa fra le due geometrie.
 

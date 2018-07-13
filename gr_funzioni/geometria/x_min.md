@@ -1,4 +1,4 @@
-# `x_min`
+# x_min
 
 Restituisce la coordinata x minima di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria.
 

@@ -1,4 +1,4 @@
-# `color_rgba`
+# color_rgba
 
 Restituisce una rappresentazione stringa di un colore basato sui suoi componenti rosso, verde, blue ed alpha (trasparenza).
 

@@ -1,4 +1,4 @@
-# `array_min`
+# array_min
 
 Restituisce il valore minimo di un array.
 

@@ -1,4 +1,4 @@
-# `bounds_width`
+# bounds_width
 
 Restituisce la larghezza del perimetro di delimitazione di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria.
 

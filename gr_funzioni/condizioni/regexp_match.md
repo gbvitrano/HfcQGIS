@@ -1,4 +1,4 @@
-# `regexp_match`
+# regexp_match
 
 Restituisce la prima posizione di corrispondenza che soddisfa un'espressione regolare all'interno di una stringa, o 0 se la sottostringa non viene trovata.
 

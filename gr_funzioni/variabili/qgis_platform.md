@@ -1,4 +1,4 @@
-# `qgis_platform`
+# qgis_platform
 
 --
 

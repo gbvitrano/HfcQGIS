@@ -1,4 +1,4 @@
-# `title`
+# title
 
 Converte tutte le parole in "title case" (tutte le parole in minuscolo con la prima lettera maiuscola)
 

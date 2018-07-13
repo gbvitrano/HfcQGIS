@@ -1,4 +1,4 @@
-# `uuid`
+# uuid
 
 Genera un Identificatore Universale Unico (UUID) per ogni riga usando il metodo Qt QUuid::createUuid. Ciascun UUID è lungo 38 caratteri.
 

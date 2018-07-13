@@ -1,4 +1,4 @@
-# `y`
+# y
 
 Restituisce la coordinata y minima di una geometria puntuale, o la coordinata y del centroide di una geometria non puntuale.
 

@@ -1,4 +1,4 @@
-# `qgis_version_no`
+# qgis_version_no
 
 --
 

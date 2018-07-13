@@ -1,4 +1,4 @@
-# `make_triangle`
+# make_triangle
 
 Crea un poligono triangolare
 

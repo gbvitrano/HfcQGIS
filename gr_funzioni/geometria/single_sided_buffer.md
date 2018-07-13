@@ -1,4 +1,4 @@
-# `single_sided_buffer`
+# single_sided_buffer
 
 Restituisce una geometria formata facendo un buffer solo da un lato di una geometria di tipo linestring. Le distanze sono espresse nel SR di tale geometria.
 

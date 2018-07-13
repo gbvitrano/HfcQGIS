@@ -1,4 +1,4 @@
-# `to_int`
+# to_int
 
 Converte una stringa in un numero intero. Non viene restituito nulla se un valore non può essere convertito ad intero (es. '123asd' non è valido)
 

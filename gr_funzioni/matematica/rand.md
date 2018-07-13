@@ -1,4 +1,4 @@
-# `rand`
+# rand
 
 Restituisce un intero casuale nell'intervallo specificato fra un minimo ed un massimo (inclusi).
 

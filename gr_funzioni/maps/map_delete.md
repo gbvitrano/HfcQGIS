@@ -1,4 +1,4 @@
-# `map_delete`
+# map_delete
 
 Restituisce una mappa con il valore della corrispondente chiave passata rimosso.
 

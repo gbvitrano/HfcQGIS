@@ -1,4 +1,4 @@
-# `project`
+# project
 
 Restituisce un punto proiettato da un punto di partenza usando una distanza e una direzione di immersione (azimut) in radianti.
 

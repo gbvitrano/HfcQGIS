@@ -1,4 +1,4 @@
-# `week`
+# week
 
 Estrae il numero della settimana da una data, o il numero di settimane da un intervallo.
 

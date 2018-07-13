@@ -1,4 +1,4 @@
-# `array_replace`
+# array_replace
 
 Ordina i valori in ordine crescente (usa _array_reverse_ per desc).
 

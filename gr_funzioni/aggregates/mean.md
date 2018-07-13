@@ -1,4 +1,4 @@
-# `mean`
+# mean
 
 Restituisce il valore medio aggregato da un campo o espressione.
 

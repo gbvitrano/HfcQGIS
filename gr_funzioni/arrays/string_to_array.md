@@ -1,4 +1,4 @@
-# `string_to_array`
+# string_to_array
 
 Divide la stringa in un array usando il delimitatore fornito e la stringa opzionale per valori mancanti.
 

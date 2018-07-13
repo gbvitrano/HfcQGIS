@@ -1,4 +1,4 @@
-# `line_merge`
+# line_merge
 
 Restituisce una geometria di tipo LineString o MultiLineString, dove qualsiasi LineString connessa dalla geometria in ingresso è stata fusa (merge) in una linestring singola. Questa funzione restituirà null se la geometria considerata non è una LineString/MultiLineString.
 

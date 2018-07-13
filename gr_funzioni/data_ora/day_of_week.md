@@ -1,4 +1,4 @@
-# `day_of_week`
+# day_of_week
 
 Restituisce il giorno della settimana per una data o un datetime. L'intervallo del valore restituito và da 0 a 6, dove 0 corrisponde a Domenica e 6 a Sabato.
 

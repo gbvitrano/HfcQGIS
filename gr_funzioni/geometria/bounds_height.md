@@ -1,4 +1,4 @@
-# `bounds_height`
+# bounds_height
 
 Restituisce l'altezza del perimetro di delimitazione di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria.
 

@@ -1,4 +1,4 @@
-# `array_sort`
+# array_sort
 
 Ordina i valori in ordine crescente (usa _array_reverse_ per desc).
 

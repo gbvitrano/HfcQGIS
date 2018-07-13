@@ -1,4 +1,4 @@
-# `exterior_ring`
+# exterior_ring
 
 Restituisce una linestring che rappresenta l'anello esterno di una geometria poligonale. Se la geometria non è un poligono, il risultato sarà nullo.
 

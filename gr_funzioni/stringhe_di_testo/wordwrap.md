@@ -1,4 +1,4 @@
-# `wordwrap`
+# wordwrap
 
 Restituisce una stringa posta a capo ad un massimo/minimo numero di caratteri.
 

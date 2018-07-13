@@ -1,4 +1,4 @@
-# `is_closed`
+# is_closed
 
 Restituisce vero (true) se una linestring è chiusa (i punti di inizio e di fine coincidono), o falso (false) se una linestring non è chiusa. Se la geometria non è una linestring, il risultato sarà NULL.
 

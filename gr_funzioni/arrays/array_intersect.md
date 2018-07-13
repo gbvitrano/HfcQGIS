@@ -1,4 +1,4 @@
-# `array_intersect`
+# array_intersect
 
 Restituisce true (vero) se almeno un elemento dell'_array1_ esiste in _array2_.
 

@@ -1,4 +1,4 @@
-# `array_prepend`
+# array_prepend
 
 Restituisce un array con il valore dato aggiunto all'inizio.
 
