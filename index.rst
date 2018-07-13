@@ -5,13 +5,13 @@ HfcQGIS: Help funzioni calcolatore di campi di `QGIS`_
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
-Il manuale
+Questo manuale
 ~~~~~~~~~~
 
-La versione in formato `Read The Docs`_ del `lavoro`_ di Salvatore
-FIANDACA, è stata realizzata dalla comunità `@OpenDataSicilia`_ (in
+Questa versione in formato `Read The Docs`_ del `lavoro`_ di Salvatore
+FIANDACA, è stata realizzata dalla comunità `@OpenDataSicilia`_, in
 particolare da: `Andrea Borruso`_, `Salvatore Fiandaca`_, `Giovan
-Battista Vitrano`_ e `Ciro Spataro`_)
+Battista Vitrano`_ e `Ciro Spataro`_. L'idea è stata di Giovan Battista.
 
 .. figure:: img/beta_01.png  
 
