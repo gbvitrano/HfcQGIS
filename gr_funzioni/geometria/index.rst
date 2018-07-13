@@ -335,8 +335,8 @@ Geometria
 |                           | sulla superficie della         |         |
 |                           | geometria                      |         |
 +---------------------------+--------------------------------+---------+
-| `pole_of_inaccessibility` | Calcola il polo                | **>=3.0 |
-| _                         | dell’inaccessibilità           | **      |
+| `pole_of_inaccessibility`_| Calcola il polo                | **>=3.0 |
+|                           | dell’inaccessibilità           | **      |
 |                           | approssimato per una           |         |
 |                           | superficie, che è il punto     |         |
 |                           | interno più distante dal       |         |
