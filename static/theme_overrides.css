@@ -88,7 +88,7 @@ background-color: rgba(27,31,35,0.05) !important;
 .wy-menu-vertical li.toctree-l2.current li.toctree-l3 > a {background: rgba(73,125,41,0.50)}
 
 .wy-menu-vertical li.toctree-l2.current li.toctree-l3 > a:hover {text-transform:none;}
-
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3 > a:current {color:#fff!important;}
 
 .wy-menu-vertical li.current a {border-right: solid 0 #c9c9c9;}
 
