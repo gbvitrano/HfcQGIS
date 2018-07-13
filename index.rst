@@ -31,31 +31,26 @@ Contenuti:
   
 .. toctree::
    :maxdepth: 2
-   :caption: Calcolatore di campi
-   
+      
    calcolatore_campi/index
    
 .. toctree::
    :maxdepth: 2
-   :caption: Esempi
    
    esempi/index
 
 .. toctree::
    :maxdepth: 2
-   :caption: Novità rilevanti
- 
+    
    release/index
    
 .. toctree::
    :maxdepth: 2
-   :caption: Le funzioni
-   
+     
    gr_funzioni/index
    
 .. toctree::
    :maxdepth: 2
-   :caption: Come puoi contribuire
    
    contributing
    
