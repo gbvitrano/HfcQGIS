@@ -19,13 +19,6 @@ o attributi. Es.: $id; get_feature().
 | `$id`_                            | Restituisce l'id geometria della  |
 |                                   | riga corrente                     |
 +-----------------------------------+-----------------------------------+
-| `$map`_                           | Restituisce l'id della voce della |
-|                                   | mappa corrente se la mappa viene  |
-|                                   | disegnata in una composizione, o  |
-|                                   | "tela" se la mappa viene          |
-|                                   | disegnata all'interno della       |
-|                                   | finestra principale di QGIS       |
-+-----------------------------------+-----------------------------------+
 | `attribute`_                      | Restituisce il valore di un       |
 |                                   | attributo specificato da una      |
 |                                   | geometria                         |
@@ -67,7 +60,6 @@ o attributi. Es.: $id; get_feature().
 
 .. _$currentfeature: $currentfeature.html
 .. _$id: $id.html
-.. _$map: $map.html
 .. _attribute: attribute.html
 .. _get_feature: get_feature.html
 .. _get_feature_by_id: get_feature_by_id.html
@@ -85,7 +77,6 @@ o attributi. Es.: $id; get_feature().
    
    $currentfeature
    $id
-   map
    attribute
    get_feature
    get_feature_by_id
