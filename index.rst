@@ -1,7 +1,7 @@
 |logo| 
 
 HfcQGIS: Help funzioni calcolatore di campi di `QGIS`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _QGIS: https://qgis.org/it/site/
 
