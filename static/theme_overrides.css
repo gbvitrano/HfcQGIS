@@ -112,8 +112,13 @@ img.logo {    margin-top: -30px; } */
 
 
 /* pagina avanti/indietro */
+
+.btn { background-color:  #67b03a !important;
+	color: #ffffff !important;
+}
+
 .btn-neutral {
-    background-color:  #589632!important;
+    background-color:  #67b03a !important;
     color: #ffffff !important;
 }
 
