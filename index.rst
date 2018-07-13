@@ -75,6 +75,12 @@ La descrizione delle funzioni in italiano è stata realizzata dal gruppo di trad
 
 Marco Grisolia, Roberto Angeletti, Michele Beneventi, Marco Braida, Stefano Campus, Luca Casagrande, Paolo Cavallini, Giuliano Curti, Luca Delucchi, Alessandro Fanna, Michele Ferretti, Matteo Ghetta, Anne Gishla, Maurizio Napolitano, Flavio Rigolon
 
+Link utili
+~~~~~~~~~
+-  `QGIS.org`_
+-  `Documentazione di Qgis`_
+-  `App di matematica GeoGebra`_
+
 Licenze
 ~~~~~~~
 
@@ -92,3 +98,6 @@ BY-SA)`_
 .. _Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA): https://creativecommons.org/licenses/by-sa/4.0/
 .. _Sito web - pigrecoinfinito: https://pigrecoinfinito.wordpress.com/
 .. _Stefano Campus: https://twitter.com/skampus1967?lang=it
+.. _QGIS.org: https://qgis.org/it/site/
+.. _Documentazione di Qgis: https://qgis.org/it/docs/index.html#
+.. _App di matematica GeoGebra: https://www.geogebra.org/?lang=it
