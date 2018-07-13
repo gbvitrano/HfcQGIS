@@ -76,6 +76,27 @@ background-color: rgba(27,31,35,0.05) !important;
 .wy-menu-vertical li.toctree-l1.current > a {border-bottom: solid 0 #fff; border-top: solid 0 #fff; text-transform: none; }
 .wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {background: rgba(193,224,69,0.8); text-transform: none;}
 .wy-menu-vertical li.toctree-l2 a:hover span.toctree-expand {color:#344c25!important;}
+.wy-menu-vertical li.toctree-l3 a:hover span.toctree-expand {color:#344c25!important;}
+.wy-menu-vertical li.toctree-l4 a:hover span.toctree-expand {color:#344c25!important;}
+.wy-menu-vertical li.toctree-l2 a span.toctree-expand {color:#344c25!important;}
+.wy-menu-vertical li.toctree-l3 a span.toctree-expand {color:#344c25!important;}
+.wy-menu-vertical li.toctree-l4 a span.toctree-expand {color:#344c25!important;}
+
+/* testo menu verticale terzo livello */
+.wy-menu-vertical li.toctree-l3.current li.toctree-l4 > a {
+    display: block;
+    background: #9e1818;
+    padding: .4045em 5.663em;
+}
+
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3 > a {background: rgba(73,125,41,0.50)}
+
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3 > a:hover {text-transform:none;}
+
+
+
+
+
 
 /*link*/
 a {color: #f18d36; }
