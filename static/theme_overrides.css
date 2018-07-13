@@ -58,7 +58,11 @@ text-transform: uppercase!important;}
 .wy-menu a:visited {color: #fff;}
 .wy-menu-vertical a:visited {color: #404040;}
 
-.wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {background: #c1e045; text-transform: none;}
+.wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {
+	background: #c1e045; 
+	text-transform: none;
+	text-decoration: underline;
+}
 .wy-menu-vertical li.toctree-l1.current > a {
     border-bottom: solid 0 #fff;
     border-top: solid 0 #fff; text-transform: none; }
