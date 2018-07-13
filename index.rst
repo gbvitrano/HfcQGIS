@@ -67,7 +67,7 @@ Marco Grisolia, Roberto Angeletti, Michele Beneventi, Marco Braida, Stefano Camp
 Link utili
 ~~~~~~~~~
 -  `QGIS.org`_
--  `Documentazione di Qgis`_
+-  `Documentazione di QGIS`_
 -  `App di matematica GeoGebra`_
 
 Licenze
@@ -88,5 +88,5 @@ BY-SA)`_
 .. _Sito web - pigrecoinfinito: https://pigrecoinfinito.wordpress.com/
 .. _Stefano Campus: https://twitter.com/skampus1967?lang=it
 .. _QGIS.org: https://qgis.org/it/site/
-.. _Documentazione di Qgis: https://qgis.org/it/docs/index.html#
+.. _Documentazione di QGIS: https://qgis.org/it/docs/index.html#
 .. _App di matematica GeoGebra: https://www.geogebra.org/?lang=it

@@ -52,8 +52,8 @@ text-transform: uppercase!important;}
 
 
 
-/*.wy-menu-vertical a {color: #404040;}*/
-.wy-menu-vertical a:hover { background-color: rgba(241,141,54,0.8)}
+.wy-menu-vertical a {color: #404040;}
+.wy-menu-vertical a:hover { background-color: rgba(241,141,54,0.8) color: #ffffff !important;}
 .wy-menu a:hover {color: #fff important;}
 .wy-menu a:visited {color: #fff;}
 .wy-menu-vertical a:visited {color: #404040;}
