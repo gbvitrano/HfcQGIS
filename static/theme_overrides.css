@@ -48,8 +48,6 @@ background-color: rgba(27,31,35,0.05) !important;
 /* testo menu merticale maiuscolo */	
 .wy-menu-vertical {	font-weight: bold;
 color:#497d29!important;
-height: 32px;
-line-height: 32px;
 text-transform: uppercase!important;}
 
 
@@ -66,7 +64,7 @@ text-transform: uppercase!important;}
     border-top: solid 0 #fff; }
 .wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {background: rgba(193,224,69,0.8);}
 /*.wy-menu-vertical li.current > a:hover {background: transparent;}*/
-.wy-nav-content {background: #efefef; }
+
 .wy-menu-vertical li.hover a {background-color: rgba(193,224,69,0.5);}
 /*.wy-menu-vertical li.current a {background-color: rgba(193,224,69,0.3);}*/
 .wy-menu-vertical li.toctree-l2.current>a { background: rgba(193,224,69,0.6); }
@@ -100,6 +98,7 @@ a:visited {color: #589632; text-decoration:none; }
 	
 .wy-body-for-nav { background: #efefef; }
 
+.wy-nav-content {background: #efefef; }
 
 /* mobile logo */
 .wy-nav-top { background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logo_mobile_01.png);
