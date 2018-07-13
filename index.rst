@@ -69,6 +69,12 @@ Autore HfcQGIS
 `Salvatore Fiandaca <./autore.html>`__ (aka pigreco) - `Sito web -
 pigrecoinfinito`_
 
+Traduzione in italiano
+~~~~~~~~~~~~~~~~~~~~~~
+La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da `Stefano Campus`_
+
+Marco Grisolia, Roberto Angeletti, Michele Beneventi, Marco Braida, Stefano Campus, Luca Casagrande, Paolo Cavallini, Giuliano Curti, Luca Delucchi, Alessandro Fanna, Michele Ferretti, Matteo Ghetta, Anne Gishla, Maurizio Napolitano, Flavio Rigolon
+
 Licenze
 ~~~~~~~
 
@@ -85,3 +91,4 @@ BY-SA)`_
 .. _Ciro Spataro: https://twitter.com/cirospat?lang=it
 .. _Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA): https://creativecommons.org/licenses/by-sa/4.0/
 .. _Sito web - pigrecoinfinito: https://pigrecoinfinito.wordpress.com/
+.. _Stefano Campus: https://twitter.com/skampus1967?lang=it
