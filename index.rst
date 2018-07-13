@@ -21,7 +21,7 @@ Contenuti:
 .. toctree::
   :maxdepth: 2
  
-  Home <https://hfcqgis.readthedocs.io/it/latest/>
+  Home <http://hfcqgis.opendatasicilia.it/it/latest/>
   
 .. toctree::
    :maxdepth: 2
@@ -50,7 +50,7 @@ Contenuti:
    
 .. toctree::
   :glob:
-  :includehidden: Home <https://hfcqgis.readthedocs.io/it/latest/>
+  :includehidden: Home <http://hfcqgis.opendatasicilia.it/it/latest/>
   
 Autore HfcQGIS
 ~~~~~~~~~~~~~~
