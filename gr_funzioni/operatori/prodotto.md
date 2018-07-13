@@ -1,4 +1,4 @@
-## Operatore `*` (prodotto)
+# Operatore * (prodotto)
 
 Moltiplicazione di due valori.
 

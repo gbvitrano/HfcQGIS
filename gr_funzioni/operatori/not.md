@@ -1,4 +1,4 @@
-## Operatore `NOT`
+# Operatore NOT
 
 Nega una condizione.
 

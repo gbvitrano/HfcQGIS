@@ -1,4 +1,4 @@
-## Operatore `<` (minore)
+# Operatore < (minore)
 
 Confronta due valori e pone a 1 se il valore a sinistra è minore del valore a destra.
 

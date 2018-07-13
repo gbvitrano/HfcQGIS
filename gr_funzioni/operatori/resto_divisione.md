@@ -1,4 +1,4 @@
-## Operatore `%` (resto)
+# Operatore % (resto)
 
 Resto della divisione.
 In aritmetica il resto è la quantità di *dividendo* che è _avanzata_ dalla divisione, cioè quella quantità che non è stata possibile dividere per il divisore affinché il risultato rimanga nell'insieme dei `numeri interi`.

@@ -1,4 +1,4 @@
-## Operatore `=` (uguale)
+# Operatore = (uguale)
 
 Confronta due valori e pone a 1 se essi sono uguali.
 

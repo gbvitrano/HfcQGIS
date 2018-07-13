@@ -1,4 +1,4 @@
-## Operatore `OR`
+# Operatore OR
 
 Restituisce 1 quando la condizione a oppure b è vera.
 

@@ -1,4 +1,4 @@
-## Operatore `^` (potenza)
+# Operatore ^ (potenza)
 
 Elevazione a potenza di due valori.
 
