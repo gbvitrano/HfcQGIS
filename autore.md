@@ -10,7 +10,7 @@ Ha partecipato alla realizzazione di un plugin per QGIS ([Select by Relationship
 
 ![foto](img/hfita1_2017_bologna.png)
 
-**Foto**: Hack Fest QGIS ITA Bologna 2017, da sinistra: _Luca Mandolesi, Giuseppe Guarino, Salvatore Fiandaca, Pierluigi de Rosa e Enrico Ferreguti (uno dei più attivi sviluppatori di plugin italiani_
+**Foto**: Hack Fest QGIS ITA Bologna 2017, da sinistra: _Luca Mandolesi, Giuseppe Guarino, Salvatore Fiandaca, Pierluigi de Rosa e Enrico Ferreguti (uno dei più attivi sviluppatori di plugin italiani_)
 
 ![foto](img/hfita2_2017_padova.png)
 
