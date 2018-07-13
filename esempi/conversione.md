@@ -17,7 +17,7 @@ floor( ($y - floor($y))*60)
 format_number( 
 to_real((($y - floor($y))*60) -floor((($y - floor($y))*60 )))*60 ,2) ||'" N'
 ```
-Funzione [floor](./gr_funzioni/matematica/floor.html)
+Funzione [floor](it/latest/gr_funzioni/matematica/floor.html)
 
 ![](/img/esempi/conversione/conversione1.png)
 
