@@ -100,5 +100,6 @@ html_theme_options = {
     'logo_only': True,
     'display_version': False,
     'description': 'HfcQGIS - Help funzioni calcolatore di campi di QGIS',
-    'sticky_navigation': True
+    'sticky_navigation': True,
+    'style_external_links': True
 }
