@@ -1,4 +1,4 @@
-## Operatore `<>` (diverso)
+# Operatore <> (diverso)
 
 Confronta due valori e pone a 1 se essi non sono uguali.
 

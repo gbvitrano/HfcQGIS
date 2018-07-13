@@ -1,4 +1,4 @@
-## Operatore `ILIKE`
+# Operatore ILIKE
 
 Restituisce 1 se il primo parametro soddisfa senza tener conto delle maiuscole o minuscole il modello fornito. LIKE può essere usato al posto di ILIKE per eseguire una comparazione che tenga conto delle maiuscole e minuscole. Funziona anche con i numeri.
 

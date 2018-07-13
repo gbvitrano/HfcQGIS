@@ -1,4 +1,4 @@
-## Operatore `>=` (maggiore uguale)
+# Operatore >= (maggiore uguale)
 
 Confronta due valori e pone a 1 se il valore a sinistra è maggiore o uguale del valore a destra.
 

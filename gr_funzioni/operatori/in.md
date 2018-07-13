@@ -1,4 +1,4 @@
-## Operatore `IN`
+# Operatore IN
 
 Restituisce 1 se il valore viene trovato in una lista di valori.
 

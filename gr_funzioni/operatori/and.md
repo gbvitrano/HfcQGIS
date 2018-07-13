@@ -1,4 +1,4 @@
-## Operatore `AND`
+# Operatore AND
 
 Restituisce 1 quando le condizioni a e b sono vere.
 

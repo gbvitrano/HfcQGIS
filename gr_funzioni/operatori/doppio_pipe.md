@@ -1,4 +1,4 @@
-## Operatore `||` (doppio pipe)
+# Operatore || (doppio pipe)
 
 Unisce due valori assieme in una stringa.
 Se uno dei valori è NULL il risultato sarà NULL. Vedi la funzione CONCAT con caratteristiche differenti.

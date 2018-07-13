@@ -1,4 +1,4 @@
-## Operatore `LIKE`
+# Operatore LIKE
 
 Restituisce 1 se il primo parametro soddisfa il modello fornito. Funziona anche con i numeri.
 

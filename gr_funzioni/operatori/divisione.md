@@ -1,4 +1,4 @@
-## Operatore `/` (divisione)
+# Operatore / (divisione)
 
 Divisione di due valori.
 

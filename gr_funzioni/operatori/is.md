@@ -1,4 +1,4 @@
-## Operatore `IS`
+# Operatore IS
 
 Restituisce 1 se _a_ è uguale a _b_.
 
