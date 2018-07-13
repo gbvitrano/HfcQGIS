@@ -45,7 +45,14 @@ background-color: rgba(27,31,35,0.05) !important;
 
 .wy-side-scroll {background: #ffffff;} 
 
-.wy-menu-vertical a {color: #404040;}
+/* testo menu merticale maiuscolo */	
+.wy-menu-vertical {	font-weight: bold;
+color:#497d29!important;
+text-transform: uppercase!important;}
+
+
+
+/*.wy-menu-vertical a {color: #404040;}*/
 .wy-menu-vertical a:hover { background-color: rgba(241,141,54,0.8)}
 .wy-menu a:hover {color: #fff;}
 .wy-menu a:visited {color: #fff;}
@@ -57,7 +64,7 @@ background-color: rgba(27,31,35,0.05) !important;
     border-top: solid 0 #fff; }
 .wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {background: rgba(193,224,69,0.8);}
 /*.wy-menu-vertical li.current > a:hover {background: transparent;}*/
-.wy-nav-content {background: #efefef; }
+
 .wy-menu-vertical li.hover a {background-color: rgba(193,224,69,0.5);}
 /*.wy-menu-vertical li.current a {background-color: rgba(193,224,69,0.3);}*/
 .wy-menu-vertical li.toctree-l2.current>a { background: rgba(193,224,69,0.6); }
@@ -91,6 +98,7 @@ a:visited {color: #589632; text-decoration:none; }
 	
 .wy-body-for-nav { background: #efefef; }
 
+.wy-nav-content {background: #efefef; }
 
 /* mobile logo */
 .wy-nav-top { background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logo_mobile_01.png);
@@ -128,14 +136,6 @@ img.logo {    margin-top: -30px; } */
 	text-decoration: none !important;}
 	
 	.btn-neutral:visited  {
-    background-color: #67b03a !important;
     color: #ffffff !important;
 	text-decoration: none !important;}
 	
-.wy-menu-vertical {	font-weight: bold;
-color:#497d29;
-height: 30px;
-line-height: 30px;
-font-size: 80%;
-white-space: nowrap;
-text-transform: uppercase!important;}
