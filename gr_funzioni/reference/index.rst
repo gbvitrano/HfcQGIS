@@ -29,26 +29,26 @@ livello usando come valore di campo o una condizione spaziale
 | `dbsql`_                          | Recupera i risultati dalla query  |
 |                                   | SQL                               |
 +-----------------------------------+-----------------------------------+
-| Funzioni WKT:                     |                                   |
+| Funzioni wkt:                     |                                   |
 +-----------------------------------+-----------------------------------+
-| `WKTcentroid`_                    | Restituisce il centro di massa    |
+| `wktcentroid`_                    | Restituisce il centro di massa    |
 |                                   | della geometria data come         |
-|                                   | geometria del punto WKT           |
+|                                   | geometria del punto wkt           |
 +-----------------------------------+-----------------------------------+
-| `WKTpointonsurface`_              | Restituisce il punto all'interno  |
+| `wktpointonsurface`_              | Restituisce il punto all'interno  |
 |                                   | della geometria data              |
 +-----------------------------------+-----------------------------------+
-| `WKTlenght`_                      | Restituisce la lunghezza della    |
-|                                   | geometria WKT fornita             |
+| `wktlenght`_                      | Restituisce la lunghezza della    |
+|                                   | geometria wkt fornita             |
 +-----------------------------------+-----------------------------------+
-| `WKTarea`_                        | Restituisce l'area della          |
-|                                   | geometria WKT indicata            |
+| `wktarea`_                        | Restituisce l'area della          |
+|                                   | geometria wkt indicata            |
 +-----------------------------------+-----------------------------------+
 | Funzioni geometriche:             |                                   |
 +-----------------------------------+-----------------------------------+
 | `geomRedef`_                      | ridefinire la geometria della     |
 |                                   | feature corrente con una nuova    |
-|                                   | geometria WKT (sperimentale!)     |
+|                                   | geometria wkt (sperimentale!)     |
 +-----------------------------------+-----------------------------------+
 | `geomnearest`_                    | Recupera il valore del campo      |
 |                                   | target dalla funzione di          |
@@ -118,10 +118,10 @@ livello usando come valore di campo o una condizione spaziale
 .. _dbvaluebyid: dbvaluebyid.html
 .. _dbquery: dbquery.html
 .. _dbsql: dbsql.html
-.. _WKTcentroid: WKTcentroid.html
-.. _WKTpointonsurface: WKTpointonsurface.html
-.. _WKTlenght: WKTlenght.html
-.. _WKTarea: WKTarea.html
+.. _wktcentroid: wktcentroid.html
+.. _wktpointonsurface: wktpointonsurface.html
+.. _wktlenght: wktlenght.html
+.. _wktarea: wktarea.html
 .. _geomRedef: geomRedef.html
 .. _geomnearest: geomnearest.html
 .. _geomdistance: geomdistance.html
