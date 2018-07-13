@@ -25,137 +25,78 @@ background-color: rgba(27,31,35,0.05) !important;
       overflow: visible !important;
    }}
    
+ /* disattiva testo latest  menu sx */
+.wy-side-nav-search>div.version {display: none;}  
+/* disattiva testo Home  menu sx */
+.wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {font-size: 0;  color: #fff; font-weight: bold; text-decoration:none; }   
+ /* disattiva background logo latest  menu sx */
+.wy-side-nav-search > a:hover, .wy-side-nav-search .wy-dropdown > a:hover {
+    background: rgba(255,255,255,0); }
+.wy-side-nav-search {margin-top: -20px;}  
+   
 /* Testo paragrafo giustificto*/
 /*p {text-align: justify;} */
-
-
+/* @http://hfcqgis.opendatasicilia.it*/
 /* adatta il nav-content a fullhd */
 .wy-nav-content {max-width: 1920px;}
 
 /* background menu sx*/
 /*.wy-side-nav-search {background: linear-gradient(#67b03a, #589632); } */
+
+/* background nav-top sx*/
 .wy-side-nav-search {background:  #ffffff;}
-
 .wy-side-nav-search input[type="text"] {border-color: #589632; } 
+.wy-nav-top a:visited {color: #fff !important; font-weight: bold !important;}
 
-.wy-nav-top a:visited {
-    color: #fff !important;
-    font-weight: bold !important;
-}
-
+/*background  colonna sx*/
 .wy-side-scroll {background: #ffffff;} 
 
-/* testo menu merticale maiuscolo */	
-.wy-menu-vertical {	font-weight: bold;
-color:#344c25!important;
-text-transform: uppercase!important;}
+/*background  nav-content dx*/
+.wy-nav-content {background: #efefef; }
+/* @http://hfcqgis.opendatasicilia.it*/
+/* testo menu verticale maiuscolo */	
+.wy-menu-vertical {	font-weight: bold; color:#344c25!important; text-transform: uppercase!important;}
+.wy-menu-vertical a {color:#344c25!important;}
 
-
-/*#344c25*/
-
-
-element.style {
-}
-.wy-menu-vertical a:visited {
-    color: #404040;
-}
-.wy-menu a:visited {
-    color: #fff;
-}
-a:visited {
-    color: #589632;
-    text-decoration: none;
-}
-.wy-menu-vertical a {color: #404040;}
-.wy-menu-vertical a:hover { background-color: rgba(241,141,54,0.8); color: #ffffff!important;}
-.wy-menu-vertical a:visited {color: #404040;}
-
+/* testo menu verticale primo livello */
+.wy-menu-vertical a:hover { background-color: rgba(241,141,54,0.8);  color: #ffffff !important;}
 .wy-menu a:hover {color: #fff important;}
 .wy-menu a:visited {color: #fff;}
+.wy-menu-vertical a:visited {color: #344c25!}
 
-
-.wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {
-	background: #c1e045; 
-	text-transform: none;
-	text-decoration: underline;
-}
-.wy-menu-vertical li.toctree-l1.current > a {
-    border-bottom: solid 0 #fff;
-    border-top: solid 0 #fff; text-transform: none; }
-.wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {background: rgba(193,224,69,0.8); text-transform: none;}
-/*.wy-menu-vertical li.current > a:hover {background: transparent;}*/
-
+/*.wy-menu-vertical a:hover span.toctree-expand {color:#344c25!important;}*/
+.wy-menu-vertical li span.toctree-expand {color:#344c25!important;}
+/* @http://hfcqgis.opendatasicilia.it*/
+/* testo menu verticale secondo livello */
 .wy-menu-vertical li.hover a {background-color: rgba(193,224,69,0.5); text-transform: none;}
 /*.wy-menu-vertical li.current a {background-color: rgba(193,224,69,0.3);}*/
 .wy-menu-vertical li.toctree-l2.current>a { background: rgba(193,224,69,0.6); text-transform: none; }
 .wy-menu-vertical li.toctree-l2.hover>a { background: rgba(193,224,69,0.75); text-transform: none; }
+.wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {background: #c1e045; text-transform: none;}
+.wy-menu-vertical li.toctree-l1.current > a {border-bottom: solid 0 #fff; border-top: solid 0 #fff; text-transform: none; }
+.wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {background: rgba(193,224,69,0.8); text-transform: none;}
+.wy-menu-vertical li.toctree-l2 a:hover span.toctree-expand {color:#344c25!important;}
 
-/* @http://hfcqgis.opendatasicilia.it*/
+}
 
-a {color: #f18d36; }
-a:hover {color: #f18d36; text-decoration:underline; }
-a:visited {color: #589632; text-decoration:none; }
 
-/* Blocco pbubblicita */
-.wy-body-for-nav .keep-us-sustainable {color: #404040; background-color: #404040;}
-
-/* testo caption menu sx */
-/*.wy-nav-side {color: #589632;} */
-.wy-nav-side {color: #497d29;}
-
-/* disattiva testo latest  menu sx */
-.wy-side-nav-search>div.version {display: none;}
-
-/* disattiva testo Home  menu sx */
-.wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {font-size: 0;  color: #fff; font-weight: bold; text-decoration:none; }
-
-/* @http://hfcqgis.opendatasicilia.it*/	   
-
-/* disattiva background logo latest  menu sx */
-.wy-side-nav-search > a:hover, .wy-side-nav-search .wy-dropdown > a:hover {
-    background: rgba(255,255,255,0); }
-.wy-side-nav-search {margin-top: -20px;}
+/* pagina avanti/indietro */
+.btn { background-color:  #67b03a !important;
+	color: #ffffff !important;}
+.btn-neutral {
+    background-color:  #67b03a !important;
+    color: #ffffff !important;}
+.btn-neutral:hover {
+    background-color: #497d29 !important;
+    color: #ffffff !important;
+	text-decoration: none !important;}
+	.btn-neutral:visited  {
+    color: #ffffff !important;
+	text-decoration: none !important;}
 	
-.wy-body-for-nav { background: #efefef; }
-
-.wy-nav-content {background: #efefef; }
-
 /* mobile logo */
 .wy-nav-top { background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logo_mobile_01.png);
 background-repeat: no-repeat;
 background-position: center;
 background-color: #67b03a;
  }
-
-/* Nome sito in mobile sempre bianco */
-/* .wy-nav-top a:visited,  .wy-nav-top a:hover {
-    color: #fff !important;
-    font-weight: bold !important;
-	text-decoration:none;
-	} */
-
-
-/* .wy-side-nav-search > a.icon img.logo, .wy-side-nav-search .wy-dropdown > a.icon img.logo
-img.logo {    margin-top: -30px; } */
-
-
-/* pagina avanti/indietro */
-
-.btn { background-color:  #67b03a !important;
-	color: #ffffff !important;
-}
-
-.btn-neutral {
-    background-color:  #67b03a !important;
-    color: #ffffff !important;
-}
-
-.btn-neutral:hover {
-    background-color: #497d29 !important;
-    color: #ffffff !important;
-	text-decoration: none !important;}
-	
-	.btn-neutral:visited  {
-    color: #ffffff !important;
-	text-decoration: none !important;}
-	
