@@ -45,7 +45,16 @@ background-color: rgba(27,31,35,0.05) !important;
 
 .wy-side-scroll {background: #ffffff;} 
 
-.wy-menu-vertical a {color: #404040;}
+/* testo menu merticale maiuscolo */	
+.wy-menu-vertical {	font-weight: bold;
+color:#497d29!important;
+height: 32px;
+line-height: 32px;
+text-transform: uppercase!important;}
+
+
+
+/*.wy-menu-vertical a {color: #404040;}*/
 .wy-menu-vertical a:hover { background-color: rgba(241,141,54,0.8)}
 .wy-menu a:hover {color: #fff;}
 .wy-menu a:visited {color: #fff;}
@@ -131,9 +140,3 @@ img.logo {    margin-top: -30px; } */
     color: #ffffff !important;
 	text-decoration: none !important;}
 	
-/* testo menu merticale maiuscolo */	
-.wy-menu-vertical {	font-weight: bold;
-color:#497d29;
-height: 32px;
-line-height: 32px;
-text-transform: uppercase!important;}
