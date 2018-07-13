@@ -43,7 +43,7 @@ Le espressioni implementate per realizzare quanto descritto sopra sono tre, una 
     * ![](/img/novita_32/novita_32_06.png)
     * `intersects(  buffer(@current_geometry ,1000),$geometry)`
 
-NB: nella cartella [esempi](/it/latest/release/novita_3.2.html) trovate un geopackage con i dati e un progetto esempio
+NB: nella cartella [esempi](/it/latest/esempi/index.html) trovate un geopackage con i dati e un progetto esempio
 
 video:
 
