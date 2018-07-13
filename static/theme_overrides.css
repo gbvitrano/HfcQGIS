@@ -58,17 +58,17 @@ text-transform: uppercase!important;}
 .wy-menu a:visited {color: #fff;}
 .wy-menu-vertical a:visited {color: #404040;}
 
-.wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {background: #c1e045;}
+.wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {background: #c1e045; text-transform: none;}
 .wy-menu-vertical li.toctree-l1.current > a {
     border-bottom: solid 0 #fff;
-    border-top: solid 0 #fff; }
-.wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {background: rgba(193,224,69,0.8);}
+    border-top: solid 0 #fff; text-transform: none; }
+.wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {background: rgba(193,224,69,0.8); text-transform: none;}
 /*.wy-menu-vertical li.current > a:hover {background: transparent;}*/
 
-.wy-menu-vertical li.hover a {background-color: rgba(193,224,69,0.5);}
+.wy-menu-vertical li.hover a {background-color: rgba(193,224,69,0.5); text-transform: none;}
 /*.wy-menu-vertical li.current a {background-color: rgba(193,224,69,0.3);}*/
-.wy-menu-vertical li.toctree-l2.current>a { background: rgba(193,224,69,0.6); }
-.wy-menu-vertical li.toctree-l2.hover>a { background: rgba(193,224,69,0.75); }
+.wy-menu-vertical li.toctree-l2.current>a { background: rgba(193,224,69,0.6); text-transform: none; }
+.wy-menu-vertical li.toctree-l2.hover>a { background: rgba(193,224,69,0.75); text-transform: none; }
 
 /* @http://hfcqgis.opendatasicilia.it*/
 
