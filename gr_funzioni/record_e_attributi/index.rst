@@ -85,6 +85,7 @@ o attributi. Es.: $id; get_feature().
    
    $currentfeature
    $id
+   map
    attribute
    get_feature
    get_feature_by_id
