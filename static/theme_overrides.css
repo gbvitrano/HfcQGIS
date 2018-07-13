@@ -77,7 +77,13 @@ background-color: rgba(27,31,35,0.05) !important;
 .wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {background: rgba(193,224,69,0.8); text-transform: none;}
 .wy-menu-vertical li.toctree-l2 a:hover span.toctree-expand {color:#344c25!important;}
 
-}
+/*link*/
+a {color: #f18d36; }
+a:hover {color: #f18d36; text-decoration:underline; }
+a:visited {color: #589632; text-decoration:none; }
+
+/* Blocco pbubblicita */
+.wy-body-for-nav .keep-us-sustainable {color: #404040; background-color: #404040;}
 
 
 /* pagina avanti/indietro */
