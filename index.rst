@@ -77,6 +77,11 @@ Se non specificato diversamente, tutti i contenuti sono soggetti alla
 licenza: `Creative Commons Attribution-ShareAlike 4.0 licence (CC
 BY-SA)`_
 
+**Per visualizzare e consultare correttamente i contenuti di HfcQGIS sono necessari:**<br>
+**Risoluzione video desktop:** Pc con scheda video SVGA. Monitor a risoluzione minima di 1024x768 pixel con almeno 65.536 colori.<br>
+**Mobile:** Risoluzione minima di 360 x 640 px (modello di riferimento Sansung Galaxy S3).<br>
+**Browser**: HfcQGIS è ottimizzato per Microsoft Internet Explorer Versione 11.0 e successive, Microsoft Edge versione 25.1e immediatamente successive, Mozilla Firefox versione 50.0 e successive o Chrome versione 40.0 o successiva, Opera versione 48.0 o successiva Safari versione 9.0 o successiva.
+
 .. _Read The Docs: https://docs.readthedocs.io/en/latest/index.html
 .. _lavoro: https://github.com/pigreco/HfcQGIS
 .. _@OpenDataSicilia: http://opendatasicilia.it/
