@@ -105,7 +105,9 @@ nome`_.
 Grazie ai `parametri denominati`_ non è più indispensabile seguire, nella sintassi, l’ordine degli argomenti, ecco un esempio:
 
 La sintassi prevede due possibilità: 
+
 1. quella classica, senza l’uso dei paramentri denominati (l’ordine è fondamentale);
+   
    1. count_distinct(\ *expression, group_by, filter*) 
    
 2. con i parametri denominati (l’ordine non è più fondamentale):
