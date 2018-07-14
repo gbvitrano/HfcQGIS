@@ -55,8 +55,16 @@ background-color: rgba(27,31,35,0.05) !important;
 .wy-nav-content {background: #efefef; }
 /* @http://hfcqgis.opendatasicilia.it*/
 /* testo menu verticale maiuscolo */	
-.wy-menu-vertical {	font-weight: bold; color:#344c25!important; text-transform: uppercase!important;}
+.wy-menu-vertical {	font-weight: bold; color:#344c25!important; }
 .wy-menu-vertical a {color:#344c25!important;}
+
+/* tutto in maiuscolo prima voce di menu */
+div.wy-menu-vertical > ul > li > a {
+
+    text-transform: uppercase !important;
+
+}
+/* tutto in maiuscolo prima voce di menu */
 
 /* per applicare underline e colore a voci di menu attive */
 li.current > a {
