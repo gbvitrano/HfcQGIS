@@ -78,7 +78,7 @@ BY-SA)`_
 
 Disclaimer
 ~~~~~~~~~~~
-Questa guida NON sostituisce il manuale online di QGIS, cerca solo di rendere più facile la comprensione dello strumento!!!
+Questa guida NON sostituisce il `manuale`_ online di QGIS, cerca solo di rendere più facile la comprensione dello strumento!!!
 
 | **Per visualizzare e consultare correttamente i contenuti di HfcQGIS
   sono necessari:**
@@ -106,3 +106,4 @@ Questa guida NON sostituisce il manuale online di QGIS, cerca solo di rendere pi
 .. _Documentazione di QGIS: https://qgis.org/it/docs/index.html#
 .. _App di matematica GeoGebra: https://www.geogebra.org/?lang=it
 .. _guida online di QGIS: https://qgis.org/it/docs/index.html#
+.. _manuale: https://qgis.org/it/docs/index.html#
