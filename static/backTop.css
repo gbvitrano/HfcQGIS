@@ -13,7 +13,7 @@
 	-webkit-box-sizing:content-box;
 }
 /*@opendatasicilia*/
-@media (min-width: 320px) and (max-width: 1023px) {#backTop {width:10px; height:20px;border-radius:5px;}}
+@media (min-width: 320px) and (max-width: 1023px) {#backTop {width:10px; height:20px;border-radius:3px;}}
 
 #backTop.white{
      background:url(qtop.png) no-repeat center center rgba(255,255,255,0.8);
@@ -25,9 +25,11 @@
 }
 #backTop.red{
      background:url(http://hfcqgis.opendatasicilia.it/it/latest/_static/qtop.png) no-repeat center center rgba(241,141,54,0.9); 
+	 /*regola la dimesione dell'immagine*/
 	 background-size: 35px;
      /*border:1px solid #ccc;*/
 }
+@media (min-width: 320px) and (max-width: 1023px) {#backTop.red {background-size: 25px;;}}
 #backTop.green{
      background:url(qtop.png) no-repeat center center rgba(81,217,187,0.9); 
      /*border:1px solid #ccc;*/
