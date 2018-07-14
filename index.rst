@@ -3,7 +3,7 @@ HfcQGIS: Help funzioni calcolatore di campi di `QGIS`_
 
 .. _QGIS: https://qgis.org/it/site/
 
-Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del **calcolatore di campi**, a integrazione - con esempi e molti screenshot della `guida ufficiale di QGIS`_.
+Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del **calcolatore di campi**, a integrazione - con esempi e molti screenshot - della `guida ufficiale di QGIS`_.
 
 Questo manuale
 ~~~~~~~~~~
