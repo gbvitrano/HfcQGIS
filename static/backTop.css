@@ -16,7 +16,7 @@
 @media (min-width: 320px) and (max-width: 1023px) {#backTop {width:10px; height:20px;border-radius:5px;}}
 
 #backTop.white{
-     background:url(img/qtop.png) no-repeat center center rgba(255,255,255,0.8);
+     background:url(qtop.png) no-repeat center center rgba(255,255,255,0.8);
      /*border:1px solid #ccc;*/
 }
 #backTop.black{
