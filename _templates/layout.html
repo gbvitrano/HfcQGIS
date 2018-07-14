@@ -25,7 +25,19 @@
 {% block footer %}
       {{ super() }}
       <div class="footerc">
-          <p>ciao Ciro</p>
+          <a id='backTop'>Back To Top</a>
+ <!-- script toptoback automatico mobile/desktop -->  
+ <script type="text/javascript" src="http://palermohub.opendatasicilia.it/lib/js/top/jquery.backTop.min.js"></script>
+<script>
+            $(document).ready( function() {
+                $('#backTop').backTop({
+                    'position' : 400,
+                    'speed' : 300,
+                    'color' : 'red',
+					
+					                });
+            });
+        </script>
       </div>
 {% endblock %}
 
