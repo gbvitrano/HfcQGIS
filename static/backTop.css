@@ -1,7 +1,7 @@
 /*Main stylesheet for Backtop jQuery Plugin */
 #backTop{
-    width:22px;
-    height:30px;
+    width:20px;
+    height:20px;
     padding:10px;
 	right:6px;bottom:30px;  position:fixed;
     border-radius:5px;
@@ -13,7 +13,7 @@
 	-webkit-box-sizing:content-box;
 }
 /*@opendatasicilia*/
-@media (min-width: 320px) and (max-width: 1023px) {#backTop {width:10px; height:20px;border-radius:3px;}}
+@media (min-width: 320px) and (max-width: 1023px) {#backTop {width:10px; height:10px;border-radius:3px;}}
 
 #backTop.white{
      background:url(qtop.png) no-repeat center center rgba(255,255,255,0.8);
@@ -24,7 +24,7 @@
     /*border:1px solid #ccc;*/
 }
 #backTop.red{
-     background:url(http://hfcqgis.opendatasicilia.it/it/latest/_static/qtop.png) no-repeat center center rgba(241,141,54,0.9); 
+     background:url(http://hfcqgis.opendatasicilia.it/it/latest/_static/hfctop.png) no-repeat center center rgba(241,141,54,0.9); 
 	 /*regola la dimesione dell'immagine*/
 	 background-size: 35px;
      /*border:1px solid #ccc;*/
