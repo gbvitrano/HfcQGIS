@@ -11,7 +11,7 @@ Questo manuale
 Questa versione in formato `Read The Docs`_ del `lavoro`_ di Salvatore
 FIANDACA, è stata realizzata dalla comunità `@OpenDataSicilia`_, in
 particolare da: `Andrea Borruso`_, `Salvatore Fiandaca`_, `Giovan
-Battista Vitrano`_ e `Ciro Spataro`_. L'idea è stata di Giovan Battista.
+Battista Vitrano`_. L'idea è stata di Giovan Battista, mentre la musa ispiratrice per la scelta di Read The Docs è `Ciro Spataro`_.  
 
 .. figure:: img/beta_01.png  
 
