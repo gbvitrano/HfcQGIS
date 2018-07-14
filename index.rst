@@ -14,7 +14,6 @@ particolare da: `Andrea Borruso`_, `Salvatore Fiandaca`_, `Giovan
 Battista Vitrano`_.
 L'idea è stata di Giovan Battista, mentre la musa ispiratrice per la scelta di Read The Docs è `Ciro Spataro`_.  
 
-
 Contenuti:
 ~~~~~~~~~~
 
@@ -55,8 +54,8 @@ Contenuti:
 Autore HfcQGIS
 ~~~~~~~~~~~~~~
 
-`Salvatore Fiandaca <./autore.html>`__ (aka pigreco) - `Sito web -
-pigrecoinfinito`_
+`Salvatore Fiandaca <./autore.html>`__ (aka pigreco) 
+`Sito web -pigrecoinfinito`_
 
 Traduzione in italiano
 ~~~~~~~~~~~~~~~~~~~~~~
