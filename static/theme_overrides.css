@@ -163,7 +163,7 @@ background-color: #67b03a; }
 /* .fa.fa-github {display: none;} */
 
 /* spegne numero revisione nel footer */
-/*span.commit {display: none;} */
+span.commit {display: none;}
 
 /* hr */
 hr  {border: 0; height: 1px; background:  #589632; background-image: linear-gradient(to right, #93b023,  #589632, #93b023);}
