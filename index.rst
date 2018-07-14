@@ -3,7 +3,7 @@ HfcQGIS: Help funzioni calcolatore di campi di `QGIS`_
 
 .. _QGIS: https://qgis.org/it/site/
 
-Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
+Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla `guida online di QGIS`_ con esempi e molti screenshot.
 
 Questo manuale
 ~~~~~~~~~~
@@ -72,21 +72,28 @@ Link utili
 
 Licenze
 ~~~~~~~
-
 Se non specificato diversamente, tutti i contenuti sono soggetti alla
 licenza: `Creative Commons Attribution-ShareAlike 4.0 licence (CC
 BY-SA)`_
 
-**Per visualizzare e consultare correttamente i contenuti di HfcQGIS sono necessari:**
+Disclaimer
+~~~~~~~~~~~
+Questa guida NON sostituisce il manuale online di QGIS, cerca solo di rendere più facile la comprensione dello strumento!!!
 
-**Risoluzione video desktop:** Pc con scheda video SVGA. Monitor a risoluzione minima di 1024x768 pixel con almeno 65.536 colori.
-
-**Mobile:** Risoluzione minima di 360 x 640 px (modello di riferimento Sansung Galaxy S3).
-
-**Browser**: HfcQGIS è ottimizzato per Microsoft Internet Explorer Versione 11.0 e successive, Microsoft Edge versione 25.1e immediatamente successive, Mozilla Firefox versione 50.0 e successive o Chrome versione 40.0 o successiva, Opera versione 48.0 o successiva Safari versione 9.0 o successiva.
+| **Per visualizzare e consultare correttamente i contenuti di HfcQGIS
+  sono necessari:**
+| **Risoluzione video desktop:** Pc con scheda video SVGA. Monitor a
+  risoluzione minima di 1024x768 pixel con almeno 65.536 colori.
+| **Mobile:** Risoluzione minima di 360 x 640 px (modello di riferimento
+  Sansung Galaxy S3).
+| **Browser:** HfcQGIS è ottimizzato per Microsoft Internet Explorer
+  Versione 11.0 e successive, Microsoft Edge versione 25.1e
+  immediatamente successive, Mozilla Firefox versione 50.0 e successive
+  o Chrome versione 40.0 o successiva, Opera versione 48.0 o successiva
+  Safari versione 9.0 o successiva.
 
 .. _Read The Docs: https://docs.readthedocs.io/en/latest/index.html
-.. _lavoro: https://github.com/pigreco/HfcQGIS
+.. _lavoro: https://github.com/pigreco/HfcQGIS/blob/master/README.md
 .. _@OpenDataSicilia: http://opendatasicilia.it/
 .. _Andrea Borruso: https://twitter.com/aborruso?lang=it
 .. _Salvatore Fiandaca: https://twitter.com/totofiandaca
@@ -98,3 +105,4 @@ BY-SA)`_
 .. _QGIS.org: https://qgis.org/it/site/
 .. _Documentazione di QGIS: https://qgis.org/it/docs/index.html#
 .. _App di matematica GeoGebra: https://www.geogebra.org/?lang=it
+.. _guida online di QGIS: https://qgis.org/it/docs/index.html#
