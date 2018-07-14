@@ -176,8 +176,8 @@ span.commit {
 /* hr */
 hr  {border: 0;
     height: 1px;
-    background:  #93b023;
-    background-image: linear-gradient(to right, #589632,  #93b023, #589632);
+    background:  #589632;
+    background-image: linear-gradient(to right, #93b023,  #589632, #93b023);
 }
 
 
