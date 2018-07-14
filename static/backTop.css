@@ -1,0 +1,33 @@
+/*Main stylesheet for Backtop jQuery Plugin */
+#backTop{
+    width:20px;
+    height:40px;
+    padding:10px;
+	right:15px;bottom:150px;  position:fixed;
+    border-radius:5px;
+    text-indent:-9999px;
+    cursor:pointer;
+    z-index:999999999;
+	display:none;
+	box-sizing:content-box;
+	-webkit-box-sizing:content-box;
+}
+
+@media (min-width: 320px) and (max-width: 1023px) {#backTop {width:10px; height:20px;border-radius:5px;}}
+
+#backTop.white{
+     background:url(img/qtop.png) no-repeat center center rgba(255,255,255,0.8);
+     /*border:1px solid #ccc;*/
+}
+#backTop.black{
+     background:url(img/qtop.png) no-repeat center center rgba(0,0,0,0.8); 
+    /*border:1px solid #ccc;*/
+}
+#backTop.red{
+     background:url(img/qtop.png) no-repeat center center rgba(241,141,54,0.9); 
+     /*border:1px solid #ccc;*/
+}
+#backTop.green{
+     background:url(img/qtop.png) no-repeat center center rgba(81,217,187,0.9); 
+     /*border:1px solid #ccc;*/
+}
