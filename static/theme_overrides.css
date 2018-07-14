@@ -58,27 +58,32 @@ background-color: rgba(27,31,35,0.05) !important;
 .wy-menu-vertical {	font-weight: bold; color:#344c25!important; text-transform: uppercase!important;}
 .wy-menu-vertical a {color:#344c25!important;}
 
-/* per applicare underline a voci di menu attive */
+/* per applicare underline e colore a voci di menu attive */
 li.current > a {
     text-decoration: underline;
+    color: white;
 }
 
 li.current > a:link {
     text-decoration: underline;
+	color: white;
 }
 
 li.current > a:visited {
     text-decoration: underline;
+	color: white;
 }
 
 li.current > a:hover {
     text-decoration: underline;
+	color: white;
 }
 
 li.current > a:active {
     text-decoration: underline;
+	color: white;
 } 
-/* per applicare underline a voci di menu attive */
+/* per applicare underline e colore a voci di menu attive */
 
 /* testo menu verticale primo livello */
 .wy-menu-vertical a:hover { background-color: rgba(241,141,54,0.8);  color: #ffffff !important;}
