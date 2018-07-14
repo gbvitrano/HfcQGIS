@@ -1,7 +1,7 @@
 /*Main stylesheet for Backtop jQuery Plugin */
 #backTop{
-    width:20px;
-    height:40px;
+    width:22px;
+    height:30px;
     padding:10px;
 	right:6px;bottom:30px;  position:fixed;
     border-radius:5px;
@@ -24,7 +24,7 @@
     /*border:1px solid #ccc;*/
 }
 #backTop.red{
-     background:url(http://hfcqgis.opendatasicilia.it/it/latest/_static/qtop_00.png) no-repeat center center rgba(241,141,54,0.9); 
+     background:url(http://hfcqgis.opendatasicilia.it/it/latest/_static/qtop_01.png) no-repeat center center rgba(241,141,54,0.9); 
      /*border:1px solid #ccc;*/
 }
 #backTop.green{
