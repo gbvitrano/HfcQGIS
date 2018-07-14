@@ -8,7 +8,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 Questo manuale
 ~~~~~~~~~~
 
-Questa versione in formato `Read The Docs`_ del `lavoro`_ di Salvatore
+| Questa versione in formato `Read The Docs`_ del `lavoro`_ di Salvatore
 FIANDACA, è stata realizzata dalla comunità `@OpenDataSicilia`_, in
 particolare da: `Andrea Borruso`_, `Salvatore Fiandaca`_, `Giovan
 Battista Vitrano`_.
