@@ -55,7 +55,8 @@ Autore HfcQGIS
 | `Salvatore Fiandaca`_ (aka pigreco)
 | `Sito web - pigrecoinfinito`_
 
-.. include:: snippet.html
+.. raw:: html
+   :file: snippet.html
 
 Traduzione in italiano
 ~~~~~~~~~~~~~~~~~~~~~~
