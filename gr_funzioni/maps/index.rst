@@ -17,38 +17,39 @@ Arrays`_).
 | `json_to_map`_           | Converte string json in    | ArrayPlus   |
 |                          | map                        |             |
 +--------------------------+----------------------------+-------------+
-| `map`_                   | Restituisce una mappa con  |
-|                          | tutte le chiavi ed i       |
-|                          | valori passati come coppie |
-|                          | di parametri               |
+| `map`_                   | Restituisce una mappa con  |             |
+|                          | tutte le chiavi ed i       |             |
+|                          | valori passati come coppie |             |
+|                          | di parametri               |             |
 +--------------------------+----------------------------+-------------+
-| `map_akeys`_             | Restituisce tutte le       |
-|                          | chiavi di una mappa come   |
-|                          | un array                   |
+| `map_akeys`_             | Restituisce tutte le       |             |
+|                          | chiavi di una mappa come   |             |
+|                          | un array                   |             |
 +--------------------------+----------------------------+-------------+
-| `map_avals`_             | Restituisce tutti valori   |
-|                          | di una mappa come un array |
+| `map_avals`_             | Restituisce tutti valori   |             |
+|                          | di una mappa come un array |             |
 +--------------------------+----------------------------+-------------+
-| `map_concat`_            | Restituisce una mappa con  |
-|                          | tutte le entità della      |
-|                          | mappe fornite              |
+| `map_concat`_            | Restituisce una mappa con  |             |
+|                          | tutte le entità della      |             |
+|                          | mappe fornite              |             |
 +--------------------------+----------------------------+-------------+
-| `map_delete`_            | Restituisce una mappa con  |
-|                          | il valore della            |
-|                          | corrispondente chiave      |
-|                          | passata rimosso            |
+| `map_delete`_            | Restituisce una mappa con  |             |
+|                          | il valore della            |             |
+|                          | corrispondente chiave      |             |
+|                          | passata rimosso            |             |
 +--------------------------+----------------------------+-------------+
-| `map_exist`_             | Restituisce vero se la     |
-|                          | chiave passata esiste in   |
-|                          | mappa                      |
+| `map_exist`_             | Restituisce vero se la     |             |
+|                          | chiave passata esiste in   |             |
+|                          | mappa                      |             |
 +--------------------------+----------------------------+-------------+
-| `map_get`_               | Restituisce il valore di   |
-|                          | una mappa, passando la sua |
-|                          | chiave                     |
+| `map_get`_               | Restituisce il valore di   |             |
+|                          | una mappa, passando la sua |             |
+|                          | chiave                     |             |
 +--------------------------+----------------------------+-------------+
-| `map_insert`_            | Restituisce una mappa con  |
-|                          | una chiave/valore aggiunto |
+| `map_insert`_            | Restituisce una mappa con  |             |
+|                          | una chiave/valore aggiunto |             |
 +--------------------------+----------------------------+-------------+
+
 
 |image0|
 
