@@ -58,7 +58,3 @@ i nomi dei layer vanno scritti tra apici semplici ('nome_layer') mentre i nomi d
 ## Altri esempi
 
 Come realizzare una spatial-join con aggregazione usando solo il calcolatore di campi [qui](https://medium.com/@salvatorefiandaca/qgis-3-0-funzioni-di-aggregazione-9c8c389985c5)
-
-## Test
-
-[link a md](array_agg.md)
