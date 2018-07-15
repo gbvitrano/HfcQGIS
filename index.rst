@@ -41,10 +41,15 @@ Contenuti:
      
    gr_funzioni/index
    
-.. toctree::
+   .. toctree::
    :maxdepth: 2
    
    contributing
+   
+.. toctree::
+   :maxdepth: 2
+   
+   autore
    
 .. toctree::
   :glob:
