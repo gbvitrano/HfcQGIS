@@ -116,3 +116,14 @@ man_pages = [
     ('index', 'HfcQGIS', u'HfcQGIS Documentation',
      [u'Salvatore Fiandaca'], 1)
 ]
+
+# -- Options for Texinfo output -------------------------------------------
+
+# Grouping the document tree into Texinfo files. List of tuples
+# (source start file, target name, title, author,
+#  dir menu entry, description, category)
+texinfo_documents = [
+  ('index', 'HfcQGIS', u'HfcQGIS Documentation',
+   u'Salvatore Fiandaca', 'HfcQGIS', 'Help funzioni calcolatore di campi di QGIS'
+   ),
+]
