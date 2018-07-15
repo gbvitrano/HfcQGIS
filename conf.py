@@ -135,6 +135,6 @@ def setup(app):
     app.add_config_value('recommonmark_config', {
         'url_resolver': lambda url: github_doc_root + url,
         'enable_eval_rst': True,
-        'enable_auto_doc_ref': True,
+        'enable_auto_doc_ref': True
     }, True)
     app.add_transform(AutoStructify)
