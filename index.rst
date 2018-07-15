@@ -55,13 +55,6 @@ Autore HfcQGIS
 | `Salvatore Fiandaca`_ (aka pigreco)
 | `Sito web - pigrecoinfinito`_
 
-`profile for pigreco on Stack Exchange, a network of free,
-community-driven Q&A sites`_
-
-.. _profile for pigreco on Stack Exchange, a network of free, community-driven Q&A sites: https://stackexchange.com/users/8482031/pigreco
-
-
-
 Traduzione in italiano
 ~~~~~~~~~~~~~~~~~~~~~~
 La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da `Stefano Campus`_
