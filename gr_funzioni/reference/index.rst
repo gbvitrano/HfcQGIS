@@ -122,7 +122,7 @@ livello usando come valore di campo o una condizione spaziale
 .. _wktpointonsurface: wktpointonsurface.html
 .. _wktlenght: wktlenght.html
 .. _wktarea: wktarea.html
-.. _geomRedef: geomRedef.html
+.. _geomRedef: geomredef.html
 .. _geomnearest: geomnearest.html
 .. _geomdistance: geomdistance.html
 .. _geomwithin: geomwithin.html
