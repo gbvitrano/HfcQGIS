@@ -59,7 +59,7 @@ Autore HfcQGIS
 
 
 .. |snippet| raw:: html 
-     :file: snippet.html
+     <iframe width="100%" height="100px" frameBorder="0" src="snippet.html"></iframe>
  
 Traduzione in italiano
 ~~~~~~~~~~~~~~~~~~~~~~
