@@ -56,7 +56,10 @@ Autore HfcQGIS
 | `Sito web - pigrecoinfinito`_
 
 .. raw:: html
-   :file: http://hfcqgis.opendatasicilia.it/it/latest/snippet.html
+   :file: <http://hfcqgis.opendatasicilia.it/it/latest/snippet.html>
+   
+   .. raw:: html
+   :file: snippet.html
     
 Traduzione in italiano
 ~~~~~~~~~~~~~~~~~~~~~~
