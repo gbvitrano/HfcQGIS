@@ -106,4 +106,13 @@ html_theme_options = {
 
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'HfcQGIS: Help funzioni calcolatore di campi di QGIS'
+htmlhelp_basename = 'HfcQGIS'
+
+# -- Options for manual page output ---------------------------------------
+
+# One entry per manual page. List of tuples
+# (source start file, name, description, authors, manual section).
+man_pages = [
+    ('index', 'HfcQGIS', u'HfcQGIS Documentation',
+     [u'Salvatore Fiandaca'], 1)
+]
