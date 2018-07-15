@@ -114,7 +114,7 @@ La sintassi prevede due possibilità:
 
    1. count_distinct(filter:=,\ *expression:= ,group_by:=*)
 
-.. _parametri denominati: http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions
+.. _parametri con nome: http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions
 .. _aggregate: aggregate.html
 .. _array_agg: array_agg.html
 .. _collect: collect.html
