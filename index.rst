@@ -80,6 +80,7 @@ Disclaimer
 
 .. _Visual Style Guide: https://www.qgis.org/en/site/getinvolved/styleguide.html#primary-colors
 
+
 | **Per visualizzare e consultare correttamente i contenuti di HfcQGIS
   sono necessari:**
 | **Risoluzione video desktop:** Pc con scheda video SVGA. Monitor a
