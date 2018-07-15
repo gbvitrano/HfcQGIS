@@ -53,7 +53,7 @@ Contenuti:
   
 Autore HfcQGIS
 ~~~~~~~~~~~~~~
-| `Salvatore Fiandaca`_ (aka pigreco)
+| `SALVATORE FIANDACA`_ (aka pigreco)
 | `Sito web - pigrecoinfinito`_
 
 Traduzione in italiano
@@ -95,6 +95,7 @@ Questa guida NON sostituisce il `manuale`_ online di QGIS, cerca solo di rendere
 .. _@OpenDataSicilia: http://opendatasicilia.it/
 .. _Andrea Borruso: https://twitter.com/aborruso?lang=it
 .. _Salvatore Fiandaca: https://twitter.com/totofiandaca
+.. _SALVATORE FIANDACA: https://github.com/gbvitrano/HfcQGIS/blob/master/autore.md
 .. _Giovan Battista Vitrano: https://twitter.com/gbvitrano?lang=it
 .. _Ciro Spataro: https://twitter.com/cirospat?lang=it
 .. _Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA): https://creativecommons.org/licenses/by-sa/4.0/
