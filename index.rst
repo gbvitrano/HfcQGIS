@@ -80,7 +80,7 @@ Disclaimer
 | I colori utilizzati in questo RTD sono fedeli alla `Visual Style
   Guide`_
   
-<hr>
+--------------
 
 | **Per visualizzare e consultare correttamente i contenuti di HfcQGIS
   sono necessari:**
