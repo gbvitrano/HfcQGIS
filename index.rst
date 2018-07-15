@@ -9,10 +9,9 @@ Questo manuale
 ~~~~~~~~~~
 | Questa versione in formato `Read The Docs`_ del `lavoro`_ di Salvatore
   FIANDACA, è stata realizzata dalla comunità `@OpenDataSicilia`_, in
-  particolare da: `Andrea Borruso`_, `Salvatore Fiandaca`_ e `Giovan
-  Battista Vitrano`_.
+  particolare da: `@aborruso`_, `@totofiandaca`_ e `@gbvitrano`_.
 | L'idea è stata di Giovan Battista, mentre la musa ispiratrice per la
-  scelta di Read The Docs è `Ciro Spataro`_. 
+  scelta di Read The Docs è `@cirospat`_. 
 
 Contenuti:
 ~~~~~~~~~~
@@ -93,11 +92,11 @@ Questa guida NON sostituisce il `manuale`_ online di QGIS, cerca solo di rendere
 .. _Read The Docs: https://docs.readthedocs.io/en/latest/index.html
 .. _lavoro: https://github.com/pigreco/HfcQGIS/blob/master/README.md
 .. _@OpenDataSicilia: http://opendatasicilia.it/
-.. _Andrea Borruso: https://twitter.com/aborruso?lang=it
-.. _Salvatore Fiandaca: https://twitter.com/totofiandaca
-.. _SALVATORE FIANDACA: https://github.com/gbvitrano/HfcQGIS/blob/master/autore.md
-.. _Giovan Battista Vitrano: https://twitter.com/gbvitrano?lang=it
-.. _Ciro Spataro: https://twitter.com/cirospat?lang=it
+.. _@aborruso: https://twitter.com/aborruso?lang=it
+.. _@totofiandaca: https://twitter.com/totofiandaca
+.. _Salvatore Fiandaca: https://github.com/gbvitrano/HfcQGIS/blob/master/autore.md
+.. _@gbvitrano Vitrano: https://twitter.com/gbvitrano?lang=it
+.. _@cirospat: https://twitter.com/cirospat?lang=it
 .. _Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA): https://creativecommons.org/licenses/by-sa/4.0/
 .. _Sito web - pigrecoinfinito: https://pigrecoinfinito.wordpress.com/
 .. _Stefano Campus: https://twitter.com/skampus1967?lang=it
