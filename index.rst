@@ -52,7 +52,7 @@ Contenuti:
   
 Autore HfcQGIS
 ~~~~~~~~~~~~~~
-| `SALVATORE FIANDACA`_ (aka pigreco)
+| `Salvatore Fiandaca`_ (aka pigreco)
 | `Sito web - pigrecoinfinito`_
 
 Traduzione in italiano
