@@ -75,9 +75,12 @@ BY-SA)`_
 
 Disclaimer
 ~~~~~~~~~~~
-| Questa guida NON sostituisce il `manuale`_ online di QGIS, cerca solo di rendere più facile la comprensione dello strumento!!!
-| I colori utilizzati in questo RTD sono fedeli alla `Visual Style Guide`_
-
+| Questa guida NON sostituisce il `manuale`_ online di QGIS, cerca solo
+  di rendere più facile la comprensione dello strumento!!!
+| I colori utilizzati in questo RTD sono fedeli alla `Visual Style
+  Guide`_
+  
+<hr>
 
 | **Per visualizzare e consultare correttamente i contenuti di HfcQGIS
   sono necessari:**
@@ -90,6 +93,7 @@ Disclaimer
   immediatamente successive, Mozilla Firefox versione 50.0 e successive
   o Chrome versione 40.0 o successiva, Opera versione 48.0 o successiva
   Safari versione 9.0 o successiva.
+
 
 .. _Read The Docs: https://docs.readthedocs.io/en/latest/index.html
 .. _lavoro: https://github.com/pigreco/HfcQGIS/blob/master/README.md
