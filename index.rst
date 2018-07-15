@@ -55,8 +55,11 @@ Autore HfcQGIS
 | `Salvatore Fiandaca`_ (aka pigreco)
 | `Sito web - pigrecoinfinito`_
 
-.. raw:: html
-   :file: snippet.html
+|snippet|
+
+.. |snippet| raw:: html
+
+    <iframe width="100%" height="100px" frameBorder="0" src="http://hfcqgis.opendatasicilia.it/it/latest/snippet.html/"></iframe>
 
 Traduzione in italiano
 ~~~~~~~~~~~~~~~~~~~~~~
