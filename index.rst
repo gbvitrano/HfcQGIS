@@ -41,8 +41,9 @@ Contenuti:
      
    gr_funzioni/index
    
-   .. toctree::
+.. toctree::
    :maxdepth: 2
+   :includehidden:
    
    autore
    
