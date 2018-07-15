@@ -78,8 +78,6 @@ Disclaimer
 | Questa guida NON sostituisce il `manuale`_ online di QGIS, cerca solo di rendere più facile la comprensione dello strumento!!!
 | I colori utilizzati in questo RTD sono fedeli alla `Visual Style Guide`_
 
-.. _Visual Style Guide: https://www.qgis.org/en/site/getinvolved/styleguide.html#primary-colors
-
 
 | **Per visualizzare e consultare correttamente i contenuti di HfcQGIS
   sono necessari:**
@@ -109,3 +107,5 @@ Disclaimer
 .. _App di matematica GeoGebra: https://www.geogebra.org/?lang=it
 .. _guida ufficiale di QGIS: https://qgis.org/it/docs/index.html#
 .. _manuale: https://qgis.org/it/docs/index.html#
+.. _Visual Style Guide: https://www.qgis.org/en/site/getinvolved/styleguide.html#primary-colors
+
