@@ -7,7 +7,7 @@ Quella che segue è una serie di linee guida per contribuire a **HfcQGIS**. Ques
 ## Come puoi contribuire
 
 ### Donazione 
-Per realizzare questa guida ho impiegato del tempo e messo a disposizione tutta la mia conoscenza sullo strumento. <a href="https://www.paypal.me/pigrecoinfinito" target="_blank"><img width="70" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/PayPal.png" Title="Dona con PayPal" alt="Dona con PayPal" /></a>
+Per realizzare questa guida ho impiegato del tempo e messo a disposizione tutta la mia conoscenza sullo strumento. <a href="https://www.paypal.me/pigrecoinfinito" target="_blank"><img width="70" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/PayPal.png" class="immagonobox" Title="Dona con PayPal" alt="Dona con PayPal" /></a>
 
 
 
