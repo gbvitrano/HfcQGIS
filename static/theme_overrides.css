@@ -191,11 +191,7 @@ hr  {border: 0; height: 1px; background:  #589632; background-image: linear-grad
 	}
 
 /* breadcrumbs */	
-	
-	.wy-breadcrumbs {
-    height: 50px;
-
-}
+/*	.wy-breadcrumbs {height: 50px;}*/	
 
 #social { position:relative; top:30px; left: 175px; z-index: 100;}
 @media (min-width: 320px) and (max-width: 1023px) {#social{left: 20px; top: 110px;}}
