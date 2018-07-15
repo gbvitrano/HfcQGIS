@@ -61,4 +61,4 @@ Come realizzare una spatial-join con aggregazione usando solo il calcolatore di 
 
 ## Test
 
-[link a md](./array_agg.md)
+[link a md](array_agg.md)
