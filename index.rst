@@ -44,12 +44,12 @@ Contenuti:
    .. toctree::
    :maxdepth: 2
    
-   contributing
+   autore
    
 .. toctree::
    :maxdepth: 2
    
-   autore
+   contributing
    
 .. toctree::
   :glob:
@@ -99,7 +99,7 @@ Questa guida NON sostituisce il `manuale`_ online di QGIS, cerca solo di rendere
 .. _@OpenDataSicilia: http://opendatasicilia.it/
 .. _@aborruso: https://twitter.com/aborruso?lang=it
 .. _@totofiandaca: https://twitter.com/totofiandaca
-.. _Salvatore Fiandaca: https://github.com/gbvitrano/HfcQGIS/blob/master/autore.md
+.. _Salvatore Fiandaca: autore.html
 .. _@gbvitrano: https://twitter.com/gbvitrano?lang=it
 .. _@cirospat: https://twitter.com/cirospat?lang=it
 .. _Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA): https://creativecommons.org/licenses/by-sa/4.0/
