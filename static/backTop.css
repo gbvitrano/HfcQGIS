@@ -3,7 +3,7 @@
     width:22px;
     height:22px;
     padding:10px;
-	right:6px;bottom:40px;  position:fixed;
+	right:6px;bottom:40px !important;  position:fixed;
     border-radius:20px;
     text-indent:-9999px;
     cursor:pointer;
