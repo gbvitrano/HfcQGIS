@@ -61,5 +61,4 @@ Come realizzare una spatial-join con aggregazione usando solo il calcolatore di 
 
 ## Test
 
-``` important:: Its a note! in markdown!
-```
+[link a md](./array_agg.md)
