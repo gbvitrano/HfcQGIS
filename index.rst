@@ -78,7 +78,7 @@ Disclaimer
 | Questa guida NON sostituisce il `manuale`_ online di QGIS, cerca solo
   di rendere più facile la comprensione dello strumento!!!
 | I colori utilizzati in questo RTD sono fedeli alla `Visual Style
-  Guide`_
+  Guide`_ di **QGIS**
   
 --------------
 
