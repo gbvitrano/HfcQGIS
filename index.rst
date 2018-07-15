@@ -58,7 +58,7 @@ Autore HfcQGIS
 .. raw:: html
    :file: <http://hfcqgis.opendatasicilia.it/it/latest/snippet.html>
    
-   .. raw:: html
+.. raw:: html
    :file: snippet.html
     
 Traduzione in italiano
