@@ -40,13 +40,7 @@ Contenuti:
    :maxdepth: 2
      
    gr_funzioni/index
-   
-.. toctree::
-   :maxdepth: 2
-   :includehidden:
-   
-   autore
-   
+     
 .. toctree::
    :maxdepth: 2
    
