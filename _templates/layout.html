@@ -22,6 +22,16 @@
 <script type="text/javascript" src=" http://hfcqgis.opendatasicilia.it/it/latest/_static/jquery.min.js"></script> 
 {% endblock %}
 
+{% block breadcrumbs_aside %}
+ {{ super() }}
+<div class="rst-content">
+<div id="social">
+<h1>social sharing </h1>
+</div>
+</div>
+{% endblock %}
+
+
 {% block footer %}
       {{ super() }}
       <div class="footerc">
@@ -41,11 +51,3 @@
       </div>
 {% endblock %}
 
-{% block breadcrumbs_aside %}
- {{ super() }}
-<div class="wy-breadcrumbs">
-<div id="social">
-<h1>social sharing </h1>
-</div>
-</div>
-{% endblock %}
