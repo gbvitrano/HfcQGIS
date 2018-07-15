@@ -182,6 +182,12 @@ hr  {border: 0; height: 1px; background:  #589632; background-image: linear-grad
 .immagonobox {
 	max-width: 100%!important;
     height: auto!important;
+	box-shadow: none !important;
+	border: none !important;
+	border-radius:  none !important;
+	moz-border-radius: none !important;
+	-webkit-border-radius: none !important;
+	background-color: transparent !important;
 	}
 
  .fa::before, .wy-menu-vertical li span.toctree-expand::before, .wy-menu-vertical li.on a span.toctree-expand::before, .wy-menu-vertical li.current > a span.toctree-expand::before, .rst-content .admonition-title::before, .rst-content h1 .headerlink::before, .rst-content h2 .headerlink::before, .rst-content h3 .headerlink::before, .rst-content h4 .headerlink::before, .rst-content h5 .headerlink::before, .rst-content h6 .headerlink::before, .rst-content dl dt .headerlink::before, .rst-content p.caption .headerlink::before, .rst-content table > caption .headerlink::before, .rst-content tt.download span:first-child::before, .rst-content code.download span:first-child::before, .icon::before, .wy-dropdown .caret::before, .wy-inline-validate.wy-inline-validate-success .wy-input-context::before, .wy-inline-validate.wy-inline-validate-danger .wy-input-context::before, .wy-inline-validate.wy-inline-validate-warning .wy-input-context::before, .wy-inline-validate.wy-inline-validate-info .wy-input-context::before {
