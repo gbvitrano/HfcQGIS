@@ -55,6 +55,8 @@ Autore HfcQGIS
 | `Salvatore Fiandaca`_ (aka pigreco)
 | `Sito web - pigrecoinfinito`_
 
+.. include:: snippet.md
+
 Traduzione in italiano
 ~~~~~~~~~~~~~~~~~~~~~~
 La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da `Stefano Campus`_
