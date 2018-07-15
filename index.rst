@@ -95,7 +95,7 @@ Questa guida NON sostituisce il `manuale`_ online di QGIS, cerca solo di rendere
 .. _@aborruso: https://twitter.com/aborruso?lang=it
 .. _@totofiandaca: https://twitter.com/totofiandaca
 .. _Salvatore Fiandaca: https://github.com/gbvitrano/HfcQGIS/blob/master/autore.md
-.. _@gbvitrano Vitrano: https://twitter.com/gbvitrano?lang=it
+.. _@gbvitrano: https://twitter.com/gbvitrano?lang=it
 .. _@cirospat: https://twitter.com/cirospat?lang=it
 .. _Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA): https://creativecommons.org/licenses/by-sa/4.0/
 .. _Sito web - pigrecoinfinito: https://pigrecoinfinito.wordpress.com/
@@ -103,5 +103,5 @@ Questa guida NON sostituisce il `manuale`_ online di QGIS, cerca solo di rendere
 .. _QGIS.org: https://qgis.org/it/site/
 .. _Documentazione di QGIS: https://qgis.org/it/docs/index.html#
 .. _App di matematica GeoGebra: https://www.geogebra.org/?lang=it
-.. _guida online di QGIS: https://qgis.org/it/docs/index.html#
+.. _guida ufficiale di QGIS: https://qgis.org/it/docs/index.html#
 .. _manuale: https://qgis.org/it/docs/index.html#
