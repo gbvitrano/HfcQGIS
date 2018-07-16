@@ -19,16 +19,16 @@ Questi cookie sono essenziali al fine di permettere la navigazione del sito web 
 **Cookie sulle prestazioni**<br>
 Questi cookie raccolgono informazioni su come gli utenti utilizzano il sito web, ad esempio quali pagine vengono visitate più spesso e se gli utenti ricevono messaggi di errore da queste pagine. Questi cookie non raccolgono informazioni che identificano un visitatore specifico. Tutte le informazioni raccolte da questi cookie sono aggregate e quindi anonime. Vengono utilizzate unicamente per migliorare il funzionamento del sito web.
 
-**Cookie di analisi di traffico anonimizzati**<br>
+**Cookie di analisi di traffico anonimizzati**<br><br>
 Questo sito web utilizza inoltre i **cookie di Google Analytics**, un servizio di analisi web fornito da Google. Le informazioni generate dal cookie sull’utilizzo del sito web da parte vostra (compreso il vostro indirizzo IP) verranno trasmesse e depositate presso i server di Google che utilizzerà queste informazioni allo scopo di tracciare ed esaminare il vostro utilizzo del sito web, compilare report sulle attività svolte sul sito web e fornire altri servizi relativi alle attività e all’utilizzo di Internet. I dati generati da Google Analytics sono conservati da Google così come indicato nella Informativa reperibile al seguente link.<br>
 
 L’utente può disabilitare in modo selettivo l’azione di Google Analytics installando sul proprio browser la componente di opt-out fornito da Google. Per disabilitare l’azione di Google Analytics, si rinvia al link di seguito indicato: https://tools.google.com/dlpage/gaoptout
 
-**Cookie funzionali**<br>
+**Cookie funzionali**<br><br>
 Questi cookie consentono al sito web di ricordare le scelte che avete effettuato (come il vostro username, la vostra lingua o l’area geografica in cui vivete) al fine di ottimizzare e fornire funzionalità più avanzate. Questi cookie possono inoltre essere utilizzati per fornire funzionalità da voi richieste come ad esempio la visualizzazione di un video o la possibilità di commentare sul sito. Queste informazioni raccolte dai cookie possono essere anonime e non devono tracciare la navigazione e le attività dell’utente su altri siti web. Vi preghiamo di considerare che alcune funzionalità del sito web potrebbero essere ridotte o non disponibili disabilitando i cookie. Nel dettaglio, gli utenti possono controllare, eliminare o impedire il caricamento di cookie agendo sui loro browser così come sotto indicato.
 
 ## Cookie di terze parti
-**Google Analytics**<br>
+**Google Analytics**<br><br>
 
 Il Sito impiega Google Analytics. Si tratta di un servizio di analisi web fornito da Google Inc. (“Google”) che utilizza cookie depositati sul computer dell’utente per consentire analisi statistiche in forma aggregata in ordine all’utilizzo del sito web visitato.
 
@@ -78,20 +78,19 @@ Ciascun browser presenta procedure diverse per la gestione delle impostazioni. L
         Eliminazione di uno o tutti i cookie
 
 **Mozilla Firefox**
-
-    Eseguire il Browser Mozilla Firefox
-    Fare click sul menù presente nella barra degli strumenti del browser a fianco della finestra di inserimento url per la navigazione
-    Selezionare Opzioni
-    Seleziona il pannello Privacy
-    Fare clic su Mostra Impostazioni Avanzate
-    Nella sezione “Privacy” fare clic su bottone “Impostazioni contenuti“
-    Nella sezione “Tracciamento” è possibile modificare le seguenti impostazioni relative ai cookie:
-        Richiedi ai siti di non effettuare alcun tracciamento
-        Comunica ai siti la disponibilità ad essere tracciato
-        Non comunicare alcuna preferenza relativa al tracciamento dei dati personali
-    Dalla sezione “Cronologia” è possibile:
-        Abilitando “Utilizza impostazioni personalizzate” selezionare di accettare i cookie di terze parti (sempre, dai siti più visitato o mai) e di conservarli per un periodo determinato (fino alla loro scadenza, alla chiusura di Firefox o di chiedere ogni volta)
-        Rimuovere i singoli cookie immagazzinati
+- Eseguire il Browser Mozilla Firefox
+- Fare click sul menù presente nella barra degli strumenti del browser a fianco della finestra di inserimento url per la navigazione
+- Selezionare Opzioni
+- Seleziona il pannello Privacy
+- Fare clic su Mostra Impostazioni Avanzate
+- Nella sezione “Privacy” fare clic su bottone “Impostazioni contenuti“
+- Nella sezione “Tracciamento” è possibile modificare le seguenti impostazioni relative ai cookie:
+     -   Richiedi ai siti di non effettuare alcun tracciamento
+     -  Comunica ai siti la disponibilità ad essere tracciato
+     -  Non comunicare alcuna preferenza relativa al tracciamento dei dati personali
+- Dalla sezione “Cronologia” è possibile:
+  -Abilitando “Utilizza impostazioni personalizzate” selezionare di accettare i cookie di terze parti (sempre, dai siti più visitato o mai) e di conservarli per un periodo determinato (fino alla loro scadenza, alla chiusura di Firefox o di chiedere ogni volta)
+  - Rimuovere i singoli cookie immagazzinati
 
 **Internet Explorer**
 
