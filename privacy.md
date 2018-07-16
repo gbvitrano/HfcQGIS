@@ -1,33 +1,34 @@
-Informativa privacy estesa
+# Informativa privacy estesa
 
 In linea con la legislazione Europea, è fondamentale che ogni utente del sito web comprenda cosa sono i cookie e per quale motivo vengono utilizzati, in modo che gli utenti stessi possano decidere consapevolmente se accettarne l’utilizzo o no sui loro dispositivi.
 
-Un cookie è un piccolo file di testo contenente un numero di identificazione univoco che viene trasferito dal sito web sul disco rigido del vostro computer attraverso un codice anonimo in grado di identificare il computer ma non l’utente e di monitorare passivamente le vostre attività sul sito.
+**Un cookie è un piccolo file di testo contenente un numero di identificazione univoco che viene trasferito dal sito web sul disco rigido del vostro computer attraverso un codice anonimo in grado di identificare il computer ma non l’utente e di monitorare passivamente le vostre attività sul sito.**
 
 I cookie possono essere classificati in due categorie, in base alle loro funzionalità:
 
-    Cookie tecnici (di cui fanno parte i cookie sulle prestazioni e i cookie funzionali)
-    Cookie profilanti (di cui fanno parte i cookie legati alle pubblicità)
+- Cookie tecnici (di cui fanno parte i cookie sulle prestazioni e i cookie funzionali)
+- Cookie profilanti (di cui fanno parte i cookie legati alle pubblicità)
 
 Il sito utilizza solo il primo tipo di cookie, di tipo tecnico, per i quali non è richiesto alcun consenso.
 
 Nel dettaglio vengono utlizzati le seguenti tipologie di cookie:
 
-Cookie strettamente necessari
+**Cookie strettamente necessari**
 Questi cookie sono essenziali al fine di permettere la navigazione del sito web e l’utilizzo delle sue funzionalità, come ad esempio l’accesso ad alcune aree protette. Senza questi cookie, alcune funzionalità richieste come ad esempio il login al sito o l’inserimento degli articoli da parte dei collaboratori non potrebbero essere fornite.
 
-Cookie sulle prestazioni
+**Cookie sulle prestazioni**
 Questi cookie raccolgono informazioni su come gli utenti utilizzano il sito web, ad esempio quali pagine vengono visitate più spesso e se gli utenti ricevono messaggi di errore da queste pagine. Questi cookie non raccolgono informazioni che identificano un visitatore specifico. Tutte le informazioni raccolte da questi cookie sono aggregate e quindi anonime. Vengono utilizzate unicamente per migliorare il funzionamento del sito web.
 
-Cookie di analisi di traffico anonimizzati
-Questo sito web utilizza inoltre i cookie di Google Analytics, un servizio di analisi web fornito da Google. Le informazioni generate dal cookie sull’utilizzo del sito web da parte vostra (compreso il vostro indirizzo IP) verranno trasmesse e depositate presso i server di Google che utilizzerà queste informazioni allo scopo di tracciare ed esaminare il vostro utilizzo del sito web, compilare report sulle attività svolte sul sito web e fornire altri servizi relativi alle attività e all’utilizzo di Internet. I dati generati da Google Analytics sono conservati da Google così come indicato nella Informativa reperibile al seguente link.
+**Cookie di analisi di traffico anonimizzati**
+Questo sito web utilizza inoltre i **cookie di Google Analytics**, un servizio di analisi web fornito da Google. Le informazioni generate dal cookie sull’utilizzo del sito web da parte vostra (compreso il vostro indirizzo IP) verranno trasmesse e depositate presso i server di Google che utilizzerà queste informazioni allo scopo di tracciare ed esaminare il vostro utilizzo del sito web, compilare report sulle attività svolte sul sito web e fornire altri servizi relativi alle attività e all’utilizzo di Internet. I dati generati da Google Analytics sono conservati da Google così come indicato nella Informativa reperibile al seguente link.
 
 L’utente può disabilitare in modo selettivo l’azione di Google Analytics installando sul proprio browser la componente di opt-out fornito da Google. Per disabilitare l’azione di Google Analytics, si rinvia al link di seguito indicato: https://tools.google.com/dlpage/gaoptout
 
-Cookie funzionali
+**Cookie funzionali**
 Questi cookie consentono al sito web di ricordare le scelte che avete effettuato (come il vostro username, la vostra lingua o l’area geografica in cui vivete) al fine di ottimizzare e fornire funzionalità più avanzate. Questi cookie possono inoltre essere utilizzati per fornire funzionalità da voi richieste come ad esempio la visualizzazione di un video o la possibilità di commentare sul sito. Queste informazioni raccolte dai cookie possono essere anonime e non devono tracciare la navigazione e le attività dell’utente su altri siti web. Vi preghiamo di considerare che alcune funzionalità del sito web potrebbero essere ridotte o non disponibili disabilitando i cookie. Nel dettaglio, gli utenti possono controllare, eliminare o impedire il caricamento di cookie agendo sui loro browser così come sotto indicato.
-Cookie di terze parti
-Google Analytics
+
+## Cookie di terze parti
+**Google Analytics**
 
 Il Sito impiega Google Analytics. Si tratta di un servizio di analisi web fornito da Google Inc. (“Google”) che utilizza cookie depositati sul computer dell’utente per consentire analisi statistiche in forma aggregata in ordine all’utilizzo del sito web visitato.
 
@@ -39,13 +40,13 @@ I widget dei social network sono quei particolari “pulsanti” o “blocchi”
 
 Per maggiori informazioni, anche sulla disattivazione di tali cookie, si consiglia di consultare i seguenti link:
 
-    Twitter
-    Facebook
-    LinkedIn
-    Google Plus
-    AddThis
+- [witter](http://twitter.com/privacy)
+- [Facebook](https://www.facebook.com/help/cookies)
+- [LinkedIn](https://www.linkedin.com/legal/cookie_policy)
+- [Google Plus](http://www.google.it/intl/it/policies/technologies/cookies/)
+- [AddThis](http://www.addthis.com/privacy/privacy-policy)
 
-Pubblicità
+## Pubblicità
 
 Su questo blog non sono presenti annunci di Pubblicità commerciale, Pubblicità sociale, Advocacy advertising, Pubblicità pubblica, ne tanto meno Propaganda politica.
 Come disabilitare i cookie mediante configurazione del browser
@@ -53,12 +54,12 @@ Come disabilitare i cookie mediante configurazione del browser
 Fermo restando quanto sopra indicato in ordine ai cookie strettamente necessari alla navigazione, l’utente può eliminare gli altri cookie attraverso la funzionalità a tal fine messa a disposizione dal Titolare tramite la presente informativa oppure direttamente tramite il proprio browser.
 Ciascun browser presenta procedure diverse per la gestione delle impostazioni. L’utente può ottenere istruzioni specifiche attraverso i link sottostanti.
 
-    Google Chrome
-    Mozilla Firefox
-    Internet Explorer
-    Safari
-     Safari IOs
-     Opera
+- (Google Chrome](https://support.google.com/accounts/answer/61416?hl=en)
+- (Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+- (Internet Explorer](http://windows.microsoft.com/it-it/windows-vista/block-or-allow-cookies)
+- (Safari](http://support.apple.com/kb/PH17191?viewlocale=it_IT&locale=it_IT)
+- (Safari IOs](http://support.apple.com/kb/HT1677?utm_source=Agillic%20Dialogue)
+- (Opera](http://help.opera.com/Windows/10.00/it/cookies.html)
 
 Google Chrome
 
