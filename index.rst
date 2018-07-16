@@ -80,15 +80,10 @@ BY-SA)`_
 
 Disclaimer
 ~~~~~~~~~~~
-| Questa guida NON sostituisce il `manuale`_ online di QGIS, cerca solo
-  di rendere più facile la comprensione dello strumento!!!
-| I colori utilizzati in questo RTD sono fedeli alla `Visual Style
-  Guide`_ di **QGIS**
+| Questa guida NON sostituisce il `manuale`_ online di QGIS, cerca solo di rendere più facile la comprensione dello strumento!!!
+| I colori utilizzati in questo RTD sono fedeli alla `Visual Style  Guide`_ di **QGIS**
 |     
-| Il marchio QGIS è stato realizzato da `Anita Graser`_, l’immagine
-HfcQGIS è stata realizzata da `Totò Fiandaca`_ (autore articolo)
-usando `InkSCAPE`_\ e il carattere Trueno Bold. I colori utilizzati nel
-RTD sono fedeli alla `Visual Style Guide`_ **QGIS**.
+| Il marchio QGIS è stato realizzato da `Anita Graser`_, l’immagine HfcQGIS è stata realizzata da `Totò Fiandaca`_ (autore articolo) usando `InkSCAPE`_ e il carattere Trueno Bold. I colori utilizzati nel RTD sono fedeli alla `Visual Style Guide`_ **QGIS**.
 
 --------------
 
