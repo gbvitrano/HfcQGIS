@@ -59,6 +59,13 @@ Autore HfcQGIS
 
 .. |snippet| raw:: html 
      <iframe width="100%" height="100px" frameBorder="0" src="snippet.html"></iframe>
+     
+ `
+.. image:: https://stackexchange.com/users/flair/8482031.png
+   :alt: profile for pigreco on Stack Exchange, a network of free, community-driven Q&A sites
+   :height: 58
+   :width: 208
+ <https://stackexchange.com/users/8482031/pigreco>`_ 
  
 Traduzione in italiano
 ~~~~~~~~~~~~~~~~~~~~~~
