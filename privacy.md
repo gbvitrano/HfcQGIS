@@ -40,16 +40,17 @@ I widget dei social network sono quei particolari “pulsanti” o “blocchi”
 
 Per maggiori informazioni, anche sulla disattivazione di tali cookie, si consiglia di consultare i seguenti link:
 
-- [witter](http://twitter.com/privacy)
+- [Twitter](http://twitter.com/privacy)
 - [Facebook](https://www.facebook.com/help/cookies)
 - [LinkedIn](https://www.linkedin.com/legal/cookie_policy)
 - [Google Plus](http://www.google.it/intl/it/policies/technologies/cookies/)
 - [AddThis](http://www.addthis.com/privacy/privacy-policy)
 
-## Pubblicità
+## Pubblicità 
 
-Su questo blog non sono presenti annunci di Pubblicità commerciale, Pubblicità sociale, Advocacy advertising, Pubblicità pubblica, ne tanto meno Propaganda politica.
-Come disabilitare i cookie mediante configurazione del browser
+Sono presenti annunci di pubblicità etica che rispetta la privacy degli utenti di [**Read the Docs**](https://docs.readthedocs.io/en/latest/advertising/index.html) ed è la fonte princiaple del progetto [Read the Docs](https://docs.readthedocs.io/en/latest/index.html).
+
+## Come disabilitare i cookie mediante configurazione del browser
 
 Fermo restando quanto sopra indicato in ordine ai cookie strettamente necessari alla navigazione, l’utente può eliminare gli altri cookie attraverso la funzionalità a tal fine messa a disposizione dal Titolare tramite la presente informativa oppure direttamente tramite il proprio browser.
 Ciascun browser presenta procedure diverse per la gestione delle impostazioni. L’utente può ottenere istruzioni specifiche attraverso i link sottostanti.
@@ -61,11 +62,11 @@ Ciascun browser presenta procedure diverse per la gestione delle impostazioni. L
 - (Safari IOs](http://support.apple.com/kb/HT1677?utm_source=Agillic%20Dialogue)
 - (Opera](http://help.opera.com/Windows/10.00/it/cookies.html)
 
-Google Chrome
+**Google Chrome**
 
-    Eseguire il Browser Chrome
-    Fare click sul menù presente nella barra degli strumenti del browser a fianco della finestra di inserimento url per la navigazione
-    Selezionare Impostazioni
+- Eseguire il Browser Chrome
+- Fare click sul menù presente nella barra degli strumenti del browser a fianco della finestra di inserimento url per la navigazione
+- Selezionare **Impostazioni**
     Fare clic su Mostra Impostazioni Avanzate
     Nella sezione “Privacy” fare clic su bottone “Impostazioni contenuti“
     Nella sezione “Cookie” è possibile modificare le seguenti impostazioni relative ai cookie:
@@ -76,7 +77,7 @@ Google Chrome
         Gestire le eccezioni per alcuni siti internet
         Eliminazione di uno o tutti i cookie
 
-Mozilla Firefox
+**Mozilla Firefox**
 
     Eseguire il Browser Mozilla Firefox
     Fare click sul menù presente nella barra degli strumenti del browser a fianco della finestra di inserimento url per la navigazione
@@ -92,7 +93,7 @@ Mozilla Firefox
         Abilitando “Utilizza impostazioni personalizzate” selezionare di accettare i cookie di terze parti (sempre, dai siti più visitato o mai) e di conservarli per un periodo determinato (fino alla loro scadenza, alla chiusura di Firefox o di chiedere ogni volta)
         Rimuovere i singoli cookie immagazzinati
 
-Internet Explorer
+**Internet Explorer**
 
 Eseguire il Browser Internet Explorer
 
@@ -102,21 +103,21 @@ Eseguire il Browser Internet Explorer
         Consentire tutti i cookie
         Selezione dei siti da cui ottenere cookie: spostare il cursore in una posizione intermedia in modo da non bloccare o consentire tutti i cookie, premere quindi su Siti, nella casella Indirizzo Sito Web inserire un sito internet e quindi premere su Blocca o Consenti
 
-Safari
+**Safari**
 
     Eseguire il Browser Safari
     Fare click su Safari, selezionare Preferenze e premere su Privacy
     Nella sezione Blocca Cookie specificare come Safari deve accettare i cookie dai siti internet.
     Per visionare quali siti hanno immagazzinato i cookie cliccare su Dettagli
 
-Safari IOs  (Dispositivi Mobile)
+**Safari IOs  (Dispositivi Mobile)**
 
     Eseguire il Browser Safari iOS
     Tocca su Impostazioni e poi Safari
     Tocca su Blocca Cookie e scegli tra le varie opzioni: “Mai”, “Di terze parti e inserzionisti” o “Sempre”
     Per cancellare tutti i cookie immagazzinati da Safari, tocca su Impostazioni, poi su Safari e infine suCancella Cookie e dati
 
-Opera
+**Opera**
 
     Eseguire il Browser Opera
     Fare click sul Preferenze poi su Avanzate e infine su Cookie
@@ -127,6 +128,5 @@ Opera
 
 Come indicato, l’Utente potrà negare il consenso all’installazione dei cookie per il mezzo del browser di navigazione in uso seguendo le istruzioni ivi fornite o accedendo al sito http://www.youronlinechoices.com/it/le-tue-scelte/.
 
-Per ulteriori informazioni su come cancellare e controllare i cookie archiviati sul computer, si prega di consultarehttp://www.allaboutcookies.org/manage-cookies/index. Non possiamo tuttavia garantire la correttezza e l’aggiornamento delle informazioni ivi contenute.
+Per ulteriori informazioni su come cancellare e controllare i cookie archiviati sul computer, si prega di consultare http://www.allaboutcookies.org/manage-cookies/index. Non possiamo tuttavia garantire la correttezza e l’aggiornamento delle informazioni ivi contenute.
 
-Consigliamo infine di consultare le FAQ ed il video divulgativo predisposti dal Garante per la protezione dei dati personali.
