@@ -7,7 +7,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 Questo manuale
 ~~~~~~~~~~
-.. raw:: md
+.. raw:: html
 
     <embed>
 <a href="https://qgis.org/en/site/getinvolved/donations.html" title="Donate to QGIS" target="_blank"><img src="https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square" alt="" title="Donate to QGIS"/></a>
