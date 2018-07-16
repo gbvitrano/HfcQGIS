@@ -47,7 +47,7 @@ Per maggiori informazioni, anche sulla disattivazione di tali cookie, si consigl
 
 ## Pubblicità 
 
-Sono presenti annunci di pubblicità etica che rispetta la privacy degli utenti di [**Read the Docs**](https://docs.readthedocs.io/en/latest/advertising/index.html) ed è la fonte princiaple del progetto [Read the Docs](https://docs.readthedocs.io/en/latest/index.html).
+Sono presenti annunci di pubblicità etica di [**Read the Docs**] che rispetta la privacy degli utenti. (https://docs.readthedocs.io/en/latest/advertising/index.html)<br>La pubblicità etica è la fonte princiaple del progetto [Read the Docs](https://docs.readthedocs.io/en/latest/index.html).
 
 ## Come disabilitare i cookie mediante configurazione del browser
 
