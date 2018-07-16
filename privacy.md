@@ -66,16 +66,16 @@ Ciascun browser presenta procedure diverse per la gestione delle impostazioni. L
 
 - Eseguire il Browser Chrome
 - Fare click sul menù presente nella barra degli strumenti del browser a fianco della finestra di inserimento url per la navigazione
-- Selezionare **Impostazioni**
-    Fare clic su Mostra Impostazioni Avanzate
-    Nella sezione “Privacy” fare clic su bottone “Impostazioni contenuti“
-    Nella sezione “Cookie” è possibile modificare le seguenti impostazioni relative ai cookie:
-        Consentire il salvataggio dei dati in locale
-        Modificare i dati locali solo fino alla chiusura del browser
-        Impedire ai siti di impostare i cookie
-        Bloccare i cookie di terze parti e i dati dei siti
-        Gestire le eccezioni per alcuni siti internet
-        Eliminazione di uno o tutti i cookie
+- Selezionare Impostazioni
+- Fare clic su Mostra Impostazioni Avanzate
+- Nella sezione “Privacy” fare clic su bottone “Impostazioni contenuti“
+- Nella sezione “Cookie” è possibile modificare le seguenti impostazioni relative ai cookie:
+  -   Consentire il salvataggio dei dati in locale
+  -   Modificare i dati locali solo fino alla chiusura del browser
+  -   Impedire ai siti di impostare i cookie
+  -   Bloccare i cookie di terze parti e i dati dei siti
+  -   Gestire le eccezioni per alcuni siti internet
+  -   Eliminazione di uno o tutti i cookie
 
 **Mozilla Firefox**
 - Eseguire il Browser Mozilla Firefox
@@ -85,45 +85,45 @@ Ciascun browser presenta procedure diverse per la gestione delle impostazioni. L
 - Fare clic su Mostra Impostazioni Avanzate
 - Nella sezione “Privacy” fare clic su bottone “Impostazioni contenuti“
 - Nella sezione “Tracciamento” è possibile modificare le seguenti impostazioni relative ai cookie:
-     -   Richiedi ai siti di non effettuare alcun tracciamento
-     -  Comunica ai siti la disponibilità ad essere tracciato
-     -  Non comunicare alcuna preferenza relativa al tracciamento dei dati personali
+  -   Richiedi ai siti di non effettuare alcun tracciamento
+  -   Comunica ai siti la disponibilità ad essere tracciato
+  -   Non comunicare alcuna preferenza relativa al tracciamento dei dati personali
 - Dalla sezione “Cronologia” è possibile:
-  -Abilitando “Utilizza impostazioni personalizzate” selezionare di accettare i cookie di terze parti (sempre, dai siti più visitato o mai) e di conservarli per un periodo determinato (fino alla loro scadenza, alla chiusura di Firefox o di chiedere ogni volta)
-  - Rimuovere i singoli cookie immagazzinati
+  -   Abilitando “Utilizza impostazioni personalizzate” selezionare di accettare i cookie di terze parti (sempre, dai siti più visitato o mai) e di conservarli per un periodo determinato (fino alla loro scadenza, alla chiusura di Firefox o di chiedere ogni volta)
+  -   Rimuovere i singoli cookie immagazzinati
 
 **Internet Explorer**
 
 Eseguire il Browser Internet Explorer
 
-    Fare click sul pulsante Strumenti e scegliere Opzioni Internet
-    Fare click sulla scheda Privacy e nella sezione Impostazioni modificare il dispositivo di scorrimento in funzione dell’azione desiderata per i cookie:
-        Bloccare tutti i cookie
-        Consentire tutti i cookie
-        Selezione dei siti da cui ottenere cookie: spostare il cursore in una posizione intermedia in modo da non bloccare o consentire tutti i cookie, premere quindi su Siti, nella casella Indirizzo Sito Web inserire un sito internet e quindi premere su Blocca o Consenti
+- Fare click sul pulsante Strumenti e scegliere Opzioni Internet
+- Fare click sulla scheda Privacy e nella sezione Impostazioni modificare il dispositivo di scorrimento in funzione dell’azione desiderata per i cookie:
+  -   Bloccare tutti i cookie
+  -   Consentire tutti i cookie
+  -   Selezione dei siti da cui ottenere cookie: spostare il cursore in una posizione intermedia in modo da non bloccare o consentire tutti i cookie, premere quindi su Siti, nella casella Indirizzo Sito Web inserire un sito internet e quindi premere su Blocca o Consenti
 
 **Safari**
 
-    Eseguire il Browser Safari
-    Fare click su Safari, selezionare Preferenze e premere su Privacy
-    Nella sezione Blocca Cookie specificare come Safari deve accettare i cookie dai siti internet.
-    Per visionare quali siti hanno immagazzinato i cookie cliccare su Dettagli
+- Eseguire il Browser Safari
+- Fare click su Safari, selezionare Preferenze e premere su Privacy
+- Nella sezione Blocca Cookie specificare come Safari deve accettare i cookie dai siti internet.
+- Per visionare quali siti hanno immagazzinato i cookie cliccare su Dettagli
 
 **Safari IOs  (Dispositivi Mobile)**
 
-    Eseguire il Browser Safari iOS
-    Tocca su Impostazioni e poi Safari
-    Tocca su Blocca Cookie e scegli tra le varie opzioni: “Mai”, “Di terze parti e inserzionisti” o “Sempre”
-    Per cancellare tutti i cookie immagazzinati da Safari, tocca su Impostazioni, poi su Safari e infine suCancella Cookie e dati
+- Eseguire il Browser Safari iOS
+- Tocca su Impostazioni e poi Safari
+- Tocca su Blocca Cookie e scegli tra le varie opzioni: “Mai”, “Di terze parti e inserzionisti” o “Sempre”
+- Per cancellare tutti i cookie immagazzinati da Safari, tocca su Impostazioni, poi su Safari e infine suCancella Cookie e dati
 
 **Opera**
 
-    Eseguire il Browser Opera
-    Fare click sul Preferenze poi su Avanzate e infine su Cookie
-    Selezionare una delle seguenti opzioni:
-        Accetta tutti i cookie
-        Accetta i cookie solo dal sito che si visita: i cookie di terze parti e che vengono inviati da un dominio diverso da quello che si sta visitando verranno rifiutati
-        Non accettare mai i cookie: tutti i cookie non verranno mai salvati
+- Eseguire il Browser Opera
+- Fare click sul Preferenze poi su Avanzate e infine su Cookie
+- Selezionare una delle seguenti opzioni:
+  -   Accetta tutti i cookie
+  -   Accetta i cookie solo dal sito che si visita: i cookie di terze parti e che vengono inviati da un dominio diverso da quello che si sta visitando verranno rifiutati
+  -   Non accettare mai i cookie: tutti i cookie non verranno mai salvati
 
 Come indicato, l’Utente potrà negare il consenso all’installazione dei cookie per il mezzo del browser di navigazione in uso seguendo le istruzioni ivi fornite o accedendo al sito http://www.youronlinechoices.com/it/le-tue-scelte/.
 
