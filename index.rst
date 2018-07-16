@@ -82,6 +82,12 @@ Disclaimer
 |     
 | Il marchio **QGIS** è stato realizzato da `Anita Graser`_, l’immagine HfcQGIS è stata realizzata da `Totò Fiandaca`_ (autore del manuale) usando `InkSCAPE`_ e il carattere `Trueno Bold`_. 
 | I colori utilizzati in questo RTD sono fedeli alla `Visual Style  Guide`_ di **QGIS**
+|
+.. raw:: html
+
+    <embed>
+        <a href="https://github.com/pigreco/HfcQGIS" title="GitHub repo size in bytesS" target="_blank"><img src="https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-squar" class="immagonobox" alt="" title="GitHub repo size in bytes"/></a>&nbsp;<a href="https://qgis.org/en/site/getinvolved/donations.html" title="Donate to QGIS" target="_blank"><img src="https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square" class="immagonobox" alt="Donate to QGIS" title="Donate to QGIS"/></a>
+    </embed>
 
 --------------
 
@@ -97,11 +103,6 @@ Disclaimer
   o Chrome versione 40.0 o successiva, Opera versione 48.0 o successiva
   Safari versione 9.0 o successiva.
   
-.. raw:: html
-
-    <embed>
-        <a href="https://github.com/pigreco/HfcQGIS" title="GitHub repo size in bytesS" target="_blank"><img src="https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-squar" class="immagonobox" alt="" title="GitHub repo size in bytes"/></a>&nbsp;<a href="https://qgis.org/en/site/getinvolved/donations.html" title="Donate to QGIS" target="_blank"><img src="https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square" class="immagonobox" alt="Donate to QGIS" title="Donate to QGIS"/></a>
-    </embed>
 
 .. _Read The Docs: https://docs.readthedocs.io/en/latest/index.html
 .. _lavoro: https://github.com/pigreco/HfcQGIS/blob/master/README.md
