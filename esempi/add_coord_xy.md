@@ -4,12 +4,13 @@ Facciamo un esempio, geopackage con vettore puntuale:
 
 ![](/img/esempi/add_coord_xy/add_coord1.png)
 
-selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabella attributi' oppure cliccare sull'icona ![icona_tab_attr](https://docs.qgis.org/2.18/it/_images/mActionOpenTable.png) oppure tasto funzione F6
+selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabella attributi' oppure cliccare sull'icona 
+<a href="#" target="_blank"><img width="24" src="https://docs.qgis.org/2.18/it/_images/mActionOpenTable.png" class="immagonobox" alt="" /></a> oppure tasto funzione F6
 
 ![](/img/esempi/add_coord_xy/add_coord2.png)
 
 1. attivare editing;
-2. aprire calcolatore di campi ![calc](https://docs.qgis.org/testing/en/_images/mActionCalculateField.png)
+2. aprire calcolatore di campi <a href="#" target="_blank"><img width="24" src="https://docs.qgis.org/testing/en/_images/mActionCalculateField.png" class="immagonobox" alt="" /></a>
 3. crea nuovo campo e digittare nome campo **coord_x**;
 4. tipo campo uscita Real e lunghezza uscita 13 e 2;
 5. cercare la funzione [$x](../gr_funzioni/geometria/$x.html);
