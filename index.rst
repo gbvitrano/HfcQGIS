@@ -60,11 +60,6 @@ Autore HfcQGIS
 | `Salvatore Fiandaca`_ (aka pigreco)
 | `Sito web - pigrecoinfinito`_
 
-|snippet|
-
-.. |snippet| raw:: html 
-     <iframe width="100%" height="100px" frameBorder="0" src="snippet.html"></iframe>
- 
 Traduzione in italiano
 ~~~~~~~~~~~~~~~~~~~~~~
 La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da `Stefano Campus`_
