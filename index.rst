@@ -4,12 +4,6 @@ HfcQGIS: Help funzioni calcolatore di campi di `QGIS`_
 .. _QGIS: https://qgis.org/it/site/
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del **calcolatore di campi**, a integrazione - con esempi e molti screenshot - della `guida ufficiale di QGIS`_.
-
-.. raw:: html
-
-    <embed>
-        <a href="https://github.com/pigreco/HfcQGIS" title="GitHub repo size in bytesS" target="_blank"><img src="https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-squar" class="immagonobox" alt="" title="GitHub repo size in bytes"/></a>&nbsp;&nbsp;<a href="http://hits.dwyl.io/pigreco/HfcQGIS" title="HitCount" target="_blank"><img src="http://hits.dwyl.io/pigreco/HfcQGIS.svg" class="immagonobox" alt="HitCount" title="HitCount"/></a>&nbsp;&nbsp;<a href="https://qgis.org/en/site/getinvolved/donations.html" title="Donate to QGIS" target="_blank"><img src="https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square" class="immagonobox" alt="Donate to QGIS" title="Donate to QGIS"/></a>
-    </embed>
     
 Questo manuale
 ~~~~~~~~~~~~~~  
@@ -102,6 +96,12 @@ Disclaimer
   immediatamente successive, Mozilla Firefox versione 50.0 e successive
   o Chrome versione 40.0 o successiva, Opera versione 48.0 o successiva
   Safari versione 9.0 o successiva.
+  
+.. raw:: html
+
+    <embed>
+        <a href="https://github.com/pigreco/HfcQGIS" title="GitHub repo size in bytesS" target="_blank"><img src="https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-squar" class="immagonobox" alt="" title="GitHub repo size in bytes"/></a>&nbsp;<a href="https://qgis.org/en/site/getinvolved/donations.html" title="Donate to QGIS" target="_blank"><img src="https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square" class="immagonobox" alt="Donate to QGIS" title="Donate to QGIS"/></a>
+    </embed>
 
 .. _Read The Docs: https://docs.readthedocs.io/en/latest/index.html
 .. _lavoro: https://github.com/pigreco/HfcQGIS/blob/master/README.md
