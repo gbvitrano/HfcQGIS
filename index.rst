@@ -5,16 +5,15 @@ HfcQGIS: Help funzioni calcolatore di campi di `QGIS`_
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del **calcolatore di campi**, a integrazione - con esempi e molti screenshot - della `guida ufficiale di QGIS`_.
 
-Questo manuale
-~~~~~~~~~~
-  
 .. raw:: html
 
     <embed>
         <a href="https://github.com/pigreco/HfcQGIS" title="GitHub repo size in bytesS" target="_blank"><img src="https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-squar" class="immagonobox" alt="" title="GitHub repo size in bytes"/></a>&nbsp;&nbsp;<a href="http://hits.dwyl.io/pigreco/HfcQGIS" title="HitCount" target="_blank"><img src="http://hits.dwyl.io/pigreco/HfcQGIS.svg" class="immagonobox" alt="HitCount" title="HitCount"/></a>&nbsp;&nbsp;<a href="https://qgis.org/en/site/getinvolved/donations.html" title="Donate to QGIS" target="_blank"><img src="https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square" class="immagonobox" alt="Donate to QGIS" title="Donate to QGIS"/></a>
     </embed>
     
-|
+Questo manuale
+~~~~~~~~~~~~~~  
+   
 | Questa versione in formato `Read The Docs`_ del `lavoro`_ di Salvatore  FIANDACA, è stata realizzata dalla comunità `@OpenDataSicilia`_, in  particolare da: `Andrea Borruso`_, `Totò Fiandaca`_ e `Giovan Battista Vitrano`_.
 | L'idea è stata di Giovan Battista, mentre la musa ispiratrice per la
   scelta di Read The Docs è `Ciro Spataro`_. 
