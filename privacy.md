@@ -54,12 +54,12 @@ Sono presenti annunci di pubblicità etica di [**Read the Docs**](https://docs.r
 Fermo restando quanto sopra indicato in ordine ai cookie strettamente necessari alla navigazione, l’utente può eliminare gli altri cookie attraverso la funzionalità a tal fine messa a disposizione dal Titolare tramite la presente informativa oppure direttamente tramite il proprio browser.
 Ciascun browser presenta procedure diverse per la gestione delle impostazioni. L’utente può ottenere istruzioni specifiche attraverso i link sottostanti.
 
-- (Google Chrome](https://support.google.com/accounts/answer/61416?hl=en)
-- (Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
-- (Internet Explorer](http://windows.microsoft.com/it-it/windows-vista/block-or-allow-cookies)
-- (Safari](http://support.apple.com/kb/PH17191?viewlocale=it_IT&locale=it_IT)
-- (Safari IOs](http://support.apple.com/kb/HT1677?utm_source=Agillic%20Dialogue)
-- (Opera](http://help.opera.com/Windows/10.00/it/cookies.html)
+- [Google Chrome](https://support.google.com/accounts/answer/61416?hl=en)
+- [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+- [Internet Explorer](http://windows.microsoft.com/it-it/windows-vista/block-or-allow-cookies)
+- [Safari](http://support.apple.com/kb/PH17191?viewlocale=it_IT&locale=it_IT)
+- [Safari IOs](http://support.apple.com/kb/HT1677?utm_source=Agillic%20Dialogue)
+- [Opera](http://help.opera.com/Windows/10.00/it/cookies.html)
 
 **Google Chrome**
 
