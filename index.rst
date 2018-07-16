@@ -59,7 +59,7 @@ Autore HfcQGIS
 ~~~~~~~~~~~~~~
 | `Salvatore Fiandaca`_ (aka pigreco)
 | `Sito web - pigrecoinfinito`_
-|
+
 .. raw:: html
 
     <embed>
