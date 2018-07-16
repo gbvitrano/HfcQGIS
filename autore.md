@@ -6,7 +6,9 @@ Libero Professionista, attualmente è socio [GFOSS.it](http://gfoss.it/), membro
 
 **_Salvatore_ è disponibile per nuovi progetti di divulgazione e scrittura post, oltre a consulenze private.** Puoi raggiungere _Salvatore_ all'indirizzo [@pigrecoinfinito](https://pigrecoinfinito.wordpress.com/dove-mi-trovo/)
 
-`profile for pigreco on Stack Exchange, a network of free,
-community-driven Q&A sites`_
-
-.. _profile for pigreco on Stack Exchange, a network of free, community-driven Q&A sites: https://stackexchange.com/users/8482031/pigreco
+ `
+.. image:: https://stackexchange.com/users/flair/8482031.png
+   :alt: profile for pigreco on Stack Exchange, a network of free, community-driven Q&A sites
+   :height: 58
+   :width: 208
+ <https://stackexchange.com/users/8482031/pigreco>`_ 
