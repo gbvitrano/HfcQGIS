@@ -2,13 +2,12 @@
 
 Facciamo un esempio, geopackage con vettore MultiLinestringZ:
 
-selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabella attributi' oppure cliccare sull'icona 
-<a href="#" target="_blank"><img width="24" src="https://docs.qgis.org/2.18/it/_images/mActionOpenTable.png" class="immagonobox" alt="" /></a> oppure tasto funzione F6
+selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabella attributi' oppure cliccare sull'icona ![icona_tab_attr](https://docs.qgis.org/2.18/it/_images/mActionOpenTable.png) oppure tasto funzione F6
 
 ![](/img/esempi/add_col_quotaz/quotaz1.png)
 
 1. attivare editing;
-2. aprire calcolatore di campi <a href="#" target="_blank"><img width="24" src="https://docs.qgis.org/testing/en/_images/mActionCalculateField.png" class="immagonobox" alt="" /></a>
+2. aprire calcolatore di campi ![calc](https://docs.qgis.org/testing/en/_images/mActionCalculateField.png)
 3. crea nuovo campo e digittare nome campo **quota**;
 4. tipo campo uscita Real e lunghezza uscita 13 e 2;
 5. cercare la funzione [z](../gr_funzioni/geometria/z.html);
