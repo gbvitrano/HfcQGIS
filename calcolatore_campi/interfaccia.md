@@ -1,4 +1,4 @@
-# Interfaccia calcolatore di campi <a href="#" target="_blank"><img width="24" src="https://docs.qgis.org/testing/en/_images/mActionCalculateField.png" class="immagonobox" alt="" /></a>
+# Interfaccia calcolatore di campi
 
 ![interfaccia](/img/calcolatore_campi.png)
 
