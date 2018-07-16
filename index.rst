@@ -90,10 +90,8 @@ HfcQGIS è stata realizzata da `Totò Fiandaca`_ (autore articolo)
 usando `InkSCAPE`_\ e il carattere Trueno Bold. I colori utilizzati nel
 RTD sono fedeli alla `Visual Style Guide`_ di QGIS.
 
-.. _Anita Graser: https://twitter.com/underdarkGIS?lang=it
-.. _InkSCAPE: https://inkscape.org/it/
 
-  
+
 --------------
 
 | **Per visualizzare e consultare correttamente i contenuti di HfcQGIS
@@ -107,7 +105,6 @@ RTD sono fedeli alla `Visual Style Guide`_ di QGIS.
   immediatamente successive, Mozilla Firefox versione 50.0 e successive
   o Chrome versione 40.0 o successiva, Opera versione 48.0 o successiva
   Safari versione 9.0 o successiva.
-
 
 .. _Read The Docs: https://docs.readthedocs.io/en/latest/index.html
 .. _lavoro: https://github.com/pigreco/HfcQGIS/blob/master/README.md
@@ -126,4 +123,6 @@ RTD sono fedeli alla `Visual Style Guide`_ di QGIS.
 .. _guida ufficiale di QGIS: https://qgis.org/it/docs/index.html#
 .. _manuale: https://qgis.org/it/docs/index.html#
 .. _Visual Style Guide: https://www.qgis.org/en/site/getinvolved/styleguide.html#primary-colors
+.. _Anita Graser: https://twitter.com/underdarkGIS?lang=it
+.. _InkSCAPE: https://inkscape.org/it/
 
