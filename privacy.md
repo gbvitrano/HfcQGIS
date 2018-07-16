@@ -33,8 +33,8 @@ Il Sito impiega Google Analytics. Si tratta di un servizio di analisi web fornit
 
 I dati generati da Google Analytics sono conservati da Google così come indicato nella Informativa reperibile al seguente link – https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
 Per consultare l’informativa privacy della società Google Inc., titolare autonomo del trattamento dei dati relativi al servizio Google Analytics, si rinvia al sito Internet.
-Widget Social Network
 
+## Widget Social Network
 I widget dei social network sono quei particolari “pulsanti” o “blocchi” presenti sul sito che raffigurano le icone di social network (esempio, Facebook e Twitter) e consentono agli utenti che stanno navigando di interagire con un “click” direttamente con le piattaforme social. Si riportano i link ove l’utente può prendere visione dell’informativa privacy relativa alla gestione dei dati da parte dei social cui i pulsanti e le widget rinviano. Nessuna informazione viene condivisa dal sito in cui il widget è incorporato.
 
 Per maggiori informazioni, anche sulla disattivazione di tali cookie, si consiglia di consultare i seguenti link:
