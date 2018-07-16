@@ -25,6 +25,10 @@ background-color: rgba(27,31,35,0.05) !important;
       overflow: visible !important;
    }}
    
+/* Colore Titolo*/
+h1 {color: #344c25 !important;}
+
+
  /* disattiva testo latest  menu sx */
 .wy-side-nav-search>div.version {display: none;}  
 /* disattiva testo Home  menu sx */
