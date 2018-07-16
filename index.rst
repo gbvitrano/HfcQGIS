@@ -47,6 +47,11 @@ Contenuti:
    contributing
    
 .. toctree::
+   :maxdepth: 2
+   
+   privacy
+   
+.. toctree::
   :glob:
   :includehidden: Home <http://hfcqgis.opendatasicilia.it/it/latest/>
   
