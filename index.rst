@@ -14,10 +14,8 @@ Questo manuale
         <a href="https://qgis.org/en/site/getinvolved/donations.html" title="Donate to QGIS" target="_blank"><img src="https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square" alt="" title="Donate to QGIS"/></a>
     </embed>
     
-
-| Questa versione in formato `Read The Docs`_ del `lavoro`_ di Salvatore
-  FIANDACA, è stata realizzata dalla comunità `@OpenDataSicilia`_, in
-  particolare da: `Andrea Borruso`_, `Totò Fiandaca`_ e `Giovan Battista Vitrano`_.
+|
+| Questa versione in formato `Read The Docs`_ del `lavoro`_ di Salvatore  FIANDACA, è stata realizzata dalla comunità `@OpenDataSicilia`_, in  particolare da: `Andrea Borruso`_, `Totò Fiandaca`_ e `Giovan Battista Vitrano`_.
 | L'idea è stata di Giovan Battista, mentre la musa ispiratrice per la
   scelta di Read The Docs è `Ciro Spataro`_. 
 
