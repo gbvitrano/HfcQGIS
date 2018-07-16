@@ -12,7 +12,8 @@ Questo manuale
 
     <embed>
         <a href="https://qgis.org/en/site/getinvolved/donations.html" title="Donate to QGIS" target="_blank"><img src="https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square" alt="" title="Donate to QGIS"/></a>
-    </embed>   
+    </embed>
+    
 
 | Questa versione in formato `Read The Docs`_ del `lavoro`_ di Salvatore
   FIANDACA, è stata realizzata dalla comunità `@OpenDataSicilia`_, in
