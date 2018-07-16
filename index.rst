@@ -55,15 +55,7 @@ Autore HfcQGIS
 | `Salvatore Fiandaca`_ (aka pigreco)
 | `Sito web - pigrecoinfinito`_
 
-`profile for pigreco on Stack Exchange, a network of free,
-community-driven Q&A sites`_
-
-.. _profile for pigreco on Stack Exchange, a network of free, community-driven Q&A sites: https://stackexchange.com/users/8482031/pigreco
-
-
-
 |snippet|
-
 
 .. |snippet| raw:: html 
      <iframe width="100%" height="100px" frameBorder="0" src="snippet.html"></iframe>
