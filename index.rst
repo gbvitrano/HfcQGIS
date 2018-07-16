@@ -7,6 +7,14 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 Questo manuale
 ~~~~~~~~~~
+.. raw:: html
+
+    <embed>
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-square)](https://github.com/pigreco/HfcQGIS)
+[![HitCount](http://hits.dwyl.io/pigreco/HfcQGIS.svg)](http://hits.dwyl.io/pigreco/HfcQGIS)
+[![Donate to QGIS](https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square)](http://qgis.org/en/site/getinvolved/donations.html)
+    </embed>
+
 | Questa versione in formato `Read The Docs`_ del `lavoro`_ di Salvatore
   FIANDACA, è stata realizzata dalla comunità `@OpenDataSicilia`_, in
   particolare da: `Andrea Borruso`_, `Totò Fiandaca`_ e `Giovan Battista Vitrano`_.
