@@ -58,7 +58,6 @@ Contenuti:
 Autore HfcQGIS
 ~~~~~~~~~~~~~~
 | `Salvatore Fiandaca`_ (aka pigreco)
-| `Sito web - pigrecoinfinito`_
 
 Traduzione in italiano
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -108,7 +107,6 @@ Disclaimer
 .. _Giovan Battista Vitrano: https://twitter.com/gbvitrano
 .. _Ciro Spataro: https://twitter.com/cirospat
 .. _Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA): https://creativecommons.org/licenses/by-sa/4.0/
-.. _Sito web - pigrecoinfinito: https://pigrecoinfinito.wordpress.com/
 .. _Stefano Campus: https://twitter.com/skampus1967?lang=it
 .. _QGIS.org: https://qgis.org/it/site/
 .. _Documentazione di QGIS: https://qgis.org/it/docs/index.html#
