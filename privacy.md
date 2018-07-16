@@ -29,7 +29,6 @@ Questi cookie consentono al sito web di ricordare le scelte che avete effettuato
 
 ## Cookie di terze parti
 **Google Analytics**<br><br>
-
 Il Sito impiega Google Analytics. Si tratta di un servizio di analisi web fornito da Google Inc. (“Google”) che utilizza cookie depositati sul computer dell’utente per consentire analisi statistiche in forma aggregata in ordine all’utilizzo del sito web visitato.
 
 I dati generati da Google Analytics sono conservati da Google così come indicato nella Informativa reperibile al seguente link – https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
