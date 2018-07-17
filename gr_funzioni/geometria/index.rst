@@ -93,19 +93,20 @@ Geometria
 |                           | in base ai valori m nei        |           |
 |                           | vertici della linea            |           |
 +---------------------------+--------------------------------+-----------+
-| `centroid`_               | Restituisce il centro          | 2.18    |
-|                           | geometrico di una geometria    |         |
-+---------------------------+--------------------------------+---------+
-| `closest_point`_          | Restituisce il punto sulla     | >=2.14  |
-|                           | geometria 1 che è più vicino   |         |
-|                           | alla geometria 2               |         |
-+---------------------------+--------------------------------+---------+
-| `combine`_                | Restituisce la combinazione di | 2.18    |
-|                           | due geometrie                  |         |
-+---------------------------+--------------------------------+---------+
-| `contains`_               | Verifica se una geometria ne   | 2.18    |
-|                           | contiene un’altra              |         |
-+---------------------------+--------------------------------+---------+
+| `centroid`_               | Restituisce il centro          |   2.18    |
+|                           | geometrico di una geometria    |           |
++---------------------------+--------------------------------+-----------+
+| `closest_point`_          | Restituisce il punto sulla     |   >=2.14  |
+|                           | geometria 1 che è più vicino   |           |
+|                           | alla geometria 2               |           |
++---------------------------+--------------------------------+-----------+
+| `combine`_                | Restituisce la combinazione di |    2.18   |
+|                           | due geometrie                  |           |
++---------------------------+--------------------------------+-----------+
+| `contains`_               | Verifica se una geometria ne   |    2.18   |
+|                           | contiene un’altra              |           |
++---------------------------+--------------------------------+-----------+
+
 | `convex_hull`_            | Restituisce il poligono        | 2.18    |
 |                           | convesso di una geometria      |         |
 +---------------------------+--------------------------------+---------+
