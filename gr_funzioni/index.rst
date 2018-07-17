@@ -3,9 +3,8 @@ Elenco funzioni QGIS
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
-
 +-----------------------+-----------------------+-----------------------+
-| Gruppo funzioni       | nro funzioni          | info                  |
+| Gruppo funzioni       | nro funzioni (*)      | info                  |
 +=======================+=======================+=======================+
 | `Aggregates`_         | (22/22)               | >= QGIS 2.16          |
 +-----------------------+-----------------------+-----------------------+
@@ -77,6 +76,8 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. _Stringhe di testo: stringhe_di_testo/index.html
 .. _TimeManager: timemanager/index.html
 .. _Variabili: variabili/index.html
+
+(*) **numero funzioni gruppo/funzioni documentate**
 
 **Indice gruppi di funzioni/espressioni (302/397)**
 
