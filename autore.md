@@ -6,7 +6,7 @@ Usa spesso, nei vari social, il nickname pigreco ma è nel titolo del suo blog -
 
 
 <p align="center">
-  <img width="200" src="/img/logopi.png">
+  <img width="200" src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/logopi.png">
 </p>
 
 sono sovrapposti i simboli di pi greco, dell'infinito e della derivata prima: tre simboli matematici che hanno rivoluzionato la scienza; se osservate bene vedrete scritto il suo nome. 
@@ -31,14 +31,14 @@ Molto attivo nella comunita di QGIS: ha partecipato alla realizzazione di un plu
 
 
 <p align="center">
-  <img width="600" src="/img/hfita1_2017_bologna.png">
+  <img width="600" src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/hfita1_2017_bologna.png">
 </p>
 
 **Foto**: Hack Fest QGIS ITA Bologna 2017, da sinistra: _Luca Mandolesi, Giuseppe Guarino, Salvatore Fiandaca, Pierluigi de Rosa e Enrico Ferreguti (uno dei più attivi sviluppatori di plugin italiani_
 
 
 <p align="center">
-  <img width="600" src="/img/hfita2_2017_padova.png">
+  <img width="600" src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/hfita2_2017_padova.png">
 </p>
 
 **Foto**: Hack Fest QGIS ITA Padova 2017, da sinistra: _Salvatore Fiandaca, Amedeo Fadini, Federico Gianoli, Matteo Ghetta,prof. Massimo De Marchi, Stefano Campus, Alessandro Sarretta, Enrico Ferreguti_
