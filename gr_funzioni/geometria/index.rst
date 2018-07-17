@@ -273,7 +273,7 @@ Geometria
 | `make_triangle`_          | Crea un poligono triangolare   | **>=3.0** |
 |                           |                                |           |
 +---------------------------+--------------------------------+-----------+
-| `minimal_circle`_         | Restituisce la circonferenza   | **>=3.0 |
+| `minimal_circle`_         | Restituisce la circonferenza   | **>=3.0   |
 |                           | circoscritta minima di una     |           |
 |                           | geometria                      |           |
 +---------------------------+--------------------------------+-----------+
