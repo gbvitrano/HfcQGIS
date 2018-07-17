@@ -136,8 +136,8 @@ Geometria
 | `end_point`_              | Restituisce l’ultimo nodo di   | 2.18    |
 |                           | una geometria                  |         |
 +---------------------------+--------------------------------+---------+
-| `extend`_                 | Estende l’inizio e la fine di  | **>=3.0 |
-|                           | una geometria di tipo          | **      |
+| `extend`_                 | Estende l’inizio e la fine di  |**>=3.0**|
+|                           | una geometria di tipo          |         |
 |                           | linestring di una quantità     |         |
 |                           | specificata                    |         |
 +---------------------------+--------------------------------+---------+
@@ -155,8 +155,8 @@ Geometria
 |                           | ingresso, con un’estensione    |         |
 |                           | specificata da x e y.          |         |
 +---------------------------+--------------------------------+---------+
-| `flip_coordinates`_       | Restituisce una copia della    | **>=3.2 |
-|                           | geometria con le coordinate x  | **      |
+| `flip_coordinates`_       | Restituisce una copia della    |**>=3.2**|
+|                           | geometria con le coordinate x  |     |
 |                           | e y scambiate                  |         |
 +---------------------------+--------------------------------+---------+
 | `geom_from_gml`_          | Restituisce una geometria da   | 2.18    |
@@ -181,11 +181,11 @@ Geometria
 |                           | geometria in ingresso non è    |         |
 |                           | una raccolta                   |         |
 +---------------------------+--------------------------------+---------+
-| `hausdorff_distance`_     | Restituisce la distanza di     | **>=3.0 |
-|                           | Hausdorff tra due geometrie    | **      |
+| `hausdorff_distance`_     | Restituisce la distanza di     |**>=3.0**|
+|                           | Hausdorff tra due geometrie    |         |
 +---------------------------+--------------------------------+---------+
-| `inclination`_            | Restituisce l’inclinazione     | **>=3.0 |
-|                           | misurata dallo zenit (0) al    | **      |
+| `inclination`_            | Restituisce l’inclinazione     |**>=3.0**|
+|                           | misurata dallo zenit (0) al    |         |
 |                           | nadir (180) del punto_a al     |         |
 |                           | punto_b                        |         |
 +---------------------------+--------------------------------+---------+
@@ -245,11 +245,11 @@ Geometria
 | `m`_                      | Restituisce il valore m di una | >=2.14  |
 |                           | geometria puntuale             |         |
 +---------------------------+--------------------------------+---------+
-| `make_circle`_            | Crea un poligono circolare     | **>=3.0 |
-|                           |                                | **      |
+| `make_circle`_            | Crea un poligono circolare     |**>=3.0**|
+|                           |                                |         |
 +---------------------------+--------------------------------+---------+
-| `make_ellipse`_           | Crea un poligono ellittico     | **>=3.0 |
-|                           |                                | **      |
+| `make_ellipse`_           | Crea un poligono ellittico     |**>=3.0**|
+|                           |                                |         |
 +---------------------------+--------------------------------+---------+
 | `make_line`_              | Crea una geometria linea da    | >=2.14  |
 |                           | una serie di geometrie punto   |         |
@@ -267,14 +267,14 @@ Geometria
 |                           | opzionalmente da geometrie ad  |         |
 |                           | anello interne                 |         |
 +---------------------------+--------------------------------+---------+
-| `make_regular_polygon`_   | Crea un poligono regolare      | **>=3.0 |
-|                           |                                | **      |
+| `make_regular_polygon`_   | Crea un poligono regolare      |**>=3.0**|
+|                           |                                |         |
 +---------------------------+--------------------------------+---------+
-| `make_triangle`_          | Crea un poligono triangolare   | **>=3.0 |
-|                           |                                | **      |
+| `make_triangle`_          | Crea un poligono triangolare   |**>=3.0**|
+|                           |                                |         |
 +---------------------------+--------------------------------+---------+
 | `minimal_circle`_         | Restituisce la circonferenza   | **>=3.0 |
-|                           | circoscritta minima di una     | **      |
+|                           | circoscritta minima di una     |         |
 |                           | geometria                      |         |
 +---------------------------+--------------------------------+---------+
 | `nodes_to_points`_        | Restituisce una geometria      | >=2.14  |
@@ -306,8 +306,8 @@ Geometria
 |                           | geometria in ingresso non è un |         |
 |                           | poligono o una raccolta        |         |
 +---------------------------+--------------------------------+---------+
-| `offset_curve`_           | Restituisce una geometria      | **>=3.0 |
-|                           | formata facendo l’offset di    | **      |
+| `offset_curve`_           | Restituisce una geometria      |**>=3.0**|
+|                           | formata facendo l’offset di    |         |
 |                           | una geometria di tipo          |         |
 |                           | linestring a lato              |         |
 +---------------------------+--------------------------------+---------+
@@ -315,8 +315,8 @@ Geometria
 |                           | MultiGeometria secondo un dato |         |
 |                           | criterio                       |         |
 +---------------------------+--------------------------------+---------+
-| `oriented_bbox`_          | Restituisce una geometria che  | **>=3.0 |
-|                           | rappresenta il perimetro di    | **      |
+| `oriented_bbox`_          | Restituisce una geometria che  |**>=3.0**|
+|                           | rappresenta il perimetro di    |         |
 |                           | delimitazione minimo orientato |         |
 |                           | di una geometria               |         |
 +---------------------------+--------------------------------+---------+
@@ -335,8 +335,8 @@ Geometria
 |                           | sulla superficie della         |         |
 |                           | geometria                      |         |
 +---------------------------+--------------------------------+---------+
-| `pole_of_inaccessibility`_| Calcola il polo                | **>=3.0 |
-|                           | dell’inaccessibilità           | **      |
+| `pole_of_inaccessibility`_| Calcola il polo                |**>=3.0**|
+|                           | dell’inaccessibilità           |         |
 |                           | approssimato per una           |         |
 |                           | superficie, che è il punto     |         |
 |                           | interno più distante dal       |         |
@@ -367,25 +367,25 @@ Geometria
 |                           | che unisce la geometria 1 alla |         |
 |                           | geometria 2                    |         |
 +---------------------------+--------------------------------+---------+
-| `simplify`_               | Semplifica una geometria       | **>=3.0 |
-|                           | rimuovendo nodi usando una     | **      |
+| `simplify`_               | Semplifica una geometria       |**>=3.0**|
+|                           | rimuovendo nodi usando una     |         |
 |                           | soglia basata sulla distanza   |         |
 |                           | (cioè, l’algoritmo Douglas     |         |
 |                           | Peucker)                       |         |
 +---------------------------+--------------------------------+---------+
-| `simplify_vw`_            | Semplifica una geometria       | **>=3.0 |
-|                           | rimuovendo nodi usando una     | **      |
+| `simplify_vw`_            | Semplifica una geometria       |**>=3.0**|
+|                           | rimuovendo nodi usando una     |         |
 |                           | soglia basata sull’area (cioè, |         |
 |                           | l’algoritmo Visvalingam-Whyatt |         |
 |                           | )                              |         |
 +---------------------------+--------------------------------+---------+
-| `single_sided_buffer`_    | Restituisce una geometria      | **>=3.0 |
-|                           | formata facendo un buffer solo | **      |
+| `single_sided_buffer`_    | Restituisce una geometria      |**>=3.0**|
+|                           | formata facendo un buffer solo |         |
 |                           | da un lato di una geometria di |         |
 |                           | tipo linestring                |         |
 +---------------------------+--------------------------------+---------+
-| `smooth`_                 | Smussa una geometria con       | **>=3.0 |
-|                           | l’aggiunta di ulteriori nodi   | **      |
+| `smooth`_                 | Smussa una geometria con       |**>=3.0**|
+|                           | l’aggiunta di ulteriori nodi   |         |
 |                           | che arrotondano gli angoli     |         |
 |                           | nella geometria                |         |
 +---------------------------+--------------------------------+---------+
@@ -396,8 +396,8 @@ Geometria
 |                           | rappresenta la porzione di due |         |
 |                           | geometrie che non si interseca |         |
 +---------------------------+--------------------------------+---------+
-| `tapered_buffer`_         | Crea un buffer lungo una       | **>=3.2 |
-|                           | geometria della linea in cui   | **      |
+| `tapered_buffer`_         | Crea un buffer lungo una       |**>=3.2**|
+|                           | geometria della linea in cui   |         |
 |                           | il diametro del buffer varia   |         |
 |                           | in modo uniforme sulla         |         |
 |                           | lunghezza della linea          |         |
@@ -417,8 +417,8 @@ Geometria
 |                           | punti dell’unione delle        |         |
 |                           | geometrie                      |         |
 +---------------------------+--------------------------------+---------+
-| `wedge_buffer`_           | Restituisce un buffer a forma  | **>=3.2 |
-|                           | di cuneo che ha origine da una | **      |
+| `wedge_buffer`_           | Restituisce un buffer a forma  |**>=3.2**|
+|                           | di cuneo che ha origine da una |         |
 |                           | geometria del punto            |         |
 +---------------------------+--------------------------------+---------+
 | `within`_                 | Controlla qualora una          | 2.18    |
