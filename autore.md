@@ -4,7 +4,10 @@ Salvatore **FIANDACA** (_aka `pigreco`, per gli amici `Totò`_)
 
 Usa spesso, nei vari social, il nick name pigreco ma è nel titolo del suo blog - pigrecoinfinito - che si cela il suo nome in siciliano. Per capire quale sia occorre osservare con attenzione il logo che lo rappresenta:
 
-![logopi](/img/logopi.png)
+
+<p align="center">
+  <img width="200" src="/img/logopi.png">
+</p>
 
 sono sovrapposti i simboli di pi greco, dell'infinito e della derivata prima: tre simboli matematici che hanno rivoluzionato la scienza; se osservate bene vedrete scritto il suo nome. 
 
@@ -26,11 +29,17 @@ Puoi raggiungere _Salvatore_ all'indirizzo [@pigrecoinfinito](https://pigrecoinf
 
 Molto attivo nella comunita di QGIS: ha partecipato alla realizzazione di un plugin ([Select by Relationship](https://plugins.qgis.org/plugins/SelectByRelationship/)); utilizza la _OSGeo4W Network installer_ per fare testing sulle versione dev di QGIS; ha aperto numerosi ticket nel [QGIS Issue Tracking](https://issues.qgis.org/issues); scrive nelle mailing list di: QGIS-it-user, GFOSS, Spatialite, gvSIG; è co-admin della pagina ufficiale di [QGIS Italia](https://www.facebook.com/qgis.it/); ha collaborato per i testing di nuove feature di QGIS;si diverte a  compilare la versione QGIS dev su GNU/Linux MINT; ha realizzato Pull request (PR) nel progetto princiaple di [QGIS](https://github.com/qgis/QGIS); è iscritto a [gis.stackexchange](https://stackexchange.com/users/8482031/pigreco). Ha organizzato e partecipato alle prime due Hack Fest QGIS Italia realizzate a [Bologna](https://pigrecoinfinito.wordpress.com/2017/05/27/qgis-prima-hackfest-italiana-di-qgis/) e [Padova](https://pigrecoinfinito.wordpress.com/2017/11/14/qgis-seconda-hackfest-italiana-di-qgis/) (2017) e parteciperà alla [prossima a Viterbo (2018)](https://github.com/pcav/sito_qgis_it/wiki/QGIS-HackFest-3).
 
-![foto](img/hfita1_2017_bologna.png)
+
+<p align="center">
+  <img width="600" src="/img/hfita1_2017_bologna.png">
+</p>
 
 **Foto**: Hack Fest QGIS ITA Bologna 2017, da sinistra: _Luca Mandolesi, Giuseppe Guarino, Salvatore Fiandaca, Pierluigi de Rosa e Enrico Ferreguti (uno dei più attivi sviluppatori di plugin italiani_
 
-![foto](img/hfita2_2017_padova.png)
+
+<p align="center">
+  <img width="600" src="/img/hfita2_2017_padova.png">
+</p>
 
 **Foto**: Hack Fest QGIS ITA Padova 2017, da sinistra: _Salvatore Fiandaca, Amedeo Fadini, Federico Gianoli, Matteo Ghetta,prof. Massimo De Marchi, Stefano Campus, Alessandro Sarretta, Enrico Ferreguti_
 
