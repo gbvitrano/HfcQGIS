@@ -2,11 +2,12 @@
 
 Salvatore **FIANDACA** (_aka `pigreco`, per gli amici `Totò`_)
 
-Usa spesso, nei vari social, il nickname pigreco ma è nel titolo del suo blog - pigrecoinfinito - che si cela il suo nome in siciliano. Per capire quale sia occorre osservare con attenzione il logo che lo rappresenta:
+Usa spesso, nei vari social, il nickname pigreco ma è nel titolo del suo blog - [pigrecoinfinito](https://pigrecoinfinito.wordpress.com/) - che si cela il suo nome in siciliano. Per capire quale sia occorre osservare con attenzione il logo che lo rappresenta:
 
 
 <p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/logopi.png">
+  <a href="https://pigrecoinfinito.wordpress.com/" target="_blank"><img src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/logopi.png" alt="pigrecoinfinito
+"  width="200" class="immagonobox" title="“Se la conoscenza deve essere aperta a tutti, perchè mai limitarne l’accesso?” R. Stallman"></a>
 </p>
 
 sono sovrapposti i simboli di pi greco, dell'infinito e della derivata prima: tre simboli matematici che hanno rivoluzionato la scienza; se osservate bene vedrete scritto il suo nome. 
