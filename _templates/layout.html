@@ -17,8 +17,12 @@
 <meta name="twitter:site" content="hfcqgis.opendatasicilia.it" />
 <meta name="twitter:url" content="http://hfcqgis.opendatasicilia.it/">
 <!-- css back top -->
-<link href="../_static/jquerysctipttop.css" rel="stylesheet" type="text/css" />
-<link href="../_static/backTop.css" rel="stylesheet" type="text/css" />
+<!--<link href="../_static/jquerysctipttop.css" rel="stylesheet" type="text/css" />-->
+<link href="{{ pathto("_static/jquerysctipttop.css", True) }}" rel="stylesheet" type="text/css" />
+
+<!--<link href="../_static/backTop.css" rel="stylesheet" type="text/css" />-->
+<link href="{{ pathto("_static/backTop.css", True) }}" rel="stylesheet" type="text/css" />
+
 <!-- Script -->
 <script type="text/javascript" src="../_static/jquery.min.js"></script> 
  {% endblock %}
@@ -29,7 +33,8 @@
       <div class="footerc">
           <a id='backTop'>Back To Top</a>
  <!-- script toptoback automatico mobile/desktop -->  
- <script type="text/javascript" src="../_static/jquery.backTop.min.js"></script>
+ <!-- <script type="text/javascript" src="../_static/jquery.backTop.min.js"></script> -->
+<script type="text/javascript" src="{{ pathto("_static/jquery.backTop.min.js", True) }}"></script>
 <script>
             $(document).ready( function() {
                 $('#backTop').backTop({
