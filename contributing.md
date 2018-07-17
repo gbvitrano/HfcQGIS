@@ -10,16 +10,16 @@ Quella che segue è una serie di linee guida per contribuire a **HfcQGIS**. Ques
 Per realizzare questa guida ho impiegato del tempo e messo a disposizione tutta la mia conoscenza sullo strumento. <a href="https://www.paypal.me/pigrecoinfinito" target="_blank"><img width="70" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/PayPal.png" class="immagonobox" Title="Dona con PayPal" alt="Dona con PayPal" /></a>
 
 ### Divulgando questo manuale
-Per favore usate i tasti di condivisione social inserendo alcuni hastag: #hfcqgis #ods #qgis
+Per favore usa i tasti di condivisione social inserendo alcuni hastag: #hfcqgis #ods #qgis (se hai attivo un _ad blocker_, i tasti di condivisione non verranno visualizzati).
 
 ### Segnalazione di bug
-Se trovi qualche malfunzionamento segnalalo cosi da migliorare la guida.
+Se trovi qualche malfunzionamento segnalalo, cosi da migliorare la guida.
 
 ### Suggerire miglioramenti
 Se hai suggerimenti o migliorie segnalale.
 
 ### Suggerire esempi/esercizi
-Se vuoi che la sezione esempi cresca, suggerisci degli esempi che vorresti vedere.
+Se vuoi che la [sezione esempi](./esempi/index.html) cresca, suggerisci degli esempi che vorresti vedere.
 
 ### Pull Requests
 Includere screenshot e GIF animate nella richiesta di pull, quando possibile.
