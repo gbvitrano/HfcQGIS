@@ -10,15 +10,14 @@ sono sovrapposti i simboli di pi greco, dell'infinito e della derivata prima: tr
 
 Prima di iniziare l'attività di divulgatore del Open Source (OS), _Salvatore_ ha utilizzato - per anni - software proprietari, solo dopo la scoperta del OS abbandonò definitivamente il mondo Close Source e decise di divulgare la filosofia OS tramite blog post e video su youtube. Attualmente il blog è seguito in tutto il mondo ed il canale youtube ha oltre 1000 iscritti.
 
-<a href="#" target="_blank"><img width="50%" src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/world_wp01.png" Title="World Map" alt="world_map" style="margin: 0 auto; display: block;" /></a>
+<p align="center">
+  <img width="50%"  src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/world_wp01.png">
+</p>
 
 Cura il Blog '[Pigrecoinfinito](https://pigrecoinfinito.wordpress.com/)' e il [canale](https://www.youtube.com/user/vediamo13/) YouTube dove scrive e parla di QGIS, SpatiaLite, PostegreSQL/PostGIS, GDAL/OGR, GRASS GIS, SAGA GIS, GitHub, OSGeo4W, ed altri FOSS; ama usare, nella professione e non solo, software OS come LibreOffice, InkSCAPE, GIMP ecc...
 
 Libero Professionista, attualmente è socio [GFOSS.it](http://gfoss.it/), membro di [QGIS Italia](https://www.facebook.com/qgis.it/) e moderatore di vari forum con argomenti GFOSS. Partecipa, nel 2014, alla fondazione di _Open Data Sicilia_ realizzando uno dei primi progetti del gruppo (Balneazione Palermo 2014, [Piano regolatore del Comune di Palermo 2015](http://blog.spaziogis.it/static/palermo_prg/#12/38.1375/13.3450)), nel 2016 è tra i relatori del [#ODS16 OpenDataSicilia Summer Edition](http://ods16.opendatasicilia.it/) Messina, in cui parla di QGIS.
 
-<p align="center">
-  <img width="50%"  src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/world_wp01.png">
-</p>
 
 **_Salvatore_ è disponibile per nuovi progetti di divulgazione, oltre a consulenze private.**
 
