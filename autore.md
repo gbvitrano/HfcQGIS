@@ -48,4 +48,53 @@ Molto attivo nella comunita di QGIS: ha partecipato alla realizzazione di un plu
 
 Ama ascoltare [E. Morricone](https://www.youtube.com/watch?v=Jjq6e1LJHxw&t=)
 
+<p align="center">
+</table></td>
+    <td width="49" valign="bottom"><table width="10%" border="0" align="center" cellpadding="0" cellspacing="0" class="social" >
+            <tbody>
+              <tr>
+                <td><a href="https://www.facebook.com/pigreco314" target="_blank" title="Facebook"><span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span></a></td>
+                <td>&nbsp;</td>
+                <td><a href="https://twitter.com/totofiandaca" target="_blank" title="Twitter"> <span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span></a></td>
+                <td>&nbsp;</td>
+         <td><a href="https://plus.google.com/u/0/+Tot%C3%B2Fiandaca" target="_blank" title="Google Plus"> <span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i></span></a></td>
+                <td>&nbsp;</td> 
+              <td><a href="https://www.youtube.com/user/vediamo13/" target="_blank" title="Canale Youtube"> <span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-youtube fa-stack-1x fa-inverse"></i></span></a></td>
+                <td>&nbsp;</td>
+
+                
+                <td><a href="https://github.com/pigreco" target="_blank" title="GitHub"><span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-github fa-stack-1x fa-inverse"></i></span></a></td>
+                <td>&nbsp;</td>
+                <td><a href="https://www.paypal.me/pigrecoinfinito" target="_blank" title="Per realizzare questa guida ho impiegato del tempo e messo a disposizione tutta la mia conoscenza sullo strumento, dona con PayPal"> <span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-paypal fa-stack-1x fa-inverse"></i></span></a></td>
+                <td>&nbsp;</td>
+                <td><a href="https://pigrecoinfinito.wordpress.com/" target="_blank" title="Blog pigrecoinfinito"><span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-globe fa-stack-1x fa-inverse"></i></span></a></td>
+                <td>&nbsp;</td>
+                <td><a href="https://pigrecoinfinito.wordpress.com/dove-mi-trovo/" target="_blank" title="Email"><span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-envelope-open fa-stack-1x fa-inverse"></i></span></a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+      </tbody>
+            <tr>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+            </tr>
+
+            <tr>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+            </tr>
+</table></td>
+</p>
+
 
