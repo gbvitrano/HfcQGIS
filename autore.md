@@ -16,6 +16,9 @@ Cura il Blog '[Pigrecoinfinito](https://pigrecoinfinito.wordpress.com/)' e il [c
 
 Libero Professionista, attualmente è socio [GFOSS.it](http://gfoss.it/), membro di [QGIS Italia](https://www.facebook.com/qgis.it/) e moderatore di vari forum con argomenti GFOSS. Partecipa, nel 2014, alla fondazione di _Open Data Sicilia_ realizzando uno dei primi progetti del gruppo (Balneazione Palermo 2014, [Piano regolatore del Comune di Palermo 2015](http://blog.spaziogis.it/static/palermo_prg/#12/38.1375/13.3450)), nel 2016 è tra i relatori del [#ODS16 OpenDataSicilia Summer Edition](http://ods16.opendatasicilia.it/) Messina, in cui parla di QGIS.
 
+<p align="center">
+  <img width="50%"  src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/world_wp01.png">
+</p>
 
 **_Salvatore_ è disponibile per nuovi progetti di divulgazione, oltre a consulenze private.**
 
