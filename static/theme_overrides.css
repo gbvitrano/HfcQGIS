@@ -63,8 +63,6 @@ h1, h2, h3 {color: #344c25 !important;}
 .wy-nav-content {/*background: #efefef; */
 background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede)!important; }
 
-background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #ccc);
-
 /* @http://hfcqgis.opendatasicilia.it*/
 /* testo menu verticale maiuscolo */	
 .wy-menu-vertical {	font-weight: bold; color:#344c25!important; }
