@@ -46,7 +46,7 @@ Molto attivo nella comunita di QGIS: ha partecipato alla realizzazione di un plu
 
 <a href="https://stackexchange.com/users/8482031/pigreco"><img src="https://stackexchange.com/users/flair/8482031.png" width="208" height="58" alt="profile for pigreco on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for pigreco on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-Ama ascoltare [E. Morricone](https://www.youtube.com/watch?v=Jjq6e1LJHxw&t=)
+Ama ascoltare [E. Morricone](https://www.youtube.com/watch?v=LhOB8-cevIc)
 
 <p align="center">
 </table></td>
