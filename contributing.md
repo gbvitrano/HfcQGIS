@@ -13,7 +13,7 @@ Per realizzare questa guida ho impiegato del tempo e messo a disposizione tutta 
 Per favore usa i tasti di condivisione social inserendo alcuni hastag: #hfcqgis #ods #qgis (se hai attivo un _ad blocker_, i tasti di condivisione non verranno visualizzati).
 
 ### Segnalazione di bug
-Se trovi qualche malfunzionamento segnalalo, cosi da migliorare la guida.
+Se trovi qualche malfunzionamento segnalalo, così da migliorare la guida.
 
 ### Suggerire miglioramenti
 Se hai suggerimenti o migliorie segnalale.
