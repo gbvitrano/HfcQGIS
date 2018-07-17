@@ -6,7 +6,7 @@ Usa spesso, nei vari social, il nickname pigreco ma è nel titolo del suo blog -
 
 
 <p align="center">
-  <a href="https://pigrecoinfinito.wordpress.com/" target="_blank"><img src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/logopi.png" alt="pigrecoinfinito
+  <a href="https://pigrecoinfinito.wordpress.com/" target="_blank"><img src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logopigreco.png" alt="pigrecoinfinito
 "  width="200" class="immagonobox" title="“Se la conoscenza deve essere aperta a tutti, perchè mai limitarne l’accesso?” R. Stallman"></a>
 </p>
 
