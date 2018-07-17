@@ -220,4 +220,4 @@ div.ethical-text {color: #344c25 !important;}
 .social a:link{color: #344c25;	text-decoration:none;}
 .social a:visited {	color: #344c25; text-decoration:none;}
 .social a:hover {color: #f18d36; text-decoration:none; } 
- @media (min-width: 320px) and (max-width: 736px) {.social {font-size: 10px;}}
+ @media (min-width: 320px) and (max-width: 736px) {.social {font-size: 8.5px;}}
