@@ -63,4 +63,6 @@ In questo esempio viene popolato un campo (dove è usata l'espressione) in funzi
 
 ![](/img/condizioni/case_label1.png)
 
-![](/img/condizioni/case_rot.png)
+<p align="center">
+  <img width="460" src="/img/condizioni/case_rot.png">
+</p>
