@@ -67,7 +67,7 @@ Autore HfcQGIS
         <p><a href="http://hfcqgis.opendatasicilia.it/it/latest/autore.html"><strong>Salvatore Fiandaca</strong></a> (aka <em>pigreco</em>)</p>
     </embed>
 
-Traduzione in italiano
+Traduzione in italiano .. figure:: /img/ita.png
 ~~~~~~~~~~~~~~~~~~~~~~
 La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da `Stefano Campus`_
 
