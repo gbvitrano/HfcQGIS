@@ -61,7 +61,11 @@ Contenuti:
   
 Autore HfcQGIS
 ~~~~~~~~~~~~~~
-| `Salvatore Fiandaca`_ (aka pigreco)
+.. raw:: html
+
+    <embed>
+        <p><a href="http://hfcqgis.opendatasicilia.it/it/latest/autore.html"><strong>Salvatore Fiandaca</strong></a> (aka <em>pigreco</em>)</p>
+    </embed>
 
 Traduzione in italiano
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -117,7 +121,6 @@ Disclaimer
 .. _@OpenDataSicilia: http://opendatasicilia.it/
 .. _Andrea Borruso: https://twitter.com/aborruso
 .. _Totò Fiandaca: https://twitter.com/totofiandaca
-.. _Salvatore Fiandaca: autore.html
 .. _Giovan Battista Vitrano: https://twitter.com/gbvitrano
 .. _Ciro Spataro: https://twitter.com/cirospat
 .. _Stefano Campus: https://twitter.com/skampus1967?lang=it
