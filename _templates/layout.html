@@ -28,7 +28,16 @@
 
 <!-- http://hfcqgis.opendatasicilia.it -->  
 
-<div class="wy-nav-content">
+ {# MOBILE NAV, TRIGGLES SIDE NAV ON TOGGLE #}
+      <nav class="wy-nav-top" aria-label="top navigation">
+        {% block mobile_nav %}
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="{{ pathto(master_doc) }}">{{ project }}</a>
+        {% endblock %}
+      </nav>
+
+
+      <div class="wy-nav-content">
       {%- block content %}
         {% if theme_style_external_links|tobool %}
         <div class="rst-content style-external-links">
