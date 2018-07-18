@@ -90,11 +90,13 @@ Licenze
 
 Disclaimer
 ~~~~~~~~~~~
-| Questa guida NON sostituisce il `manuale`_ online di QGIS, cerca solo di rendere più facile la comprensione dello strumento!!!
-|     
-| Il marchio **QGIS** è stato realizzato da `Anita Graser`_, l’immagine HfcQGIS è stata realizzata da `Totò Fiandaca`_ (autore del manuale) usando `InkSCAPE`_ e il carattere `Trueno Bold`_. 
-| I colori utilizzati in questo RTD sono fedeli alla `Visual Style  Guide`_ di **QGIS**
-|
+.. raw:: html
+
+    <embed>
+<p>Questa guida NON sostituisce il <a href="https://qgis.org/it/docs/index.html#">manuale</a> online di QGIS, cerca solo di rendere più facile la comprensione dello strumento. <img src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionCalculateField.png" class="immagonobox" width="24" height="24" alt=""/><br><br> Il marchio <strong>QGIS</strong> è stato realizzato da <a href="https://twitter.com/underdarkGIS?lang=it">Anita Graser</a>, l&rsquo;immagine HfcQGIS è stata realizzata da <a href="https://twitter.com/totofiandaca">Totò Fiandaca</a> (autore del manuale) usando <a href="https://inkscape.org/it/">InkSCAPE</a> e il carattere <a href="https://www.ffonts.net/Trueno-Bold.font">Trueno Bold</a>.<br>
+I colori utilizzati in questo RTD sono fedeli alla <a href="https://www.qgis.org/en/site/getinvolved/styleguide.html#primary-colors">Visual Style  Guide</a> di <strong>QGIS</strong></p>
+    </embed>
+
 .. raw:: html
 
     <embed>
@@ -129,8 +131,6 @@ Disclaimer
 .. _App di matematica GeoGebra: https://www.geogebra.org/?lang=it
 .. _guida ufficiale di QGIS: https://qgis.org/it/docs/index.html#
 .. _manuale: https://qgis.org/it/docs/index.html#
-.. _Visual Style Guide: https://www.qgis.org/en/site/getinvolved/styleguide.html#primary-colors
-.. _Anita Graser: https://twitter.com/underdarkGIS?lang=it
-.. _InkSCAPE: https://inkscape.org/it/
-.. _Trueno Bold: https://www.ffonts.net/Trueno-Bold.font
+
+
 
