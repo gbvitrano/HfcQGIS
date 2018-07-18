@@ -1,4 +1,4 @@
-3/* override css */
+/* override css */
 /* @import url(https://use.fontawesome.com/releases/v5.0.6/css/all.css); */
 /* @http://hfcqgis.opendatasicilia.it*/
 
@@ -35,7 +35,6 @@ h1, h2, h3 {color: #344c25 !important; font-size: 145%!important;}
 h1 {font-size: 145%!important;}
 h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin-top: 0.25em!important; margin-bottom: 0.257em!important; }
 
-
  /* disattiva testo latest  menu sx */
 .wy-side-nav-search>div.version {display: none;}  
 /* disattiva testo Home  menu sx */
@@ -65,12 +64,9 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 /*background  nav-content dx*/
 .wy-nav-content {/*background: #efefef; */
 background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo.png);
-background-repeat: no-repeat;background-position: center;  opacity: 0.5; filter: alpha(opacity=100); 
-}
+background-repeat: no-repeat;background-position: center;  opacity: 0.5; filter: alpha(opacity=100); }
 
 .wy-nav-content-wrap { background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede)!important;  }
-
-
 
 /* @http://hfcqgis.opendatasicilia.it*/
 /* testo menu verticale maiuscolo */	
@@ -87,29 +83,15 @@ div.wy-menu-vertical > ul > li > a {
 
 /* per applicare underline e colore a voci di menu attive */
 li.current > a {
-    text-decoration: underline;
-    color: white !important;
-}
+    text-decoration: underline; color: white !important;}
 
-li.current > a:link {
-    text-decoration: underline;
-	color: white !important;
-}
+li.current > a:link {text-decoration: underline;color: white !important;}
 
-li.current > a:visited {
-    text-decoration: underline;
-	color: white !important;
-}
+li.current > a:visited {text-decoration: underline;	color: white !important;}
 
-li.current > a:hover {
-    text-decoration: underline;
-	color: white !important;
-}
+li.current > a:hover {text-decoration: underline; color: white !important;}
 
-li.current > a:active {
-    text-decoration: underline;
-	color: white !important;
-} 
+li.current > a:active {    text-decoration: underline;	color: white !important;} 
 /* per applicare underline e colore a voci di menu attive */
 
 /* testo menu verticale primo livello */
@@ -187,26 +169,13 @@ span.commit {display: none;}
 hr  {border: 0; height: 1px; background:  #589632; background-image: linear-gradient(to right, #93b023,  #589632, #93b023);}
 
 /* bordo/ombra immagine */
-.rst-content img {box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);
-	border-radius: 5px;
-	moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	border: 1px solid #589632;
-	padding: 1px;
-	background-color: #fff;
-}
+.rst-content img {box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);	border-radius: 5px;	moz-border-radius: 5px;
+	-webkit-border-radius: 5px;	border: 1px solid #589632;	padding: 1px;background-color: #fff;}
 
 /* immagine no bordo/ no ombra */
-.immagonobox {
-	max-width: 100%!important;
-    height: auto!important;
-	box-shadow: none !important;
-	border: none !important;
-	border-radius:  none !important;
-	moz-border-radius: none !important;
-	-webkit-border-radius: none !important;
-	background-color: transparent !important;
-	}
+.immagonobox {	max-width: 100%!important;    height: auto!important;	box-shadow: none !important;
+	border: none !important;	border-radius:  none !important;	moz-border-radius: none !important;
+	-webkit-border-radius: none !important;	background-color: transparent !important;	}
 
 /* breadcrumbs */	
 /*	.wy-breadcrumbs {height: 50px;}*/	
