@@ -84,8 +84,8 @@ Licenze
 .. raw:: html
 
     <embed>
-        <p>Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: <a title="Licenza Creative Commons (CC BY-SA)" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener">Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)</a><br>
-  <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img class="immagonobox" style="border-width: 0;" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA) " src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Licenza Creative Commons" width="88" height="31"/></a></p>
+        <p>Questa guida NON sostituisce il <a href="https://qgis.org/it/docs/index.html#">manuale</a> online di QGIS, cerca solo di rendere più facile la comprensione dello strumento. <a href="http://hfcqgis.opendatasicilia.it/it/latest/" target="_parent"><img src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionCalculateField.png" class="immagonobox" width="24" height="24" alt=""/></a><br><br> Il marchio <strong>QGIS</strong> è stato realizzato da <a href="https://twitter.com/underdarkGIS?lang=it">Anita Graser</a>, l&rsquo;immagine HfcQGIS è stata realizzata da <a href="https://twitter.com/totofiandaca">Totò Fiandaca</a> (autore del manuale) usando <a href="https://inkscape.org/it/">InkSCAPE</a> e il carattere <a href="https://www.ffonts.net/Trueno-Bold.font">Trueno Bold</a>.<br>
+  I colori utilizzati in questo RTD sono fedeli alla <a href="https://www.qgis.org/en/site/getinvolved/styleguide.html#primary-colors">Visual Style Guide</a> di <strong>QGIS</strong></p>
     </embed>
 
 Disclaimer
