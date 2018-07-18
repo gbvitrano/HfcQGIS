@@ -1,4 +1,4 @@
-/* override css */
+3/* override css */
 /* @import url(https://use.fontawesome.com/releases/v5.0.6/css/all.css); */
 /* @http://hfcqgis.opendatasicilia.it*/
 
@@ -32,6 +32,7 @@ background-color: rgba(27,31,35,0.05) !important;
    
 /* Colore Titolo*/
 h1, h2, h3 {color: #344c25 !important;}
+h1 {font-size: 145%!important; margin-top: 0.25em!important; margin-bottom: 0.257em!important;}
 
 
  /* disattiva testo latest  menu sx */
@@ -166,9 +167,8 @@ a:visited {color: #589632; text-decoration:none; }
 	
 /* mobile logo */
 .wy-nav-top { background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logo_mobile_01.png);
-background-repeat: no-repeat;
-background-position: center;
-background-color: #67b03a; }
+background-repeat: no-repeat;background-position: center;background-color: #67b03a; }
+.wy-nav-content-wrap .wy-nav-content {padding: 1.0em;}
 
 /* spegne girhub nella breadcrumbs */
 /* .fa.fa-github {display: none;} */
