@@ -222,3 +222,9 @@ div.ethical-text {color: #344c25 !important;}
 .social a:visited {	color: #344c25; text-decoration:none;}
 .social a:hover {color: #f18d36; text-decoration:none; } 
  @media (min-width: 320px) and (max-width: 736px) {.social {font-size: 8.5px;}}
+ 
+ /* testo sphinx footer */
+.sphinx {font-size: small;}
+.sphinx a:link {font-size: small;}
+.sphinx a:visited {font-size: small;}
+.sphinx a:hover {font-size: small;}
