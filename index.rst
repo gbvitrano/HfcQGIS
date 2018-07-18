@@ -77,9 +77,12 @@ Link utili
 
 Licenze
 ~~~~~~~
-Se non specificato diversamente, tutti i contenuti sono soggetti alla
-licenza: `Creative Commons Attribution-ShareAlike 4.0 licence (CC
-BY-SA)`_
+.. raw:: html
+
+    <embed>
+        <p>Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: <a title="Licenza Creative Commons" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener">Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)</a><br>
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img class="immagonobox" style="border-width: 0;" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA) " src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Licenza Creative Commons" width="88" height="31"  /></a></a></p>
+    </embed>
 
 Disclaimer
 ~~~~~~~~~~~
@@ -117,7 +120,6 @@ Disclaimer
 .. _Salvatore Fiandaca: autore.html
 .. _Giovan Battista Vitrano: https://twitter.com/gbvitrano
 .. _Ciro Spataro: https://twitter.com/cirospat
-.. _Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA): https://creativecommons.org/licenses/by-sa/4.0/
 .. _Stefano Campus: https://twitter.com/skampus1967?lang=it
 .. _QGIS.org: https://qgis.org/it/site/
 .. _Documentazione di QGIS: https://qgis.org/it/docs/index.html#
