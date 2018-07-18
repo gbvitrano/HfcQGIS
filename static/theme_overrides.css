@@ -32,7 +32,8 @@ background-color: rgba(27,31,35,0.05) !important;
    
 /* Colore Titolo*/
 h1, h2, h3 {color: #344c25 !important;}
-h1 {font-size: 145%!important; margin-top: 0.25em!important; margin-bottom: 0.257em!important;}
+h1 {font-size: 145%!important;}
+h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin-top: 0.25em!important; margin-bottom: 0.257em!important; }
 
 
  /* disattiva testo latest  menu sx */
@@ -65,7 +66,7 @@ h1 {font-size: 145%!important; margin-top: 0.25em!important; margin-bottom: 0.25
 .wy-nav-content {/*background: #efefef; */
 background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede)!important; 
 background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo.png);
-background-repeat: no-repeat;background-position: center;
+background-repeat: no-repeat;background-position: center; 
 }
 
 /* @http://hfcqgis.opendatasicilia.it*/
