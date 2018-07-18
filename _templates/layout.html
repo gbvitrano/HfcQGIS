@@ -19,17 +19,16 @@
 <!-- css back top -->
 <!--<link href="../_static/jquerysctipttop.css" rel="stylesheet" type="text/css" />-->
 <link href="{{ pathto("_static/jquerysctipttop.css", True) }}" rel="stylesheet" type="text/css" />
-
 <!--<link href="../_static/backTop.css" rel="stylesheet" type="text/css" />-->
 <link href="{{ pathto("_static/backTop.css", True) }}" rel="stylesheet" type="text/css" />
-
 <!-- Script -->
 <!--<script type="text/javascript" src="../_static/jquery.min.js"></script> -->
 <script type="text/javascript" src="{{ pathto("_static/jquery.min.js", True) }}"></script> 
-
  {% endblock %}
 
-         {% block sidebartitle %}
+<!-- http://hfcqgis.opendatasicilia.it -->  
+
+ {% block sidebartitle %}
 
           {% if logo and theme_logo_only %}
             <a href="{{ pathto(master_doc) }}">
@@ -58,7 +57,6 @@
           {% endif %}
 
           {% include "searchbox.html" %}
-
 {% endblock %}
 
 <!-- http://hfcqgis.opendatasicilia.it -->  
