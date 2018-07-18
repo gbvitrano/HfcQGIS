@@ -59,7 +59,7 @@ master_doc = 'index'
 
 # project = u'HfcQGIS'
 project = u''
-copyright = u'2018, Salvatore Fiandaca - RTD by @opendatasicilia'
+copyright = u''
 author = u'Salvatore Fiandaca'
 
 # The version info for the project you're documenting, acts as replacement for
