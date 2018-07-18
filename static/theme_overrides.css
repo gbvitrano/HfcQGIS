@@ -63,7 +63,10 @@ h1 {font-size: 145%!important; margin-top: 0.25em!important; margin-bottom: 0.25
 
 /*background  nav-content dx*/
 .wy-nav-content {/*background: #efefef; */
-background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede)!important; }
+background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede)!important; 
+background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo.png);
+background-repeat: no-repeat;background-position: center;
+}
 
 /* @http://hfcqgis.opendatasicilia.it*/
 /* testo menu verticale maiuscolo */	
