@@ -1,5 +1,5 @@
 /* override css */
-/* @import url(https://use.fontawesome.com/releases/v5.0.6/css/all.css); */
+
 /* @http://hfcqgis.opendatasicilia.it*/
 
 /*importa i font fontawesome 5.0 per i loghi social*/
@@ -60,9 +60,6 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 background-position: 10px; background-size: 15px;} 
 .wy-side-nav-search input[type="text"] {padding: 6px 30px;}
 
-
-
-
 .wy-nav-top a:visited {color: #fff !important; font-weight: bold !important;}
 
 /*background  colonna sx*/
@@ -118,7 +115,6 @@ li.current > a:active {    text-decoration: underline;	color: white !important;}
 .wy-menu-vertical li.toctree-l3 a span.toctree-expand {color:#344c25!important;}
 .wy-menu-vertical li.toctree-l4 a span.toctree-expand {color:#344c25!important;}
 
-
 /* testo menu verticale terzo livello */
 .wy-menu-vertical li.toctree-l3.current li.toctree-l4 > a {background: rgba(73,125,41,0.8)}
 .wy-menu-vertical li.toctree-l2.current li.toctree-l3 > a {background: rgba(73,125,41,0.50)}
@@ -151,14 +147,14 @@ a:visited {color: #589632; text-decoration:none; }
 .wy-nav-top { background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logo_mobile_01.png);
 background-repeat: no-repeat;background-position: center;background-color: #67b03a; }
 /* aumenta leggerhente lo spazio della pagina inmobile ed inserisce il logo QGIS al centro*/
-@media (min-width: 320px) and (max-width: 1023px) {.wy-nav-content-wrap .wy-nav-content {padding: 1.0em; background-image:url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;  background-repeat: no-repeat!important;  background-position: center center!important;     background-size: 95%;!important;  background-attachment: fixed!important; -webkit-background-size: 95%; -moz-background-size: 95%; -o-background-size: 95%; background: #efefef; }}
+@media (min-width: 320px) and (max-width: 1023px) {.wy-nav-content-wrap .wy-nav-content {padding: 1.0em; background-image:url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;  background-repeat: no-repeat!important;  background-position: center center!important;
+    background-size: 95%!important;  background-attachment: fixed !important;  -webkit-backface-visibility: hidden !important; background: #efefef; }}
 
 /* spegne girhub nella breadcrumbs */
 /* .fa.fa-github {display: none;} */
 
 /* spegne numero revisione nel footer */
 span.commit {display: none;}
-
 
 /* hr filetto bicolor dal centro verso l'esterno */
 hr  {border: 0; height: 1px; background:  #589632; background-image: linear-gradient(to right, #93b023,  #589632, #93b023);}
@@ -185,7 +181,6 @@ div.ethical-text {color: #344c25 !important;}
 .ethical-sidebar .ethical-callout, .ethical-footer .ethical-callout {color: #344c25 !important;}
 .ethical-rtd .ethical-sidebar a, .ethical-rtd .ethical-sidebar a:visited, .ethical-rtd .ethical-sidebar a:hover, .ethical-rtd .ethical-sidebar a:active {color: #344c25 !important; }
 
-
 /* icone social */
 .social {font-style: italic; color: #4E4B4B; font-size: 14px;}
 .social a:link{color: #344c25;	text-decoration:none;}
@@ -201,4 +196,3 @@ div.ethical-text {color: #344c25 !important;}
  /* pannello sx lastest */
 .rst-versions .rst-current-version {background: #344c25; text-align: center;}
 .wy-nav-side {background: #344c25;}
-
