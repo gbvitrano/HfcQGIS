@@ -51,7 +51,7 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 /* adatta il nav-content a fullhd */
 .wy-nav-content {max-width: 1920px;
 background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede); background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;
-background-repeat: no-repeat!important; background-position: center center!important; background-size: 95%!important; background-attachment: fixed!important; }
+background-repeat: no-repeat!important; background-position: center center!important; background-size: 95%!important; /*background-attachment: fixed!important;*/ }
 
 
 /* background menu sx*/
@@ -160,10 +160,6 @@ a:visited {color: #589632; text-decoration:none; }
 background-repeat: no-repeat;background-position: center;background-color: #67b03a; }
 
 @media (min-width: 320px) and (max-width: 1023px) {.wy-nav-content-wrap .wy-nav-content {padding: 1.0em;  background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png!important);
-background-repeat: no-repeat!important; background-position: center!important; background-size: 95%!important; background-attachment: fixed!important; background: #efefef;
-}}
-
-@media screen and (max-width: 1920px) {.wy-nav-content-wrap .wy-nav-content {    padding: 1.618em 3.236em;  ight: 100%; background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png!important);
 background-repeat: no-repeat!important; background-position: center!important; background-size: 95%!important; background-attachment: fixed!important; background: #efefef;
 }}
 
