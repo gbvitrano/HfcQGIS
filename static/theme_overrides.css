@@ -123,6 +123,7 @@ li.current > a:active {    text-decoration: underline;	color: white !important;}
 .wy-menu-vertical li.toctree-l3 a span.toctree-expand {color:#344c25!important;}
 .wy-menu-vertical li.toctree-l4 a span.toctree-expand {color:#344c25!important;}
 
+
 /* testo menu verticale terzo livello */
 .wy-menu-vertical li.toctree-l3.current li.toctree-l4 > a {background: rgba(73,125,41,0.8)}
 .wy-menu-vertical li.toctree-l2.current li.toctree-l3 > a {background: rgba(73,125,41,0.50)}
