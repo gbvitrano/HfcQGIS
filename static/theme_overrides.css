@@ -151,7 +151,7 @@ a:visited {color: #589632; text-decoration:none; }
 .wy-nav-top { background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logo_mobile_01.png);
 background-repeat: no-repeat;background-position: center;background-color: #67b03a; }
 /* aumenta leggerhente lo spazio della pagina inmobile ed inserisce il logo QGIS al centro*/
-@media (min-width: 320px) and (max-width: 1023px) {.wy-nav-content-wrap .wy-nav-content {padding: 1.0em; background-image:url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;  background-repeat: no-repeat!important;  background-position: center center!important;     background-size: 95%;!important;  background-attachment: fixed !important; -webkit-background-size: 95%; -moz-background-size: 95%; -o-background-size: 95%;background: #efefef; }}
+@media (min-width: 320px) and (max-width: 1023px) {.wy-nav-content-wrap .wy-nav-content {padding: 1.0em; background-image:url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;  background-repeat: no-repeat!important;  background-position: center center!important;     background-size: 95%;!important;  background-attachment: local!important; -webkit-background-size: 95%; -moz-background-size: 95%; -o-background-size: 95%;background: #efefef; }}
 
 
 
