@@ -64,7 +64,7 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 /*background  nav-content dx*/
 .wy-nav-content {/*background: #efefef; */
 background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo.png);
-background-repeat: no-repeat;background-position: center;  opacity: 0.5; filter: alpha(opacity=100); }
+background-repeat: no-repeat;background-position: center; background-size: cover; }
 
 .wy-nav-content-wrap { background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede)!important;  }
 
@@ -204,4 +204,3 @@ div.ethical-text {color: #344c25 !important;}
 .footer_small {font-size: small!important;}
 .footer_small a:visited {font-size: small!important;}
 .footer_small a:hover {font-size: small!important;}
-
