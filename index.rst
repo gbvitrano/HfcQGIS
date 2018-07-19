@@ -118,7 +118,7 @@ Disclaimer
 | **Mobile:** Risoluzione minima di 360 x 640 px (modello di riferimento
   Sansung Galaxy S3).
 | **Browser:** HfcQGIS è ottimizzato per Microsoft Internet Explorer
-  Versione 11.0 e successive, Microsoft Edge versione 25.1e
+  Versione 11.0 e successive, Microsoft Edge versione 25.1 e
   immediatamente successive, Mozilla Firefox versione 50.0 e successive
   o Chrome versione 40.0 o successiva, Opera versione 48.0 o successiva
   Safari versione 9.0 o successiva.
