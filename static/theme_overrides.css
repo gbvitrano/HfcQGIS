@@ -64,7 +64,7 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 /*background  nav-content dx*/
 .wy-nav-content {/*background: #efefef; */
 background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo.png);
-background-repeat: no-repeat;background-position: center; background-size: cover; }
+background-repeat: no-repeat;background-position: center; background-size: 120%; }
 
 .wy-nav-content-wrap { background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede)!important;  }
 
