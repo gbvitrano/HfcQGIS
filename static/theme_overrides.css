@@ -4,9 +4,14 @@
 
  @import url(https://use.fontawesome.com/releases/v5.1.0/css/all.css);
 
+
 body {
     color: #344c25 !important;
 }
+
+html {
+background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;
+background-repeat: no-repeat!important; background-position: center center!important; background-size: 95%!important; background-attachment: fixed!important; background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede); }
 
 span.pre {
  overflow-x: auto;  
@@ -210,6 +215,3 @@ div.ethical-text {color: #344c25 !important;}
 .rst-versions .rst-current-version {background: #344c25;}
 .wy-nav-side {background: #344c25;}
 
-html {
-background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;
-background-repeat: no-repeat!important; background-position: center center!important; background-size: 95%!important; background-attachment: fixed!important; background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede); }
