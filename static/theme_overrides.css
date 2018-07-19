@@ -48,7 +48,10 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 /*p {text-align: justify;} */
 /* @http://hfcqgis.opendatasicilia.it*/
 /* adatta il nav-content a fullhd */
-.wy-nav-content {max-width: 1920px;}
+.wy-nav-content {max-width: 1920px; 
+background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede)!important; 
+background-repeat: no-repeat;background-position: center; background-size:cover; ackground-attachment: fixed;
+}
 
 /* background menu sx*/
 /*.wy-side-nav-search {background: linear-gradient(#67b03a, #589632); } */
@@ -62,12 +65,10 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 .wy-side-scroll {background: #ffffff;} 
 
 /*background  nav-content dx*/
-.wy-nav-content {background: #efefef; 
-background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo.svg);
-background-repeat: no-repeat;background-position: center; background-size: 120%; }
+.wy-nav-content {background: #efefef;  }
 
 /*background  nav-content content-wrap - tutta il contenitore di dx*/
-.wy-nav-content-wrap { background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede)!important;  }
+/* .wy-nav-content-wrap { background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede)!important;  }*/
 
 /* @http://hfcqgis.opendatasicilia.it*/
 /* testo menu verticale maiuscolo */	
@@ -159,7 +160,7 @@ a:visited {color: #589632; text-decoration:none; }
 /* mobile logo */
 .wy-nav-top { background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logo_mobile_01.png);
 background-repeat: no-repeat;background-position: center;background-color: #67b03a; }
-.wy-nav-content-wrap .wy-nav-content {padding: 1.0em;}
+@media (min-width: 320px) and (max-width: 1023px) {.wy-nav-content-wrap .wy-nav-content {padding: 1.0em;}}
 
 /* spegne girhub nella breadcrumbs */
 /* .fa.fa-github {display: none;} */
