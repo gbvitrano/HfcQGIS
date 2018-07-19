@@ -55,7 +55,14 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 
 /* background nav-top sx*/
 .wy-side-nav-search {background:  #ffffff;}
-.wy-side-nav-search input[type="text"] {border-color: #589632; } 
+/* box search sx*/
+.wy-side-nav-search input[type="text"] {border-color: #589632; background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/static/search_01.png); background-repeat: no-repeat; 
+background-position: 10px; background-size: 15px;} 
+.wy-side-nav-search input[type="text"] {padding: 6px 30px;}
+
+
+
+
 .wy-nav-top a:visited {color: #fff !important; font-weight: bold !important;}
 
 /*background  colonna sx*/
@@ -152,6 +159,10 @@ background-repeat: no-repeat;background-position: center;background-color: #67b0
 
 /* spegne numero revisione nel footer */
 span.commit {display: none;}
+
+
+
+
 
 /* hr filetto bicolor dal centro verso l'esterno */
 hr  {border: 0; height: 1px; background:  #589632; background-image: linear-gradient(to right, #93b023,  #589632, #93b023);}
