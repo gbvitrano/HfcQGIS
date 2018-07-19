@@ -160,9 +160,6 @@ background-repeat: no-repeat;background-position: center;background-color: #67b0
 span.commit {display: none;}
 
 
-
-
-
 /* hr filetto bicolor dal centro verso l'esterno */
 hr  {border: 0; height: 1px; background:  #589632; background-image: linear-gradient(to right, #93b023,  #589632, #93b023);}
 
