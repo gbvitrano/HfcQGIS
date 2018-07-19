@@ -8,7 +8,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 Questo manuale
 ~~~~~~~~~~~~~~  
    
-| Questa versione in formato `Read The Docs`_ del `lavoro`_ di Salvatore  FIANDACA, è stata realizzata dalla comunità `OpenDataSicila`_, in  particolare da: `Andrea Borruso`_, `Totò Fiandaca`_ e `Giovan Battista Vitrano`_.
+| Questa versione in formato `Read The Docs`_ del `lavoro`_ di Salvatore  FIANDACA, è stata realizzata dalla comunità `**OpenDataSicila** <./ods.html>`_, in  particolare da: `Andrea Borruso`_, `Totò Fiandaca`_ e `Giovan Battista Vitrano`_.
 | L'idea è stata di Giovan Battista, mentre la musa ispiratrice per la
   scelta di Read The Docs è `Ciro Spataro`_. 
 
@@ -133,4 +133,3 @@ Disclaimer
 .. _Documentazione di QGIS: https://qgis.org/it/docs/index.html#
 .. _App di matematica GeoGebra: https://www.geogebra.org/?lang=it
 .. _guida ufficiale di QGIS: https://qgis.org/it/docs/index.html#
-.. _OpenDataSicila: ./ods.html
