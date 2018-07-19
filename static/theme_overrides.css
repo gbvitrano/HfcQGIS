@@ -192,6 +192,6 @@ div.ethical-text {color: #344c25 !important;}
 .footer_small a:visited {font-size: small!important;}
 .footer_small a:hover {font-size: small!important;}
  /* pannello sx lastest */
-.rst-versions .rst-current-version {background: #344c25;}
+.rst-versions .rst-current-version {background: #344c25; text-align: left;}
 .wy-nav-side {background: #344c25;}
 
