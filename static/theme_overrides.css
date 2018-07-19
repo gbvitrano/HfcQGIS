@@ -50,7 +50,8 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 
 /* adatta il nav-content a fullhd */
 .wy-nav-content {max-width: 1920px;
-background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede)!important;  }
+background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede);background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;
+background-repeat: no-repeat!important; background-position: center center!important; background-size: 95%!important; background-attachment: fixed!important; }
 
 
 /* background menu sx*/
@@ -65,8 +66,7 @@ background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef
 .wy-side-scroll {background: #ffffff;} 
 
 /*background  nav-content content-wrap - tutta il contenitore di dx*/
-.wy-nav-content-wrap { background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede)!important; background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png);
-background-repeat: no-repeat; background-position: center; background-size: 95%; background-attachment: fixed; }
+.wy-nav-content-wrap { background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede);  }
 
 /* @http://hfcqgis.opendatasicilia.it*/
 /* testo menu verticale maiuscolo */	
