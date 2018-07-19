@@ -52,9 +52,7 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 /* adatta il nav-content a fullhd */
 .wy-nav-content {max-width: 1920px; background-image:url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;
     background-repeat: no-repeat!important;  background-position: center center!important;
-    background-size: 80%!important;  background-attachment: fixed !important;  -webkit-backface-visibility: hidden !important;
-background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede);
-}
+    background-size: 80%!important;  background-attachment: fixed !important;  -webkit-backface-visibility: hidden !important; background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede); }
 
 /* background menu sx*/
 /*.wy-side-nav-search {background: linear-gradient(#67b03a, #589632); } */
@@ -76,11 +74,7 @@ background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef
 .wy-menu-vertical a {color:#344c25!important;}
 
 /* tutto in maiuscolo prima voce di menu */
-div.wy-menu-vertical > ul > li > a {
-
-    text-transform: uppercase !important;
-
-}
+div.wy-menu-vertical > ul > li > a {text-transform: uppercase !important; }
 /* tutto in maiuscolo prima voce di menu */
 
 /* per applicare underline e colore a voci di menu attive */
@@ -161,9 +155,9 @@ a:visited {color: #589632; text-decoration:none; }
 .wy-nav-top { background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logo_mobile_01.png);
 background-repeat: no-repeat;background-position: center;background-color: #67b03a; }
 
-@media (min-width: 320px) and (max-width: 1023px) {.wy-nav-content-wrap .wy-nav-content {padding: 1.0em;  /*background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png!important);
-background-repeat: no-repeat!important; background-position: center!important; background-size: 95%!important; background-attachment: fixed!important; background: #efefef;*/
-}}
+@media (min-width: 320px) and (max-width: 1023px) {.wy-nav-content-wrap .wy-nav-content {padding: 1.0em; background-image:url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;
+    background-repeat: no-repeat!important;  background-position: center center!important;
+    background-size: 80%!important;  background-attachment: fixed !important;  -webkit-backface-visibility: hidden !important; background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede); }}
 
 
 /* spegne girhub nella breadcrumbs */
