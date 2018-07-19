@@ -47,6 +47,7 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 /* Testo paragrafo giustificto*/
 /*p {text-align: justify;} */
 /* @http://hfcqgis.opendatasicilia.it*/
+
 /* adatta il nav-content a fullhd */
 .wy-nav-content {max-width: 1920px; 
 background: linear-gradient(#efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #efefef, #dedede)!important; 
