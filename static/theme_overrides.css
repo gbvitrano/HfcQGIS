@@ -2,16 +2,13 @@
 /* @import url(https://use.fontawesome.com/releases/v5.0.6/css/all.css); */
 /* @http://hfcqgis.opendatasicilia.it*/
 
+/*importa i font fontawesome 5.0 per i loghi social*/
  @import url(https://use.fontawesome.com/releases/v5.1.0/css/all.css);
 
 
-body {
-    color: #344c25 !important;
-}
+body {color: #344c25 !important;}
 
-span.pre {
- overflow-x: auto;  
-}
+span.pre { overflow-x: auto;  }
 
 code {
 white-space: normal !important;
@@ -20,7 +17,6 @@ background-color: rgba(27,31,35,0.05) !important;
 }
 
 @media only screen and (min-width: 640px) {
-
    .wy-table-responsive table td {
       /* !important prevents the common CSS stylesheets from overriding
          this as on RTD they are loaded after this stylesheet */
@@ -49,7 +45,7 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 /*p {text-align: justify;} */
 /* @http://hfcqgis.opendatasicilia.it*/
 
-/* adatta il nav-content a fullhd */
+/* adatta il nav-content a fullhd ed inserisce il logo QGIS */
 .wy-nav-content {max-width: 1920px; background-image:url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;
     background-repeat: no-repeat!important;  background-position: center center!important;
     background-size: 80%!important;  background-attachment: fixed !important;  -webkit-backface-visibility: hidden !important; background: #efefef; }
@@ -78,15 +74,11 @@ div.wy-menu-vertical > ul > li > a {text-transform: uppercase !important; }
 /* tutto in maiuscolo prima voce di menu */
 
 /* per applicare underline e colore a voci di menu attive */
-li.current > a {
-    text-decoration: underline; color: white !important;}
+li.current > a {text-decoration: underline; color: white !important;}
 
 li.current > a:link {text-decoration: underline;color: white !important;}
-
 li.current > a:visited {text-decoration: underline;	color: white !important;}
-
 li.current > a:hover {text-decoration: underline; color: white !important;}
-
 li.current > a:active {    text-decoration: underline;	color: white !important;} 
 /* per applicare underline e colore a voci di menu attive */
 
@@ -129,13 +121,10 @@ li.current > a:active {    text-decoration: underline;	color: white !important;}
 .wy-menu-vertical li.current a:hover {background: rgba(73,125,41,0.8);}
 .wy-menu-vertical li.current a:current {color: #fff;}
 
-/*link*/
+/*link di base*/
 a {color: #f18d36; }
 a:hover {color: #f18d36; text-decoration:underline; }
 a:visited {color: #589632; text-decoration:none; }
-
-/* Blocco pbubblicita */
-.wy-body-for-nav .keep-us-sustainable {color: #404040; background-color: #404040;}
 
 /* pagina avanti/indietro */
 .btn { background-color:  #67b03a !important;
@@ -154,11 +143,9 @@ a:visited {color: #589632; text-decoration:none; }
 /* mobile logo */
 .wy-nav-top { background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logo_mobile_01.png);
 background-repeat: no-repeat;background-position: center;background-color: #67b03a; }
-
-@media (min-width: 320px) and (max-width: 1023px) {.wy-nav-content-wrap .wy-nav-content {padding: 1.0em; background-image:url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;
-    background-repeat: no-repeat!important;  background-position: center center!important;
+/* aumenta leggerhente lo spazio della pagina inmobile ed inserisce il logo QGIS al centro*/
+@media (min-width: 320px) and (max-width: 1023px) {.wy-nav-content-wrap .wy-nav-content {padding: 1.0em; background-image:url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;  background-repeat: no-repeat!important;  background-position: center center!important;
     background-size: 95%!important;  background-attachment: fixed !important;  -webkit-backface-visibility: hidden !important; background: #efefef; }}
-
 
 /* spegne girhub nella breadcrumbs */
 /* .fa.fa-github {display: none;} */
@@ -166,19 +153,16 @@ background-repeat: no-repeat;background-position: center;background-color: #67b0
 /* spegne numero revisione nel footer */
 span.commit {display: none;}
 
-/* hr */
+/* hr filetto bicolor dal centro verso l'esterno */
 hr  {border: 0; height: 1px; background:  #589632; background-image: linear-gradient(to right, #93b023,  #589632, #93b023);}
 
 /* bordo/ombra immagine */
-.rst-content img {box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);	border-radius: 5px;	moz-border-radius: 5px;
-	-webkit-border-radius: 5px;	border: 1px solid #589632;	padding: 1px;background-color: #fff;}
+.rst-content img {box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);	border-radius: 5px;	moz-border-radius: 5px; -webkit-border-radius: 5px;	border: 1px solid #589632;	padding: 1px;background-color: #fff;}
 
 /* immagine no bordo/ no ombra */
-.immagonobox {	max-width: 100%!important;    height: auto!important;	box-shadow: none !important;
-	border: none !important;	border-radius:  none !important;	moz-border-radius: none !important;
-	-webkit-border-radius: none !important;	background-color: transparent !important;	}
+.immagonobox {	max-width: 100%!important;    height: auto!important;	box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;	}
 
-/* breadcrumbs */	
+/* aument altezza breadcrumbs */	
 /*	.wy-breadcrumbs {height: 50px;}*/	
 
 #social { position:relative; top:500px; left: 10px; z-index: 100;}
@@ -186,6 +170,8 @@ hr  {border: 0; height: 1px; background:  #589632; background-image: linear-grad
 
  .fa::before, .wy-menu-vertical li span.toctree-expand::before, .wy-menu-vertical li.on a span.toctree-expand::before, .wy-menu-vertical li.current > a span.toctree-expand::before, .rst-content .admonition-title::before, .rst-content h1 .headerlink::before, .rst-content h2 .headerlink::before, .rst-content h3 .headerlink::before, .rst-content h4 .headerlink::before, .rst-content h5 .headerlink::before, .rst-content h6 .headerlink::before, .rst-content dl dt .headerlink::before, .rst-content p.caption .headerlink::before, .rst-content table > caption .headerlink::before, .rst-content tt.download span:first-child::before, .rst-content code.download span:first-child::before, .icon::before, .wy-dropdown .caret::before, .wy-inline-validate.wy-inline-validate-success .wy-input-context::before, .wy-inline-validate.wy-inline-validate-danger .wy-input-context::before, .wy-inline-validate.wy-inline-validate-warning .wy-input-context::before, .wy-inline-validate.wy-inline-validate-info .wy-input-context::before {color: color:#344c25;}
 
+/* Blocco pbubblicita */
+.wy-body-for-nav .keep-us-sustainable {color: #404040; background-color: #404040;}
 
 /* stile pubblcitià */
 div.ethical-text {color: #344c25 !important;}
