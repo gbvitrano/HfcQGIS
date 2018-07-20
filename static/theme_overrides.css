@@ -196,3 +196,12 @@ div.ethical-text {color: #344c25 !important;}
  /* pannello sx lastest */
 .rst-versions .rst-current-version {background: #344c25; text-align: center;}
 .wy-nav-side {background: #344c25;}
+
+
+/* cambio margini riga intestazione*/
+hr {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+/* cambio margini riga intestazione*/
+
