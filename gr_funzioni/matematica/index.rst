@@ -121,7 +121,7 @@ Questo gruppo contiene funzioni matematiche es. radice quadrata, seno e coseno.
 .. _degrees: degrees.html
 .. _exp: exp.html
 .. _floor: floor.html
-.. _Inclination: Inclination.html
+.. _Inclination: inclination.html
 .. _ln: ln.html
 .. _log: log.html
 .. _log10: log10.html
