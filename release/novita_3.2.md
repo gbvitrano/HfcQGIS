@@ -1,6 +1,6 @@
 # Novità rilevanti introdotte nella 3.2
 
-### Generatore di espressioni più utile.
+## Generatore di espressioni più utile.
 
 Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!
 
