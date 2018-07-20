@@ -2,20 +2,20 @@
 {% extends "!layout.html" %}
 {% block extrahead %}
     {{ super() }}
-<meta property="og:title" content="#hfcqgis #ods #qgis - {{ title|striptags|e }}" />
-<meta property="og:description" content="La guida nasce per rispondere alle numerose richieste di aiuto sull’uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot." />
-<meta property="og:url" content="http://hfcqgis.opendatasicilia.it/it/latest/{{ theme_canonical_url }}{{ pagename }}.html" />
+<meta property="og:title" content="HfcQGIS - Help funzioni calcolatore di campi di QGIS" />
+<meta property="og:description" content="Questa guida nasce per rispondere alle numerose richieste di aiuto sull’uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot." />
+<meta property="og:url" content="http://hfcqgis.opendatasicilia.it/" />
 <meta property="article:author" content="Salvatore Fiandaca" />
 <meta property="og:image" content="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/hfc_social.png" />
 <meta property="og:site_name" content="hfcqgis.opendatasicilia.it" />
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="#hfcqgis #ods #qgis - {{ title|striptags|e }}">
+<meta name="twitter:title" content="HfcQGIS - Help funzioni calcolatore di campi di QGIS">
 <meta name="twitter:description" content="Questa guida nasce per rispondere alle numerose richieste di aiuto sull’uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.">
 <meta name="twitter:image" content="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/hfc_social.png">
 <meta name="twitter:creator" content="Salvatore Fiandaca">
 <meta name="twitter:site" content="hfcqgis.opendatasicilia.it" />
-<meta name="twitter:url" content="http://hfcqgis.opendatasicilia.it/it/latest/{{ theme_canonical_url }}{{ pagename }}.html">
+<meta name="twitter:url" content="http://hfcqgis.opendatasicilia.it/">
 <!-- css theme_overrides.css -->
 <link href="{{ pathto("_static/theme_overrides.css", True) }}" rel="stylesheet" type="text/css" />
 <!-- css back top -->
@@ -66,5 +66,4 @@
 		
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b4bb82cddf7f677"></script>
-
  {% endblock %}
