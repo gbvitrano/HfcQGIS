@@ -227,16 +227,5 @@ line-height: 1.5em;
 font-weight: 100;
 }
 
-blockquote::before, blockquote::after {
-    content: '\201C';
-    font-family: 'Sanchez';
-    color: #589632;
-	position: absolute;
-    left: 10px;
-    top: 5px;
-    
-}
-blockquote::after {
-    content: '\201D';
-
-}
+blockquote::before, blockquote::after {content: '\201C'; font-family: 'Sanchez'; color: #589632;  top: 5px;}
+blockquote::after { content: '\201D';}
