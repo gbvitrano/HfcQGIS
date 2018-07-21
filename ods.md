@@ -13,7 +13,7 @@ La forza delle comunità sono le **persone**, le loro **idee**, le **intuizioni*
 
 Questa guida nasce da questa frase "buttata" in una chat:
 
-> guardando il video che Totò ha fatto sul suo mega lavoro HfcQGIS mi è sembrato un po' scoraggiato, vorrei provare a trasformarlo per lui e dargli molta più visibilità.
+> &ldquo;guardando il video che Totò ha fatto sul suo mega lavoro HfcQGIS mi è sembrato un p&ograve;  scoraggiato, vorrei provare a trasformarlo per lui e dargli molta più visibilità.&rdquo;
 
 Ognuno di noi, con tutte le buone intenzioni, ne scrive tante di frasi come questa, ma nel 99% dei casi si perdono, senza che ci sia alcuna evoluzione.<br>OpenDataSicilia è un'"**infrastrattura di persone**" dove un bella intenzione - come quella di sopra di Gian Battista Vitrano - si può trasformare in un passaparola e poi in un progetto; specie quando alle spalle c'è un "[mega lavoro](https://github.com/pigreco/HfcQGIS)" da valorizzare come quello di Salvatore Fiandaca.
 
