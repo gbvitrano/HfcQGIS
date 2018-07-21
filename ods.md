@@ -1,10 +1,8 @@
  	
-# #OpenDataSicilia
+# OpenDataSicilia
 
 <p align="center"> <a href="http://opendatasicilia.it/" target="_blank"><img src="http://wp.ondata.it/sicilia/wp-content/uploads/sites/2/2018/07/opendatasicilia.png" width="150" class="immagonobox"   title="opendatasicilia.it"></a>
 </p>
-
-# intro
 
 **OpenDataSicilia** è una iniziativa civica che si propone di far conoscere e diffondere le prassi dell'open data e la cultura dell'open government e nel territorio e aprire una discussione pubblica partecipata.<br>
 È un gruppo di cittadini con diverse storie, competenze, professioni, accomunate dalla volontà di contribuire a migliorare la qualità della vita delle persone, con spirito di collaborazione e concretezza.
