@@ -108,6 +108,14 @@ Disclaimer
     <embed>
         <a href="https://github.com/pigreco/HfcQGIS" title="GitHub repo size in bytesS" target="_blank"><img src="https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-squar" class="immagonobox" alt="" title="GitHub repo size in bytes"/></a>&nbsp;<a href="https://qgis.org/en/site/getinvolved/donations.html" title="Donate to QGIS" target="_blank"><img src="https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square" class="immagonobox" alt="Donate to QGIS" title="Donate to QGIS"/></a>
     </embed>
+    
+ Mappa del sito
+  ~~~~~~~~~~~~~~
+  
+.. toctree::
+   :maxdepth: 2
+   
+   sitemap    
 
 --------------
 
@@ -120,14 +128,7 @@ Disclaimer
 | **Browser:** HfcQGIS è ottimizzato per Microsoft Internet Explorer
   Versione 11.0 e successive versioni, Microsoft Edge versione 25.1 e
   immediatamente successive, Mozilla Firefox versione 50.0 e successive, Chrome versione 40.0 o successiva, Opera versione 48.0 o successiva e Safari versione 9.0 o successiva.
-  
-  Mappa del sito
-  ~~~~~~~~~~~~~~
-  
-.. toctree::
-   :maxdepth: 2
    
-   sitemap
 
 .. _Read The Docs: https://docs.readthedocs.io/en/latest/index.html
 .. _lavoro: https://github.com/pigreco/HfcQGIS/blob/master/README.md
