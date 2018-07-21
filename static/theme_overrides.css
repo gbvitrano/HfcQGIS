@@ -212,6 +212,10 @@ hr {
 /* cambio margini riga intestazione*/
 
 /* blockquote */
+
+.rst-content blockquote { margin-left: 24px; line-height: 50px;  margin-bottom: 30px;
+}
+
 blockquote{
   display:block;
   background: #fff;
@@ -220,8 +224,6 @@ blockquote{
   position: relative;
   
   /*Font*/
-  font-family: Georgia, serif;
-  font-size: 16px;
   line-height: 1.2;
   color: #344c25;
   text-align: justify;
