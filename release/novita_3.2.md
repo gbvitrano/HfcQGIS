@@ -20,7 +20,7 @@ Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!
 
 ---
 
-### Form drill-down (a cascata)  WIDGET Value Relation (Relazione valore):
+## Form drill-down (a cascata)  WIDGET Value Relation (Relazione valore):
 
 consente l'implementazione di filtri complessi e dinamici all'interno di moduli di attributo QGIS. La funzionalità può essere utilizzata per implementare moduli "drill-down" all'interno di QGIS, in cui i valori disponibili in un campo dipendono dai valori di altri campi:
 
