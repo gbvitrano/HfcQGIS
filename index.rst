@@ -121,7 +121,7 @@ Disclaimer
   Versione 11.0 e successive versioni, Microsoft Edge versione 25.1 e
   immediatamente successive, Mozilla Firefox versione 50.0 e successive, Chrome versione 40.0 o successiva, Opera versione 48.0 o successiva e Safari versione 9.0 o successiva.
   
-  .. toctree::
+.. toctree::
    :maxdepth: 2
    
    sitemap
