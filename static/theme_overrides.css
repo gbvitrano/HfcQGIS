@@ -200,7 +200,7 @@ div.ethical-text {color: #344c25 !important;}
 .footer_small a:hover {font-size: small!important;}
 
 @media (min-width: 320px) and (max-width: 736px) {footer_mobile font-size: {font-size: 0.8em; line-height: 20px;}}
-@media (min-width: 320px) and (max-width: 736px) {.footer_small, .footer_small a:visited, .footer_small a:hover   {font-size: 12px!important;}}
+@media (min-width: 320px) and (max-width: 736px) {.footer_small, .footer_small a:link,.footer_small a:visited, .footer_small a:hover   {font-size: 12px!important;}}
 
  /* pannello sx lastest */
 .rst-versions .rst-current-version {background: #344c25; text-align: center;}
