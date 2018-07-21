@@ -11,7 +11,7 @@ Questo manuale
 .. raw:: html
 
     <embed>
-        <p>Questa versione in formato <a class="reference external" href="https://docs.readthedocs.io/en/latest/index.html">Read The Docs</a> del <a class="reference external" href="https://github.com/pigreco/HfcQGIS/blob/master/README.md">lavoro</a> di Salvatore  FIANDACA, è stata realizzata dalla comunità <a class="reference external" href="./ods.html"><strong>OpenDataSicila</strong></a>, in  particolare da: <a class="reference external" href="https://twitter.com/aborruso">Andrea Borruso</a>, <a class="reference external" href="https://twitter.com/totofiandaca">Totò Fiandaca</a> e <a class="reference external" href="https://twitter.com/gbvitrano">Giovan Battista Vitrano</a>.<br>
+        <p>Questa versione in formato <a class="reference external" href="https://docs.readthedocs.io/en/latest/index.html">Read The Docs</a> del <a class="reference external" href="https://github.com/pigreco/HfcQGIS/blob/master/README.md">lavoro</a> di Salvatore  FIANDACA, è stata realizzata dalla comunità <a class="reference external" href="./ods.html"><strong>OpenDataSicilia</strong></a>, in  particolare da: <a class="reference external" href="https://twitter.com/aborruso">Andrea Borruso</a>, <a class="reference external" href="https://twitter.com/totofiandaca">Totò Fiandaca</a> e <a class="reference external" href="https://twitter.com/gbvitrano">Giovan Battista Vitrano</a>.<br>
         L'idea è stata di Giovan Battista, mentre la musa ispiratrice per la scelta di Read The Docs è <a class="reference external" href="https://twitter.com/cirospat">Ciro Spataro</a>.</p>
     </embed>
 
