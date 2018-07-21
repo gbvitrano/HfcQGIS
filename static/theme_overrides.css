@@ -245,7 +245,7 @@ blockquote::before{
     font-size: 60px;
   font-weight: bold;
   color: #7fc355;
-  
+  font-size: 45px;
   /*Positioning*/
   position: absolute;
   left: 10px;
