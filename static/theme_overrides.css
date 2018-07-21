@@ -231,6 +231,6 @@ blockquote::before, blockquote::after {content: '\201C'; font-family: 'Sanchez';
 blockquote::after { content: '\201D';}
 
 /* menù footer */
-#menuft{ position: width:100%; height:25px; line-height: 25px; text-align:center; background-image: linear-gradient(to right, transparent, #fff, #fff, #fff,#fff, #fff, #fff, transparent); }
+#menuft{width:100%; height:25px; line-height: 25px; text-align:center; background-image: linear-gradient(to right, transparent, #fff, #fff, #fff,#fff, #fff, #fff, transparent); }
 
  @media (min-width: 320px) and (max-width: 736px) {#menuft {font-size: 7.5px;}}
