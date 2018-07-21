@@ -58,7 +58,7 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 .wy-side-nav-search {background:  #ffffff;}
 /* box search sx*/
 .wy-side-nav-search input[type="text"] {border-color: #589632; background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/static/search_01.png); background-repeat: no-repeat; 
-background-position: 10px; background-size: 15px;} 
+background-position: 10px; background-size: 15px; font-weight: bold;} 
 .wy-side-nav-search input[type="text"] {padding: 6px 30px;}
 
 .wy-nav-top a:visited {color: #fff !important; font-weight: bold !important;}
