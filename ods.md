@@ -21,7 +21,7 @@ Ognuno di noi, con tutte le buone intenzioni, ne scrive tante di frasi come ques
 
 OpenDataSicilia fa _scruscio_ ("rumore" in siciliano) qui:
 
-- _mailing list_ [https://groups.google.com/forum/#!forum/opendatasicilia](https://groups.google.com/forum/#!forum/opendatasicilia)
+- _mailing list_ [https://groups.google.com/forum/#!forum/opendatasicilia](https://groups.google.com/forum/#!forum/opendatasicilia);
 - sito web [http://opendatasicilia.it](http://opendatasicilia.it);
 - gruppo facebook [https://www.facebook.com/groups/opendatasicilia/](https://www.facebook.com/groups/opendatasicilia/);
 - _account_ twitter [http://twitter.com/opendatasicilia](http://twitter.com/opendatasicilia);
