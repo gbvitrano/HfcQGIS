@@ -213,8 +213,7 @@ hr {
 
 
 /* blockquotee*/
-blockquote
-{
+blockquote {
 position: relative;
 padding-left: 1em;
 margin-left: 32px;
@@ -226,4 +225,9 @@ line-height: 1.5em;
 font-weight: 100;
 }
 
+blockquote::before, blockquote::after {
+    content: '\201C';
+    font-family: 'Sanchez';
+    color: #589632;
+}
 
