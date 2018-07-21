@@ -6,7 +6,7 @@ Crea un poligono ellittico.
 
 make_ellipse(_center, semi_major_axis, semi_minor_axis, azimuth, segment…_)
 
-##Argomenti
+## Argomenti
 
 * _center_ centro dell'ellisse
 * _semi_major_axis_ semi-asse maggiore dell'ellisse
