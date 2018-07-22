@@ -47,7 +47,7 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 /* @http://hfcqgis.opendatasicilia.it*/
 
 /* adatta il nav-content a fullhd ed inserisce il logo QGIS */
-.wy-nav-content {max-width: 1920px; background-image:url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;
+.wy-nav-content {max-width: 4096px; background-image:url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;
     background-repeat: no-repeat!important;  background-position: center center!important;
     background-size: 80%!important;  background-attachment: fixed !important;  -webkit-backface-visibility: hidden !important; background: #efefef; }
 
