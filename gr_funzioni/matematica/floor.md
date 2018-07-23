@@ -27,4 +27,4 @@ floor(_value_)
 
 --
 
-Vedi esempio [conversione](/esempi/es/conversione.md)
+Vedi esempio [conversione](/esempi/conversione.md)
