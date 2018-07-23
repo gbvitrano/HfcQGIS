@@ -53,4 +53,4 @@ occorre solo utilizzare in X e Y: _Store Data in the project_ dopo avere definit
 
 ![sposta](/img/esempi/sposta_label_segmento/sposta_10.png)
 
-Geopackage è [qui](/esempi/dati_esempi.gpkg)
+Geopackage è [qui](https://github.com/gbvitrano/HfcQGIS/blob/master/esempi/dati_esempi.zip?raw=true)
