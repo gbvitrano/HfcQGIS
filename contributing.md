@@ -16,7 +16,7 @@ Per favore usa i tasti di condivisione social inserendo alcuni hastag: #hfcqgis 
 Se trovi qualche malfunzionamento segnalalo, così da migliorare la guida.
 
 ### Suggerire miglioramenti
-Se hai suggerimenti o migliorie segnalale.
+Se hai suggerimenti o migliorie segnalali.
 
 ### Suggerire esempi/esercizi
 Se vuoi che la [sezione esempi](./esempi/index.html) cresca, suggerisci degli esempi che vorresti vedere.
