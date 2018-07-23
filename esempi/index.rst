@@ -17,3 +17,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    espressione_regolare
    select_with_aggregate
    core_area
+   sposta_etichetta_linea
