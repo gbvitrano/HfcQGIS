@@ -1,10 +1,10 @@
-## Spostare etichetta e generare segmento
+# Spostare etichetta e generare segmento
 
 Supponiamo di dover etichettare delle particelle, le label risultano troppo vicine o sovrapposte e vogliamo spostarle facendo generare un segmanto che indichi lo spostamento (vedi screenshot sotto), vediamo come fare:
 
 ![sposta](/img/esempi/sposta_label_segmento/sposta_01.png)
 
-### Caso QGIS 2.x (2.18)
+## Caso QGIS 2.x (2.18)
 
 Per poter tracciare il segmento occorre aggiungere - alla tabella attributi - due campi x e y (Real); queste coordinate serviranno per memorizzare il punto in cui sposteremo - manualmente - l'etichetta.
 
@@ -43,7 +43,7 @@ Video demo QGIS 2.18
 
 [![field_calc03](https://img.youtube.com/vi/KduHGf9wJbs/0.jpg)](https://www.youtube.com/watch?v=KduHGf9wJbs&t= "video demo QGIS 2.18")
 
-### Caso QGIS 3.x
+## Caso QGIS 3.x
 
 Dalla 3.0 in poi non occorre più modificare la tabella attributi - aggiungendo i campi x e y - in quanto ci pensa la _tabella di memorizzazione ausiliaria_
 
