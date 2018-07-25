@@ -4,13 +4,13 @@ Restituisce il valore sommato aggregato da un campo o espressione.
 
 ## Sintassi
 
-sum(_expression, group_by, filter_)
+sum(_<span style="color:red;">expression</span>, <span style="color:red;">group_by</span>, <span style="color:red;">filter</span>_)
 
 ## Argomenti
 
-* _expression_ sotto espressione o campo da aggregare
-* _group_by_ espressione opzionale da usarsi per raggruppare i calcoli aggregati
-* _filter_ espressione opzionale da usare per filtrare gli elementi usati per calcolare il valore aggregato
+* <span style="color:red;">_expression_</span> sotto espressione o campo da aggregare
+* <span style="color:red;">_group_by_</span> espressione opzionale da usarsi per raggruppare i calcoli aggregati
+* <span style="color:red;">_filter_</span> espressione opzionale da usare per filtrare gli elementi usati per calcolare il valore aggregato
 
 ## Esempi
 
