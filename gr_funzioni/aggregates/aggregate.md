@@ -4,7 +4,7 @@ Restituisce un valore aggregato calcolato usando elementi da un altro vettore.
 
 ## Sintassi
 
-aggregate(*<span style="color:red;">layer</span>, <span style="color:red;">aggregate</span>, <span style="color:red;">expression</span>, filter</span>, <span style="color:red;">concatenator</span>*)
+aggregate(*<span style="color:red;">layer</span>, <span style="color:red;">aggregate</span>, <span style="color:red;">expression</span>, <span style="color:red;">filter</span>, <span style="color:red;">concatenator</span>*)
 
 ## Argomenti
 
