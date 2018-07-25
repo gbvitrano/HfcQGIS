@@ -8,8 +8,8 @@ relation_aggregate(_relation, aggregate, calculation, concatenator_)
 
 ## Argomenti
 
-* _relation_ una stringa, rappresentante un ID di relazione
-* _aggregate_ una stringa corrispondente all'aggregato da calcolare. Opzioni valide sono:
+* <span style="color:red;">_relation_</span> una stringa, rappresentante un ID di relazione
+* <span style="color:red;">_aggregate_</span> una stringa corrispondente all'aggregato da calcolare. Opzioni valide sono:
 
     * count
     * count_distinct
@@ -30,10 +30,9 @@ relation_aggregate(_relation, aggregate, calculation, concatenator_)
     * min_length: minima lunghezza stringa
     * max_length: massima lunghezza stringa
     * concatenate: unisci stringhe con un concatenatore
-    * calculation
-    * sotto espressione o nome campo da aggregare
-    * concatenator
-    * stringa opzionale da usare per unire i valori per il raggruppamento 'concatenate'
+    
+* <span style="color:red;">_expression_</span> sotto espressione o nome campo da aggregare
+* <span style="color:red;">_concatenator_</span> stringa opzionale da usare per unire i valori per il raggruppamento 'concatenate'
 
 ## Esempi
 
