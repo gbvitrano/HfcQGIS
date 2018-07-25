@@ -4,7 +4,11 @@ Restituisce l'area di un oggetto a geometria poligonale. I calcoli sono sempre p
 
 ## Sintassi
 
-area(geometry)
+area(_<span style="color:red;">geometry</span>_)
+
+## Argomenti
+
+* _<span style="color:red;">geometry</span>_ oggetto geometria poligono
 
 ## Esempi
 
