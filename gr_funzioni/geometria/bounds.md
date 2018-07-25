@@ -4,11 +4,11 @@ Restituisce la geometria che rappresenta il perimetro di delimitazione di una ge
 
 ## Sintassi
 
-bounds(*geometry*)
+bounds(*<span style="color:red;">geometry</span>*)
 
 ## Argomenti
 
-geometry una geometria
+* _<span style="color:red;">geometry</span>_ una geometria
 
 ## Esempi
 
