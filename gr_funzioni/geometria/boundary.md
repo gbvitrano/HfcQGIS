@@ -4,11 +4,11 @@ Restituisce l'area minima della combinazione dei confini della geometria (cioè 
 
 ## Sintassi
 
-boundary(*geometry*)
+boundary(*<span style="color:red;">geometry</span>*)
 
 ## Argomenti
 
-geometry una geometria
+* _<span style="color:red;">geometry</span>_ una geometria
 
 ## Esempi
 
