@@ -4,12 +4,12 @@ Restituisce l'angolo della bisettrice (angolo medio) della geometria per un vert
 
 ## Sintassi
 
-angle_at_vertex(_geometry, vertex_)
+angle_at_vertex(_<span style="color:red;">geometry</span>, <span style="color:red;">vertex</span>_)
 
 ## Argomento
 
-* _geometry_ una geometria di tipo linestring
-* _vertex_ indice vertice, partendo da 0
+* _<span style="color:red;">geometry</span>_ una geometria di tipo linestring
+* _<span style="color:red;">vertex</span>_ indice vertice, partendo da 0
 
 ## Esempi
 
