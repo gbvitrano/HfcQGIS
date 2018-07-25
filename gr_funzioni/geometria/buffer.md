@@ -4,12 +4,12 @@ Restituisce una geometria che rappresenta tutti i punti la cui distanza dalla ge
 
 ## Sintassi
 
-buffer(*geometry*,*distance*)
+buffer(*<span style="color:red;">geometry</span>*,*<span style="color:red;">distance</span>*)
 
 ## Argomenti
 
-* *geometria* una geometria
-* *distance* distanza buffer nelle unità del layer
+* *<span style="color:red;">geometria</span>* una geometria
+* *<span style="color:red;">distance</span>* distanza buffer nelle unità del layer
 
 ## Esempi
 
