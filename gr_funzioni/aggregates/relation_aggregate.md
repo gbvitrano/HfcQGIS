@@ -4,7 +4,7 @@ Restituisce un valore aggregato calcolato usando tutte le geometrie figlie corri
 
 ## Sintassi
 
-relation_aggregate(_relation, aggregate, calculation, concatenator_)
+relation_aggregate(_<span style="color:red;">relation</span>, <span style="color:red;">aggregate</span>, <span style="color:red;">expression</span>, <span style="color:red;">concatenator</span>_)
 
 ## Argomenti
 
@@ -49,9 +49,9 @@ relation_aggregate(_relation, aggregate, calculation, concatenator_)
 
 La sintassi prevede due possibilità:
 1. quella classica, senza l'uso dei paramentri denominati (l'ordine è fondamentale);
-    1. relation_aggregate(_relation, aggregate, calculation, concatenator_)
+    1. relation_aggregate(_relation, aggregate, expression, concatenator_)
 2. con i parametri denominati (l'ordine non è più fondamentale): 
-    1. relation_aggregate(_relation:=, aggregate:=, calculation:=, concatenator:=_)
+    1. relation_aggregate(_relation:=, aggregate:=, expression:=, concatenator:=_)
 
 ## osservazioni
 
