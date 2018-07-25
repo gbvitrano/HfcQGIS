@@ -8,7 +8,7 @@ $x
 
 ## Esempi
 
-* `$x → 12.2568971
+* $x → 12.2568971
 
 ![](/img/geometria/$x/$x1.png)
 
