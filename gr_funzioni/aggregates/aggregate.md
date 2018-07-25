@@ -4,12 +4,12 @@ Restituisce un valore aggregato calcolato usando elementi da un altro vettore.
 
 ## Sintassi
 
-aggregate(*layer, aggregate, calculation, filter, concatenator*)
+aggregate(*<span style="color:red;">layer</span>, <span style="color:red;">aggregate</span>, <span style="color:red;">expression</span>, filter</span>, <span style="color:red;">concatenator</span>*)
 
 ## Argomenti
 
-* *layer* una stringa, rappresentante o un nome di un layer o un ID di layer
-* *aggregate* una stringa corrispondente all'aggregato da calcolare. Opzioni valide sono:
+* *<span style="color:red;">layer</span>* una stringa, rappresentante o un nome di un layer o un ID di layer
+* *<span style="color:red;">aggregate</span>* una stringa corrispondente all'aggregato da calcolare. Opzioni valide sono:
   - count
   - count_distinct
   - count_missing
@@ -30,9 +30,9 @@ aggregate(*layer, aggregate, calculation, filter, concatenator*)
   - max_length: massima lunghezza stringa
   - concatenate: unisce stringhe con un concatenatore
   - collect: crea una geometria multiparte aggregata
-* *calculation* sotto-espressione o nome campo da aggregare
-* *filter* espressione filtro opzionale per limitare gli elementi usati per calcolare l'aggregato. I campi e la geometria provengono dagli elementi del vettore unito. Si può accedere all'elemento sorgente con la variabile `@parent`.
-* *concatenator* stringa opzionale da usare per unire i valori per il raggruppamento 'concatenate'
+* *<span style="color:red;">expression</span>* sotto-espressione o nome campo da aggregare
+* *<span style="color:red;">filter</span>* espressione filtro opzionale per limitare gli elementi usati per calcolare l'aggregato. I campi e la geometria provengono dagli elementi del vettore unito. Si può accedere all'elemento sorgente con la variabile `@parent`.
+* *<span style="color:red;">concatenator</span>* stringa opzionale da usare per unire i valori per il raggruppamento 'concatenate'
 
 
 ## Esempi
