@@ -8,7 +8,7 @@ buffer(*<span style="color:red;">geometry</span>*,*<span style="color:red;">dist
 
 ## Argomenti
 
-* *<span style="color:red;">geometria</span>* una geometria
+* *<span style="color:red;">geometry</span>* una geometria
 * *<span style="color:red;">distance</span>* distanza buffer nelle unità del layer
 
 ## Esempi
