@@ -4,14 +4,14 @@ Restituisce tutte le stringhe aggregate tratte da un campo o da una espressione 
 
 ## Sintassi
 
-concatenate(_expression, group_by, filter, concatenator_)
+concatenate(_<span style="color:red;">expression</span>, <span style="color:red;">group_by</span>, <span style="color:red;">filter</span>, <span style="color:red;">concatenator</span>_)
 
 ## Argomenti
 
-* _expression_ sotto espressione o campo da aggregare
-* _group_by_ espressione opzionale da usarsi per raggruppare i calcoli aggregati
-* _filter_ espressione opzionale da usare per filtrare gli elementi usati per calcolare il valore aggregato
-* _concatenator_ stringa opzionale da usarsi per unire i valori
+* _<span style="color:red;">expression</span>_ sotto espressione o campo da aggregare
+* _<span style="color:red;">group_by</span>_ espressione opzionale da usarsi per raggruppare i calcoli aggregati
+* _<span style="color:red;">filter</span>_ espressione opzionale da usare per filtrare gli elementi usati per calcolare il valore aggregato
+* _<span style="color:red;">concatenator</span>_ stringa opzionale da usarsi per unire i valori
 
 ## Esempi
 
