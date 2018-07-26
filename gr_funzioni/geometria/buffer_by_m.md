@@ -4,12 +4,12 @@ Crea un _buffer_ lungo una geometria _linestring_ in cui il diametro del buffer 
 
 ## Sintassi
 
-buffer_by_m(_geometry, segments_)
+buffer_by_m(_<span style="color:red;">geometry</span>, <span style="color:red;">segments</span>_)
 
 ## Argomenti
 
-* _geometry_ la geometria deve essere una (multi) geometria linestring con valori m.
-* _segments_ numero di segmenti per approssimare le curve del quarto di cerchio nel buffer
+* _<span style="color:red;">geometry</span>_ la geometria deve essere una (multi) geometria linestring con valori m.
+* _<span style="color:red;">segments</span>_ numero di segmenti per approssimare le curve del quarto di cerchio nel buffer
 
 
 ## Esempi
