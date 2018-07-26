@@ -119,13 +119,13 @@ Questo gruppo contiene operatori es. + - \*
 .. _a >= b: maggioreuguale.html
 .. _a ~ b: tilde.html
 .. _\|\|: doppio_pipe.html
-.. _LIKE: LIKE.html
-.. _ILIKE: ILIKE.html
-.. _a IS b: IS.html
-.. _a OR b: OR.html
-.. _a AND b: AND.html
-.. _NOT: NOT.html
-.. _a IN (a,b,..): IN.html
+.. _LIKE: like.html
+.. _ILIKE: ilike.html
+.. _a IS b: is.html
+.. _a OR b: or.html
+.. _a AND b: and.html
+.. _NOT: not.html
+.. _a IN (a,b,..): in.html
 
 .. |image0| image:: /img/operatori/gruppo_operatori1.png
 
