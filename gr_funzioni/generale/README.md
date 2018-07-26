@@ -6,7 +6,7 @@ Questo gruppo contiene un'assortimento di funzioni generiche.
 |----------:|:-----------|
 |[env](env.html)|	Ottiene una variabile di ambiente e restituisce il suo contenuto come stringa. Se non è possibile trovare la variabile, sarà restituito `NULL`. Questo è utile per specifiche configurazioni di sistema come lettere del disco o prefissi di percorso. La definizione di variabili di ambiente dipende dal sistema operativo, per favore verifica con il tuo amministratore di sistema o con la documentazione del sistema operativo come ciò possa essere impostato|
 |[eval](eval.html)|Valuta una espressione che viene passata in una stringa. Molto utile per espandere parametri dinamici passati come variabili contestuali o campi|
-|[is_layer_visible](is_layer_visible.html)|Returns true if a specified layer is visible|
+|[is_layer_visible](is_layer_visible.html)|Restituisce vero se uno specifico layer è visibile - visibile solo nel caso di tematizzazioni|
 |[layer_property](layer_property.html)|Restituisce una proprietà del layer corrispondente o un valore dei metadati|
 |[raster_statistic](raster_statistic.html)|Restituisce statistiche da un raster.|
 |[var](var.html)|	Restituisce il valore memorizzato in una variabile specificata|
