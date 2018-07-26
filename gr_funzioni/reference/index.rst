@@ -84,12 +84,6 @@ livello usando come valore di campo o una condizione spaziale
 |                                   | destinazione nel livello di       |
 |                                   | destinazione                      |
 +-----------------------------------+-----------------------------------+
-| `geomcwithin`_                    | Recupera il valore del campo      |
-|                                   | obiettivo quando la funzione di   |
-|                                   | origine è disgiunta dalla         |
-|                                   | funzione di destinazione nel      |
-|                                   | livello di destinazione           |
-+-----------------------------------+-----------------------------------+
 | `geomequals`_                     | Recupera il valore del campo      |
 |                                   | obiettivo quando la funzione di   |
 |                                   | origine è uguale alla funzione di |
@@ -129,7 +123,6 @@ livello usando come valore di campo o una condizione spaziale
 .. _geomtouches: geomtouches.html
 .. _geomintersects: geomintersects.html
 .. _geomcontains: geomcontains.html
-.. _geomcwithin: geomcwithin.html
 .. _geomequals: geomequals.html
 .. _geomoverlaps: geomoverlaps.html
 .. _geomcrosses: geomcrosses.html
