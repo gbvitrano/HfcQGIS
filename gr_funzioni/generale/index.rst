@@ -70,6 +70,7 @@ Questo gruppo contiene un'assortimento di funzioni generiche.
    
    env
    eval
+   is_layer_visible
    layer_property
    raster_statistic
    var
