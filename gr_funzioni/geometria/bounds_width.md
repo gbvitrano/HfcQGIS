@@ -4,11 +4,11 @@ Restituisce la larghezza del perimetro di delimitazione di una geometria. I calc
 
 ## Sintassi
 
-bounds_width(*geometry*)
+bounds_width(*<span style="color:red;">geometry</span>*)
 
 ## Argomenti
 
-*geometry* una geometria
+* *<span style="color:red;">geometry</span>* una geometria
 
 ## Esempi
 
