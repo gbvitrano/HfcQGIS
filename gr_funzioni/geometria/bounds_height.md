@@ -4,11 +4,11 @@ Restituisce l'altezza del perimetro di delimitazione di una geometria. I calcoli
 
 ## Sintassi
 
-bounds_height(*geometry*)
+bounds_height(*<span style="color:red;">geometry</span>*)
 
 ## Argomenti
 
-*geometry* una geometria
+* *<span style="color:red;">geometry</span>* una geometria
 
 ## Esempi
 
