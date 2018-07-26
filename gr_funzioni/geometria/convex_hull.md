@@ -4,11 +4,11 @@ Restituisce il poligono convesso di una geometria. Rappresenta la minima geometr
 
 ## Sintassi
 
-convex_hull(_geometry_)
+convex_hull(_<span style="color:red;">geometry</span>_)
 
 ## Argomenti
 
-* _geometry_ una geometria
+* _<span style="color:red;">geometry</span>_ una geometria
 
 ## Esempi
 
