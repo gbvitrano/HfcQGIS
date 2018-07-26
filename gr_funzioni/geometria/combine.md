@@ -4,12 +4,12 @@ Restituisce la combinazione di due geometrie.
 
 ## Sintassi
 
-combine(_geometry1, geometry2_)
+combine(_<span style="color:red;">geometry1</span>, <span style="color:red;">geometry2</span>_)
 
 ## Argomenti
 
-* _geometry1_ una geometria
-* _geometry2_ una geometria
+* _<span style="color:red;">geometry1</span>_ una geometria
+* _<span style="color:red;">geometry2</span>_ una geometria
 
 
 ## Esempi
