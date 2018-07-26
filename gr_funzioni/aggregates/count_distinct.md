@@ -22,9 +22,9 @@ count_distinct(_<span style="color:red;">expression</span>, <span style="color:r
 
 La sintassi prevede due possibilità:
 1. quella classica, senza l'uso dei paramentri denominati (l'ordine è fondamentale);
-    1. count_distinct(_expression, group_by, filter_)
+    1. majority(_<span style="color:red;">expression</span>, <span style="color:red;">group_by</span>, <span style="color:red;">filter</span>_)
 2. con i parametri denominati (l'ordine non è più fondamentale): 
-    1. count_distinct(filter:= ,_expression:= ,group_by:= )
+    1. majority(_<span style="color:red;">filter:=</span> ,<span style="color:red;">expression:=</span> ,<span style="color:red;">group_by:=</span>_ )
 
 ## osservazioni
 
