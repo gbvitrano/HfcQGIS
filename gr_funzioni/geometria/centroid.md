@@ -4,11 +4,11 @@ Restituisce il centro geometrico di una geometria.
 
 ## Sintassi
 
-centroid(*geometry*)
+centroid(*<span style="color:red;">geometry</span>*)
 
 ## Argomenti
 
-* *geometria* una geometria
+* *<span style="color:red;">geometria</span>* una geometria
 
 ## Esempi
 
