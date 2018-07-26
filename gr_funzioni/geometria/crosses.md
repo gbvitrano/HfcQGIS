@@ -4,12 +4,12 @@ Verifica se una geometria interseca un'altra. Restituisce vero (1) se le geometr
 
 ## Sintassi
 
-crosses(_geometry a, geometry b_)
+crosses(_<span style="color:red;">geometry a</span>, <span style="color:red;">geometry b</span>_)
 
 ## Argomenti
 
-* _geometry a_ una geometria
-* _geometry b_ una geometria
+* _<span style="color:red;">geometry a</span>_ una geometria
+* _<span style="color:red;">geometry b</span>_ una geometria
 
 
 ## Esempi
