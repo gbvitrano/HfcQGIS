@@ -28,8 +28,9 @@ Questo gruppo contiene un'assortimento di funzioni generiche.
 |                                 | dinamici passati come variabili    |
 |                                 | contestuali o campi                |
 +---------------------------------+------------------------------------+
-| `is_layer_visible`_             | Returns true if a specified layer  |
-|                                 | is visible                         |
+| `is_layer_visible`_             | Restituisce vero se uno specifico  |
+|                                 | layer è visibile - visibile solo   |
+|                                 | nel caso di tematizzazioni         | 
 +---------------------------------+------------------------------------+
 | `layer_property`_               | Restituisce una proprietà del      |
 |                                 | layer corrispondente o un valore   |
