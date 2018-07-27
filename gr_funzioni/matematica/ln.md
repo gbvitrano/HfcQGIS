@@ -4,11 +4,11 @@ Restituisce il logaritmo naturale di un valore.
 
 ## Sintassi
 
-ln(_value_)
+ln(_<span style="color:red;">value</span>_)
 
-##Argomenti
+## Argomenti
 
-* _value_ valore numerico
+* _<span style="color:red;">value</span>_ valore numerico
 
 ## Esempi
 
