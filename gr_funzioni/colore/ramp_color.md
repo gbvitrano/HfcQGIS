@@ -8,12 +8,12 @@ Restituisce una stringa che rappresenta un colore da una scala salvata
 
 ## Sintassi
 
-ramp_color(_ramp_name, value_)
+ramp_color(_<span style="color:red;">ramp_name</span>, <span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _ramp_name_ il nome della scala colore come stringa, per esempio 'Spectral'
-* _value_ la posizione nella scala colore da cui selezionare il colore come numero reale fra 0 e 1
+* _<span style="color:red;">ramp_name</span>_ il nome della scala colore come stringa, per esempio 'Spectral'
+* _<span style="color:red;">value</span>_ la posizione nella scala colore da cui selezionare il colore come numero reale fra 0 e 1
 
 ## Esempi
 
@@ -29,14 +29,14 @@ Le scale di colore disponibili differiscono fra le varie installazioni di QGIS. 
 
 Restituisce una stringa che rappresenta un colore da una scala creata con un'espressione
 
-##Sintassi
+## Sintassi
 
-ramp_color(_ramp, value_)
+ramp_color(_<span style="color:red;">ramp</span>, <span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _ramp_ la scala di colori
-* _value_ la posizione nella scala colore da cui selezionare il colore come numero reale fra 0 e 1
+* _<span style="color:red;">ramp</span>_ la scala di colori
+* _<span style="color:red;">value</span>_ la posizione nella scala colore da cui selezionare il colore come numero reale fra 0 e 1
 
 ## Esempi
 
