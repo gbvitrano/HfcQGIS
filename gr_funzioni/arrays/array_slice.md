@@ -4,13 +4,13 @@ Restituisce una porzione dell'array. Il taglio è definito dagli argomenti _star
 
 ## Sintassi
 
-* array_slice(_array, start_pos, end_pos_)
+* array_slice(_<span style="color:red;">array</span>, <span style="color:red;">start_pos</span>, <span style="color:red;">end_pos</span>_)
 
 ## Argomenti
 
-* _array_ un array
-* _start_pos_ l'indice della posizione iniziale della fetta (a partire da 0). L'indice start_pos è incluso nella fetta. Se si utilizza un valore negativo di start_pos, l'indice è contato dalla fine della lista (a partire da -1).
-* _end_pos_ l'indice della posizione finale della fetta (a partire da 0). L'indice end_pos è incluso nella fetta. Se si utilizza un valore negativo di start_pos, l'indice è contato dalla fine della lista (a partire da -1).
+* _<span style="color:red;">array</span>_ un array
+* _<span style="color:red;">start_pos</span>_ l'indice della posizione iniziale della fetta (a partire da 0). L'indice start_pos è incluso nella fetta. Se si utilizza un valore negativo di start_pos, l'indice è contato dalla fine della lista (a partire da -1).
+* _<span style="color:red;">end_pos</span>_ l'indice della posizione finale della fetta (a partire da 0). L'indice end_pos è incluso nella fetta. Se si utilizza un valore negativo di start_pos, l'indice è contato dalla fine della lista (a partire da -1).
 
 ## Esempi
 
