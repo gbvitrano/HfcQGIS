@@ -64,5 +64,5 @@ In questo esempio viene popolato un campo (dove è usata l'espressione) in funzi
 ![](/img/condizioni/case_label1.png)
 
 <p align="center">
-  <img width="460" src="/img/condizioni/case_rot.png">
+  <img width="460" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/condizioni/case_rot.png">
 </p>
