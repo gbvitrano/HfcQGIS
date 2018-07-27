@@ -28,4 +28,4 @@ inclination(_point_a, point_b_)
 
 --
 
-vedasi nel gruppo funzioni Geometria [Inclination](geometria/inclination.html)
+vedasi nel gruppo funzioni Geometria [Inclination](/geometria/inclination.html)
