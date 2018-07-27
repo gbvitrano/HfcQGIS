@@ -28,7 +28,7 @@ lpad(_string, width, fill_)
 --
 ## Altri esempi utili
 
-#### se volessi popolare un campo in modo da ottenere segnale01.png, segnale02.png...segnale99.png
+### se volessi popolare un campo in modo da ottenere segnale01.png, segnale02.png...segnale99.png
 
 id|path
 --|---
@@ -43,7 +43,7 @@ id|path
 ![](/img/stringhe_di_testo/lpad/lpad2.png)
 
 ---
-#### per ricostruire un identificativo univoco `CODICE_ASC`
+### per ricostruire un identificativo univoco `CODICE_ASC`
 
 CODICE_STR|NUM_CIV|BARRATO|CODICE_ASC
 ----------|-------|-------|-------
