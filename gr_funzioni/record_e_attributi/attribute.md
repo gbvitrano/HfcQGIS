@@ -4,12 +4,12 @@ Restituisce il valore di un attributo specificato da una geometria.
 
 ## Sintassi
 
-* attribute(*feature, attribute_name*)
+* attribute(*<span style="color:red;">feature</span>, <span style="color:red;">attribute_name</span>*)
 
 ## Argomenti
 
-* *feature* una geometria
-* *attribute_name* nome dell'attributo da restituire
+* *<span style="color:red;">feature</span>* una geometria
+* *<span style="color:red;">attribute_name</span>* nome dell'attributo da restituire
 
 
 ## Esempi
