@@ -11,8 +11,8 @@ Questo manuale
 .. raw:: html
 
     <embed>
-        <p>Questa versione in formato <a class="reference external" href="https://docs.readthedocs.io/en/latest/index.html">Read The Docs</a> del <a class="reference external" href="https://github.com/pigreco/HfcQGIS/blob/master/README.md">lavoro</a> di Salvatore  FIANDACA, è stata realizzata dalla comunità <a class="reference external" href="./ods.html"><strong>OpenDataSicilia</strong></a>, in  particolare da: <a class="reference external" href="https://twitter.com/aborruso">Andrea Borruso</a>, <a class="reference external" href="https://twitter.com/totofiandaca">Totò Fiandaca</a> e <a class="reference external" href="https://twitter.com/gbvitrano">Giovan Battista Vitrano</a>.<br>
-        L'idea è stata di Giovan Battista, mentre la musa ispiratrice per la scelta di Read The Docs è <a class="reference external" href="https://twitter.com/cirospat">Ciro Spataro</a>.</p>
+        <p>Questa versione in formato <a class="reference external" href="https://docs.readthedocs.io/en/latest/index.html" target="_blank">Read The Docs</a> del <a class="reference external" href="https://github.com/pigreco/HfcQGIS/blob/master/README.md" target="_blank">lavoro</a> di Salvatore  FIANDACA, è stata realizzata dalla comunità <a class="reference external" href="./ods.html"target="_blank" ><strong>OpenDataSicilia</strong></a>, in  particolare da: <a class="reference external" href="https://twitter.com/aborruso" target="_blank">Andrea Borruso</a>, <a class="reference external" href="https://twitter.com/totofiandaca" target="_blank">Totò Fiandaca</a> e <a class="reference external" href="https://twitter.com/gbvitrano" target="_blank">Giovan Battista Vitrano</a>.<br>
+        L'idea è stata di Giovan Battista, mentre la musa ispiratrice per la scelta di Read The Docs è <a class="reference external" href="https://twitter.com/cirospat" target="_blank">Ciro Spataro</a>.</p>
     </embed>
 
 Contenuti:
@@ -67,7 +67,7 @@ Autore HfcQGIS
 .. raw:: html
 
     <embed>
-        <p><a href="http://hfcqgis.opendatasicilia.it/it/latest/autore.html"><strong>Salvatore Fiandaca</strong></a> (aka <em>pigreco</em>)</p>
+        <p><a href="http://hfcqgis.opendatasicilia.it/it/latest/autore.html" target="_blank"><strong>Salvatore Fiandaca</strong></a> (aka <em>pigreco</em>)</p>
     </embed>
 
 .. raw:: html
@@ -99,8 +99,8 @@ Disclaimer
 .. raw:: html
 
     <embed>
-        <p><a href="http://hfcqgis.opendatasicilia.it/it/latest/" target="_parent"><img src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionCalculateField.png" class="immagonobox" width="24" height="24" alt=""/></a> Questa guida NON sostituisce il <a href="https://qgis.org/it/docs/index.html#">manuale</a> online di QGIS, cerca solo di rendere più facile la comprensione dello strumento. <br><br> Il marchio <strong>QGIS</strong> è stato realizzato da <a href="https://twitter.com/underdarkGIS?lang=it">Anita Graser</a>, l&rsquo;immagine HfcQGIS è stata realizzata da <a href="https://twitter.com/totofiandaca">Totò Fiandaca</a> (autore del manuale) usando <a href="https://inkscape.org/it/">InkSCAPE</a> e il carattere <a href="https://www.ffonts.net/Trueno-Bold.font">Trueno Bold</a>.<br>
-  I colori utilizzati in questo RTD sono fedeli alla <a href="https://www.qgis.org/en/site/getinvolved/styleguide.html#primary-colors">Visual Style Guide</a> di <strong>QGIS</strong></p>
+        <p><a href="http://hfcqgis.opendatasicilia.it/it/latest/" target="_parent"><img src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionCalculateField.png" class="immagonobox" width="24" height="24" alt=""/></a> Questa guida NON sostituisce il <a href="https://qgis.org/it/docs/index.html#" target="_blank">manuale</a> online di QGIS, cerca solo di rendere più facile la comprensione dello strumento. <br><br> Il marchio <strong>QGIS</strong> è stato realizzato da <a href="https://twitter.com/underdarkGIS?lang=it" target="_blank">Anita Graser</a>, l&rsquo;immagine HfcQGIS è stata realizzata da <a href="https://twitter.com/totofiandaca" target="_blank">Totò Fiandaca</a> (autore del manuale) usando <a href="https://inkscape.org/it/" target="_blank">InkSCAPE</a> e il carattere <a href="https://www.ffonts.net/Trueno-Bold.font" target="_blank">Trueno Bold</a>.<br>
+  I colori utilizzati in questo RTD sono fedeli alla <a href="https://www.qgis.org/en/site/getinvolved/styleguide.html#primary-colors" target="_blank">Visual Style Guide</a> di <strong>QGIS</strong></p>
     </embed>
 
 .. raw:: html
