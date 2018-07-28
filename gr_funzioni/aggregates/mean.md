@@ -4,13 +4,13 @@ Restituisce il valore medio aggregato da un campo o espressione.
 
 ## Sintassi
 
-mean(_expression, group_by, filter_)
+mean(_<span style="color:red;">expression</span>, <span style="color:red;">group_by</span>, <span style="color:red;">filter</span>_)
 
 ## Argomenti
 
-* _expression_ sotto espressione o campo da aggregare
-* _group_by_ espressione opzionale da usarsi per raggruppare i calcoli aggregati
-* _filter_ espressione opzionale da usare per filtrare gli elementi usati per calcolare il valore aggregato
+* _<span style="color:red;">expression</span>_ sotto espressione o campo da aggregare
+* _<span style="color:red;">group_by</span>_ espressione opzionale da usarsi per raggruppare i calcoli aggregati
+* _<span style="color:red;">filter</span>_ espressione opzionale da usare per filtrare gli elementi usati per calcolare il valore aggregato
 
 ## Esempi
 
@@ -22,9 +22,9 @@ mean(_expression, group_by, filter_)
 
 La sintassi prevede due possibilità:
 1. quella classica, senza l'uso dei paramentri denominati (l'ordine è fondamentale);
-    1. mean(_expression, group_by, filter_)
+    1. mean(_<span style="color:red;">expression</span>, <span style="color:red;">group_by</span>, <span style="color:red;">filter</span>_)
 2. con i parametri denominati (l'ordine non è più fondamentale): 
-    1. mean(filter:= ,_expression:= ,group_by:= )
+    1. mean(_<span style="color:red;">filter:=</span> ,<span style="color:red;">expression:=</span> ,<span style="color:red;">group_by:=</span> )
 
 ## osservazioni
 
