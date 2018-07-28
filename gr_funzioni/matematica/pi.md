@@ -20,7 +20,7 @@ pi()
 
 --
 
-[Wikipedia](https://it.wikipedia.org/wiki/Pi_greco) Pi greco
+[Wikipedia](https://it.wikipedia.org/wiki/Pi_greco) <span style="color:red;">Pi greco</span>
 [Mai senza](https://www.focus.it/scienza/scienze/ecco-perche-non-possiamo-fare-a-meno-del-pi-greco)
 
 Il mio logo personale:
