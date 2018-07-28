@@ -31,6 +31,7 @@
 
 import sys, os
 import recommonmark
+from recommonmark.parser import CommonMarkParser
 from recommonmark.transform import AutoStructify
 
 # Add any paths that contain templates here, relative to this directory.
@@ -41,15 +42,15 @@ def setup(app):
     # overrides for wide tables in RTD theme
     app.add_stylesheet('theme_overrides.css') # path relative to static
 
-from recommonmark.parser import CommonMarkParser
+# from recommonmark.parser import CommonMarkParser
 
 source_parsers = {
-    '.md': 'recommonmark.parser.CommonMarkParser',
+    '.md': CommonMarkParser,
 }
 
 source_suffix = ['.rst', '.md']
 
-#extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
+# extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
 
 # diattivare sphinx_markdown_tables in caso si malfunzionamento del plugin
 # tutte le tabelle markdown non verranno convertite
