@@ -104,6 +104,32 @@ nome`_.
 
 Grazie ai `parametri denominati`_ non è più indispensabile seguire, nella sintassi, l’ordine degli argomenti, ecco un esempio:
 
+.. raw:: html
+
+    <embed>
+        <p>La sintassi prevede due possibilità:</p>
+<ol>
+  <li>quella classica, senza l&rsquo;uso dei paramentri denominati (l&rsquo;ordine è fondamentale);
+    <ol>
+      <li>count_distinct(<span class="text_red">expression</span>, <span class="text_red">group_by</span>, <span class="text_red">filter</span>)</li>
+    </ol>
+  </li>
+  <li>con i parametri denominati (l&rsquo;ordine non è più fondamentale):
+    <ol>
+      <li>count_distinct(<span class="text_red">filter:=</span>,<span class="text_red">expression:=</span>, <span class="text_red">group_by:</span>=)</li>
+    </ol>
+  </li>
+</ol>
+    </embed>
+
+
+
+
+
+
+
+
+
 | La sintassi prevede due possibilità:
 |
 | 1. quella classica, senza l’uso dei paramentri denominati (l’ordine è fondamentale);
