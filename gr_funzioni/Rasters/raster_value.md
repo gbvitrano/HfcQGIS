@@ -24,3 +24,7 @@ Restituisce il valore raster trovato nel punto fornito.
 
 ![](/img/rasters/raster_value2.png)
 
+Animazione
+
+![](/img/rasters/raster_value.gif)
+
