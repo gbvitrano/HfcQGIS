@@ -104,14 +104,39 @@ nome`_.
 
 Grazie ai `parametri denominati`_ non è più indispensabile seguire, nella sintassi, l’ordine degli argomenti, ecco un esempio:
 
+.. raw:: html
+
+    <embed>
+        <p>La sintassi prevede due possibilità:</p>
+<ol>
+  <li>quella classica, senza l&rsquo;uso dei paramentri denominati (l&rsquo;ordine è fondamentale);
+    <ol>
+      <li>count_distinct(<span style="color: rgba(255,0,0,1)"><em>expression</em></span><em>, <span style="color: rgba(255,0,0,1)">group_by</span>, <span style="color: rgba(255,0,0,1)">filter</span></em>)</li>
+    </ol>
+  </li>
+  <li>con i parametri denominati (l&rsquo;ordine non è più fondamentale):
+    <ol>
+      <li>count_distinct(<span style="color: rgba(255,0,0,1)"><em>filter:=</em></span><em>,<span style="color: rgba(255,0,0,1)">expression:=</span> ,<span style="color: rgba(255,0,0,1)">group_by:=</span></em>)</li>
+    </ol>
+  </li>
+</ol>
+    </embed>
+
+
+
+
+
+
 | La sintassi prevede due possibilità:
 |
 | 1. quella classica, senza l’uso dei paramentri denominati (l’ordine è fondamentale);
-|     1. count_distinct(expression, group_by, filter)
+|     1. count_distinct(\ *expression, group_by, filter*)
 |   
 | 2. con i parametri denominati (l’ordine non è più fondamentale):      
-|     1. count_distinct(filter:=,expression:= ,group_by:=)
+|     1. count_distinct(\ *filter:=,expression:= ,group_by:=*)
 |
+
+
 .. _parametri con nome: http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions
 .. _aggregate: aggregate.html
 .. _array_agg: array_agg.html
