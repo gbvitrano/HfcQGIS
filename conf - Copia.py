@@ -49,9 +49,7 @@ source_parsers = {
 
 source_suffix = ['.rst', '.md']
 
-# extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
-
-extensions = ['sphinx.ext.ifconfig']
+extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
 
 # The master toctree document.
 master_doc = 'index'
