@@ -104,15 +104,13 @@ nome`_.
 
 Grazie ai `parametri denominati`_ non è più indispensabile seguire, nella sintassi, l’ordine degli argomenti, ecco un esempio:
 
-.. raw:: html
-
-    <embed>
-        <p>La sintassi prevede due possibilità:><br>
-1. quella classica, senza l'uso dei paramentri denominati (l'ordine è fondamentale);<br>
-&nbsp;&nbsp;&nbsp;1. count_distinct(<span style="color:red;">expression</span>, <span style="color:red;">group_by</span>, <span style="color:red;">filter</span>)<br>
-2. con i parametri denominati (l'ordine non è più fondamentale): <br>
-&nbsp;&nbsp;&nbsp;1. count_distinct(<span style="color:red;">filter:=</span> ,<span style="color:red;">expression:=</span> ,<span style="color:red;">group_by:=</span>)</p>
-    </embed>
+| La sintassi prevede due possibilità:
+|
+| 1. quella classica, senza l’uso dei paramentri denominati (l’ordine è fondamentale);
+|   1. count_distinct(expression, group_by, filter)
+|   
+| 2. con i parametri denominati (l’ordine non è più fondamentale):      
+|   1. count_distinct(filter:=,expression:= ,group_by:=)
 
 .. _parametri con nome: http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions
 .. _aggregate: aggregate.html
