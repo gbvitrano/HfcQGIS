@@ -31,6 +31,6 @@ L'unione di tre simboli matematici che hanno rivoluzionato il Mondo:
 2. Infinito;
 3. derivata prima ';
 
-Con un po' di fantasia dovreste leggere il mio nome Totò :+1:
+Con un po' di fantasia dovreste leggere il mio nome Totò 😎
 
 ![](/img/logo_pi.png)
