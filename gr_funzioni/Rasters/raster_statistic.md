@@ -1,4 +1,4 @@
-## funzione `raster_statistic`
+## raster_statistic
 
 Restituisce statistiche da un raster.
 
