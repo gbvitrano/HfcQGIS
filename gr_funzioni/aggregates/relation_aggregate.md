@@ -49,9 +49,9 @@ relation_aggregate(_<span style="color:red;">relation</span>, <span style="color
 
 La sintassi prevede due possibilità:
 1. quella classica, senza l'uso dei paramentri denominati (l'ordine è fondamentale);
-    1. relation_aggregate(_relation, aggregate, expression, concatenator_)
+    1. relation_aggregate(_<span style="color:red;">relation</span>, <span style="color:red;">aggregate</span>, <span style="color:red;">expression</span>, <span style="color:red;">concatenator</span>_)
 2. con i parametri denominati (l'ordine non è più fondamentale): 
-    1. relation_aggregate(_relation:=, aggregate:=, expression:=, concatenator:=_)
+    1. relation_aggregate(_<span style="color:red;">relation:=</span>, <span style="color:red;">aggregate:=</span>, <span style="color:red;">expression:=<span style="color:red;">, <span style="color:red;">concatenator:=</span>_)
 
 ## osservazioni
 
