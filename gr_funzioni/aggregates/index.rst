@@ -113,7 +113,6 @@ Grazie ai `parametri denominati`_ non è più indispensabile seguire, nella sint
 |     1. count_distinct(filter:=,expression:= ,group_by:=)
 |
 
-
 .. _parametri con nome: http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions
 .. _aggregate: aggregate.html
 .. _array_agg: array_agg.html
@@ -169,4 +168,3 @@ Grazie ai `parametri denominati`_ non è più indispensabile seguire, nella sint
    relation_aggregate
    stdev
    sum
-   
