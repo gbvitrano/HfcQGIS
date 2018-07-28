@@ -107,10 +107,10 @@ Grazie ai `parametri denominati`_ non è più indispensabile seguire, nella sint
 | La sintassi prevede due possibilità:
 |
 | 1. quella classica, senza l’uso dei paramentri denominati (l’ordine è fondamentale);
-|     1. count_distinct(\ *expression</span>, group_by, filter*)
+|     1. count_distinct(expression</span>, group_by, filter)
 |   
 | 2. con i parametri denominati (l’ordine non è più fondamentale):      
-|     1. count_distinct(\ *filter:=,expression:= ,group_by:=*)
+|     1. count_distinct(filter:=,expression:= ,group_by:=)
 |
 
 
