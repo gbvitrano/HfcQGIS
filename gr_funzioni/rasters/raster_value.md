@@ -28,6 +28,7 @@ Animazione
 
 ![](/img/rasters/raster_value.gif)
 
+
 ![](/img/rasters/raster_visible2.gif)
 
 Video demo
