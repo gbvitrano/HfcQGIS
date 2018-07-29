@@ -4,13 +4,13 @@ Restituisce statistiche da un raster.
 
 ## Sintassi
 
-* raster_statistic(*layer, band, property*)
+* raster_statistic(*<span style="color:red;">layer</span>, <span style="color:red;">band</span>, <span style="color:red;">property</span>*)
 
 ## Argomento
 
-* *layer* una stringa, rappresentante o un nome di un raster o un ID di layer
-* *band* intero rappresentante il numero di banda dal raster, partendo da 1
-* *property* una stringa che indica la proprietà da restituire. Opzioni valide sono:
+* *<span style="color:red;">layer</span>* una stringa, rappresentante o un nome di un raster o un ID di layer
+* *<span style="color:red;">band</span>* intero rappresentante il numero di banda dal raster, partendo da 1
+* *<span style="color:red;">property</span>* una stringa che indica la proprietà da restituire. Opzioni valide sono:
 
     - *min*: valore minimo
     - *max*: valore massimo
@@ -20,11 +20,11 @@ Restituisce statistiche da un raster.
     - *sum*: somma di tutti i valori dal raster
 
 ## Esempi
-```
-raster_statistic('lc',1,'avg') → Valore medio per la banda 1 da un raster layer 'lc'
-raster_statistic('ac2010',3,'min') → Valore minimo dalla banda 3 da un layer raster 'ac2010'
-raster_statistic( 'sicilia_dtm40',1,'max') → valore massimo del DTM
-```
+
+* `raster_statistic('lc',1,'avg') → Valore medio per la banda 1 da un raster layer 'lc'`
+* `raster_statistic('ac2010',3,'min') → Valore minimo dalla banda 3 da un layer raster 'ac2010'`
+* `raster_statistic( 'sicilia_dtm40',1,'max') → valore massimo del DTM`
+
 ![](/img/generale/raster_statistic1.png)
 
 ## Nota bene
