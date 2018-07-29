@@ -28,6 +28,8 @@ Animazione
 
 ![](/img/rasters/raster_value.gif)
 
+![](/img/rasters/raster_visible2.gif)
+
 Video demo
 
 [![add_col_area_perimetro](https://img.youtube.com/vi/lfb2DNm5Bjs/0.jpg)](https://www.youtube.com/watch?v=lfb2DNm5Bjs&t= "Esepio d'uso")
