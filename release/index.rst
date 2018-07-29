@@ -22,3 +22,12 @@ Novità rilevanti nella prossima QGIS 3.4 26/10/2018
 
 .. _Rasters: ../gr_funzioni/rasters/index.html
 .. _raster_value(): ../gr_funzioni/rasters/raster_value.html
+
+
+**Elenco novità introdotte**
+
+.. toctree::
+   :maxdepth: 3
+  
+   novita_3.2
+   ../gr_funzioni/rasters/index
