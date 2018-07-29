@@ -28,8 +28,9 @@ Animazione
 
 ![](/img/rasters/raster_value.gif)
 
-
 ![](/img/rasters/raster_visible2.gif)
+
+raster_value() con più bande e più layer
 
 Video demo
 
