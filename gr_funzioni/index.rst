@@ -41,6 +41,8 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 +-----------------------+-----------------------+-----------------------+
 | `Operatori`_          | (21/21)               |                       |
 +-----------------------+-----------------------+-----------------------+
+| `Rasters`_            | (2/2)                 |  >= QGIS 3.4          |
++-----------------------+-----------------------+-----------------------+
 | `Recente`_            | (1/1)                 |                       |
 +-----------------------+-----------------------+-----------------------+
 | `Record e attributi`_ | (10/10)               |                       |
@@ -69,6 +71,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. _Maps: maps/index.html
 .. _Matematica: matematica/index.html
 .. _Operatori: operatori/index.html
+.. _Rasters: rasters/index.html
 .. _Recente: recente/index.html
 .. _Record e attributi: record_e_attributi/index.html
 .. _Reference: reference/index.html
@@ -79,7 +82,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 (*) **numero funzioni documentate/funzioni totali del gruppo**
 
-**Indice gruppi di funzioni/espressioni (302/397)**
+**Indice gruppi di funzioni/espressioni (304/399)**
 
 .. toctree::
    :maxdepth: 1
@@ -99,6 +102,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
   maps/index
   matematica/index
   operatori/index
+  rasters/index
   recente/index
   record_e_attributi/index
   reference/index
