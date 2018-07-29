@@ -44,8 +44,6 @@ espressione usata:
 'Z '  || raster_value( 'dtm_20m_32',1, $geometry  ) 
 ```
 
-raster_value() con più bande e più layer
-
 Video demo
 
 [![add_col_area_perimetro](https://img.youtube.com/vi/lfb2DNm5Bjs/0.jpg)](https://www.youtube.com/watch?v=lfb2DNm5Bjs&t= "Esepio d'uso")
