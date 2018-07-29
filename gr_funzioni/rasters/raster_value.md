@@ -1,6 +1,6 @@
 # raster_value
 
-Restituisce il valore raster trovato nel punto fornito.
+Restituisce il valore raster trovato nel punto fornito. <span style="color:red;">NOVITÀ QGIS 3.4 OTTOBRE 2018</span>
 
 ## Sintassi
 
@@ -27,6 +27,8 @@ Restituisce il valore raster trovato nel punto fornito.
 Animazione
 
 ![](/img/rasters/raster_value.gif)
+
+Video demo
 
 [![add_col_area_perimetro](https://img.youtube.com/vi/lfb2DNm5Bjs/0.jpg)](https://www.youtube.com/watch?v=lfb2DNm5Bjs&t= "Esepio d'uso")
 
