@@ -42,13 +42,7 @@ espressione usata:
 'B '  || raster_value( 'Italia_tinitaly',3, $geometry  ) 
 || '-' || 
 'Z '  || raster_value( 'dtm_20m_32',1, $geometry  ) 
-'R ' ||  raster_value( 'Italia_tinitaly',1, $geometry  ) 
-|| '-' || 
-'G ' || raster_value( 'Italia_tinitaly',2, $geometry  ) 
-|| '-' || 
-'B '  || raster_value( 'Italia_tinitaly',3, $geometry  ) 
-|| '-' || 
-'Z '  || raster_value( 'dtm_20m_32',1, $geometry  ) 
+```
 
 raster_value() con più bande e più layer
 
