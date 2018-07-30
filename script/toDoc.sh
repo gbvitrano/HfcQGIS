@@ -13,7 +13,7 @@ echo -e "$intestazione" >"$cartella"/../gr_funzioni/da_documentare.md
 
 while read p; do
 	nome=$(echo "$p" | sed 's|.*/||g;s|\.md||g')
-	path=$(echo "$p" | sed 's|\.md|.html|g')
+	path=$(echo "$p" | sed 's|\.md|.html|g;s|gr_funzioni/||g')
 	puntoelenco=\-\ ["$nome"]\("$path"\)
 	echo "$puntoelenco" >>"$cartella"/../gr_funzioni/da_documentare.md
 done <"$cartella"/../gr_funzioni/da_documentare.txt
