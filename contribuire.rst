@@ -50,7 +50,9 @@ Includere screenshot e GIF animate nella richiesta di pull, quando possibile. Do
 Elenco funzione da documentare con donazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Apri elenco`_
+.. toctree::
+   :maxdepth: 2
+     
+   gr_funzioni/da_documentare   
 
 .. _sezione esempi: ./esempi/index.html
-.. _Apri elenco: ./gr_funzioni/da_documentare.html
