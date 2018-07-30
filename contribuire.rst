@@ -51,7 +51,7 @@ Elenco funzione da documentare con donazione
 ============================================
 
 `Vuoi documentare una funzione? Ecco quelle ancora non pronte`_
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _Vuoi documentare una funzione? Ecco quelle ancora non pronte: ./gr_funzioni/da_documentare.html
 .. _sezione esempi: ./esempi/index.html
