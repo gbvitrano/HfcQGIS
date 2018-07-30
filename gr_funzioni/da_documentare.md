@@ -1,5 +1,8 @@
 # Vuoi documentare una funzione? Ecco quelle ancora non pronte
 
+Al momento sono **86**!
+
+
 - [dbquery](./reference/dbquery.html)
 - [dbsql](./reference/dbsql.html)
 - [dbvalue](./reference/dbvalue.html)
