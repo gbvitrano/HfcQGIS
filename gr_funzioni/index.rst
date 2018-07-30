@@ -110,12 +110,5 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
   stringhe_di_testo/index
   timemanager/index
   variabili/index
-  
-Elenco funzione da documentare con donazione
---------------------------------------------
-
-.. toctree::
-   :maxdepth: 2
+  da_documentare 
      
-   da_documentare   
-   
