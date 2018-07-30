@@ -76,7 +76,6 @@
 ./gr_funzioni/variabili/qgis_short_version.md
 ./gr_funzioni/variabili/qgis_version.md
 ./gr_funzioni/variabili/qgis_version_no.md
-./gr_funzioni/variabili/row_number.md
 ./gr_funzioni/variabili/snapping_results.md
 ./gr_funzioni/variabili/symbol_angle.md
 ./gr_funzioni/variabili/symbol_color.md

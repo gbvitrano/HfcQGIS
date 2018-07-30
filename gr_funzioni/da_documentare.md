@@ -1,7 +1,7 @@
 # Vuoi documentare una funzione? Ecco quelle ancora non pronte
 
 
-Al momento sono **86**!
+Al momento sono **85**!
 
 
 - [dbquery](./reference/dbquery.html)
@@ -82,7 +82,6 @@ Al momento sono **86**!
 - [qgis_short_version](./variabili/qgis_short_version.html)
 - [qgis_version](./variabili/qgis_version.html)
 - [qgis_version_no](./variabili/qgis_version_no.html)
-- [row_number](./variabili/row_number.html)
 - [snapping_results](./variabili/snapping_results.html)
 - [symbol_angle](./variabili/symbol_angle.html)
 - [symbol_color](./variabili/symbol_color.html)
