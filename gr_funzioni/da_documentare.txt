@@ -4,6 +4,7 @@
 ./gr_funzioni/reference/dbvaluebyid.md
 ./gr_funzioni/reference/geomcontains.md
 ./gr_funzioni/reference/geomcrosses.md
+./gr_funzioni/reference/geomdisjoint.md
 ./gr_funzioni/reference/geomdistance.md
 ./gr_funzioni/reference/geomequals.md
 ./gr_funzioni/reference/geomintersects.md
@@ -12,6 +13,8 @@
 ./gr_funzioni/reference/geomredef.md
 ./gr_funzioni/reference/geomtouches.md
 ./gr_funzioni/reference/geomwithin.md
+./gr_funzioni/reference/intersecting_geom_count.md
+./gr_funzioni/reference/intersecting_geom_sum.md
 ./gr_funzioni/reference/wktarea.md
 ./gr_funzioni/reference/wktcentroid.md
 ./gr_funzioni/reference/wktlenght.md
