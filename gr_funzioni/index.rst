@@ -80,6 +80,15 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. _TimeManager: timemanager/index.html
 .. _Variabili: variabili/index.html
 
+Elenco funzione da documentare con donazione
+--------------------------------------------
+
+.. toctree::
+   :maxdepth: 2
+     
+   gr_funzioni/da_documentare   
+   
+
 (*) **numero funzioni documentate/funzioni totali del gruppo**
 
 **Indice gruppi di funzioni/espressioni (304/399)**
@@ -110,10 +119,3 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
   timemanager/index
   variabili/index
   
-Elenco funzione da documentare con donazione
---------------------------------------------
-
-.. toctree::
-   :maxdepth: 2
-     
-   gr_funzioni/da_documentare   
