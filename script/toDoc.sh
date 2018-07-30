@@ -7,7 +7,7 @@ cartella="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 grep -l -r -i --include \*.md 'paypal.me' "$cartella"/../gr_funzioni/ |
 	sed 's/^.*gr_funzioni/.\/gr_funzioni/g' >"$cartella"/../gr_funzioni/da_documentare.txt
 
-intestazione="# Vuoi documentare una funzione? Ecco quelle ancora non pronte\n"
+intestazione="# Vuoi documentare una funzione? Ecco quelle ancora non pronte\n\n"
 
 echo -e "$intestazione" >"$cartella"/../gr_funzioni/da_documentare.md
 
