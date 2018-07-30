@@ -8,6 +8,8 @@ Restituisce la sigla 'it_IT'
 
 ## Esempi
 
+* `Valore attuale: 'it_IT'`
+
 ![](/img/variabili/qgis_locale/qgis_locale1.png)
 
 ## nota bene
