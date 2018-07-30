@@ -2,7 +2,7 @@ Rasters (NOVITÀ QGIS 3.4)
 =======
 
 
-Questo gruppo contiene le funzioni da utilizzare con i raster. Gruppo presente dalla >= QGIS 3.4 - La funzione Raster_statistic è stata spostata qui dal gruppo generale.
+Questo gruppo contiene le funzioni da utilizzare con i raster. Gruppo presente dalla >= QGIS 3.4 - La funzione raster_statistic è stata spostata qui dal gruppo generale.
 
 +-----------------------------------+-----------------------------------+
 | Funzione                          | Descrizione                       |
