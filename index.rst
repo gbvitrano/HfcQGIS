@@ -46,7 +46,7 @@ Contenuti:
 .. toctree::
    :maxdepth: 2
    
-   contributing
+   contribuire
    
 .. toctree::
    :maxdepth: 2
