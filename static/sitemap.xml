@@ -36,10 +36,16 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://hfcqgis.opendatasicilia.it/it/latest/contributing.html</loc>
+  <loc>http://hfcqgis.opendatasicilia.it/it/latest/contribuire.html</loc>
   <lastmod>2018-07-22T07:17:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/da_documentare.html</loc>
+  <lastmod>2018-07-30T07:17:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
 <url>
   <loc>http://hfcqgis.opendatasicilia.it/it/latest/ods.html</loc>
   <lastmod>2018-07-22T07:18:10+00:00</lastmod>
