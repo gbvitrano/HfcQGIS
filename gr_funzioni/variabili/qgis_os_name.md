@@ -1,12 +1,14 @@
 # qgis_os_name
 
---
+Nome del sistema operativo, es. 'windows', 'linux' o 'osx'.
 
 ## Sintassi
 
---
+* qgis_os_name
 
 ## Esempi
+
+* `Valore attuale: 'windows'`
 
 ![](/img/variabili/qgis_os_name/qgis_os_name1.png)
 
@@ -17,5 +19,3 @@
 ## osservazioni
 
 --
-
-<a href="https://www.paypal.me/pigrecoinfinito" target="_blank"><img width="400"  class="immagonobox" src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/sviluppo_variabili_01.png" Title="La documentazione di questa funzione non è stata ancora sviluppata. Se vuoi sostenerla fai una donazione con PayPal, scrivendo ..." alt="Donazione HfcQgis" style="margin: 0 auto; display: block;" /></a>
