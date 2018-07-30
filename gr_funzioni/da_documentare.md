@@ -90,3 +90,5 @@ Al momento sono **86**!
 - [user_full_name](./variabili/user_full_name.html)
 - [value](./variabili/value.html)
 - [with_variable](./variabili/with_variable.html)
+
+<a href="https://www.paypal.me/pigrecoinfinito" target="_blank"><img width="400"  class="immagonobox" src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/sviluppo_variabili_01.png" Title="La documentazione di questa funzione non è stata ancora sviluppata. Se vuoi sostenerla fai una donazione con PayPal, scrivendo ..." alt="Donazione HfcQgis" style="margin: 0 auto; display: block;" /></a>
