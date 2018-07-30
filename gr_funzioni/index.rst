@@ -117,5 +117,5 @@ Elenco funzione da documentare con donazione
 .. toctree::
    :maxdepth: 2
      
-   gr_funzioni/da_documentare   
+   da_documentare   
    
