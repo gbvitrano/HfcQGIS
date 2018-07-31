@@ -10,6 +10,7 @@ Format_date(_datetime, format_)
 
 datetime valora data, ora, o data/ora
 format Modello di stringhe usato per formattare la stringa. 
+
 Espressione|In uscita
 :----------|:-------
 d|il giorno in numero senza lo zero iniziale (da 1 a 31)
@@ -24,6 +25,7 @@ yy|l'anno come un numero a due cifre (00-99)
 yyyy|l'anno come un numero a quattro cifre
 
 Queste espressioni possono essere usate per la parte time della stringa da formattare:
+
 Espressione|In uscita
 :----------|:--------
 h|l'ora senza lo zero iniziale (da 0 a 23 o da 1 a 12 se visualizzi AM/PM)
