@@ -4,11 +4,11 @@ Inverte la direzione di una linestring invertendo l'ordine dei sui vertici
 
 ## Sintassi
 
-everse(_geometry_)
+reverse(_<span style="color:red;">geometry</span>_)
 
 ## Argomenti
 
-* _geometry_ una geometria
+* _<span style="color:red;">geometry</span>_ una geometria
 
 ## Esempi
 
