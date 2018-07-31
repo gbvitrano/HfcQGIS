@@ -47,7 +47,7 @@ Pull Requests
 
 Includere screenshot e GIF animate nella richiesta di pull, quando possibile. Documenta bene Terminare tutti i file con una nuova riga Evita il codice dipendente dalla piattaforma
 
-Elenco funzione da documentare con donazione
+Elenco funzione da documentare
 --------------------------------------------
 
 .. toctree::
