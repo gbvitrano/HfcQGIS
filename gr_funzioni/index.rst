@@ -53,7 +53,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 +-----------------------+-----------------------+-----------------------+
 | `TimeManager`_        | (0/5)                 | Plugin Time Manager   |
 +-----------------------+-----------------------+-----------------------+
-| `Variabili`_          | (0/64)                | >= QGIS 2.12          |
+| `Variabili`_          | (0/65)                | >= QGIS 2.12          |
 +-----------------------+-----------------------+-----------------------+
 
 .. _Aggregates: aggregates/index.html
