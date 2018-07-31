@@ -8,7 +8,7 @@ centroid(*<span style="color:red;">geometry</span>*)
 
 ## Argomenti
 
-* *<span style="color:red;">geometria</span>* una geometria
+* *<span style="color:red;">geometry</span>* una geometria
 
 ## Esempi
 
