@@ -4,11 +4,11 @@ Calcola il perimetro di un oggetto a geometria poligonale. I calcoli sono sempre
 
 ## Sintassi
 
-perimeter(_geometry_)
+perimeter(_<span style="color:red;">geometry</span>_)
 
 ## Argomenti
 
-* _geometry_ oggetto geometria poligono
+* _<span style="color:red;">geometry</span>_ oggetto geometria poligono
 
 ## Esempi
 
