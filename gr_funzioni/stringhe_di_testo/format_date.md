@@ -9,7 +9,8 @@ Format_date(_datetime, format_)
 ## Argomenti
 
 datetime valora data, ora, o data/ora
-format Modello di stringhe usato per formattare la stringa. 
+format Modello di stringhe usato per formattare la stringa.
+
 
 Espressione|In uscita
 :----------|:-------
@@ -24,7 +25,9 @@ MMMM|il nome locale del mese per esteso (es. da 'January' a 'December')
 yy|l'anno come un numero a due cifre (00-99)
 yyyy|l'anno come un numero a quattro cifre
 
+
 Queste espressioni possono essere usate per la parte time della stringa da formattare:
+
 
 Espressione|In uscita
 :----------|:--------
