@@ -12,7 +12,9 @@ centroid(*<span style="color:red;">geometry</span>*)
 
 ## Esempi
 
-`centroid($geometry) → una geometria punto`
+* `centroid($geometry) → una geometria punto`
+
+![](/img/geometria/centroid/centroid0.png)
 
 ![](/img/geometria/centroid/centroid1.png)
 
