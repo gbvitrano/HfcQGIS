@@ -4,11 +4,11 @@ Converte una stringa in un numero reale. Non viene restituito nulla se un valore
 
 ## Sintassi
 
-* to_string(_number_)
+* to_string(_<span style="color:red;">number</span>_)
 
 ## Argomenti
 
-* _number_ Valore intero o reale. Il numero da convertire in stringa.
+* _<span style="color:red;">number</span>_ Valore intero o reale. Il numero da convertire in stringa.
 
 ## Esempi
 ```
