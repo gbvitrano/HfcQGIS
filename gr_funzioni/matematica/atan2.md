@@ -4,12 +4,12 @@ Restituisce la arcotangente di dy/dx usando i segni dei due argomenti per determ
 
 ## Sintassi
 
-atan2(_dy, dx_)
+atan2(_<span style="color:red;">dy</span>, <span style="color:red;">dx</span>_)
 
 ## Argomenti
 
-* _dy_ y differenza coordinata
-* _dx_ x differenza coordinata
+* _<span style="color:red;">dy</span>_ y differenza coordinata
+* _<span style="color:red;">dx</span>_ x differenza coordinata
 
 ## Esempi
 
