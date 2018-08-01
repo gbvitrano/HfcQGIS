@@ -4,11 +4,11 @@ Restituisce il valore memorizzato in una variabile specificata.
 
 ## Sintassi
 
-* var(*name*)
+* var(*<span style="color:red;">name</span>*)
 
 ## Argomento
 
-* *name* un nome variabile
+* *<span style="color:red;">name</span>* un nome variabile
 
 ## Esempi
 ```
