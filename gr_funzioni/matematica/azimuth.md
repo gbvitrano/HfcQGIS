@@ -4,12 +4,12 @@ Restituisce l'azimut dal nord quale angolo in radianti misurato in senso orario 
 
 ## Sintassi
 
-azimuth(_point_a, point_b_)
+azimuth(_<span style="color:red;">point_a</span>, <span style="color:red;">point_b</span>_)
 
 ## Argomenti
 
-* _point_a_ geometria punto
-* _point_b_ geometria punto
+* _<span style="color:red;">point_a</span>_ geometria punto
+* _<span style="color:red;">point_b</span>_ geometria punto
 
 ## Esempi
 
