@@ -4,11 +4,11 @@ Restituisce l'esponenziale di un valore.
 
 ## Sintassi
 
-exp(_value_)
+exp(_<span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _value_ numero da restituire come esponente
+* _<span style="color:red;">value</span>_ numero da restituire come esponente
 
 ## Esempi
 
