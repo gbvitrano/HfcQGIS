@@ -3,11 +3,11 @@ Restituisce l'arcocoseno del valore in radianti.
 
 ## Sintassi
 
-acos(_value_)
+acos(_<span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _value_ coseno di un angolo in radianti
+* _<span style="color:red;">value</span>_ coseno di un angolo in radianti
 
 ## Esempi
 
