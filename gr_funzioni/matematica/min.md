@@ -4,11 +4,11 @@ Restituisce il valore minore di un insieme di valori.
 
 ## Sintassi
 
-min(_value1, value2, …_)
+min(_<span style="color:red;">value1</span>, <span style="color:red;">value2</span>, <span style="color:red;">…</span>_)
 
 ## Argomenti
 
-* _value_ un numero
+* _<span style="color:red;">value</span>_ un numero
 
 ## Esempi
 
