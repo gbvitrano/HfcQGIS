@@ -8,11 +8,11 @@ Estrae la parte secondi da una time o una datetime.
 
 ## Sintassi
 
-* second(_datetime_)
+* second(_<span style="color:red;">datetime</span>_)
 
 ## Argomenti
 
-* _datetime_ un valore data o data/ora
+* _<span style="color:red;">datetime</span>_ un valore data o data/ora
 
 ## Esempi
 ```
@@ -27,11 +27,11 @@ Calcola la lunghezza in secondi di un intervallo.
 
 ## Sintassi
 
-* second(_interval_)
+* second(_<span style="color:red;">interval</span>_)
 
 ## Argomenti
 
-* _interval_ valore intervallo da cui restituire il numero di secondi
+* _<span style="color:red;">interval</span>_ valore intervallo da cui restituire il numero di secondi
 
 ## Esempi
 ```
