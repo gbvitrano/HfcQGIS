@@ -4,13 +4,13 @@ Restituisce un array con il valore passato aggiunto nella posizione indicata.
 
 ## Sintassi
 
-* array_insert(_array, pos, value_)
+* array_insert(_<span style="color:red;">array</span>, <span style="color:red;">pos</span>, <span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _array_ un array
-* _pos_ la posizione in cui aggiungere (partendo da 0)
-* _value_ il valore da aggiungere
+* _<span style="color:red;">array</span>_ un array
+* _<span style="color:red;">pos</span>_ la posizione in cui aggiungere (partendo da 0)
+* _<span style="color:red;">value</span>_ il valore da aggiungere
 
 ## Esempi
 
