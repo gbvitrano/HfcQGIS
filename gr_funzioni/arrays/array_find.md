@@ -4,12 +4,12 @@ Restituisce l'indice (0 per il primo elemento) di un valore all'interno di un ar
 
 ## Sintassi
 
-array_find(_array, value_)
+array_find(_<span style="color:red;">array</span>, <span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _array_ un array
-* _value_ il valore da cercare
+* _<span style="color:red;">array</span>_ un array
+* _<span style="color:red;">value</span>_ il valore da cercare
 
 ## Esempi
 
