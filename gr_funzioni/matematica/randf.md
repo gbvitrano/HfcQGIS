@@ -4,12 +4,12 @@ Restituisce un numero in virgola mobile casuale nell'intervallo specificato da u
 
 ## Sintassi
 
-randf(_min, max_)
+randf(_<span style="color:red;">min</span>, <span style="color:red;">max</span>_)
 
 ## Argomenti
 
-* _min_ un numero in virgola mobile indicante il numero casuale più piccolo desiderato
-* _max_ un numero in virgola mobile indicante il numero casuale più grande desiderato
+* _<span style="color:red;">min</span>_ un numero in virgola mobile indicante il numero casuale più piccolo desiderato
+* _<span style="color:red;">max</span>_ un numero in virgola mobile indicante il numero casuale più grande desiderato
 
 ## Esempi
 
