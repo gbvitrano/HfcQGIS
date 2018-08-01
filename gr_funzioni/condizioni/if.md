@@ -4,13 +4,13 @@ Testa una condizione e restituisce un risultato diverso a seconda della verifica
 
 ## Sintassi
 
-* if(*condition, result_when_true, result_when_false*)
+* if(*<span style="color:red;">condition</span>, <span style="color:red;">result_when_true</span>, <span style="color:red;">result_when_false</span>*)
 
 ## Argomenti
 
-* *condition* la condizione che deve essere controllata
-* *result_when_true* il risultato che viene restituito quando la condizione è vera o un altro valore non si trasforma in falso.
-* *result_when_false* il risultato che viene restituito quando la condizione è falsa o un altro valore si trasforma in falso come 0 o ''. NULL sarà inoltre convertito in falso.
+* *<span style="color:red;">condition</span>* la condizione che deve essere controllata
+* *<span style="color:red;">result_when_true</span>* il risultato che viene restituito quando la condizione è vera o un altro valore non si trasforma in falso.
+* *<span style="color:red;">result_when_false</span>* il risultato che viene restituito quando la condizione è falsa o un altro valore si trasforma in falso come 0 o ''. NULL sarà inoltre convertito in falso.
 
 ## Esempi
 ```
