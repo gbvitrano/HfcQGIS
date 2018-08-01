@@ -26,4 +26,4 @@ azimuth(_<span style="color:red;">point_a</span>, <span style="color:red;">point
 
 --
 
-vedasi nel gruppo funzioni Geometria [Azimuth](/gr_funzioni/geometria/azimuth.html)
+vedasi nel gruppo funzioni Geometria [Azimuth](../../gr_funzioni/geometria/azimuth.html)
