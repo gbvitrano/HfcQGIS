@@ -4,11 +4,11 @@ Restituisce la radice quadrata di un valore.
 
 ## Sintassi
 
-sqrt(_value_)
+sqrt(_<span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _value_ un numero
+* _<span style="color:red;">value</span>_ un numero
 
 ## Esempi
 
