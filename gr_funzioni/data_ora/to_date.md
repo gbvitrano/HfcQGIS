@@ -4,11 +4,11 @@ Converte una stringa in un oggetto data
 
 ## Sintassi
 
-* to_date(_string_)
+* to_date(_<span style="color:red;">string</span>_)
 
 ## Argomenti
 
-* _string_ stringa rappresentante il valore data
+* _<span style="color:red;">string</span>_ stringa rappresentante il valore data
 
 ## Esempi
 ```
