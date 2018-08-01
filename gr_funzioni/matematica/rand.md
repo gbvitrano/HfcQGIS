@@ -4,12 +4,12 @@ Restituisce un intero casuale nell'intervallo specificato fra un minimo ed un ma
 
 ## Sintassi
 
-rand(_min, max_)
+rand(_<span style="color:red;">min</span>, <span style="color:red;">max</span>_)
 
 ## Argomenti
 
-* _min_ un intero indicante il numero casuale più piccolo desiderato
-* _max_ un intero che indica il numero casuale più alto desiderato
+* _<span style="color:red;">min</span>_ un intero indicante il numero casuale più piccolo desiderato
+* _<span style="color:red;">max</span>_ un intero che indica il numero casuale più alto desiderato
 
 ## Esempi
 
