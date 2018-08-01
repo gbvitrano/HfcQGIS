@@ -4,11 +4,11 @@ Ordina i valori in ordine crescente (usa _array_reverse_ per desc).
 
 ## Sintassi
 
-array_sort(_array_) 
+array_sort(_<span style="color:red;">array</span>_) 
 
 ## Argomenti
 
-* _array_ un array o stringa (valori separati da virgola) 
+* _<span style="color:red;">array</span>_ un array o stringa (valori separati da virgola) 
 
 ## Esempi
 
