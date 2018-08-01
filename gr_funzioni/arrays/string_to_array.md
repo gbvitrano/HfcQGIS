@@ -4,13 +4,13 @@ Divide la stringa in un array usando il delimitatore fornito e la stringa opzion
 
 ## Sintassi
 
-* string_to_array(_string, delimiter, empty_value_)
+* string_to_array(_<span style="color:red;">string</span>, <span style="color:red;">delimiter</span>, <span style="color:red;">empty_value</span>_)
 
 ## Argomenti
 
-* _string_ la stringa in ingresso
-* _delimiter_ il delimitatore stringa usato per dividere la stringa in ingresso
-* _empty_value_ la stringa opzionale da usare come sostituzione per le corrispondenze (lunghezza nulla) mancanti
+* _<span style="color:red;">string</span>_ la stringa in ingresso
+* _<span style="color:red;">delimiter</span>_ il delimitatore stringa usato per dividere la stringa in ingresso
+* _<span style="color:red;">empty_value</span>_ la stringa opzionale da usare come sostituzione per le corrispondenze (lunghezza nulla) mancanti
 
 ## Esempi
 
