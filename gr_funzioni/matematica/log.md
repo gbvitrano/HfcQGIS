@@ -4,12 +4,12 @@ Restituisce il valore del logaritmo della base e valore passati.
 
 ## Sintassi
 
-log(_base, value_)
+log(_<span style="color:red;">base</span>, <span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _base_ qualsiasi numero positivo
-* _value_ qualsiasi numero positivo
+* _<span style="color:red;">base</span>_ qualsiasi numero positivo
+* _<span style="color:red;">value</span>_ qualsiasi numero positivo
 
 ## Esempi
 
