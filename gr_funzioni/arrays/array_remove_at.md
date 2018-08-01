@@ -4,12 +4,12 @@ Restituisce un array con l'indice passato rimosso.
 
 ## Sintassi
 
-* array_remove_at(_array, pos_)
+* array_remove_at(_<span style="color:red;">array</span>, <span style="color:red;">pos</span>_)
 
 ## Argomenti
 
-* _array_ un array
-* _pos_ la posizione da rimuovere (partendo da 0)
+* _<span style="color:red;">array</span>_ un array
+* _<span style="color:red;">pos</span>_ la posizione da rimuovere (partendo da 0)
 
 ## Esempi
 
