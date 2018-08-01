@@ -4,13 +4,13 @@ Limita un valore in ingresso a un intervallo specificato.
 
 ## Sintassi
 
-clamp(_minimum, input, maximum_)
+clamp(_<span style="color:red;">minimum</span>, <span style="color:red;">input</span>, <span style="color:red;">maximum</span>_)
 
 ## Argomenti
 
-* _minimum_ il più piccolo valore in input che può essere mantenuto.
-* _input_ un valore che sarà compreso nell'intervallo specificato da minimo e massimo
-* _maximum_ il più grande valore in input che può essere mantenuto
+* _<span style="color:red;">minimum</span>_ il più piccolo valore in input che può essere mantenuto.
+* _<span style="color:red;">input</span>_ un valore che sarà compreso nell'intervallo specificato da minimo e massimo
+* _<span style="color:red;">maximum</span>_ il più grande valore in input che può essere mantenuto
 
 ## Esempi
 
