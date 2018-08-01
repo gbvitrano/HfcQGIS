@@ -4,12 +4,12 @@ Restituisce un array con tutti gli elementi del valore passato rimossi.
 
 ## Sintassi
 
-* array_remove_all(_array, value_)
+* array_remove_all(_<span style="color:red;">array</span>, <span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _array_ un array
-* _value_ i valori da rimuovere
+* _<span style="color:red;">array</span>_ un array
+* _<span style="color:red;">value</span>_ i valori da rimuovere
 
 ## Esempi
 
