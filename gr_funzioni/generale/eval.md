@@ -4,11 +4,11 @@ Valuta una espressione che viene passata in una stringa. Molto utile per espande
 
 ## Sintassi
 
-* eval(*expression*)
+* eval(*<span style="color:red;">expression</span>*)
 
 ## Argomento
 
-* *expression* una stringa espressione
+* *<span style="color:red;">expression</span>* una stringa espressione
 
 
 ## Esempi
