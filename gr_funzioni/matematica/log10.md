@@ -4,11 +4,11 @@ Restituisce il valore del logaritmo in base10 dell'espressione passata.
 
 ## Sintassi
 
-log10(_value_)
+log10(_<span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _value_ qualsiasi numero positivo
+* _<span style="color:red;">value</span>_ qualsiasi numero positivo
 
 ## Esempi
 
