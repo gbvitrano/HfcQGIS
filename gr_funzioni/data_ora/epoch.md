@@ -4,11 +4,11 @@ Restituisce l'intervallo in millisecondi fra l'[epoca unix](https://it.wikipedia
 
 ## Sintassi
 
-* epoch(_date_)
+* epoch(_<span style="color:red;">date</span>_)
 
 ## Argomenti
 
-* _date_ un valore data o data/ora
+* _<span style="color:red;">date</span>_ un valore data o data/ora
 
 ## Esempi
 ```
