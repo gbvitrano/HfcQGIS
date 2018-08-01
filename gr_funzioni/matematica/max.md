@@ -4,11 +4,11 @@ Restituisce il valore maggiore di un insieme di valori.
 
 ## Sintassi
 
-max(_value1, value2, …_)
+max(_<span style="color:red;">value1</span>, <span style="color:red;">value2<span style="color:red;">, <span style="color:red;">…</span>_)
 
 ## Argomenti
 
-* _value_ un numero
+* _<span style="color:red;">value</span>_ un numero
 
 ## Esempi
 
