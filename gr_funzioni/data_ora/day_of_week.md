@@ -4,11 +4,11 @@ Restituisce il giorno della settimana per una data o un datetime. L'intervallo d
 
 ## Sintassi
 
-* day_of_week(_date_)
+* day_of_week(_<span style="color:red;">date</span>_)
 
 ## Argomenti
 
-* _date_ valore data o datetime
+* _<span style="color:red;">date</span>_ valore data o datetime
 
 ## Esempi
 ```
