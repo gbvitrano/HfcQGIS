@@ -4,11 +4,11 @@ Restituisce l'ultimo valore di un array.
 
 ## Sintassi
 
-array_last(_array_)
+array_last(_<span style="color:red;">array</span>_)
 
 ## Argomenti
 
-* _array_ un array
+* _<span style="color:red;">array</span>_ un array
 
 ## Esempi
 
