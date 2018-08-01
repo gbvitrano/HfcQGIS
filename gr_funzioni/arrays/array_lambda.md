@@ -4,12 +4,12 @@ Applica una funzione personalizzata a ciascun elemento (x)
 
 ## Sintassi
 
-array_lambda(_array, lambda function_) 
+array_lambda(_<span style="color:red;">array</span>, <span style="color:red;">lambda function</span>_) 
 
 ## Argomenti
 
-* _array_ un array o stringa (valori separati da virgola) 
-* _lambda function_ una stringa che rappresenta la funzione da applicare. L'elemento array è rappresentato come 'x'
+* _<span style="color:red;">array</span>_ un array o stringa (valori separati da virgola) 
+* _<span style="color:red;">lambda function</span>_ una stringa che rappresenta la funzione da applicare. L'elemento array è rappresentato come 'x'
 
 ## Esempi
 
