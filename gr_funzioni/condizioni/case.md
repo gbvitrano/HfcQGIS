@@ -1,4 +1,7 @@
 # Espressione CASE
+
+Valuta un'espressione e restituisce un risultato diverso, sia esso vero o falso. Puoi testare più condizioni
+
 ```
 CASE
 WHEN condizione THEN risultato
