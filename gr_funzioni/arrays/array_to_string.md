@@ -4,13 +4,13 @@ Concatena gli elementi di un array in una stringa separata da un delimitatore us
 
 ## Sintassi
 
-* array_to_string(_array, delimiter, empty_value_)
+* array_to_string(_<span style="color:red;">array</span>, <span style="color:red;">delimiter</span>, <span style="color:red;">empty_value</span>_)
 
 ## Argomenti
 
-* _array_ l'array in ingresso
-* _delimiter_ il delimitatore stringa usato per separare gli elementi array concatenati
-* _empty_value_ la stringa opzionale da usare come sostituzione per le corrispondenze (lunghezza nulla) mancanti
+* _<span style="color:red;">array</span>_ l'array in ingresso
+* _<span style="color:red;">delimiter</span>_ il delimitatore stringa usato per separare gli elementi array concatenati
+* _<span style="color:red;">empty_value</span>_ la stringa opzionale da usare come sostituzione per le corrispondenze (lunghezza nulla) mancanti
 
 ## Esempi
 
