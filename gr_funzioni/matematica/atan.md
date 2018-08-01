@@ -4,11 +4,11 @@ Restituisce l'arcotangente del valore in radianti.
 
 ## Sintassi
 
-atan(_value_)
+atan(_<span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _value_ tangente di un angolo in radianti
+* _<span style="color:red;">value</span>_ tangente di un angolo in radianti
 
 ## Esempi
 
