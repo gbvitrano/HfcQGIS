@@ -4,11 +4,11 @@ Converti una stringa in un oggetto time.
 
 ## Sintassi
 
-* to_time(_string_)
+* to_time(_<span style="color:red;">string</span>_)
 
 ## Argomenti
 
-* _string_ stringa rappresentante un valore time
+* _<span style="color:red;">string</span>_ stringa rappresentante un valore time
 
 ## Esempi
 ```
