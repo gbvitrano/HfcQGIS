@@ -4,11 +4,11 @@ Restituisce un array contenente tutti gli arrays passati concatenati.
 
 ## Sintassi
 
-array_cat(_array1, array2, …_)
+array_cat(_<span style="color:red;">array1</span>, <span style="color:red;">array2</span>, <span style="color:red;">…</span>_)
 
 ## Argomenti
 
-* _array_ un array
+* _<span style="color:red;">array</span>_ un array
 
 ## Esempi
 
