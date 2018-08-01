@@ -5,7 +5,11 @@ Questa funzione può usare qualsiasi numero di argomenti.
 
 ## Sintassi
 
-* coalesce(*expression1, expression2, …*)
+* coalesce(*<span style="color:red;">expression1</span>, <span style="color:red;">expression2</span>, <span style="color:red;">…</span>*)
+
+## Argomenti
+
+* _<span style="color:red;">expression</span>_ qualsiasi valore o espressione valida, senza tener conto del tipo. 
 
 ## Esempi
 ```
