@@ -4,11 +4,11 @@ Restituisce il valore minimo di un array.
 
 ## Sintassi
 
-array_min(_array_) 
+array_min(_<span style="color:red;">array</span>_) 
 
 ## Argomenti
 
-* _array_ un array o stringa (valori separati da virgola)
+* _<span style="color:red;">array</span>_ un array o stringa (valori separati da virgola)
 
 ## Esempi
 
