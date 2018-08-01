@@ -4,11 +4,11 @@ Converte una stringa in un numero reale. Non viene restituito nulla se un valore
 
 ## Sintassi
 
-* to_real(_string_)
+* to_real(_<span style="color:red;">string</span>_)
 
 ## Argomenti
 
-* _string_ stringa da convertire in numero reale
+* _<span style="color:red;">string</span>_ stringa da convertire in numero reale
 
 ## Esempi
 ```
