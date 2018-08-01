@@ -3,11 +3,11 @@
 Restituisce il valore massimo di un array.
 ## Sintassi
 
-array_max(_array_) 
+array_max(_<span style="color:red;">array</span>_) 
 
 ## Argomenti
 
-* _array_ un array o stringa (valori separati da virgola) 
+* _<span style="color:red;">array</span>_ un array o stringa (valori separati da virgola) 
 
 ## Esempi
 
