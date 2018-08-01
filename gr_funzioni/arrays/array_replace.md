@@ -4,13 +4,13 @@ Ordina i valori in ordine crescente (usa _array_reverse_ per desc).
 
 ## Sintassi
 
-array_minority(_array,before,after_)
+array_minority(_<span style="color:red;">array</span>,<span style="color:red;">before</span>,<span style="color:red;">after</span>_)
 
 ## Argomenti
 
-* _array_ un array o stringa (valori separati da virgola)
-* _before_ valore prima del replace
-* _after_ valore da sostituire
+* _<span style="color:red;">array</span>_ un array o stringa (valori separati da virgola)
+* _<span style="color:red;">before</span>_ valore prima del replace
+* _<span style="color:red;">after</span>_ valore da sostituire
 
 ## Esempi
 
