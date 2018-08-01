@@ -4,11 +4,11 @@ Restituisce il valore più comune. Restituisce un valore arbitrario se ex-equo.
 
 ## Sintassi
 
-array_minority(_array_)  
+array_minority(_<span style="color:red;">array</span>_)  
 
 ## Argomenti
 
-* _array_ un array o stringa (valori separati da virgola)
+* _<span style="color:red;">array</span>_ un array o stringa (valori separati da virgola)
 
 ## Esempi
 
