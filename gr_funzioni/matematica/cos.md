@@ -4,11 +4,11 @@ Restituisce il coseno di un angolo.
 
 ## Sintassi
 
-cos(_angle_)
+cos(_<span style="color:red;">angle</span>_)
 
 ## Argomenti
 
-* _angle_ angolo in radianti
+* _<span style="color:red;">angle</span>_ angolo in radianti
 
 ## Esempi
 
