@@ -4,11 +4,11 @@ Restituisce l'array dato con valori dell'array in ordine inverso.
 
 ## Sintassi
 
-* array_reverse(_array_)
+* array_reverse(_<span style="color:red;">array</span>_)
 
 ## Argomenti
 
-* _array_ un array
+* _<span style="color:red;">array</span>_ un array
 
 ## Esempi
 
