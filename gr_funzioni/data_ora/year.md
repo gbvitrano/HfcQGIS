@@ -8,11 +8,11 @@ Estrae la parte anno da una data o datetime.
 
 ## Sintassi
 
-* year(_date_)
+* year(_<span style="color:red;">date</span>_)
 
 ## Argomenti
 
-* _date_ un valore data o data/ora
+* _<span style="color:red;">date</span>_ un valore data o data/ora
 
 ## Esempi
 ```
@@ -27,11 +27,11 @@ Calcola la lunghezza in anni di un intervallo.
 
 ## Sintassi
 
-* year(_interval_)
+* year(_<span style="color:red;">interval</span>_)
 
 ## Argomenti
 
-* _interval_ valore intervallo da cui restituire il numero di anni
+* _<span style="color:red;">interval</span>_ valore intervallo da cui restituire il numero di anni
 
 ## Esempi
 ```
