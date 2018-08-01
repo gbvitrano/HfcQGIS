@@ -4,12 +4,12 @@ Restituisce _true_ se un array contiene il valore specificato.
 
 ## Sintassi
 
-array_contains(_array, value_)
+array_contains(_<span style="color:red;">array</span>, <span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _array_ un array
-* _value_ il valore da cercare
+* _<span style="color:red;">array</span>_ un array
+* _<span style="color:red;">value</span>_ il valore da cercare
 
 ## Esempi
 
