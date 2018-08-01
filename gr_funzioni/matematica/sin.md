@@ -4,11 +4,11 @@ Restituisce il seno di un angolo.
 
 ## Sintassi
 
-sin(_angle_)
+sin(_<span style="color:red;">angle</span>_)
 
 ## Argomenti
 
-* _angle_ angolo in radianti
+* _<span style="color:red;">angle</span>_ angolo in radianti
 
 ## Esempi
 
