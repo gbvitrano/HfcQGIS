@@ -26,4 +26,4 @@ azimuth(_point_a, point_b_)
 
 --
 
-vedasi nel gruppo funzioni Geometria [Azimuth](/gr_funzioni/geometria/azimuth.md)
+vedasi nel gruppo funzioni Geometria [Azimuth](/gr_funzioni/geometria/azimuth.html)
