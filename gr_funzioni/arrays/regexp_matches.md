@@ -4,13 +4,13 @@ Restituisce un array di tutte le stringhe catturate dai gruppo, nell'ordine che 
 
 ## Sintassi
 
-* regexp_matches(_string, regex, empty_value_)
+* regexp_matches(_<span style="color:red;">string</span>, <span style="color:red;">regex</span>, <span style="color:red;">empty_value</span>_)
 
 ## Argomenti
 
-* _string_ la stringa con cui catturare i gruppi da un'espressione regolare
-* _regex_ l'espressione regolare usata per catturare gruppi
-* _empty_value_ la stringa opzionale da usare come sostituzione per le corrispondenze (lunghezza nulla) mancanti
+* _<span style="color:red;">string</span>_ la stringa con cui catturare i gruppi da un'espressione regolare
+* _<span style="color:red;">regex</span>_ l'espressione regolare usata per catturare gruppi
+* _<span style="color:red;">empty_value</span>_ la stringa opzionale da usare come sostituzione per le corrispondenze (lunghezza nulla) mancanti
 
 ## Esempi
 
