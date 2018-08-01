@@ -4,12 +4,12 @@ Restituisce un array con il valore dato aggiunto all'inizio.
 
 ## Sintassi
 
-* array_prepend(_array, value_)
+* array_prepend(_<span style="color:red;">array</span>, <span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _array_ un array
-* _value_ il valore da aggiungere
+* _<span style="color:red;">array</span>_ un array
+* _<span style="color:red;">value</span>_ il valore da aggiungere
 
 ## Esempi
 
