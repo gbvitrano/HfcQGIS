@@ -4,20 +4,20 @@ Restituisce statistiche da un raster.
 
 ## Sintassi
 
-* raster_statistic(*layer, band, property*)
+* raster_statistic(*<span style="color:red;">layer</span>, <span style="color:red;">band</span>, <span style="color:red;">property</span>*)
 
 ## Argomento
 
-* *layer* una stringa, rappresentante o un nome di un raster o un ID di layer
-* *band* intero rappresentante il numero di banda dal raster, partendo da 1
-* *property* una stringa che indica la proprietà da restituire. Opzioni valide sono:
+* *<span style="color:red;">layer</span>* una stringa, rappresentante o un nome di un raster o un ID di layer
+* *<span style="color:red;">band</span>* intero rappresentante il numero di banda dal raster, partendo da 1
+* *<span style="color:red;">property</span>* una stringa che indica la proprietà da restituire. Opzioni valide sono:
 
-    - *min*: valore minimo
-    - *max*: valore massimo
-    - *avg*: valore medio (media)
-    - *stdev*: deviazione standard dei valori
-    - *range*: intervallo dei valori (max - min)
-    - *sum*: somma di tutti i valori dal raster
+    - *<span style="color:red;">min</span>*: valore minimo
+    - *<span style="color:red;">max</span>*: valore massimo
+    - *<span style="color:red;">avg</span>*: valore medio (media)
+    - *<span style="color:red;">stdev</span>*: deviazione standard dei valori
+    - *<span style="color:red;">range</span>*: intervallo dei valori (max - min)
+    - *<span style="color:red;">sum</span>*: somma di tutti i valori dal raster
 
 ## Esempi
 ```
@@ -29,6 +29,6 @@ raster_statistic( 'sicilia_dtm40',1,'max') → valore massimo del DTM
 
 ## Nota bene
 
-Queste statistiche sono riferite sempre a tutto il raster anche se la geometria è più o meno estesa del raster. Nel caso che segue ho popolato il campo _raster_ del vettore punto con il valore _max_ dell'intero DTM
+Queste statistiche sono riferite sempre a tutto il raster anche se la geometria è più o meno estesa del raster. Nel caso che segue ho popolato il campo _raster_, del vettore punto, con il valore _max_ dell'intero DTM
 
 ![](/img/generale/raster_statistic2.png)
