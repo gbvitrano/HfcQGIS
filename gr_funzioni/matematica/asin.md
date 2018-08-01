@@ -4,11 +4,11 @@ Restituisce l'arcoseno del valore in radianti.
 
 ## Sintassi
 
-asin(_value_)
+asin(_<span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _value_ seno di un angolo in radianti
+* _<span style="color:red;">value</span>_ seno di un angolo in radianti
 
 ## Esempi
 
