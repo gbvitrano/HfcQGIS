@@ -8,11 +8,11 @@ Estrae il numero della settimana da una data o un datetime.
 
 ## Sintassi
 
-* week(_date_)
+* week(_<span style="color:red;">date</span>_)
 
 ## Argomenti
 
-* _date_ un valore data o data/ora
+* _<span style="color:red;">date</span>_ un valore data o data/ora
 
 ## Esempi
 ```
@@ -27,11 +27,11 @@ Calcola la lunghezza in settimane di un intervallo.
 
 ## Sintassi
 
-* week(_interval_)
+* week(_<span style="color:red;">interval</span>_)
 
 ## Argomenti
 
-* _interval_ valore intervallo da cui restituire il numero di mesi
+* _<span style="color:red;">interval</span>_ valore intervallo da cui restituire il numero di mesi
 
 ## Esempi
 ```
