@@ -4,11 +4,11 @@ Calcola il valore medio di un array.
 
 ## Sintassi
 
-array_avg(array)
+array_avg(_<span style="color:red;">array</span>_)
 
 ## Argomenti
 
-* _array_ un array o stringa (valori separati da virgola) 
+* _<span style="color:red;">array</span>_ un array o stringa (valori separati da virgola) 
 
 ## Esempi
 
