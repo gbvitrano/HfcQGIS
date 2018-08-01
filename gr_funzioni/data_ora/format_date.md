@@ -4,12 +4,12 @@ Formatta un tipo di data o stringa in un formato stringa personalizzato. Usa str
 
 ## Sintassi
 
-* format_date(_datetime, format_)
+* format_date(_<span style="color:red;">datetime</span>, <span style="color:red;">format</span>_)
 
 ## Argomenti
 
-* _datetime_ valora data, ora, o data/ora
-* _format_ Modello di stringhe usato per formattare la stringa. 
+* _<span style="color:red;">datetime</span>_ valora data, ora, o data/ora
+* _<span style="color:red;">format</span>_ Modello di stringhe usato per formattare la stringa. 
 
 Espressione|In uscita
 ----------:|---------
