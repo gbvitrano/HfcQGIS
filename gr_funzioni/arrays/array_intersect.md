@@ -4,12 +4,12 @@ Restituisce true (vero) se almeno un elemento dell'_array1_ esiste in _array2_.
 
 ## Sintassi
 
-array_intersect(_array1, array2_)
+array_intersect(_<span style="color:red;">array1</span>, <span style="color:red;">array2</span>_)
 
 ## Argomenti
 
-* _array1_ un array
-* _array2_ un altro array
+* _<span style="color:red;">array1</span>_ un array
+* _<span style="color:red;">array2</span>_ un altro array
 
 ## Esempi
 
