@@ -4,11 +4,11 @@ Converte una stringa in un tipo intervallo. Può essere usata per estrarre giorn
 
 ## Sintassi
 
-* to_interval(_string_)
+* to_interval(_<span style="color:red;">string</span>_)
 
 ## Argomenti
 
-* _string_ una stringa rappresentante un intervallo. I formati ammessi includono {n} giorni {n} ore {n} mesi.
+* _<span style="color:red;">string</span>_ una stringa rappresentante un intervallo. I formati ammessi includono {n} giorni {n} ore {n} mesi.
 
 ## Esempi
 ```
