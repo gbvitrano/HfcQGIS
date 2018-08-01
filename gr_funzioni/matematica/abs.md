@@ -4,11 +4,11 @@ Restituisce il valore assoluto di un numero.
 
 ## Sintassi
 
-abs(_value_)
+abs(_<span style="color:red;">value</span>_)
 
 ## Argomenti
 
-_value_ un numero
+_<span style="color:red;">value</span>_ un numero
 
 ## Esempi 
 
