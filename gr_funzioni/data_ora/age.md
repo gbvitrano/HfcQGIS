@@ -13,12 +13,12 @@ La differenza è restituita come _Interval_ e deve essere usata con una della se
 
 ## Sintassi
 
-* age(_datetime1, datetime2_)
+* age(_<span style="color:red;">datetime1</span>, <span style="color:red;">datetime2</span>_)
 
 ## Argomenti
 
-* _datetime1_ una stringa, in formato data o data/ora rappresentante la meno recente
-* _datetime2_ una stringa, in formato data o data/ora rappresentante la data più recente
+* _<span style="color:red;">datetime1</span>_ una stringa, in formato data o data/ora rappresentante la meno recente
+* _<span style="color:red;">datetime2</span>_ una stringa, in formato data o data/ora rappresentante la data più recente
 
 ## Esempi
 
