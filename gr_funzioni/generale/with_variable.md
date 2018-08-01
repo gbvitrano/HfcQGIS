@@ -4,13 +4,13 @@ Questa funzione imposta una variabile per qualunque codice di espressione che sa
 
 ## Sintassi
 
-* with_variable(*name, value, node*)
+* with_variable(*<span style="color:red;">name</span>, <span style="color:red;">value</span>, <span style="color:red;">node</span>*)
 
 ## Argomento
 
-* *name* il nome della variabile da impostare
-* *value* il valore da impostare
-* *node* l'espressione per la quale la variabile sarà disponibile
+* *<span style="color:red;">name</span>* il nome della variabile da impostare
+* *<span style="color:red;">value</span>* il valore da impostare
+* *<span style="color:red;">node</span>* l'espressione per la quale la variabile sarà disponibile
 
 
 
