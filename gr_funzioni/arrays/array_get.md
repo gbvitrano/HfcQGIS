@@ -4,12 +4,12 @@ Restituisce il valore ennesimo (0 per il primo elemento) di un array.
 
 ## Sintassi
 
-* array_get(_array, index_)
+* array_get(_<span style="color:red;">array</span>, <span style="color:red;">index</span>_)
 
 ## Argomenti
 
-* _array_ un array
-* _index_ l'indice da estrarre (partendo da 0)
+* _<span style="color:red;">array</span>_ un array
+* _<span style="color:red;">index</span>_ l'indice da estrarre (partendo da 0)
 
 ## Esempi
 
