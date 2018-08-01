@@ -4,11 +4,11 @@ Restituisce un array contenente valori distinti dell'array dato.
 
 ## Sintassi
 
-array_distinct(_array_)
+array_distinct(_<span style="color:red;">array</span>_)
 
 ## Argomenti
 
-* _array_ un array
+* _<span style="color:red;">array</span>_ un array
 
 ## Esempi
 
