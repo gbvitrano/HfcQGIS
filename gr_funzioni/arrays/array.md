@@ -4,11 +4,11 @@ Restituisce un array contenente tutti i valori passati come parametro.
 
 ## Sintassi
 
-array(_value1, value2, …_)
+array(_<span style="color:red;">value1</span>, <span style="color:red;">value2</span>, <span style="color:red;">…</span>_)
 
 ## Argomenti
 
-* _value_ un valore
+* _<span style="color:red;">value</span>_ un valore
 
 ## Esempi
 
