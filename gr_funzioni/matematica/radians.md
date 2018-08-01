@@ -4,11 +4,11 @@ Converte da gradi decimali a radianti.
 
 ## Sintassi
 
-radians(_degrees_)
+radians(_<span style="color:red;">degrees</span>_)
 
 ## Argomenti
 
-* _degrees_ valore numerico
+* _<span style="color:red;">degrees</span>_ valore numerico
 
 ## Esempi
 
