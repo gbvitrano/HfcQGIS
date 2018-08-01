@@ -9,7 +9,7 @@ round(_<span style="color:red;">value</span>, <span style="color:red;">places</s
 ## Argomenti
 
 * _<span style="color:red;">value<span style="color:red;">_ numero di decimali a cui arrotondare
-  * _<span style="color:red;">places</span>_ Intero opzionale che indica il numero di posizioni a cui arrotondare i decimali. Può essere negativo.
+* _<span style="color:red;">places</span>_ Intero opzionale che indica il numero di posizioni a cui arrotondare i decimali. Può essere negativo.
 
 ## Esempi
 
