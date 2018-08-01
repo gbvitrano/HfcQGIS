@@ -4,11 +4,11 @@ Arrotonda un numero all'intero inferiore.
 
 ## Sintassi
 
-floor(_value_)
+floor(_<span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _value_ un numero
+* _<span style="color:red;">value</span>_ un numero
 
 ## Esempi
 
