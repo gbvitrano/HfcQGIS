@@ -8,11 +8,11 @@ Estrae la parte ore da un orario o data/ora.
 
 ## Sintassi
 
-* hour(_datetime_)
+* hour(_<span style="color:red;">datetime</span>_)
 
 ## Argomenti
 
-* _datetime_ un valore data o data/ora
+* _<span style="color:red;">datetime</span>_ un valore data o data/ora
 
 ## Esempi
 ```
@@ -26,11 +26,11 @@ Calcola la lunghezza in ore di un intervallo.
 
 ## Sintassi
 
-* hour(_interval_)
+* hour(_<span style="color:red;">interval</span>_)
 
 ## Argomenti
 
-* _interval_ valore intervallo da cui restituire il numero di ore
+* _<span style="color:red;">interval</span>_ valore intervallo da cui restituire il numero di ore
 
 ## Esempi
 
