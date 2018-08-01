@@ -4,15 +4,15 @@ Trasforma un dato valore da un dominio in ingresso ad un intervallo in uscita us
 
 ## Sintassi
 
-scale_linear(_val, domain_min, domain_max, range_min, range_max_)
+scale_linear(_<span style="color:red;">val</span>, <span style="color:red;">domain_min</span>, <span style="color:red;">domain_max</span>, <span style="color:red;">range_min</span>, <span style="color:red;">range_max</span>_)
 
 ## Argomenti
 
-* _val_ Un valore nel dominio in ingresso. La funzione restituirà un valore scalato corrispondente nell'intervallo in uscita.
-* _domain_min_ Specifica il valore massimo nel dominio in ingresso, il valore più basso che il valore in ingresso può assumere.
-* _domain_max_ Specifica il valore massimo nel dominio in ingresso, il valore più alto che il valore in ingresso può assumere.
-* _range_min_ Specifica il valore minimo nell'intervallo in uscita, il valore più basso che dovrebbe essere restituito in uscita dalla funzione.
-* _range_max_ Specifica il valore massimo nell'intervallo di uscita, il valore più alto che dovrebbe essere restituito dalla funzione.
+* _<span style="color:red;">val</span>_ Un valore nel dominio in ingresso. La funzione restituirà un valore scalato corrispondente nell'intervallo in uscita.
+* _<span style="color:red;">domain_min</span>_ Specifica il valore massimo nel dominio in ingresso, il valore più basso che il valore in ingresso può assumere.
+* _<span style="color:red;">domain_max</span>_ Specifica il valore massimo nel dominio in ingresso, il valore più alto che il valore in ingresso può assumere.
+* _<span style="color:red;">range_min</span>_ Specifica il valore minimo nell'intervallo in uscita, il valore più basso che dovrebbe essere restituito in uscita dalla funzione.
+* _<span style="color:red;">range_max</span>_ Specifica il valore massimo nell'intervallo di uscita, il valore più alto che dovrebbe essere restituito dalla funzione.
 
 ## Esempi
 
