@@ -4,12 +4,12 @@ Ordina un array rispetto ad un altro
 
 ## Sintassi
 
-array_prioritize(_array,prioritized array_) 
+array_prioritize(_<span style="color:red;">array</span>,<span style="color:red;">prioritized array</span>_) 
 
 ## Argomenti
 
-* _array_ un array o stringa (valori separati da virgola) 
-* _prioritized array_ array o stringa (valori separati da virgola) contenenti i valori ordinati
+* _<span style="color:red;">array</span>_ un array o stringa (valori separati da virgola) 
+* _<span style="color:red;">prioritized array</span>_ array o stringa (valori separati da virgola) contenenti i valori ordinati
 
 ## Esempi
 
