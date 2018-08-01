@@ -4,11 +4,11 @@ Converte una stringa in un numero intero. Non viene restituito nulla se un valor
 
 ## Sintassi
 
-* to_int(_string_)
+* to_int(_<span style="color:red;">string</span>_)
 
 ## Argomenti
 
-* _string_ stringa da convertine i n numero intero
+* _<span style="color:red;">string</span>_ stringa da convertine i n numero intero
 
 ## Esempi
 ```
