@@ -4,11 +4,11 @@ Ottiene una variabile di ambiente e restituisce il suo contenuto come stringa. S
 
 ## Sintassi
 
-* env(*name*)
+* env(*<span style="color:red;">name</span>*)
 
 ## Argomento
 
-* *name* Nome della variabile d'ambiente che deve essere richiamata
+* *<span style="color:red;">name</span>* Nome della variabile d'ambiente che deve essere richiamata
 
 ## Esempi
 ```
