@@ -4,11 +4,11 @@ Restituisce il primo valore di un array.
 
 ## Sintassi
 
-* array_first(_array_)
+* array_first(_<span style="color:red;">array</span>_)
 
 ## Argomenti
 
-* _array_ un array
+* _<span style="color:red;">array</span>_ un array
 
 ## Esempi
 
