@@ -4,11 +4,11 @@ Arrotonda un numero all'intero superiore.
 
 ## Sintassi
 
-ceil(_value_)
+ceil(_<span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _value_ un numero
+* _<span style="color:red;">value</span>_ un numero
 
 ## Esempi
 
