@@ -8,11 +8,11 @@ Estrae il giorno da una data o un data/ora.
 
 ## Sintassi
 
-* day(_date_)
+* day(_<span style="color:red;">date</span>_)
 
 ## Argomenti
 
-* _date_ un valore data o data/ora
+* _<span style="color:red;">date</span>_ un valore data o data/ora
 
 ## Variabile intervallo
 
@@ -20,11 +20,11 @@ Calcola la lunghezza in giorni di un intervallo.
 
 ## Sintassi 
 
-* day(_interval_)
+* day(_<span style="color:red;">interval</span>_)
 
 ## Argomenti
 
-* _interval_ valore intervallo da cui restituire il numero di giorni
+* _<span style="color:red;">interval</span>_ valore intervallo da cui restituire il numero di giorni
 
 ## Esempi
 ```
