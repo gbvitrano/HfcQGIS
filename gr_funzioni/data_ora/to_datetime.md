@@ -4,11 +4,11 @@ Converte una stringa in un oggetto datetime.
 
 ## Sintassi
 
-* to_datetime(_string_)
+* to_datetime(_<span style="color:red;">string</span>_)
 
 ## Argomenti
 
-* _string_ stringa rappresentante il valore datetime
+* _<span style="color:red;">string</span>_ stringa rappresentante il valore datetime
 
 ## Esempi
 ```
