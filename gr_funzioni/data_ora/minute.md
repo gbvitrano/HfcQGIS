@@ -8,11 +8,11 @@ Estrae la parte minuti da una time o una datetime.
 
 ## Sintassi
 
-* minute(datetime)
+* minute(_<span style="color:red;">datetime</span>_)
 
 ## Argomenti
 
-* _datetime_ un valore data o data/ora
+* _<span style="color:red;">datetime</span>_ un valore data o data/ora
 
 ## Esempi
 ```
@@ -26,11 +26,11 @@ Calcola la lunghezza in minuti di un intervallo.
 
 ## Sintassi
 
-* minute(_interval_)
+* minute(_<span style="color:red;">interval</span>_)
 
 ## Argomenti
 
-* _interval_ valore intervallo da cui restituire il numero di minuti
+* _<span style="color:red;">interval</span>_ valore intervallo da cui restituire il numero di minuti
 
 ## Esempi
 ```
