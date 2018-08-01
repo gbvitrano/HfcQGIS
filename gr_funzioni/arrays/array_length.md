@@ -4,11 +4,11 @@ Restituisce il numero di elementi di un array.
 
 ## Sintassi
 
-* array_length(_array_)
+* array_length(_<span style="color:red;">array</span>_)
 
 ## Argomenti
 
-* _array_ un array
+* _<span style="color:red;">array</span>_ un array
 
 ## Esempi
 
