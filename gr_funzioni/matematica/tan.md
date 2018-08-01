@@ -4,11 +4,11 @@ Restituisce la tangente di un angolo.
 
 ## Sintassi
 
-tan(_angle_)
+tan(_<span style="color:red;">angle</span>_)
 
 ## Argomenti
 
-* _angle_ angolo in radianti
+* _<span style="color:red;">angle</span>_ angolo in radianti
 
 ## Esempi
 
