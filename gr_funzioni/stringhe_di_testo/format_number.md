@@ -4,12 +4,12 @@ Restituisce un numero formattato con il separatore locale per le migliaia. Inolt
 
 ## Sintassi
 
-format_number(_number, places_)
+format_number(_<span style="color:red;">number</span>, <span style="color:red;">places</span>_)
 
 ## Argomenti
 
-* _number_ numero da formattare
-* _places_ intero rappresentante il numero di posizioni decimali a cui troncare la stringa.
+* _<span style="color:red;">number</span>_ numero da formattare
+* _<span style="color:red;">places</span>_ intero rappresentante il numero di posizioni decimali a cui troncare la stringa.
 
 ## Esempi
 
