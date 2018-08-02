@@ -4,11 +4,11 @@ Concatena svariate stringhe in una sola. Valori NULL sono convertiti in stringhe
 
 ## Sintassi
 
-concat(_string1, string2, …_)
+concat(_<span style="color:red;">string1</span>, <span style="color:red;">string2</span>, <span style="color:red;">…</span>_)
 
 ## Argomenti
 
-* _string_ un valore stringa
+* _<span style="color:red;">string</span>_ un valore stringa
 
 ## Esempi
 
