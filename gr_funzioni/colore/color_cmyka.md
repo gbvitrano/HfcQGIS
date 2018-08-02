@@ -4,15 +4,15 @@ Restituisce una rappresentazione stringa di un colore basato sui suoi componenti
 
 ## Sintassi
 
-color_cmyka(_cyan, magenta, yellow, black_)
+color_cmyka(_<span style="color:red;">cyan</span>, <span style="color:red;">magenta</span>, <span style="color:red;">yellow</span>, <span style="color:red;">black</span>, <span style="color:red;">alpha</span>_)
 
 ## Argomenti
 
-* _cyan_ componente ciano del colore, come valore percentuale intero da 0 a 100
-* _magenta_ componente magenta del colore, come valore percentuale intero da 0 a 100
-* _yellow_ componente giallo del colore, come valore percentuale intero da 0 a 100
-* _black_ componente nero del colore, come valore percentuale intero da 0 a 100
-* _alpha_ componente alfa come valore intero da 0 (completamente trasparente) a 255 (opaco).
+* _<span style="color:red;">cyan</span>_ componente ciano del colore, come valore percentuale intero da 0 a 100
+* _<span style="color:red;">magenta</span>_ componente magenta del colore, come valore percentuale intero da 0 a 100
+* _<span style="color:red;">yellow</span>_ componente giallo del colore, come valore percentuale intero da 0 a 100
+* _<span style="color:red;">black</span>_ componente nero del colore, come valore percentuale intero da 0 a 100
+* _<span style="color:red;">alpha</span>_ componente alfa come valore intero da 0 (completamente trasparente) a 255 (opaco).
 
 ## Esempi
 
