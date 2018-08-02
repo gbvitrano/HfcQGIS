@@ -23,7 +23,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 | `Corrispondenza       | (4/4)                 |                       |
 | fuzzy`_               |                       |                       |
 +-----------------------+-----------------------+-----------------------+
-| `Custom`_             | (4/4)                 | funzioni              |
+| `Custom`_             | (5/5)                 | funzioni              |
 |                       |                       | personalizzate        |
 +-----------------------+-----------------------+-----------------------+
 | `Data e ora`_         | (16/16)               |                       |
