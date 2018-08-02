@@ -4,11 +4,11 @@ Restituisce il carattere associato ad un codice unicode.
 
 ## Sintassi
 
-char(_code_)
+char(_<span style="color:red;">code</span>_)
 
 ## Argomenti
 
-* _code_ un numero codice unicode
+* _<span style="color:red;">code</span>_ un numero codice unicode
 
 ## Esempi
 
