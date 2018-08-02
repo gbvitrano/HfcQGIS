@@ -4,11 +4,11 @@ Restituisce un colore dallo schema colore del progetto.
 
 ## Sintassi
 
-project_color(_name_)
+project_color(_<span style="color:red;">name</span>_)
 
 ## Argomenti
 
-* _name_ un nome colore
+* _<span style="color:red;">name</span>_ un nome colore
 
 ## Esempi
 
