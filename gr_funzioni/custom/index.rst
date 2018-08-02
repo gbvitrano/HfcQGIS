@@ -20,6 +20,10 @@ dall'utente.
 | `controlla_file`_               | Questa funzione ritorna true se il |
 |                                 | percorso esiste altrimenti false   |
 +---------------------------------+------------------------------------+
+| `CurrentFormValue`_             | Questa funzione restituisce il     |
+|                                 | valore corrente di un campo nella  |
+|                                 | form di inserimento dati.          |          
++---------------------------------+------------------------------------+
 
 |image0|
 
@@ -45,6 +49,7 @@ Il codice Python va incollato qui:
    my_sum
    perimetro_km()
    reverse_string
+   CurrentFormValue
    
    
    
