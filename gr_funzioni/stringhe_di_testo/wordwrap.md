@@ -4,13 +4,13 @@ Restituisce una stringa posta a capo ad un massimo/minimo numero di caratteri.
 
 ## Sintassi
 
-wordwrap(_string, wrap_length, delimiter_string_)
+wordwrap(_<span style="color:red;">string</span>, <span style="color:red;">wrap_length</span>, <span style="color:red;">delimiter_string</span>_)
 
 ## Argomenti
 
-* _string_ la stringa da spezzare
-* _wrap_length_ un intero. Se wrap_length è positivo il numero rappresenta il numero massimo ideale di caratteri a cui spezzare; se negativo, il numero rappresenta il numero minimo di caratteri a cui spezzare.
-* _delimiter_string_ il delimitatore stringa per spezzare in una nuova linea (opzionale).
+* _<span style="color:red;">string</span>_ la stringa da spezzare
+* _<span style="color:red;">wrap_length</span>_ un intero. Se wrap_length è positivo il numero rappresenta il numero massimo ideale di caratteri a cui spezzare; se negativo, il numero rappresenta il numero minimo di caratteri a cui spezzare.
+* _<span style="color:red;">delimiter_string</span>_ il delimitatore stringa per spezzare in una nuova linea (opzionale).
 
 ## Esempi
 ```
