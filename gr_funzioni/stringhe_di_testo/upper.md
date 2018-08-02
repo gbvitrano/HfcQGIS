@@ -4,11 +4,11 @@ Converte una stringa in lettere maiuscole.
 
 ## Sintassi
 
-upper(_string_)
+upper(_<span style="color:red;">string</span>_)
 
 ## Argomenti
 
-* _string_ la stringa da convertire in maiuscolo
+* _<span style="color:red;">string</span>_ la stringa da convertire in maiuscolo
 
 ## Esempi
 
