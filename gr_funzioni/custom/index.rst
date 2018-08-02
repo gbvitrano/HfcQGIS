@@ -35,6 +35,8 @@ Il codice Python va incollato qui:
 .. _reverse_string: reverse_string.html
 .. _perimetro_km(): perimetro_km().html
 .. _controlla_file: controlla_file.html
+.. _CurrentFormValue: CurrentFormValue.html
+
 
 .. |image0| image:: /img/custom/gruppo_custom1.png
 .. |image1| image:: /img/custom/editor_funzioni1.png
