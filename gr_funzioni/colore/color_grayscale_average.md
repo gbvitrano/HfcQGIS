@@ -4,11 +4,11 @@ Applica un filtro in scala di grigio e restituisce una rappresentazione di strin
 
 ## Sintassi
 
-color_grayscale_average(_color_)
+color_grayscale_average(_<span style="color:red;">color</span>_)
 
 ## Argomenti
 
-* _color_ una stringa di colore
+* _<span style="color:red;">color</span>_ una stringa di colore
 
 ## Esempi
 
