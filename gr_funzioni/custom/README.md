@@ -8,7 +8,7 @@ Questo gruppo contiene _funzioni Python_ create in modo personalizzato dall'uten
 [reverse_string](reverse_string.html)|Questa funzione ritorna il valore rovesciato di un testo
 [perimetro_km()](perimetro_km().html)|Questa funzione ritorna il valore del perimetro della geometria in km 
 [controlla_file](controlla_file.html)|Questa funzione ritorna true se il percorso esiste altrimenti false
-
+[CurrentFormValue](CurrentFormValue.html)|Questa funzione restituisce il valore corrente di un campo nella form di inserimento dati.
 
 ![](/img/custom/gruppo_custom1.png)
 
