@@ -8,11 +8,11 @@ Restituisce il numero di caratteri contenuti in una stringa.
 
 ## Sintassi
 
-length(_string_)
+length(_<span style="color:red;">string</span>_)
 
 ## Argomenti
 
-* _string_ stringa della quale calcolare la lunghezza
+* _<span style="color:red;">string</span>_ stringa della quale calcolare la lunghezza
 
 ## Esempi
 
@@ -26,11 +26,11 @@ Calcola la lunghezza di un oggetto a geometria lineare. I calcoli sono sempre pl
 
 ## Sintassi
 
-length(_geometry_)
+length(_<span style="color:red;">geometry</span>_)
 
 ## Argomenti
 
-* _geometry_ oggetto geometria linea
+* _<span style="color:red;">geometry</span>_ oggetto geometria linea
 
 ## Esempi
 
