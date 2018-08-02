@@ -4,13 +4,13 @@ Restituisce una rappresentazione stringa di un colore basato sui suoi attributi 
 
 ## Sintassi
 
-color_hsl(_hue, saturation, lightness_)
+color_hsl(_<span style="color:red;">hue</span>, <span style="color:red;">saturation</span>, <span style="color:red;">lightness</span>_)
 
 ## Argomenti
 
-* _hue_ tonalità del colore, come valore intero da 0 a 360
-* _saturation_ percentuale di saturazione del colore come valore intero da 0 a 100
-* _lightness_ percentuale di luminosità del colore come valore intero da 0 a 100
+* _<span style="color:red;">hue</span>_ tonalità del colore, come valore intero da 0 a 360
+* _<span style="color:red;">saturation</span>_ percentuale di saturazione del colore come valore intero da 0 a 100
+* _<span style="color:red;">lightness</span>_ percentuale di luminosità del colore come valore intero da 0 a 100
 
 ## Esempi
 
