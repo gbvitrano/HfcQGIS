@@ -4,12 +4,12 @@ Formatta una stringa usando gli argomenti forniti.
 
 ## Sintassi
 
-format(_string, arg1, arg2, …_)
+format(_<span style="color:red;">string</span>, <span style="color:red;">arg1</span>, <span style="color:red;">arg2</span>, <span style="color:red;">…</span>_)
 
 ## Argomenti
 
-* _string_ Una stringa con segnaposti per argomenti. Usa %1, %2, etc. per i segnaposti. I segnaposti possono essere ripetuti.
-* _arg_ Qualsiasi tipo. Qualsiasi numero di argomenti.
+* _<span style="color:red;">string</span>_ Una stringa con segnaposti per argomenti. Usa %1, %2, etc. per i segnaposti. I segnaposti possono essere ripetuti.
+* _<span style="color:red;">arg</span>_ Qualsiasi tipo. Qualsiasi numero di argomenti.
 
 ## Esempi
 
