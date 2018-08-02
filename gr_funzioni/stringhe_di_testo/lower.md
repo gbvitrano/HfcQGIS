@@ -4,11 +4,11 @@ Converte una stringa in lettere minuscole.
 
 ## Sintassi
 
-lower(_string_)
+lower(_<span style="color:red;">string</span>_)
 
 ## Argomenti
 
-* _string_ la stringa da convertire in minuscolo
+* _<span style="color:red;">string</span>_ la stringa da convertire in minuscolo
 
 ## Esempi
 
