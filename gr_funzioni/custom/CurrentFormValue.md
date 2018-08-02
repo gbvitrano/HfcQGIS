@@ -1,4 +1,4 @@
-## Funzione `CurrentFormValue`
+# CurrentFormValue
 
 Questa funzione restituisce il valore corrente di un campo nella form di inserimento dati.
 
