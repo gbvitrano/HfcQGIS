@@ -8,7 +8,7 @@ Restituisce la rappresentazione Soundex di una stringa. Soundex è un algoritmo 
 
 ## Argomenti
 
-* _<span style="color:red;">string1</span>_ una stringa
+* _<span style="color:red;">string</span>_ una stringa
 
 ## Esempi
 ```
