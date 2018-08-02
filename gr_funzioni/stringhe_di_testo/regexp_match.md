@@ -4,12 +4,12 @@ Restituisce la prima posizione di corrispondenza che soddisfa un'espressione reg
 
 ## Sintassi
 
-regexp_match(_input_string, regex_)
+regexp_match(_<span style="color:red;">input_string</span>, <span style="color:red;">regex</span>_)
 
 ## Argomenti
 
-* _input_string_ la stringa da confrontare con l'espressione regolare
-* _regex_ L'espressione regolare da confrontare. I caratteri backslash (\\) devono essere doppiamente escaped (es "\\s" per selezionare un carattere spazio bianco).
+* _<span style="color:red;">input_string</span>_ la stringa da confrontare con l'espressione regolare
+* _<span style="color:red;">regex</span>_ L'espressione regolare da confrontare. I caratteri backslash (\\) devono essere doppiamente escaped (es "\\s" per selezionare un carattere spazio bianco).
 
 ## Esempi
 
