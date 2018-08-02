@@ -4,13 +4,13 @@ Restituisce una rappresentazione stringa di un colore basato sui suoi componenti
 
 ## Sintassi
 
-color_rgba(_red, green, blue_)
+color_rgba(_<span style="color:red;">red</span>, <span style="color:green;">green</span>, <span style="color:blue;">blue</span>,alpha_)
 
 ## Argomenti
 
-* _red_ componente rosso del colore, come valore intero da 0 a 255
-* _green_ componente verde del colore, come valore intero da 0 a 255
-* _blue_ componente blu del colore, come valore intero da 0 a 255
+* _<span style="color:red;">red</span>_ componente rosso del colore, come valore intero da 0 a 255
+* _<span style="color:green;">green</span>_ componente verde del colore, come valore intero da 0 a 255
+* _<span style="color:blue;">blue</span>_ componente blu del colore, come valore intero da 0 a 255
 * _alpha_ componente alfa come valore intero da 0 (completamente trasparente) a 255 (opaco).
 
 ## Esempi
