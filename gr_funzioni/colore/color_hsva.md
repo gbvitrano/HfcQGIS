@@ -4,14 +4,14 @@ Restituisce una rappresentazione stringa di un colore basato sui suoi attributi 
 
 ## Sintassi
 
-color_hsva(_hue, saturation, value_)
+color_hsva(_<span style="color:red;">hue</span>, <span style="color:red;">saturation</span>, <span style="color:red;">value</span>, <span style="color:red;">alpha</span>_)
 
 ## Argomenti
 
-* _hue_ tonalità del colore, come valore intero da 0 a 360
-* _saturation_ percentuale di saturazione del colore come valore intero da 0 a 100
-* _value_ valore percentuale del colore come intero da 0 a 100
-* _alpha_ componente alfa come valore intero da 0 (completamente trasparente) a 255 (opaco)
+* _<span style="color:red;">hue</span>_ tonalità del colore, come valore intero da 0 a 360
+* _<span style="color:red;">saturation</span>_ percentuale di saturazione del colore come valore intero da 0 a 100
+* _<span style="color:red;">value</span>_ valore percentuale del colore come intero da 0 a 100
+* _<span style="color:red;">alpha</span>_ componente alfa come valore intero da 0 (completamente trasparente) a 255 (opaco)
 
 ## Esempi
 
