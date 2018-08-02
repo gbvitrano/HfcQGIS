@@ -4,12 +4,12 @@ Restituisce una sottostringa che contiene gli n caratteri più a destra della st
 
 ## Sintassi
 
-right(_string, length_)
+right(_<span style="color:red;">string</span>, <span style="color:red;">length</span>_)
 
 ## Argomenti
 
-* _string_ una stringa
-* _length_ intero. Il numero di caratteri da estrarre dalla parte destra della stringa.
+* _<span style="color:red;">string</span>_ una stringa
+* _<span style="color:red;">length</span>_ intero. Il numero di caratteri da estrarre dalla parte destra della stringa.
 
 ## Esempi
 
