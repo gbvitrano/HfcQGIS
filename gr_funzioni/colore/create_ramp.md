@@ -4,12 +4,12 @@ Restituisce una scala di colori a gradiente per una mappa di colori e passi.
 
 ## Sintassi
 
-create_ramp(_map, discrete_)
+create_ramp(_<span style="color:red;">map</span>, <span style="color:red;">discrete</span>_)
 
 ## Argomenti
 
-* _map_ una mappa di colori e passi
-* _discrete_ dichiara se la scala di colori è discreta
+* _<span style="color:red;">map</span>_ una mappa di colori e passi
+* _<span style="color:red;">discrete</span>_ dichiara se la scala di colori è discreta
 
 ## Esempi
 
