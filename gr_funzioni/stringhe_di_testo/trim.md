@@ -4,11 +4,11 @@ Rimuove tutti gli spazi vuoti (spazi, tabulazioni, etc.) all'inizio e alla fine 
 
 ## Sintassi
 
-trim(_string_)
+trim(_<span style="color:red;">string</span>_)
 
 ## Argomenti
 
-* _string_ stringa da troncare
+* _<span style="color:red;">string</span>_ stringa da troncare
 
 ## Esempi
 
