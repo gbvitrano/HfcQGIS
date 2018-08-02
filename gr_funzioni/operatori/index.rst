@@ -33,7 +33,7 @@ Questo gruppo contiene operatori es. + - \*
 | `a = b`_                          | Confronta due valori e pone a 1   |
 |                                   | se essi sono uguali.              |
 +-----------------------------------+-----------------------------------+
-| a != b                            | a and b are not equal             |
+| a != b                            | a e b non sono uguali             |
 +-----------------------------------+-----------------------------------+
 | `a > b`_                          | Confronta due valori e pone a 1   |
 |                                   | se il valore a sinistra è         |
@@ -53,7 +53,7 @@ Questo gruppo contiene operatori es. + - \*
 |                                   | funzione CONCAT con               |
 |                                   | caratteristiche differenti.       |
 +-----------------------------------+-----------------------------------+
-| ‘\n’                              | Inserisce una nuova linea         |
+| ‘\\n’                             | Inserisce una nuova linea         |
 +-----------------------------------+-----------------------------------+
 | `LIKE`_                           | Restituisce 1 se il primo         |
 |                                   | parametro soddisfa il modello     |
