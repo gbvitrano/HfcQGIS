@@ -5,7 +5,12 @@ La distanza di Levenshtein è una misura della somiglianza tra due stringhe. Dis
 
 ## Sintassi
 
-* levenshtein(*string1, string2*)
+* levenshtein(*<span style="color:red;">string1</span>, <span style="color:red;">string2</span>*)
+
+## Argomenti
+
+* _<span style="color:red;">string1</span>_ una stringa
+* _<span style="color:red;">string2</span>_ una stringa
 
 ## Esempi
 ```
