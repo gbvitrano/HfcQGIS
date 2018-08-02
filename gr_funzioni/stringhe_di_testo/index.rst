@@ -40,10 +40,7 @@ Questo gruppo contiene le funzioni che operano sulle stringhe es.*sostituzione*,
 | `lpad`_                     | Restituisce una stringa riempita a     |
 |                             | sinistra fino alla larghezza           |
 |                             | specificata, utilizzando un carattere  |
-|                             | di riempimento. Se la larghezza della  |
-|                             | destinazione è inferiore alla          |
-|                             | lunghezza della stringa, la stringa    |
-|                             | viene troncata                         |
+|                             | di riempimento.                        |
 +-----------------------------+----------------------------------------+
 | `regexp_match`_             | Restituisce la prima posizione di      |
 |                             | corrispondenza che soddisfa            |
@@ -70,10 +67,7 @@ Questo gruppo contiene le funzioni che operano sulle stringhe es.*sostituzione*,
 | `rpad`_                     | Restituisce una stringa riempita a     |
 |                             | destra della larghezza specificata,    |
 |                             | utilizzando un carattere di            |
-|                             | riempimento. Se la larghezza della     |
-|                             | destinazione è inferiore alla          |
-|                             | lunghezza della stringa, la stringa    |
-|                             | viene troncata                         |
+|                             | riempimento.                           |
 +-----------------------------+----------------------------------------+
 | `strpos`_                   | Restituisce la prima posizione di      |
 |                             | corrispondenza di una sottostringa     |
