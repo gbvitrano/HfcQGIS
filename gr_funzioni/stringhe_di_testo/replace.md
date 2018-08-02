@@ -7,13 +7,13 @@ Restituisce una stringa con la stringa o array di stringa passate sostituite da 
 
 ## Sintassi
 
-replace(_string, before, after_)
+replace(_<span style="color:red;">string</span>, <span style="color:red;">before</span>, <span style="color:red;">after</span>_)
 
 ## Argomenti
 
-* _string_ la stringa in ingresso
-* _before_ la stringa o array di stringhe da sostituire
-* _after_ la stringa o l'array di stringe da usare come sostituzione
+* _<span style="color:red;">string</span>_ la stringa in ingresso
+* _<span style="color:red;">before</span>_ la stringa o array di stringhe da sostituire
+* _<span style="color:red;">after</span>_ la stringa o l'array di stringe da usare come sostituzione
 
 ## Esempi
 
@@ -28,12 +28,12 @@ replace(_string, before, after_)
 Restituisce una stringa con le chiavi mappa fornite sostituite da valori accoppiati.
 
 ## Sintassi
-replace(_string, map_)
+replace(_<span style="color:red;">string</span>, <span style="color:red;">map</span>_)
 
 ## Argomenti
 
-* _string_ la stringa in ingresso
-* _map_ la mappa che contiene le chiavi e i valori
+* _<span style="color:red;">string</span>_ la stringa in ingresso
+* _<span style="color:red;">map</span>_ la mappa che contiene le chiavi e i valori
 
 ## Esempi
 
