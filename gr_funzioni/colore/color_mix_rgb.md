@@ -4,13 +4,13 @@ Restituisce una stringa che rappresenta un colore che mescola i valori rosso, ve
 
 ## Sintassi
 
-color_mix_rgb(_color1,color2,ratio_)
+color_mix_rgb(_<span style="color:red;">color1</span>,<span style="color:red;">color2</span>,<span style="color:red;">ratio<span style="color:red;">_)
 
 ## Argomenti
 
-* _color1_ una stringa di colore
-* _color2_ una stringa di colore
-* _ratio_ un rapporto
+* _<span style="color:red;">color1</span>_ una stringa di colore
+* _<span style="color:red;">color2</span>_ una stringa di colore
+* _<span style="color:red;">ratio</span>_ un rapporto
 
 ## Esempi
 
