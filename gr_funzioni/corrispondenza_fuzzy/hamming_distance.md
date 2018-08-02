@@ -4,7 +4,12 @@ Restituisce la distanza di Hamming tra due stringhe. Questa equivale al numero d
 
 ## Sintassi
 
-* hamming_distance(*string1, string2*)
+* hamming_distance(*<span style="color:red;">string1</span>, <span style="color:red;">string2</span>*)
+
+## Argomenti
+
+* _<span style="color:red;">string1</span>_ una stringa
+* _<span style="color:red;">string2</span>_ una stringa
 
 ## Esempi
 ```
