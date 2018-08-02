@@ -4,12 +4,12 @@ Restituisce la porzione di una stringa che soddisfa l'espressione regolare passa
 
 ## Sintassi
 
-regexp_substr(_input_string, regex_)
+regexp_substr(_<span style="color:red;">input_string</span>, <span style="color:red;">regex</span>_)
 
 ## Argomenti
 
-* _input_string_ la stringa in cui cercare
-* _regex_ L'espressione regolare da contro abbinare. I caratteri backslash devono essere "double escaped" ( es "\\s per selezionare un carattere spazio).
+* _<span style="color:red;">input_string</span>_ la stringa in cui cercare
+* _<span style="color:red;">regex</span>_ L'espressione regolare da contro abbinare. I caratteri backslash devono essere "double escaped" ( es "\\s per selezionare un carattere spazio).
 
 ## Esempi
 
