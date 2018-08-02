@@ -4,13 +4,13 @@ Restituisce una stringa riempita a destra della larghezza specificata, utilizzan
 
 ## Sintassi
 
-rpad(_string, width, fill_)
+rpad(_<span style="color:red;">string</span>, <span style="color:red;">width</span>, <span style="color:red;">fill</span>_)
 
 ## Argomenti
 
-* _string_ stringa da riempire
-* _width_ lunghezza della nuova stringa
-* _fill_ carattere con il quale riempire lo spazio rimanente
+* _<span style="color:red;">string</span>_ stringa da riempire
+* _<span style="color:red;">width</span>_ lunghezza della nuova stringa
+* _<span style="color:red;">fill</span>_ carattere con il quale riempire lo spazio rimanente
 
 ## Esempi
 
