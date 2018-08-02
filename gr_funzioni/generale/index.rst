@@ -8,25 +8,10 @@ Questo gruppo contiene un'assortimento di funzioni generiche.
 +=================================+====================================+
 | `env`_                          | Ottiene una variabile di ambiente  |
 |                                 | e restituisce il suo contenuto     |
-|                                 | come stringa. Se non è possibile   |
-|                                 | trovare la variabile, sarà         |
-|                                 | restituito ``NULL``. Questo è      |
-|                                 | utile per specifiche               |
-|                                 | configurazioni di sistema come     |
-|                                 | lettere del disco o prefissi di    |
-|                                 | percorso. La definizione di        |
-|                                 | variabili di ambiente dipende dal  |
-|                                 | sistema operativo, per favore      |
-|                                 | verifica con il tuo amministratore |
-|                                 | di sistema o con la documentazione |
-|                                 | del sistema operativo come ciò     |
-|                                 | possa essere impostato             |
+|                                 | come stringa.                      |
 +---------------------------------+------------------------------------+
 | `eval`_                         | Valuta una espressione che viene   |
-|                                 | passata in una stringa. Molto      |
-|                                 | utile per espandere parametri      |
-|                                 | dinamici passati come variabili    |
-|                                 | contestuali o campi                |
+|                                 | passata in una stringa.            |
 +---------------------------------+------------------------------------+
 | `is_layer_visible`_             | Restituisce vero se uno specifico  |
 |                                 | layer è visibile                   |
@@ -44,11 +29,7 @@ Questo gruppo contiene un'assortimento di funzioni generiche.
 | `with_variable`_                | Questa funzione imposta una        |
 |                                 | variabile per qualunque codice di  |
 |                                 | espressione che sarà fornita come  |
-|                                 | argomento terzo. Questo è utile    |
-|                                 | solamente per espressioni          |
-|                                 | complicate, in cui lo stesso       |
-|                                 | valore calcolato deve essere usato |
-|                                 | in posti differenti                |
+|                                 | argomento terzo.                   |
 +---------------------------------+------------------------------------+
 
 |image0|
