@@ -4,11 +4,11 @@ Converte tutte le parole in "title case" (tutte le parole in minuscolo con la pr
 
 ## Sintassi
 
-title(_string_)
+title(_<span style="color:red;">string</span>_)
 
 ## Argomenti
 
-* _string_ stringa da convertire in minuscolo con la prima lettera maiuscola
+* _<span style="color:red;">string</span>_ stringa da convertire in minuscolo con la prima lettera maiuscola
 
 ## Esempi
 
