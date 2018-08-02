@@ -4,12 +4,12 @@ Imposta uno specifico componente colore per una stringa colore, es. la component
 
 ## Sintassi
 
-set_color_part(_color, component, value_)
+set_color_part(_<span style="color:red;">color</span>, <span style="color:red;">component</span>, <span style="color:red;">value</span>_)
 
 ## Argomenti
 
-* _color_ una stringa di colore
-* _component_ una stringa corrispondente al componente colore da impostare. Opzioni valide sono:
+* _<span style="color:red;">color</span>_ una stringa di colore
+* _<span style="color:red;">component</span>_ una stringa corrispondente al componente colore da impostare. Opzioni valide sono:
 
     * red: componente rosso RGB (0-255)
     * green: componente verde RGB (0-255)
@@ -26,7 +26,7 @@ set_color_part(_color, component, value_)
     * yellow: componente giallo CMYK (0-100)
     * black: componente nero CMYK (0-100)
 
-* _value_ nuovo valore per il componente colore, rispettando gli intervalli listati sopra
+* _<span style="color:red;">value</span>_ nuovo valore per il componente colore, rispettando gli intervalli listati sopra
 
 ## Esempi
 
