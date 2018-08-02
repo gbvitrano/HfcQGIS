@@ -4,13 +4,13 @@ Restituisce una stringa con la parte che soddisfa l'espressione regolare sostitu
 
 ## Sintassi
 
-regexp_replace(_input_string, regex, replacement_)
+regexp_replace(_<span style="color:red;">input_string</span>, <span style="color:red;">regex</span>, <span style="color:red;">replacement</span>_)
 
 ## Argomenti
 
-* _input_string_ la stringa in cui sostituire
-* _regex_ L'espressione regolare per sostituire. I caratteri backslash devono essere double escaped (es "\\s" per selezionare un carattere spazio bianco).
-* _replacement_ La stringa che sostituirà qualsiasi occorrenza corrispondente dell'espressione regolare passata. I gruppi catturati possono essere inseriti nella stringa di sostituzione usando \\1, \\2, etc.
+* _<span style="color:red;">input_string</span>_ la stringa in cui sostituire
+* _<span style="color:red;">regex</span>_ L'espressione regolare per sostituire. I caratteri backslash devono essere double escaped (es "\\s" per selezionare un carattere spazio bianco).
+* _<span style="color:red;">replacement</span>_ La stringa che sostituirà qualsiasi occorrenza corrispondente dell'espressione regolare passata. I gruppi catturati possono essere inseriti nella stringa di sostituzione usando \\1, \\2, etc.
 
 
 ## Esempi
