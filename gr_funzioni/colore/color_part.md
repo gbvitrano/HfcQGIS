@@ -4,12 +4,12 @@ Restituisce uno specifico componente colore da una stringa colore, es. la compon
 
 ## Sintassi
 
-color_part(_color, component_)
+color_part(_<span style="color:red;">color</span>, <span style="color:red;">component</span>_)
 
 ## Argomenti
 
-* _color_ una stringa di colore
-* _component_ una stringa corrispondente al componente colore da restituire. Opzioni valide sono:
+* _<span style="color:red;">color</span>_ una stringa di colore
+* _<span style="color:red;">component</span>_ una stringa corrispondente al componente colore da restituire. Opzioni valide sono:
 
     * red: componente rosso RGB (0-255)
     * green: componente verde RGB (0-255)
