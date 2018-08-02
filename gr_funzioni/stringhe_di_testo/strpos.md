@@ -4,12 +4,12 @@ Restituisce la prima posizione di corrispondenza di una sottostringa dentro in u
 
 ## Sintassi
 
-strpos(_haystack, needle_)
+strpos(_<span style="color:red;">haystack</span>, <span style="color:red;">needle</span>_)
 
 ## Argomenti
 
-* _haystack_ stringa in cui deve essere cercata
-* _needle_ stringa da cercare
+* _<span style="color:red;">haystack</span>_ stringa in cui deve essere cercata
+* _<span style="color:red;">needle</span>_ stringa da cercare
 
 ## Esempi
 
