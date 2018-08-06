@@ -1,8 +1,8 @@
-## Conteggio valori in un campo
+# Conteggio valori in un campo
 
 Supponiamo di voler contare il numero di valori all'interno di un campo cioè ottenere il numero di volte che, un valore, si ripete.
 
-Per risolvere il problema utilizzeremo il gruppo di funzioni **[Aggregates](../../gr_funzioni/aggregates/README.html)** e in particolare la funzione [_Count_](../../gr_funzioni/aggregates/funzioni/count.html)
+Per risolvere il problema utilizzeremo il gruppo di funzioni **[Aggregates](../../gr_funzioni/aggregates/README.html)** e in particolare la funzione [_Count_](../../gr_funzioni/aggregates/count.html)
 
 ![](/img/esempi/conteggio/conteggio1.png)
 
