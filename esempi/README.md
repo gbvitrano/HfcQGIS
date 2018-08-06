@@ -13,4 +13,6 @@ Esempio|Descrizione
 [legenda](espressione_regolare.md)|Legenda con testo lungo, inserimento carattere speciale
 [selezione](select_with_aggregate.md)|Seleziona usando le funzioni di aggregazione
 [core area](core_area.md)|Calcola la core area di un poligono
+[sposta etichette](sposta_etichetta_linea.md)|Sposta etichetta e genera segmento
+[conteggio valori](conteggio.md)|Conteggio valori in un campo
 
