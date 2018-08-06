@@ -1,4 +1,4 @@
 sphinx-rtd-theme
 sphinx
 recommonmark
-sphinx-markdown-tables==0.0.6
+sphinx-markdown-tables
