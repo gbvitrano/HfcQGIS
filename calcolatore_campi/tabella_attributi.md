@@ -23,32 +23,30 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 
 ![tab_attr](/img/tabella_attributi/tab_attr3_NEW.png)
 
-1. barra degli strumenti;
-<img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionToggleEditing.png" Title="matita per attivare modifica" style="margin: 0 auto; display: block;" /><br>
-  
-    * ![ico](/img/tabella_attributi/icon/mActionMultiEdit.png) modifica multipla;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionFileSave.png) salva modifiche;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionDraw.png) aggiorna;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionNewTableRow.png) aggiungi elemento (solo alfanumerico);<br>
-    * ![ico](/img/tabella_attributi/icon/mActionDeleteSelected.png) cancella elemento/i;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionEditCut.png ) taglia;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionEditCopy.png) copia elemento/i;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionEditPaste.png) incolla elemento/i;<br>
-    * ![ico](/img/tabella_attributi/icon/mIconExpressionSelect.png) seleziona elementi tramite espressione;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionSelectAll.png) seleziona tutto;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionInvertSelection.png) inverti selezione;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionDeselectAll.png) cancella selezione;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionFilterMap.png) seleziona/filtra;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionSelectedToTop.png ) sposta la selezione in cima alla tabella;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionPanToSelected.png) sposta mappa alle righe selezionate;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionZoomToSelected.png) zooma mappa alle righe selezionate;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionNewAttribute.png) nuovo campo;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionDeleteAttribute.png) elimina campo esistente;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionCalculateField.png) apre il calcolatore di campi;<br>
-    * ![ico](/img/tabella_attributi/icon/mActionConditionalFormatting.png) formattazione condizionale;<br>
-    * ![tab_attr](/img/tabella_attributi/icon/mDockify.png) da finestra a dock e viceversa (**>= QGIS 3.4**)<br>
-    * ![ico](/img/tabella_attributi/icon/mAction.png) azioni.<br>
-
+1. barra degli strumenti;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionToggleEditing.png" Title="matita per attivare modifica" style="margin: 0 left; display: block;" /> matita per attivare modifica;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionMultiEdit.png" Title="modifica multipla;" style="margin: 0 left; display: block;" /> modifica multipla;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionFileSave.png" Title="salva modifiche" style="margin: 0 left; display: block;" /> salva modifiche;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionDraw.png" Title="aggiorna" style="margin: 0 left; display: block;" /> aggiorna;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionNewTableRow.png" Title="aggiungi elemento (solo alfanumerico)" style="margin: 0 left; display: block;" /> aggiungi elemento (solo alfanumerico);<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionDeleteSelected.png" Title="cancella elemento/i" style="margin: 0 left; display: block;" /> cancella elemento/i;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionEditCut.png" Title="taglia" style="margin: 0 left; display: block;" /> taglia;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionEditCopy.png" Title="copia elemento/i" style="margin: 0 left; display: block;" /> copia elemento/i;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionEditPaste.png" Title="incolla elemento/i" style="margin: 0 left; display: block;" /> incolla elemento/i;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mIconExpressionSelect.png" Title="seleziona elementi tramite espressione" style="margin: 0 left; display: block;" /> seleziona elementi tramite espressione;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionSelectAll.png" Title="seleziona tutto" style="margin: 0 left; display: block;" /> seleziona tutto;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionInvertSelection.png" Title="inverti selezione" style="margin: 0 left; display: block;" /> inverti selezione;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionDeselectAll.png" Title="cancella selezione" style="margin: 0 left; display: block;" /> cancella selezione;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionFilterMap.png" Title="seleziona/filtra" style="margin: 0 left; display: block;" /> seleziona/filtra;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionSelectedToTop.png" Title="sposta la selezione in cima alla tabella" style="margin: 0 left; display: block;" /> sposta la selezione in cima alla tabella;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionPanToSelected.png" Title=" sposta mappa alle righe selezionate" style="margin: 0 left; display: block;" />  sposta mappa alle righe selezionate;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionZoomToSelected.png" Title="zooma mappa alle righe selezionate" style="margin: 0 left; display: block;" /> zooma mappa alle righe selezionate;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionNewAttribute.png" Title="nuovo campo" style="margin: 0 left; display: block;" /> nuovo campo;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionDeleteAttribute.png" Title="elimina campo esistente" style="margin: 0 left; display: block;" /> elimina campo esistente;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionCalculateField1.png" Title="apre il calcolatore di campi" style="margin: 0 left; display: block;" /> apre il calcolatore di campi;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionConditionalFormatting.png" Title="formattazione condizionale" style="margin: 0 left; display: block;" /> formattazione condizionale;<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/xxxxx.png" Title="da finestra a dock e viceversa (>= QGIS 3.4)" style="margin: 0 left; display: block;" /> da finestra a dock e viceversa (>= **QGIS 3.4**);<br><br>
+* <img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mAction.png" Title=" azioni" style="margin: 0 left; display: block;" /> azioni.<br><br>
 ![tab_attr](/img/tabella_attributi/tab_attr4.png)
 
 3. menu filtro:
