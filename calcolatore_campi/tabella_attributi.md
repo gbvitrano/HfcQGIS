@@ -24,29 +24,29 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 ![tab_attr](/img/tabella_attributi/tab_attr3_NEW.png)
 
 1. barra degli strumenti;
-    * ![ico](/img/tabella_attributi/icon/mActionToggleEditing.png) matita per attivare modifica;
-    * ![ico](/img/tabella_attributi/icon/mActionMultiEdit.png) modifica multipla;
-    * ![ico](/img/tabella_attributi/icon/mActionFileSave.png) salva modifiche;
-    * ![ico](/img/tabella_attributi/icon/mActionDraw.png) aggiorna;
-    * ![ico](/img/tabella_attributi/icon/mActionNewTableRow.png) aggiungi elemento (solo alfanumerico);
-    * ![ico](/img/tabella_attributi/icon/mActionDeleteSelected.png) cancella elemento/i;
-    * ![ico](/img/tabella_attributi/icon/mActionEditCut.png ) taglia;
-    * ![ico](/img/tabella_attributi/icon/mActionEditCopy.png) copia elemento/i;
-    * ![ico](/img/tabella_attributi/icon/mActionEditPaste.png) incolla elemento/i;
-    * ![ico](/img/tabella_attributi/icon/mIconExpressionSelect.png) seleziona elementi tramite espressione;
-    * ![ico](/img/tabella_attributi/icon/mActionSelectAll.png) seleziona tutto;
-    * ![ico](/img/tabella_attributi/icon/mActionInvertSelection.png) inverti selezione;
-    * ![ico](/img/tabella_attributi/icon/mActionDeselectAll.png) cancella selezione;
-    * ![ico](/img/tabella_attributi/icon/mActionFilterMap.png) seleziona/filtra;
-    * ![ico](/img/tabella_attributi/icon/mActionSelectedToTop.png ) sposta la selezione in cima alla tabella;
-    * ![ico](/img/tabella_attributi/icon/mActionPanToSelected.png) sposta mappa alle righe selezionate;
-    * ![ico](/img/tabella_attributi/icon/mActionZoomToSelected.png) zooma mappa alle righe selezionate;
-    * ![ico](/img/tabella_attributi/icon/mActionNewAttribute.png) nuovo campo;
-    * ![ico](/img/tabella_attributi/icon/mActionDeleteAttribute.png) elimina campo esistente;
-    * ![ico](/img/tabella_attributi/icon/mActionCalculateField.png) apre il calcolatore di campi;
-    * ![ico](/img/tabella_attributi/icon/mActionConditionalFormatting.png) formattazione condizionale;
-    * ![tab_attr](/img/tabella_attributi/icon/mDockify.png) da finestra a dock e viceversa (**>= QGIS 3.4**)
-    * ![ico](/img/tabella_attributi/icon/mAction.png) azioni.
+    * ![ico](/img/tabella_attributi/icon/mActionToggleEditing.png) matita per attivare modifica;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionMultiEdit.png) modifica multipla;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionFileSave.png) salva modifiche;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionDraw.png) aggiorna;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionNewTableRow.png) aggiungi elemento (solo alfanumerico);<br>
+    * ![ico](/img/tabella_attributi/icon/mActionDeleteSelected.png) cancella elemento/i;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionEditCut.png ) taglia;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionEditCopy.png) copia elemento/i;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionEditPaste.png) incolla elemento/i;<br>
+    * ![ico](/img/tabella_attributi/icon/mIconExpressionSelect.png) seleziona elementi tramite espressione;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionSelectAll.png) seleziona tutto;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionInvertSelection.png) inverti selezione;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionDeselectAll.png) cancella selezione;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionFilterMap.png) seleziona/filtra;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionSelectedToTop.png ) sposta la selezione in cima alla tabella;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionPanToSelected.png) sposta mappa alle righe selezionate;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionZoomToSelected.png) zooma mappa alle righe selezionate;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionNewAttribute.png) nuovo campo;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionDeleteAttribute.png) elimina campo esistente;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionCalculateField.png) apre il calcolatore di campi;<br>
+    * ![ico](/img/tabella_attributi/icon/mActionConditionalFormatting.png) formattazione condizionale;<br>
+    * ![tab_attr](/img/tabella_attributi/icon/mDockify.png) da finestra a dock e viceversa (**>= QGIS 3.4**)<br>
+    * ![ico](/img/tabella_attributi/icon/mAction.png) azioni.<br>
 
 ![tab_attr](/img/tabella_attributi/tab_attr4.png)
 
