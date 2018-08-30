@@ -20,5 +20,6 @@ La **barra di calcolo del campo rapido** nella parte superiore della tabella deg
    concetti
    interfaccia
    operatori
+   tabella_attributi
 
    
