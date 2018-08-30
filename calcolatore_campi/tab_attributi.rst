@@ -43,54 +43,53 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
    
    1. barra degli strumenti;
 
-   -  |ico| matita per attivare modifica;
-   -  |ico| modifica multipla;
-   -  |ico| salva modifiche;
-   -  |ico| aggiorna;
-   -  |ico| aggiungi elemento (solo alfanumerico);
-   -  |ico| cancella elemento/i;
-   -  |ico| taglia;
-   -  |ico| copia elemento/i;
-   -  |ico| incolla elemento/i;
-   -  |ico| seleziona elementi tramite espressione;
-   -  |ico| seleziona tutto;
-   -  |ico| inverti selezione;
-   -  |ico| cancella selezione;
-   -  |ico| seleziona/filtra;
-   -  |ico| sposta la selezione in cima alla tabella;
-   -  |ico| sposta mappa alle righe selezionate;
-   -  |ico| zooma mappa alle righe selezionate;
-   -  |ico| nuovo campo;
-   -  |ico| elimina campo esistente;
-   -  |ico| apre il calcolatore di campi;
-   -  |ico| formattazione condizionale;
+   -  |ico0| matita per attivare modifica;
+   -  |ico1| modifica multipla;
+   -  |ico2| salva modifiche;
+   -  |ico3| aggiorna;
+   -  |ico4| aggiungi elemento (solo alfanumerico);
+   -  |ico5| cancella elemento/i;
+   -  |ico6| taglia;
+   -  |ico7| copia elemento/i;
+   -  |ico8| incolla elemento/i;
+   -  |ico9| seleziona elementi tramite espressione;
+   -  |ico10| seleziona tutto;
+   -  |ico11| inverti selezione;
+   -  |ico12| cancella selezione;
+   -  |ico13| seleziona/filtra;
+   -  |ico14| sposta la selezione in cima alla tabella;
+   -  |ico15| sposta mappa alle righe selezionate;
+   -  |ico16| zooma mappa alle righe selezionate;
+   -  |ico17| nuovo campo;
+   -  |ico18| elimina campo esistente;
+   -  |ico19| apre il calcolatore di campi;
+   -  |ico20| formattazione condizionale;
    -  |tab_attr| da finestra a dock e viceversa (**>= QGIS 3.4**)
-   -  |ico| azioni.
+   -  |ico21| azioni.
    
-   
-   .. |ico| image:: /img/tabella_attributi/icon/mActionToggleEditing.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionMultiEdit.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionFileSave.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionDraw.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionNewTableRow.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionDeleteSelected.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionEditCut.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionEditCopy.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionEditPaste.png
-.. |ico| image:: /img/tabella_attributi/icon/mIconExpressionSelect.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionSelectAll.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionInvertSelection.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionDeselectAll.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionFilterMap.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionSelectedToTop.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionPanToSelected.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionZoomToSelected.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionNewAttribute.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionDeleteAttribute.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionCalculateField.png
-.. |ico| image:: /img/tabella_attributi/icon/mActionConditionalFormatting.png
+.. |ico0| image:: /img/tabella_attributi/icon/mActionToggleEditing.png
+.. |ico1| image:: /img/tabella_attributi/icon/mActionMultiEdit.png
+.. |ico2| image:: /img/tabella_attributi/icon/mActionFileSave.png
+.. |ico3| image:: /img/tabella_attributi/icon/mActionDraw.png
+.. |ico4| image:: /img/tabella_attributi/icon/mActionNewTableRow.png
+.. |ico5| image:: /img/tabella_attributi/icon/mActionDeleteSelected.png
+.. |ico6| image:: /img/tabella_attributi/icon/mActionEditCut.png
+.. |ico7| image:: /img/tabella_attributi/icon/mActionEditCopy.png
+.. |ico8| image:: /img/tabella_attributi/icon/mActionEditPaste.png
+.. |ico9| image:: /img/tabella_attributi/icon/mIconExpressionSelect.png
+.. |ico10| image:: /img/tabella_attributi/icon/mActionSelectAll.png
+.. |ico11| image:: /img/tabella_attributi/icon/mActionInvertSelection.png
+.. |ico12| image:: /img/tabella_attributi/icon/mActionDeselectAll.png
+.. |ico13| image:: /img/tabella_attributi/icon/mActionFilterMap.png
+.. |ico14| image:: /img/tabella_attributi/icon/mActionSelectedToTop.png
+.. |ico15| image:: /img/tabella_attributi/icon/mActionPanToSelected.png
+.. |ico16| image:: /img/tabella_attributi/icon/mActionZoomToSelected.png
+.. |ico17| image:: /img/tabella_attributi/icon/mActionNewAttribute.png
+.. |ico18| image:: /img/tabella_attributi/icon/mActionDeleteAttribute.png
+.. |ico19| image:: /img/tabella_attributi/icon/mActionCalculateField.png
+.. |ico20| image:: /img/tabella_attributi/icon/mActionConditionalFormatting.png
 .. |tab_attr| image:: /img/tabella_attributi/icon/mDockify.png
-.. |ico| image:: /img/tabella_attributi/icon/mAction.png
+.. |ico21| image:: /img/tabella_attributi/icon/mAction.png
 
 .. figure:: /img/tabella_attributi/tab_attr4.png
    :alt: tab_attr
