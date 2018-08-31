@@ -1,4 +1,4 @@
-## Concetti fondamentali sulla [tabella attributi](https://docs.qgis.org/testing/en/docs/user_manual/working_with_vector/attribute_table.html) di QGIS
+# Concetti fondamentali sulla [tabella attributi](https://docs.qgis.org/testing/en/docs/user_manual/working_with_vector/attribute_table.html) di QGIS
 
 La tabella attributi ![ico](/img/tabella_attributi/icon/mActionOpenTable.png) (**F6**) è una tabella che contiene i dati alfanumerici (attributi) dello strato vettoriale e rappresenta una delle differenze fondamentali tra un vettore CAD e uno GIS.
 
@@ -8,7 +8,7 @@ Una tabella è caratterizzata da righe (rosso) e colonne (verde), le righe rappr
 
 ![tab_attr](/img/tabella_attributi/tab_attr1.png)
 
-### Elementi della tabella
+## Elementi della tabella
 
 La tabella attributi di QGIS è caratterizzata da vari elementi:
 
@@ -73,7 +73,7 @@ nella vista modulo è presente un ulterione menu:
 3. ordina tramite anteprima espressione;
 4. storico.
 
-### Barra del calcolatore di campi rapida (Quick Field Calculation bar)
+## Barra del calcolatore di campi rapida (Quick Field Calculation bar)
 
 Questa barra è visibile solo se è attiva la modalità modifica ![ico](/img/tabella_attributi/icon/mActionToggleEditing.png) e consente di applicare rapidamente calcoli a tutte o parte delle feature del livello. Questa barra utilizza le stesse espressioni del calcolatore di campi ![ico](/img/tabella_attributi/icon/mActionCalculateField.png)
 
@@ -91,7 +91,7 @@ nel nostro caso (vedi screenshot sotto), se cliccassi su 4 (aggiorna tutto) aggi
 
 ![tab_attr](/img/tabella_attributi/tab_attr11.png)
 
-### Interagire con il corpo della tabella
+## Interagire con il corpo della tabella
 
 È possibile interagire con il corpo della tabella usando il tasto destro del mouse: sulla intestazione dei campi oppure sulle celle:
 
@@ -108,7 +108,7 @@ nel caso delle _celle_ (vedi screensotto) compare un tendina con la possibilità
 
 ![tab_attr](/img/tabella_attributi/tab_attr7.png)
 
-### Novità introdotta nella QGIS 3.4:
+## Novità introdotta nella QGIS 3.4:
 
 nuovo pulsante nella barra degli strumenti della tabella degli attributi per passare dalla modalità docked alla modalità finestra
 
