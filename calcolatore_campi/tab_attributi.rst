@@ -40,7 +40,7 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 
 .. _tabella attributi: https://docs.qgis.org/testing/en/docs/user_manual/working_with_vector/attribute_table.html
 
-.. |ico0| image:: /img/tabella_attributi/icon/mActionOpenTable.png
+.. |ico0| image:: //img/tabella_attributi/iconmActionOpenTable.png
 
 1. barra degli strumenti;
 
@@ -50,22 +50,20 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
         <table width="100%" border="0" cellspacing="2" cellpadding="2" style="background-color: transparent !important;">
   <tbody>
     <tr>
-      <td width="3%"><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionToggleEditing.png" title="matita per attivare modifica" style="margin: 0 left; display: block;" /></td>
+      <td width="3%"><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionToggleEditing.png" title="matita per attivare modifica" style="margin: 0 left; display: block;" /></td>
       <td width="97%">matita per attivare modifica;</td>    </tr>    <tr>
-      <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionMultiEdit.png" Title="modifica multipla;" style="margin: 0 left; display: block;" /> </td>     <td>modifica multipla;</td>    </tr>
-    <tr>      <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionFileSave.png" Title="salva modifiche" style="margin: 0 left; display: block;" /> </td>      <td>salva modifiche;</td>
-    </tr>    <tr>      <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionDraw.png" Title="aggiorna" style="margin: 0 left; display: block;" /></td>      <td>aggiorna;</td>    </tr>
-    <tr>      <td> <img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionNewTableRow.png" Title="aggiungi elemento (solo alfanumerico)" style="margin: 0 left; display: block;" /></td>
-      <td>aggiungi elemento (solo alfanumerico)</td>    </tr>    <tr>      <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionDeleteSelected.png" Title="cancella elemento/i" style="margin: 0 left; display: block;" /></td>      <td>cancella elemento/i;</td>    </tr>    <tr>      <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionEditCut.png" Title="taglia" style="margin: 0 left; display: block;" /> </td>      <td>taglia;</td>    </tr>    <tr>      <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionEditCopy.png" Title="copia elemento/i" style="margin: 0 left; display: block;" /></td>      <td>copia elemento/i;</td>    </tr>    <tr>      <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionEditPaste.png" Title="incolla elemento/i" style="margin: 0 left; display: block;" /></td>      <td>incolla elemento/i;</td>    </tr>    <tr>      <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mIconExpressionSelect.png" Title="seleziona elementi tramite espressione" style="margin: 0 left; display: block;" /></td>    <td>seleziona elementi tramite espressione;</td>   </tr>    <tr>
-      <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionSelectAll.png" Title="seleziona tutto" style="margin: 0 left; display: block;" /></td>  <td>seleziona tutto;</td>  </tr>  <tr>  <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionInvertSelection.png" Title="inverti selezione" style="margin: 0 left; display: block;" /></td>  <td>inverti selezione;</td>  </tr>  <tr>
-      <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionDeselectAll.png" Title="cancella selezione" style="margin: 0 left; display: block;" /></td> <td>cancella selezione;</td></tr> <tr><td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionFilterMap.png" Title="seleziona/filtra" style="margin: 0 left; display: block;" /></td><td>seleziona/filtra</td> </tr> <tr> <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionSelectedToTop.png" Title="sposta la selezione in cima alla tabella" style="margin: 0 left; display: block;" /></td> <td>sposta la selezione in cima alla tabella;</td>  </tr> <tr>  <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionPanToSelected.png" Title=" sposta mappa alle righe selezionate" style="margin: 0 left; display: block;" /></td>
-      <td>sposta mappa alle righe selezionate;</td> </tr> <tr><td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionZoomToSelected.png" Title="zooma mappa alle righe selezionate" style="margin: 0 left; display: block;" /></td> <td>zooma mappa alle righe selezionate;</td> </tr> <tr> <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionNewAttribute.png" Title="nuovo campo" style="margin: 0 left; display: block;" /></td> <td>nuovo campo;</td> </tr> <tr> <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionDeleteAttribute.png" Title="elimina campo esistente" style="margin: 0 left; display: block;" /></td> <td>elimina campo esistente;</td> </tr><tr> <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionCalculateField1.png" Title="apre il calcolatore di campi" style="margin: 0 left; display: block;" /> </td> <td>apre il calcolatore di campi;</td></tr> <tr>
-      <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mActionConditionalFormatting.png" Title="formattazione condizionale" style="margin: 0 left; display: block;" /></td>
-      <td>formattazione condizionale;</td> </tr><tr><td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mDockify.png" Title="da finestra a dock e viceversa (>= QGIS 3.4)" style="margin: 0 left; display: block;" /> </td> <td>da finestra a dock e viceversa (&gt;= **QGIS 3.4**);</td></tr> <tr>
-      <td><img width="24"  class="immagonobox" src="img/tabella_attributi/icon//mAction.png" Title=" azioni" style="margin: 0 left; display: block;" /></td><td>azioni.</td> </tr> </tbody></table>
+      <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionMultiEdit.png" Title="modifica multipla;" style="margin: 0 left; display: block;" /> </td>     <td>modifica multipla;</td>    </tr>
+    <tr>      <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionFileSave.png" Title="salva modifiche" style="margin: 0 left; display: block;" /> </td>      <td>salva modifiche;</td>
+    </tr>    <tr>      <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionDraw.png" Title="aggiorna" style="margin: 0 left; display: block;" /></td>      <td>aggiorna;</td>    </tr>
+    <tr>      <td> <img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionNewTableRow.png" Title="aggiungi elemento (solo alfanumerico)" style="margin: 0 left; display: block;" /></td>
+      <td>aggiungi elemento (solo alfanumerico)</td>    </tr>    <tr>      <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionDeleteSelected.png" Title="cancella elemento/i" style="margin: 0 left; display: block;" /></td>      <td>cancella elemento/i;</td>    </tr>    <tr>      <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionEditCut.png" Title="taglia" style="margin: 0 left; display: block;" /> </td>      <td>taglia;</td>    </tr>    <tr>      <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionEditCopy.png" Title="copia elemento/i" style="margin: 0 left; display: block;" /></td>      <td>copia elemento/i;</td>    </tr>    <tr>      <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionEditPaste.png" Title="incolla elemento/i" style="margin: 0 left; display: block;" /></td>      <td>incolla elemento/i;</td>    </tr>    <tr>      <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mIconExpressionSelect.png" Title="seleziona elementi tramite espressione" style="margin: 0 left; display: block;" /></td>    <td>seleziona elementi tramite espressione;</td>   </tr>    <tr>
+      <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionSelectAll.png" Title="seleziona tutto" style="margin: 0 left; display: block;" /></td>  <td>seleziona tutto;</td>  </tr>  <tr>  <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionInvertSelection.png" Title="inverti selezione" style="margin: 0 left; display: block;" /></td>  <td>inverti selezione;</td>  </tr>  <tr>
+      <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionDeselectAll.png" Title="cancella selezione" style="margin: 0 left; display: block;" /></td> <td>cancella selezione;</td></tr> <tr><td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionFilterMap.png" Title="seleziona/filtra" style="margin: 0 left; display: block;" /></td><td>seleziona/filtra</td> </tr> <tr> <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionSelectedToTop.png" Title="sposta la selezione in cima alla tabella" style="margin: 0 left; display: block;" /></td> <td>sposta la selezione in cima alla tabella;</td>  </tr> <tr>  <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionPanToSelected.png" Title=" sposta mappa alle righe selezionate" style="margin: 0 left; display: block;" /></td>
+      <td>sposta mappa alle righe selezionate;</td> </tr> <tr><td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionZoomToSelected.png" Title="zooma mappa alle righe selezionate" style="margin: 0 left; display: block;" /></td> <td>zooma mappa alle righe selezionate;</td> </tr> <tr> <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionNewAttribute.png" Title="nuovo campo" style="margin: 0 left; display: block;" /></td> <td>nuovo campo;</td> </tr> <tr> <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionDeleteAttribute.png" Title="elimina campo esistente" style="margin: 0 left; display: block;" /></td> <td>elimina campo esistente;</td> </tr><tr> <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionCalculateField1.png" Title="apre il calcolatore di campi" style="margin: 0 left; display: block;" /> </td> <td>apre il calcolatore di campi;</td></tr> <tr>
+      <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mActionConditionalFormatting.png" Title="formattazione condizionale" style="margin: 0 left; display: block;" /></td>
+      <td>formattazione condizionale;</td> </tr><tr><td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mDockify.png" Title="da finestra a dock e viceversa (>= QGIS 3.4)" style="margin: 0 left; display: block;" /> </td> <td>da finestra a dock e viceversa (&gt;= **QGIS 3.4**);</td></tr> <tr>
+      <td><img width="24"  class="immagonobox" src="/img/tabella_attributi/icon/mAction.png" Title=" azioni" style="margin: 0 left; display: block;" /></td><td>azioni.</td> </tr> </tbody></table>
     </embed>
-
-
 
 .. figure:: /img/tabella_attributi/tab_attr4.png
    :alt: tab_attr4
@@ -126,10 +124,10 @@ selezionate.
 .. figure:: /img/tabella_attributi/tab_attr11.png
    :alt: tab_attr11
 
-.. |ico23| image:: /img/tabella_attributi/icon/mActionOpenTable.png
-.. |ico24| image:: /img/tabella_attributi/icon/mActionFormView.png
-.. |ico25| image:: /img/tabella_attributi/icon/mActionToggleEditing.png
-.. |ico26| image:: /img/tabella_attributi/icon/mActionCalculateField.png
+.. |ico23| image:: //img/tabella_attributi/iconmActionOpenTable.png
+.. |ico24| image:: //img/tabella_attributi/iconmActionFormView.png
+.. |ico25| image:: //img/tabella_attributi/iconmActionToggleEditing.png
+.. |ico26| image:: //img/tabella_attributi/iconmActionCalculateField.png
 
 Interagire con il corpo della tabella
 -------------------------------------
@@ -166,4 +164,4 @@ per passare dalla modalità docked alla modalità finestra
 .. figure:: /img/tabella_attributi/dockify.gif
    :alt: tab_attr12
 
-.. |ico27| image:: /img/tabella_attributi/icon/mActionFormView.png
+.. |ico27| image:: /img/tabella_attributi/iconmActionFormView.png
