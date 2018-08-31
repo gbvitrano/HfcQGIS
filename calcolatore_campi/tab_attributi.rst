@@ -137,7 +137,7 @@ Ordina
 .. figure:: /img/tabella_attributi/tab_attr10.png
    :alt: tab_attr10
 
-nel caso delle *celle* (vedi screensotto) compare un tendina con la possibilità di:selezionare tutte le righe (Ctrl+A); Copiare il contenuto della cella; Zoom alla geometria; Pan alla geometria; Flash geometria;
+nel caso delle *celle* (vedi screen sotto) compare un tendina con la possibilità di:selezionare tutte le righe (Ctrl+A); Copiare il contenuto della cella; Zoom alla geometria; Pan alla geometria; Flash geometria;
 Apri modalità Modulo |ico27|
 
 .. figure:: /img/tabella_attributi/tab_attr7.png
