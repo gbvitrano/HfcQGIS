@@ -164,4 +164,4 @@ per passare dalla modalità docked alla modalità finestra
 .. figure:: /img/tabella_attributi/dockify.gif
    :alt: tab_attr12
 
-.. |ico27| image:: /img/tabella_attributi/iconmActionFormView.png
+.. |ico27| image:: /img/tabella_attributi/icon/mActionFormView.png
