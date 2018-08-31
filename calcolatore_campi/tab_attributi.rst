@@ -42,7 +42,7 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 
 .. |ico0| image:: /img/tabella_attributi/icon/mActionOpenTable.png
 
-1. barra degli strumenti;
+2. barra degli strumenti;
 
 .. raw:: html
 
