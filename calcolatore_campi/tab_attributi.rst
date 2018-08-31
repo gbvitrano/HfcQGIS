@@ -47,11 +47,11 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 .. raw:: html
 
     <embed>
-        <table width="80%" border="0" cellspacing="2" cellpadding="2" style="background-color: transparent !important;">
+        <table width="60%" border="0" cellspacing="1" cellpadding="1" style="background-color: transparent !important;">
   <tbody>
     <tr>
-      <td width="5%"><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionToggleEditing.png" title="matita per attivare modifica" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td>
-      <td width="95%">matita per attivare modifica;</td>    </tr>    <tr>
+      <td width="6%"><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionToggleEditing.png" title="matita per attivare modifica" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td>
+      <td width="94%">matita per attivare modifica;</td>    </tr>    <tr>
       <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionMultiEdit.png" Title="modifica multipla;" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/> </td>     <td>modifica multipla;</td>    </tr>
     <tr>      <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionFileSave.png" Title="salva modifiche" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/> </td>      <td>salva modifiche;</td>
     </tr>    <tr>      <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionDraw.png" Title="aggiorna" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td>      <td>aggiorna;</td>    </tr>
@@ -87,11 +87,11 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 .. raw:: html
 
     <embed>
-	  <table width="80%" border="0" cellspacing="2" cellpadding="2" style="background-color: transparent !important;">
+	  <table width="60%" border="0" cellspacing="1" cellpadding="1" style="background-color: transparent !important;">
   <tbody>
     <tr>
-      <td width="5%"><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionOpenTable.png" title="vista tabella" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td>
-      <td width="95%">vista tabella;</td>    </tr>    <tr>
+      <td width="6%"><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionOpenTable.png" title="vista tabella" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td>
+      <td width="94%">vista tabella;</td>    </tr>    <tr>
       <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionFormView.png" Title="vista modulo" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/> </td>     <td>vista modulo;</td>    </tr> </tbody></table><br><br>  
 		</embed>
  
