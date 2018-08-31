@@ -21,5 +21,6 @@ La **barra di calcolo del campo rapido** nella parte superiore della tabella deg
    interfaccia
    operatori
    tabella_attributi
+   tab_attributi
 
    
