@@ -40,7 +40,7 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 
 .. _tabella attributi: https://docs.qgis.org/testing/en/docs/user_manual/working_with_vector/attribute_table.html
 
-.. |ico0| image:: /img/tabella_attributi/iconmActionOpenTable.png
+.. |ico0| image:: /img/tabella_attributi/icon/mActionOpenTable.png
 
 1. barra degli strumenti;
 
@@ -124,10 +124,10 @@ selezionate.
 .. figure:: /img/tabella_attributi/tab_attr11.png
    :alt: tab_attr11
 
-.. |ico23| image:: /img/tabella_attributi/iconmActionOpenTable.png
-.. |ico24| image:: /img/tabella_attributi/iconmActionFormView.png
-.. |ico25| image:: /img/tabella_attributi/iconmActionToggleEditing.png
-.. |ico26| image:: /img/tabella_attributi/iconmActionCalculateField.png
+.. |ico23| image:: /img/tabella_attributi/icon/mActionOpenTable.png
+.. |ico24| image:: /img/tabella_attributi/icon/mActionFormView.png
+.. |ico25| image:: /img/tabella_attributi/icon/mActionToggleEditing.png
+.. |ico26| image:: /img/tabella_attributi/icon/mActionCalculateField.png
 
 Interagire con il corpo della tabella
 -------------------------------------
