@@ -87,7 +87,7 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 .. raw:: html
 
     <embed>
-        <p><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionOpenTable.png" title="vista tabella" style="float: left; margin-right:15px; display: block; height:24px !important; width:24px !important;"/> vista tabella;</p><p><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionFormView.png" Title="vista modulo" style="float: left; margin-right:15px; display: block; height:24px !important; width:24px !important;"/> vista modulo;</p>
+        <p><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionOpenTable.png" title="vista tabella" style="float: left; margin-right:12px; display: block; height:24px !important; width:24px !important;"/> vista tabella;</p><p><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionFormView.png" Title="vista modulo" style="float: left; margin-right:12px; display: block; height:24px !important; width:24px !important;"/> vista modulo;</p>
 		</embed>
  
 .. figure:: /img/tabella_attributi/tab_attr6.png
