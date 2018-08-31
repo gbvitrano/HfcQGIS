@@ -16,8 +16,7 @@ righe rappresentano i record (nello specifico una feature), le colonne
 .. figure:: /img/tabella_attributi/tab_attr1.png
    :alt: tab_attr1
 
-   tab_attr1
-
+   
 Elementi della tabella
 ----------------------
 
@@ -26,8 +25,7 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 .. figure:: /img/tabella_attributi/tab_attr2.png
    :alt: tab_attr2
 
-   tab_attr2
-
+  
 1. nell’intestazione della tabella è presente una stringa che da
    informazioni su:
 
@@ -39,7 +37,6 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 .. figure:: /img/tabella_attributi/tab_attr3_NEW.png
    :alt: tab_attr3
 
-   tab_attr3
 
 .. _tabella attributi: https://docs.qgis.org/testing/en/docs/user_manual/working_with_vector/attribute_table.html
 
@@ -74,7 +71,6 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 .. figure:: /img/tabella_attributi/tab_attr4.png
    :alt: tab_attr4
 
-   tab_attr4
 
 .. |ico1| image:: /img/tabella_attributi/icon/mActionToggleEditing.png
 .. |ico2| image:: /img/tabella_attributi/icon/mActionMultiEdit.png
@@ -112,8 +108,7 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 .. figure:: /img/tabella_attributi/tab_attr5.png
    :alt: tab_attr5
 
-   tab_attr5
-
+  
 4. modalità di visualizzazione della tabella:
 
    -  |ico23| vista tabella;
@@ -121,8 +116,6 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 
 .. figure:: /img/tabella_attributi/tab_attr6.png
    :alt: tab_attr6
-
-   tab_attr6
 
 nella vista modulo è presente un ulterione menu:
 
@@ -142,8 +135,6 @@ di campi |ico26|
 .. figure:: /img/field_calc_rapida1.png
    :alt: field_calc
 
-   field_calc
-
 Esempio di uso della barra (vedi screenshot sotto):
 
 1. raccoglie tutti i campi della tabella;
@@ -160,8 +151,6 @@ selezionate.
 .. figure:: /img/tabella_attributi/tab_attr11.png
    :alt: tab_attr11
 
-   tab_attr11
-
 .. |ico23| image:: /img/tabella_attributi/icon/mActionOpenTable.png
 .. |ico24| image:: /img/tabella_attributi/icon/mActionFormView.png
 .. |ico25| image:: /img/tabella_attributi/icon/mActionToggleEditing.png
@@ -176,8 +165,6 @@ del mouse: sulla intestazione dei campi oppure sulle celle:
 .. figure:: /img/tabella_attributi/tab_attr8.png
    :alt: tab_attr8
 
-   tab_attr8
-
 nel caso dell’\ *intestazione colonna* compare un tendina con la
 possibilità di: nascondere la colonna; definire la larghezza della
 colonna; autodimensiona la larghezza colonna; Organizza le colonne;
@@ -186,22 +173,14 @@ Ordina
 .. figure:: /img/tabella_attributi/tab_attr9.png
    :alt: tab_attr9
 
-   tab_attr9
-
-.. figure:: /img/tabella_attributi/tab_attr10.png
+  .. figure:: /img/tabella_attributi/tab_attr10.png
    :alt: tab_attr10
 
-   tab_attr10
-
-nel caso delle *celle* (vedi screensotto) compare un tendina con la
-possibilità di:selezionare tutte le righe (Ctrl+A); Copiare il contenuto
-della cella; Zoom alla geometria; Pan alla geometria; Flash geometria;
+nel caso delle *celle* (vedi screensotto) compare un tendina con la possibilità di:selezionare tutte le righe (Ctrl+A); Copiare il contenuto della cella; Zoom alla geometria; Pan alla geometria; Flash geometria;
 Apri modalità Modulo |ico27|
 
 .. figure:: /img/tabella_attributi/tab_attr7.png
    :alt: tab_attr7
-
-   tab_attr7
 
 Novità introdotta nella QGIS 3.4:
 ---------------------------------
@@ -211,7 +190,5 @@ per passare dalla modalità docked alla modalità finestra
 
 .. figure:: /img/tabella_attributi/dockify.gif
    :alt: tab_attr12
-
-   tab_attr12
 
 .. |ico27| image:: /img/tabella_attributi/icon/mActionFormView.png
