@@ -173,7 +173,7 @@ Ordina
 .. figure:: /img/tabella_attributi/tab_attr9.png
    :alt: tab_attr9
 
-  .. figure:: /img/tabella_attributi/tab_attr10.png
+.. figure:: /img/tabella_attributi/tab_attr10.png
    :alt: tab_attr10
 
 nel caso delle *celle* (vedi screensotto) compare un tendina con la possibilità di:selezionare tutte le righe (Ctrl+A); Copiare il contenuto della cella; Zoom alla geometria; Pan alla geometria; Flash geometria;
