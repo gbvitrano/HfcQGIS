@@ -87,10 +87,9 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 .. raw:: html
 
     <embed>
-     <table width="100%" border="0" cellspacing="2" cellpadding="2" style="background-color: transparent !important;">  <tbody>    <tr>    <td width="5%"><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionOpenTable.png" title="vista tabella" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td>      <td width="15%">vista tabella;</td>      <td width="80%">&nbsp;</td>    </tr>   <tr>    <td width="5%"><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionFormView.png" Title="vista modulo" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/> </td>     <td width="15%">vista modulo;</td>   <td width="80%">&nbsp;</td>   </tr>     </tbody></table><br><br>
-    </embed>
+        <p><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionOpenTable.png" title="vista tabella" style="float: left; margin-right:15px; display: block; height:24px !important; width:24px !important;"/> vista tabella;</p><p><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionFormView.png" Title="vista modulo" style="float: left; margin-right:15px; display: block; height:24px !important; width:24px !important;"/> vista modulo;</p>
+		</embed>
  
-
 .. figure:: /img/tabella_attributi/tab_attr6.png
    :alt: tab_attr6
 
