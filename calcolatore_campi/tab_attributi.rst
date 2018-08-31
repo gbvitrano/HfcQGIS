@@ -47,11 +47,11 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 .. raw:: html
 
     <embed>
-        <table width="100%" border="0" cellspacing="2" cellpadding="2" style="background-color: transparent !important;">
+        <table width="80%" border="0" cellspacing="2" cellpadding="2" style="background-color: transparent !important;">
   <tbody>
     <tr>
-      <td width="10%"><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionToggleEditing.png" title="matita per attivare modifica" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td>
-      <td width="90%">matita per attivare modifica;</td>    </tr>    <tr>
+      <td width="5%"><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionToggleEditing.png" title="matita per attivare modifica" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td>
+      <td width="95%">matita per attivare modifica;</td>    </tr>    <tr>
       <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionMultiEdit.png" Title="modifica multipla;" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/> </td>     <td>modifica multipla;</td>    </tr>
     <tr>      <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionFileSave.png" Title="salva modifiche" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/> </td>      <td>salva modifiche;</td>
     </tr>    <tr>      <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionDraw.png" Title="aggiorna" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td>      <td>aggiorna;</td>    </tr>
@@ -62,7 +62,7 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
       <td>sposta mappa alle righe selezionate;</td> </tr> <tr><td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionZoomToSelected.png" Title="zooma mappa alle righe selezionate" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td> <td>zooma mappa alle righe selezionate;</td> </tr> <tr> <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionNewAttribute.png" Title="nuovo campo" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td> <td>nuovo campo;</td> </tr> <tr> <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionDeleteAttribute.png" Title="elimina campo esistente" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td> <td>elimina campo esistente;</td> </tr><tr> <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionCalculateField.png" Title="apre il calcolatore di campi" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/> </td> <td>apre il calcolatore di campi;</td></tr> <tr>
       <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionConditionalFormatting.png" Title="formattazione condizionale" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td>
       <td>formattazione condizionale;</td> </tr><tr><td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mDockify.png" Title="da finestra a dock e viceversa (>= QGIS 3.4)" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/> </td> <td>da finestra a dock e viceversa (&gt;=<strong>QGIS 3.4</strong>);</td></tr> <tr>
-      <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mAction.png" Title=" azioni" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td><td>azioni.</td> </tr> </tbody></table>
+      <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mAction.png" Title=" azioni" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td><td>azioni.</td> </tr> </tbody></table><br><br>
     </embed>
 
 .. figure:: /img/tabella_attributi/tab_attr4.png
@@ -84,8 +84,17 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
   
 4. modalità di visualizzazione della tabella:
 
-   -  |ico23| vista tabella;
-   -  |ico24| vista modulo:
+.. raw:: html
+
+    <embed>
+	  <table width="80%" border="0" cellspacing="2" cellpadding="2" style="background-color: transparent !important;">
+  <tbody>
+    <tr>
+      <td width="5%"><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionOpenTable.png" title="vista tabella" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td>
+      <td width="95%">vista tabella;</td>    </tr>    <tr>
+      <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionFormView.png" Title="vista modulo" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/> </td>     <td>vista modulo;</td>    </tr> </tbody></table><br><br>  
+		</embed>
+ 
 
 .. figure:: /img/tabella_attributi/tab_attr6.png
    :alt: tab_attr6
@@ -124,8 +133,7 @@ selezionate.
 .. figure:: /img/tabella_attributi/tab_attr11.png
    :alt: tab_attr11
 
-.. |ico23| image:: /img/tabella_attributi/icon/mActionOpenTable.png
-.. |ico24| image:: /img/tabella_attributi/icon/mActionFormView.png
+
 .. |ico25| image:: /img/tabella_attributi/icon/mActionToggleEditing.png
 .. |ico26| image:: /img/tabella_attributi/icon/mActionCalculateField.png
 
