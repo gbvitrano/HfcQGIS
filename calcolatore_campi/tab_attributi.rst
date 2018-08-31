@@ -47,7 +47,7 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 .. raw:: html
 
     <embed>
-        <table width="100%" border="0" cellspacing="2" cellpadding="2" style="background-color: transparent !important;>
+        <table width="100%" border="0" cellspacing="2" cellpadding="2" style="background-color: transparent !important;">
   <tbody>
     <tr>
       <td width="3%"><img width="24"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/mActionToggleEditing.png" title="matita per attivare modifica" style="margin: 0 left; display: block;" /></td>
