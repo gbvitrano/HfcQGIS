@@ -87,13 +87,9 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 .. raw:: html
 
     <embed>
-	  <table width="60%" border="0" cellspacing="1" cellpadding="1" style="background-color: transparent !important;">
-  <tbody>
-    <tr>
-      <td width="6%"><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionOpenTable.png" title="vista tabella" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td>
-      <td width="94%">vista tabella;</td>    </tr>    <tr>
-      <td><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionFormView.png" Title="vista modulo" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/> </td>     <td>vista modulo;</td>    </tr> </tbody></table><br><br>  
-		</embed>
+      <table width="100%" border="0" cellspacing="2" cellpadding="2" style="background-color: transparent !important;">  <tbody>   <tr>  <td width="6%"><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionOpenTable.png" title="vista tabella" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/></td>
+      <td width="10%">vista tabella;</td> <td width="17%">&nbsp;</td> </tr>   <tr> <td width="28"><img   class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/tabella_attributi/icon/mActionFormView.png" Title="vista modulo" style="margin: 0 left; display: block; height:24px !important; width:24px !important;"/> </td>     <td width="80%">vista modulo;</td> <td width="84%">&nbsp;</td> </tr> </tbody></table><br><br>
+    </embed>
  
 
 .. figure:: /img/tabella_attributi/tab_attr6.png
