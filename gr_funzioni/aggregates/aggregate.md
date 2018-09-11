@@ -51,7 +51,7 @@ aggregate(*<span style="color:red;">layer</span>, <span style="color:red;">aggre
 
 ## osservazioni
 
-i nomi dei layer vanno scritti tra apici semplici ('nome_layer') mentre i nomi dei campi con doppi apici ("nome_campo")
+i nomi dei layer vanno scritti tra apici semplici (`'nome_layer'`) mentre i nomi dei campi con doppi apici (`"nome_campo"`)
 
 ![](/img/aggregates/aggregate/aggregate2.png)
 
