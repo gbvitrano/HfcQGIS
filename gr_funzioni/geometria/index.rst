@@ -242,6 +242,11 @@ Geometria
 |                           | stata fusa (merge) in una      |           |
 |                           | linestring singola             |           |
 +---------------------------+--------------------------------+-----------+
+| `line_substring`_         | Restituisce la porzione di una | >=3.4     |
+|                           | geometria di linea (o curva)   |           |
+|                           | che rientra tra le distanze    |           |
+|                           | iniziale e finale specificate  |           |
++---------------------------+--------------------------------+-----------+
 | `m`_                      | Restituisce il valore m di una |   >=2.14  |
 |                           | geometria puntuale             |           |
 +---------------------------+--------------------------------+-----------+
@@ -513,6 +518,7 @@ Geometria
 .. _line_interpolate_point: line_interpolate_point.html
 .. _line_locate_point: line_locate_point.html
 .. _line_merge: line_merge.html
+.. _line_substring: line_substring.html
 .. _m: m.html
 .. _make_circle: make_circle.html
 .. _make_ellipse: make_ellipse.html
@@ -626,6 +632,7 @@ Geometria
    line_interpolate_point
    line_locate_point
    line_merge
+   line_substring
    m
    make_circle
    make_ellipse
