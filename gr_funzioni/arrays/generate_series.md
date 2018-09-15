@@ -1,18 +1,18 @@
-## Funzione `generate_series`
+# generate_series
 
 La funzione crea una matrice contenente una sequenza di numeri, segue le stesse regole della funzione generate_series () di PostgreSQL.
 
 ## Sintassi
 
-generate_series(_start,stop[,step=1]_)
+generate_series(_<span style="color:red;">start</span>,<span style="color:red;">stop</span>[,<span style="color:red;">step</span>=1]_)
 
 [ ] contrassegna componenti opzionali
 
 ## Argomenti
 
-* _start_ primo valore della sequenza
-* _stop_  valore che termina la sequenza una volta raggiunta
-* _step_ passo usato come incremento tra i valori
+* _<span style="color:red;">start</span>_ primo valore della sequenza
+* _<span style="color:red;">stop</span>_  valore che termina la sequenza una volta raggiunta
+* _<span style="color:red;">step</span>_ passo usato come incremento tra i valori
 
 ## Esempi
 
