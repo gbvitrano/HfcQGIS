@@ -9,8 +9,8 @@ line_substring(_<span style="color:red;">geometry</span>,<span style="color:red;
 ## Argomenti
 
 * _<span style="color:red;">geometry</span>_ una geometria lineare o curva
-  * _<span style="color:red;">start_distance</span>_ distanza all'inizio della sottostringa
-  * _<span style="color:red;">end_distance</span>_ distanza alla fine della sottostringa
+* _<span style="color:red;">start_distance</span>_ distanza all'inizio della sottostringa
+* _<span style="color:red;">end_distance</span>_ distanza alla fine della sottostringa
 
 ## Esempi
 
