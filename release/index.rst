@@ -15,6 +15,16 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 
 `Novità rilevanti introdotte nella 3.4 LTR`_
 --------------------------------------------
+Nuovi gruppi funzioni nel calcolatore di campi
+----------------------------------------------
+
+|image0|
+
+.. |image0| image:: /img/novita_34/neo_gruppi.png
+
+
+Elenco funzioni
+---------------
 
 -  `raster_value()`_
 -  `line_substring`_
@@ -27,6 +37,20 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 -  `json_to_map`_
 -  `map_to_hstore`_
 -  `map_to_json`_
+
+
+Completamento codice per il costruttore di espressioni
+------------------------------------------------------
+
+|image0|
+
+.. |image0| image:: /img/novita_34/completa_field_calc.gif
+
+
+
+|image1|
+
+.. |image1| image:: /img/novita_34/completa_field_calc.gif
 
 
 .. _Novità rilevanti nella prossima QGIS 3.4 26/10/2018: ../gr_funzioni/rasters/index.html
