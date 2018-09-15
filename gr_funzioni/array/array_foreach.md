@@ -1,4 +1,4 @@
-## Funzione `array_foreach`
+# Funzione `array_foreach`
 
 Restituisce una matrice con l'espressione data valutata su ciascun elemento.
 
