@@ -13,6 +13,12 @@ un altro, es. da stringa a intero, da intero a stringa.
 | `to_datetime`_                  | Converte una stringa in un oggetto |
 |                                 | datetime                           |
 +---------------------------------+------------------------------------+
+| `to_dm`_                        | Converte una coordinata in gradi,  |
+|                                 | minuti                            |
++---------------------------------+------------------------------------+
+| `to_dms`_                       | Converte una coordinata in gradi,  |
+|                                 | minuti e secondi                   |
++---------------------------------+------------------------------------+
 | `to_int`_                       | Converte una stringa in un numero  |
 |                                 | intero. Non viene restituito nulla |
 |                                 | se un valore non può essere        |
@@ -44,6 +50,8 @@ un altro, es. da stringa a intero, da intero a stringa.
 
 .. _to_date: to_date.html
 .. _to_datetime: to_datetime.html
+.. _to_dm: to_dm.html
+.. _to_dms: to_dms.html
 .. _to_int: to_int.html
 .. _to_interval: to_interval.html
 .. _to_real: to_real.html
@@ -59,6 +67,8 @@ un altro, es. da stringa a intero, da intero a stringa.
    
    to_date
    to_datetime
+   to_dm
+   to_dms
    to_int
    to_interval
    to_real
