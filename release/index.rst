@@ -15,12 +15,11 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 
 `Novità rilevanti introdotte nella 3.4 LTR`_
 --------------------------------------------
+
 Nuovi gruppi funzioni nel calcolatore di campi
 ----------------------------------------------
-
-|image0|
-
-.. |image0| image:: /img/novita_34/neo_gruppi.png
+- `Array`_ 
+- `Raster`_
 
 
 Elenco funzioni
@@ -62,3 +61,6 @@ Completamento codice per il costruttore di espressioni
 .. _json_to_map: ../gr_funzioni/maps/json_to_map.html
 .. _map_to_hstore: ../gr_funzioni/maps/map_to_hstore.html
 .. _map_to_json: ../gr_funzioni/maps/map_to_json.html
+
+.. _Array: ../gr_funzioni/array/array_filter.html
+.. _Raster: ../gr_funzioni/rasters/raster_value.html
