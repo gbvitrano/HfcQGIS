@@ -1,4 +1,4 @@
-## Funzione `line_substring`
+# line_substring
 
 Restituisce la porzione di una geometria di linea (o curva) che rientra tra le distanze iniziale e finale specificate (misurata dall'inizio della linea). I valori Z e M sono linearmente interpolati dai valori esistenti.
 
