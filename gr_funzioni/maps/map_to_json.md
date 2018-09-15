@@ -4,11 +4,11 @@ Unisci gli elementi della mappa in una stringa formattata con json.
 
 ## Sintassi
 
-map_to_json(_map_)
+map_to_json(_<span style="color:red;">map</span>_)
 
 ## Argomenti
 
-* _map_ una mappa
+* _<span style="color:red;">map</span>_ una mappa
 
 ## Esempi
 
