@@ -11,10 +11,10 @@ avviare il calcolatore di campi e creare un nuovo campo 'coord_WKT' testuale e p
 ![tema](/img/esempi/centroid_linee/centroid_linee2.png)
 
 le funzioni utilizzate sono:
-* [$geometry](./gr_funzioni/geometria/funzioni/$geometry.html), che recupera la geometria corrente:
-* [$length](./gr_funzioni/geometria/funzioni/$length.html), calcola la lunghezza della geometria corrente;
-* [line_interpolate_point](./gr_funzioni/geometria/funzioni/line_interpolate_point.html), estituisce il punto interpolato ad una specifica distanza;
-* [geom_to_wkt](./gr_funzioni/geometria/funzioni/geom_to_wkt.html), restituisce la rappresentazione Well-Known Text (WKT) della geometria.
+* [$geometry](../gr_funzioni/geometria/funzioni/$geometry.html), che recupera la geometria corrente:
+* [$length](../gr_funzioni/geometria/funzioni/$length.html), calcola la lunghezza della geometria corrente;
+* [line_interpolate_point](../gr_funzioni/geometria/funzioni/line_interpolate_point.html), estituisce il punto interpolato ad una specifica distanza;
+* [geom_to_wkt](../gr_funzioni/geometria/funzioni/geom_to_wkt.html), restituisce la rappresentazione Well-Known Text (WKT) della geometria.
 
 ecco la tabella attributi:
 
