@@ -128,6 +128,10 @@ loro chiavi.
 |                        | stringa opzionale per    |                 |
 |                        | valori mancanti          |                 |
 +------------------------+--------------------------+-----------------+
+| `generate_series`_     | La funzione crea una     | >= QGIS 3.4     |
+|                        | matrice contenete una    |                 |
+|                        | sequenza di numeri       |                 |
++------------------------+--------------------------+-----------------+
 | `regexp_matches`_      | Restituisce un array di  |                 |
 |                        | tutte le stringhe        |                 |
 |                        | catturate dai gruppo,    |                 |
