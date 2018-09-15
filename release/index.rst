@@ -16,16 +16,15 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 `Novità rilevanti introdotte nella 3.4 LTR`_
 --------------------------------------------
 
-
-
-
-Novità rilevanti nella prossima QGIS 3.4 26/10/2018
----------------------------------------------------
+`Novità rilevanti nella prossima QGIS 3.4 26/10/2018`_
+------------------------------------------------------
 
 -  Aggiunta di un nuovo gruppo `Rasters`_ nel calcolatore di campi;
 -  Nuova funzione `raster_value()`_
 
 
+
+.. _Novità rilevanti nella prossima QGIS 3.4 26/10/2018: ../gr_funzioni/rasters/index.html
 .. _Rasters: ../gr_funzioni/rasters/index.html
 .. _raster_value(): ../gr_funzioni/rasters/raster_value.html
 .. _Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018: novita_32.html
