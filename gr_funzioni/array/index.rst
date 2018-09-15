@@ -11,26 +11,26 @@ coppie chiave-valore è irrilevante e i valori vengono identificati dalle
 loro chiavi.
 
 +------------------------+--------------------------+-----------------+
-| Funzione               | Descrizione              | Plugin          |
+| Funzione               | Descrizione              |Info             |
 +========================+==========================+=================+
-| `array`_               | Restituisce un array     |                 |
-|                        | contenente tutti i       |                 |
-|                        | valori passati come      |                 |
-|                        | parametro                |                 |
+| `array_filter`_        | Restituisce un array con | >=QGIS 3.4      |
+|                        | solo gli elementi per i  |                 |
+|                        | quali l'espressione      |                 |
+|                        | restituisce true (vero)  |                 |
 +------------------------+--------------------------+-----------------+
-| `array_append`_        | Restituisce un array con |                 |
-|                        | il valore passato        |                 |
-|                        | aggiunto alla fine       |                 |
+| `array_foreach`_       | Restituisce un matrice   | >=QGIS 3.4      |
+|                        | con l'espressione data   |                 |
+|                        | valutata su ciscun campo |                 |
 +------------------------+--------------------------+-----------------+
 
 |image0|
 
 
 .. _gruppo Maps: ../maps
-.. _array: array.html
-.. _array_append: array_append.html
+.. _array_filter: array_filter.html
+.. _array_foreach: array_foreach.html
 
-.. |image0| image:: /img/array/gruppo_arrays1.png
+.. |image0| image:: /img/array/neo_gruppo.png
 
 
 **Elenco funzioni Array**
@@ -38,6 +38,6 @@ loro chiavi.
 .. toctree::
    :maxdepth: 3
    
-   array
-   array_append
+   array_filter
+   array_foreach
    
