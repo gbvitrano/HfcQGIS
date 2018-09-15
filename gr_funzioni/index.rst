@@ -8,9 +8,11 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 +=======================+=======================+=======================+
 | `Aggregates`_         | (22/22)               | >= QGIS 2.16          |
 +-----------------------+-----------------------+-----------------------+
-| `Arrays`_             | (31/31)               | >= QGIS 3.0           |
+| `Array`_              |  (2/2)                | >= QGIS 3.4           |
++-----------------------+-----------------------+-----------------------+
+| `Arrays`_             | (32/32)               | >= QGIS 3.0           |
 |                       |                       | (SpatiaLite, PostGIS) |
-|                       |                       | - ArrayPlus Plugin    |
+|                       |                       |                       |
 +-----------------------+-----------------------+-----------------------+
 | `Campi e valori`_     | (1/1)                 |                       |
 +-----------------------+-----------------------+-----------------------+
@@ -34,8 +36,8 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 +-----------------------+-----------------------+-----------------------+
 | `Layer della mappa`_  | (1/1)                 | >= QGIS 3.0           |
 +-----------------------+-----------------------+-----------------------+
-| `Maps`_               | (10/10)               | >= QGIS 3.0 (PostGIS) |
-|                       |                       | - ArrayPlus Plugin    |
+| `Maps`_               | (12/12)               | >= QGIS 3.0 (PostGIS) |
+|                       |                       | aggiornato QGIS 3.4   |
 +-----------------------+-----------------------+-----------------------+
 | `Matematica`_         | (28/28)               |                       |
 +-----------------------+-----------------------+-----------------------+
@@ -57,6 +59,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 +-----------------------+-----------------------+-----------------------+
 
 .. _Aggregates: aggregates/index.html
+.. _Array: array/index.html
 .. _Arrays: arrays/index.html
 .. _Campi e valori: campi_e_valori/index.html
 .. _Colore: colore/index.html
@@ -89,6 +92,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
    :maxdepth: 1
  
   aggregates/index
+  array/index
   arrays/index
   campi_e_valori/index
   colore/index
