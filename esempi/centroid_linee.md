@@ -32,4 +32,4 @@ Ecco il risultato finale, i centroidi sono lungo le linee:
 
 ![tema](/img/esempi/centroid_linee/centroid_linee6.png)
 
-Geopackage è [qui](/esempi/dati_esempi.gpkg)
+il geopackage è scaricabile [qui](https://github.com/gbvitrano/HfcQGIS/blob/master/esempi/dati_esempi.zip?raw=true)
