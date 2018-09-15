@@ -1,4 +1,4 @@
-# Novità rilevanti introdotte nella 3.4 LTR
+# Novità rilevanti introdotte nella 3.4 LTR 26/10/2018
 
 ## Nuovi gruppi funzioni nel calcolatore di campi
 ![](/img/novita_34/neo_gruppi.png)
