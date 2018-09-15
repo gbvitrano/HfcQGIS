@@ -19,3 +19,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    core_area
    sposta_etichetta_linea
    conteggio
+   centroid_linee
