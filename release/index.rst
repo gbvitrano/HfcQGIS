@@ -13,6 +13,12 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Form drill-down (a cascata) WIDGET Value Relation (Relazione valore): http://hfcqgis.opendatasicilia.it/it/latest/release/novita_32.html#form-drill-down-a-cascata-widget-value-relation-relazione-valore
 
 
+`Novità rilevanti introdotte nella 3.4 LTR`_
+--------------------------------------------
+
+
+
+
 Novità rilevanti nella prossima QGIS 3.4 26/10/2018
 ---------------------------------------------------
 
@@ -23,3 +29,4 @@ Novità rilevanti nella prossima QGIS 3.4 26/10/2018
 .. _Rasters: ../gr_funzioni/rasters/index.html
 .. _raster_value(): ../gr_funzioni/rasters/raster_value.html
 .. _Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018: novita_32.html
+.. _Novità rilevanti introdotte nella 3.4 LTR: novita_34.md
