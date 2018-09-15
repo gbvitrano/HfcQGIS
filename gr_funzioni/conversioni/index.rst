@@ -14,7 +14,7 @@ un altro, es. da stringa a intero, da intero a stringa.
 |                                 | datetime                           |
 +---------------------------------+------------------------------------+
 | `to_dm`_                        | Converte una coordinata in gradi,  |
-|                                 | minuti                            |
+|                                 | minuti                             |
 +---------------------------------+------------------------------------+
 | `to_dms`_                       | Converte una coordinata in gradi,  |
 |                                 | minuti e secondi                   |
