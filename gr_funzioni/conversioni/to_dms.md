@@ -11,9 +11,9 @@ Converte una coordinata in gradi, minuti e secondi
 ## Argomenti
 
 * _<span style="color:red;">coordinate</span>_ Un valore di latitudine o longitudine
-  * _<span style="color:red;">axis</span>_ L'asse della coordinata 'x' o 'y'
-  * _<span style="color:red;">precision</span>_ Numero di decimali
-  * _<span style="color:red;">formatting</span>_ Designa il tipo di formattazione. I valori accettabili sono NULL, 'aligned' o 'suffix'
+* _<span style="color:red;">axis</span>_ L'asse della coordinata 'x' o 'y'
+* _<span style="color:red;">precision</span>_ Numero di decimali
+* _<span style="color:red;">formatting</span>_ Designa il tipo di formattazione. I valori accettabili sono NULL, 'aligned' o 'suffix'
 
 ## Esempi
 
