@@ -1,4 +1,4 @@
-## Funzione `map_akeys`
+# map_akeys
 
 Restituisce tutte le chiavi di una mappa come un array.
 
