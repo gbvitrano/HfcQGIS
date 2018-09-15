@@ -1,4 +1,4 @@
-## Funzione `map_get`
+# map_get
 
 Restituisce il valore di una mappa, passando la sua chiave.
 
