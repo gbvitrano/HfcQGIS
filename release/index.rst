@@ -41,7 +41,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Rasters: ../gr_funzioni/rasters/index.html
 .. _raster_value(): ../gr_funzioni/rasters/raster_value.html
 .. _Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018: novita_32.html
-.. _Novità rilevanti introdotte nella 3.4 LTR: novita_34.md
+.. _Novità rilevanti introdotte nella 3.4 LTR: novita_34.html
 
 .. _raster_value(): ../gr_funzioni/rasters/raster_value.html
 .. _line_substring: ../gr_funzioni/geometria/line_substring.html
