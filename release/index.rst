@@ -42,12 +42,6 @@ Elenco funzioni
 Completamento codice per il costruttore di espressioni
 ------------------------------------------------------
 
-|image0|
-
-.. |image0| image:: /img/novita_34/completa_field_calc.gif
-
-
-
 |image1|
 
 .. |image1| image:: /img/novita_34/completa_field_calc.gif
