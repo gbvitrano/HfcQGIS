@@ -4,11 +4,11 @@ Crea una mappa da una stringa formattata in hstore
 
 ## Sintassi
 
-hstore_to_map(_string_)
+hstore_to_map(_<span style="color:red;">string</span>_)
 
 ## Argomenti
 
-* _string_ una stringa
+* _<span style="color:red;">string</span>_ una stringa
 
 ## Esempi
 
