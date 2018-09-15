@@ -3,8 +3,8 @@ Novità
 Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che man mano usciranno nelle nuove versioni di QGIS. 
 
 
-Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018
---------------------------------------------------------
+`Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018`_
+----------------------------------------------------------
 
 -  `Il generatore di espressioni ora semplifica la creazione diespressioni in QGIS!`_
 -  `Form drill-down (a cascata) WIDGET Value Relation (Relazione valore)`_
@@ -22,4 +22,4 @@ Novità rilevanti nella prossima QGIS 3.4 26/10/2018
 
 .. _Rasters: ../gr_funzioni/rasters/index.html
 .. _raster_value(): ../gr_funzioni/rasters/raster_value.html
-
+.. _Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018: novita_32.html
