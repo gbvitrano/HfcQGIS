@@ -15,4 +15,5 @@ Esempio|Descrizione
 [core area](core_area.md)|Calcola la core area di un poligono
 [sposta etichette](sposta_etichetta_linea.md)|Sposta etichetta e genera segmento
 [conteggio valori](conteggio.md)|Conteggio valori in un campo
+[centroid lungo le linee](centroid_linee.md)|Centroide lungo le linee
 
