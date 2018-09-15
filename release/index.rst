@@ -16,16 +16,41 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 `Novità rilevanti introdotte nella 3.4 LTR`_
 --------------------------------------------
 
+-  `raster_value()`_
+-  `line_substring`_
+-  `array_foreach`_
+-  `generate_series`_
+-  `array_filter`_
+-  `to_dm`_
+-  `to_dms`_
+-  `hstore_to_map`_
+-  `json_to_map`_
+-  `map_to_hstore`_
+-  `map_to_json`_
+
+
+
+
 `Novità rilevanti nella prossima QGIS 3.4 26/10/2018`_
 ------------------------------------------------------
 
 -  Aggiunta di un nuovo gruppo `Rasters`_ nel calcolatore di campi;
 -  Nuova funzione `raster_value()`_
 
-
-
 .. _Novità rilevanti nella prossima QGIS 3.4 26/10/2018: ../gr_funzioni/rasters/index.html
 .. _Rasters: ../gr_funzioni/rasters/index.html
 .. _raster_value(): ../gr_funzioni/rasters/raster_value.html
 .. _Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018: novita_32.html
 .. _Novità rilevanti introdotte nella 3.4 LTR: novita_34.md
+
+.. _raster_value(): ../gr_funzioni/rasters/raster_value.html
+.. _line_substring: ../gr_funzioni/geometria/line_substring.html
+.. _array_foreach: ../gr_funzioni/array/array_foreach.html
+.. _generate_series: ../gr_funzioni/arrays/generate_series.html
+.. _array_filter: ../gr_funzioni/array/array_filter.html
+.. _to_dm: ../gr_funzioni/conversioni/to_dm.html
+.. _to_dms: ../gr_funzioni/conversioni/to_dms.html
+.. _hstore_to_map: ../gr_funzioni/maps/hstore_to_map.html
+.. _json_to_map: ../gr_funzioni/maps/json_to_map.html
+.. _map_to_hstore: ../gr_funzioni/maps/map_to_hstore.html
+.. _map_to_json: ../gr_funzioni/maps/map_to_json.html
