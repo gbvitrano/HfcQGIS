@@ -4,12 +4,12 @@ Restituisce una matrice con l'espressione data valutata su ciascun elemento.
 
 ## Sintassi
 
-array_foreach(_array,expression_)
+array_foreach(_<span style="color:red;">array</span>,<span style="color:red;">expression</span>_)
 
 ## Argomenti
 
-* _array_ un array
-* _expression_ un'espressione da valutare su ogni oggetto. La variabile `@element` sarà sostituita dal valore corrente.
+* _<span style="color:red;">array</span>_ un array
+* _<span style="color:red;">expression</span>_ un'espressione da valutare su ogni oggetto. La variabile `@element` sarà sostituita dal valore corrente.
 
 ## Esempi
 
