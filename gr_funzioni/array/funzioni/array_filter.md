@@ -4,12 +4,12 @@ Restituisce un array con solo gli elementi per i quali l'espressione restituisce
 
 ## Sintassi
 
-array_filter(_array,expression_)
+array_filter(_<span style="color:red;">array</span>,<span style="color:red;">expression</span>_)
 
 ## Argomenti
 
-* _array_ un array
-* _expression_ un'espressione da valutare su ogni oggetto. La variabile `@ element` sarà sostituita dal valore corrente.
+* _<span style="color:red;">array</span>_ un array
+* _<span style="color:red;">expression</span>_ un'espressione da valutare su ogni oggetto. La variabile `@ element` sarà sostituita dal valore corrente.
 
 ## Esempi
 
