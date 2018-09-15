@@ -1,4 +1,4 @@
-## Funzione `map_to_json`
+# map_to_json
 
 Unisci gli elementi della mappa in una stringa formattata con json.
 
