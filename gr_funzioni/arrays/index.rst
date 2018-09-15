@@ -180,6 +180,7 @@ loro chiavi.
 .. _array_sort: array_sort.html
 .. _array_sum: array_sum.html
 .. _array_to_string: array_to_string.html
+.. _generate_series: generate_series.html
 .. _regexp_matches: regexp_matches.html
 .. _string_to_array: string_to_array.html
 
@@ -219,6 +220,7 @@ loro chiavi.
    array_sort
    array_sum
    array_to_string
+   generate_series
    regexp_matches
    string_to_array
    array_first
