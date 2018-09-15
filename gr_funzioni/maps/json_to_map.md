@@ -4,11 +4,11 @@ Crea una mappa da una stringa formattata con json
 
 ## Sintassi
 
-json_to_map(_string_)
+json_to_map(_<span style="color:red;">string</span>_)
 
 ## Argomenti
 
-* _string_ una stringa json
+* _<span style="color:red;">string</span>_ una stringa json
 
 ## Esempi
 
