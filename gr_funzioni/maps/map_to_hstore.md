@@ -1,4 +1,4 @@
-## Funzione `map_to_hstore`
+# map_to_hstore
 
 Unisci gli elementi della mappa in una stringa formattata in hstore.
 
