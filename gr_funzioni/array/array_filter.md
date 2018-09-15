@@ -1,4 +1,4 @@
-## Funzione `array_filter`
+# Funzione `array_filter`
 
 Restituisce un array con solo gli elementi per i quali l'espressione restituisce true (vero).
 
