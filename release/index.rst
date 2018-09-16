@@ -18,6 +18,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 - `Nuovi gruppi funzioni nel calcolatore di campi`_ 
 - `Elenco funzioni`_
 - `Completamento codice per il costruttore di espressioni`_
+- `Cambiata la rappresentazione di array e map nelle espressioni`_
 
 
 
