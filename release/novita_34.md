@@ -19,9 +19,6 @@
 ## Completamento codice per il costruttore di espressioni
 ![](/img/novita_34/completa_field_calc.gif)
 
-## Completamento codice per il costruttore di espressioni
-![](/img/novita_34/completa_field_calc.gif)
-
 ## Cambiata la rappresentazione di array e map nelle espressioni
 
 * **array rappresentazione:**
