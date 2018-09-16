@@ -1,4 +1,4 @@
-Array
+Array (NOVITÀ QGIS 3.4)
 ======
 
 solo DB (es:SpatiaLite, PostGIS)
