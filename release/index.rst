@@ -26,6 +26,6 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Nuovi gruppi funzioni nel calcolatore di campi: novita_34.html#nuovi-gruppi-funzioni-nel-calcolatore-di-campi
 .. _Elenco funzioni: novita_34.html#nuove-funzioni
 .. _Completamento codice per il costruttore di espressioni: novita_34.html#completamento-codice-per-il-costruttore-di-espressioni
-.. _Cambiata la rappresentazione di array e map nelle espressioni: novita_34.html#Cambiata la rappresentazione di array e map nelle espressioni
+.. _Cambiata la rappresentazione di array e map nelle espressioni: novita_34.html#Cambiata-la-rappresentazione-di-array-e-map-nelle-espressioni
 .. _Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018: novita_32.html
 .. _Novità rilevanti introdotte in QGIS 3.4 LTR 26/10/2018: novita_34.html
