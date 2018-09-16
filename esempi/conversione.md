@@ -28,4 +28,4 @@ Geopackage è [qui](https://github.com/gbvitrano/HfcQGIS/blob/master/esempi/dati
 
 ## Nota bene
 
-Dalla versione QGIS 3.4 è possibile usare le funzioni [to_dm](../gr_funzioni/conversione/to_dm.html) o [to_dms](../gr_funzioni/conversione/to_dms.html)
+Dalla versione QGIS 3.4 è possibile usare le funzioni [to_dm](../gr_funzioni/conversioni/to_dm.html) o [to_dms](../gr_funzioni/conversioni/to_dms.html)
