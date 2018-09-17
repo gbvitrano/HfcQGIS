@@ -1,6 +1,6 @@
 # now
 
-Restituisce la data e l'ora attuale.
+Restituisce la data e l'ora correnti. La funzione è statica e restituirà risultati coerenti durante la valutazione. Il tempo restituito è il momento in cui viene preparata l'espressione.
 
 ## Sintassi
 
