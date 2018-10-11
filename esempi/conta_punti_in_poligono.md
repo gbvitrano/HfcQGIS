@@ -18,3 +18,5 @@ risultato:
 ![](/img/esempi/conta_punti_in_poligono/conta_02.png)
 
  Geopackage è [qui](https://github.com/gbvitrano/HfcQGIS/blob/master/esempi/dati_esempi.zip?raw=true)
+ 
+ [QUI VIDEO](https://youtu.be/vlmnmI6sjAg)
