@@ -17,4 +17,4 @@ risultato:
 
 ![](/img/esempi/conta_punti_in_poligono/conta_02.png)
 
- Geopackage è [qui](/esempi/dati_esempi.gpkg)
+ Geopackage è [qui](https://github.com/gbvitrano/HfcQGIS/blob/master/esempi/dati_esempi.zip?raw=true)
