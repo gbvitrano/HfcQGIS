@@ -20,3 +20,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    sposta_etichetta_linea
    conteggio
    centroid_linee
+   conta_punti_in_poligono
