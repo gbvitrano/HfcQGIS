@@ -13,7 +13,7 @@ avviare il calcolatore di campi e creare un nuovo campo 'coord_WKT' testuale e p
 le funzioni utilizzate sono:
 * [$geometry](../gr_funzioni/geometria/$geometry.html), che recupera la geometria corrente:
 * [$length](../gr_funzioni/geometria/$length.html), calcola la lunghezza della geometria corrente;
-* [line_interpolate_point](../gr_funzioni/geometria/line_interpolate_point.html), estituisce il punto interpolato ad una specifica distanza;
+* [line_interpolate_point](../gr_funzioni/geometria/line_interpolate_point.html), restituisce il punto interpolato ad una specifica distanza;
 * [geom_to_wkt](../gr_funzioni/geometria/geom_to_wkt.html), restituisce la rappresentazione Well-Known Text (WKT) della geometria.
 
 ecco la tabella attributi:
