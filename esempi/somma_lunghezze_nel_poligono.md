@@ -33,4 +33,4 @@ risultato:
 
 NB: la piccola differenza tra le lenghezze è imputabile alla trasformazione di EPSG!!! La prima tabella è relativa al vettore poligonale la seconda, lunghezze delle linea, deriva dal geo-algoritmo in processing.
 
- Geopackage è [qui](/esempi/dati_esempi.gpkg)
+il geopackage è scaricabile [qui](https://github.com/gbvitrano/HfcQGIS/blob/master/esempi/dati_esempi.zip?raw=true)
