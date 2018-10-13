@@ -16,5 +16,5 @@ Esempio|Descrizione
 [sposta etichette](sposta_etichetta_linea.md)|Sposta etichetta e genera segmento
 [conteggio valori](conteggio.md)|Conteggio valori in un campo
 [centroid lungo le linee](centroid_linee.md)|Centroide lungo le linee
-[somma lunghezze nel poligono](somma_lunghezze_nel_poligono.md)|Centroide lungo le linee
+[somma lunghezze nel poligono](somma_lunghezze_nel_poligono.md)|Somma lunghezze linee dentro il poligono
 
