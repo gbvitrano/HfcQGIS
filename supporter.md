@@ -3,17 +3,21 @@
 Questa pagina raccolgie i nominativi delle persone che hanno contribuito alla guida in termini finanziari o di conoscenza
 
 
-## Contributi finanziari:
+## Contributi finanziari su PayPal:
 
-1. Enrico Bertonati;
-2. Carlo Tinalli;
-3. Andrea Bortoluzzi;
-4. Federico Gianoli;
-5. Giacomo Amerio;
+nro| contributo| messaggio
+--:|-----------|:--------
+1| Enrico Bertonati| come sempre ottimo lavoro Doc!!! Saluti;
+2| Carlo Tinalli| Un piccolo contributo, in quanto ritengo che la rete non sia una fonte da cui attingere tutto gratis.;
+3| Andrea Bortoluzzi| W Qgis e w Totò!;
+4| Federico Gianoli| Grazie per quello che fai per la comunità di QGIS. Il mio è, purtroppo, solo un gesto simbolico per dimostrarti che apprezzo moltissimo il tuo lavoro ed i tuoi sforzi per la comunità.;
+5| Giacomo Amerio| --
 
 
-## Contributi in conoscenza:
+## Contributi in conoscenza su HfcQGIS:
 
-1. Ludovico Frate es:11;
-2. Martina Savarese es:17;
+nro| contributo| sito|sezione
+--:|-----------|:-------|---
+1| [Ludovico Frate](https://twitter.com/FrateLudovico?lang=it)|  https://www.lezionigis.it/| [es: 11]()
+2| Martina Savarese| [es: 17]()
 
