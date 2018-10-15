@@ -18,4 +18,6 @@ Esempio|Descrizione
 [centroid lungo le linee](centroid_linee.md)|Centroide lungo le linee
 [conta punti nel poligono](conta_punti_in_poligono.md)|Conta i punti nel poligono
 [somma lunghezze nel poligono](somma_lunghezze_nel_poligono.md)|Somma lunghezze linee dentro il poligono
+[conta punti nel poligono categorizzati](punti_in_poligoni_categorie.md)|Contare i punti nel poligono per categorie
+
 
