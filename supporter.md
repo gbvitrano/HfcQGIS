@@ -3,7 +3,7 @@
 Questa pagina raccoglie i nominativi delle persone che hanno contribuito alla guida in termini finanziari o di conoscenza
 
 
-## Contributi finanziari su PayPal:
+## Contributi finanziari su PayPal
 
 nro| contributo| messaggio
 --:|-----------|:--------
@@ -14,7 +14,7 @@ nro| contributo| messaggio
 5| Giacomo Amerio| --
 
 
-## Contributi in conoscenza su HfcQGIS:
+## Contributi in conoscenza su HfcQGIS
 
 nro| contributo|  sito  |sezione
 --:|-----------|-------|:-------
