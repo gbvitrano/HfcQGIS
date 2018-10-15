@@ -1,4 +1,4 @@
-# supporter
+# Supporter
 
 Questa pagina raccolgie i nominativi delle persone che hanno contribuito alla guida in termini finanziari o di conoscenza
 
