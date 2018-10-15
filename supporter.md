@@ -19,5 +19,5 @@ nro| contributo| messaggio
 nro| contributo| sito|sezione
 --:|-----------|:-------|---
 1| [Ludovico Frate](https://twitter.com/FrateLudovico?lang=it)|  https://www.lezionigis.it/| [es: 11]()
-2| Martina Savarese| [es: 17]()
+2| Martina Savarese| |[es: 17 - Contare i punti nel poligono per categorie](esempi/punti_in_poligoni_categorie.md)
 
