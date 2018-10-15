@@ -18,6 +18,6 @@ nro| contributo| messaggio
 
 nro| contributo|  sito  |sezione
 --:|-----------|-------|:-------
-1| [Ludovico Frate](https://twitter.com/FrateLudovico?lang=it)|[lezionigis.it](https://www.lezionigis.it/)| [es: 11]()
+1| [Ludovico Frate](https://twitter.com/FrateLudovico?lang=it)|[lezionigis.it](https://www.lezionigis.it/)| [es: 11 - Calcolo della core area (area interna al poligono al netto di un'area di buffer interna )](esempi/core_area.md)
 2| Martina Savarese| |[es: 17 - Contare i punti nel poligono per categorie](esempi/punti_in_poligoni_categorie.md)
 
