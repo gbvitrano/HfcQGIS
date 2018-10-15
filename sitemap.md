@@ -69,7 +69,7 @@
     <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/contributing.html"><strong>Contribuire a HfcQGIS</strong></a>    </li>
   </ul>
     <ul>
-    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/supporter.html"><strong>Contribuire a HfcQGIS</strong></a>    </li>
+    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/supporter.html"><strong>Supporter</strong></a>    </li>
   </ul>
   <ul>
     <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/ods.html"><strong>OpenDataSicilia</strong></a>
