@@ -28,7 +28,13 @@
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/espressione_regolare.html">Espressione regolare: inserire automaticamente un carattere speciale</a></li>
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/select_with_aggregate.html">Selezionare tramite funzioni di aggregazione - caso minimun</a></li>
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/core_area.html">Calcolo della core area (area interna al poligono al netto di un&rsquo;area di buffer interna )</a></li>
-      </ul>
+		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/sposta_etichetta_linea.html">Spostare etichetta e generare segmento</a></li>
+		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/conteggio.html">Conteggio valori in un campo</a></li>
+		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/centroid_linee.html">Ottenere i centroidi lungo le linee</a></li>
+		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/conta_punti_in_poligono.html">Conta i punti nel poligono</a></li>
+		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/somma_lunghezze_nel_poligono.html">Somma lunghezze nel poligono</a></li>
+		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/punti_in_poligoni_categorie.html">Contare i punti nel poligono per categorie</a></li>
+		</ul>
     </li>
   </ul>
   <ul>
