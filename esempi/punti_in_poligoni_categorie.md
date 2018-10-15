@@ -33,3 +33,5 @@ risultato:
 
 Ho usato questi dataset poiché utilizzati anche nella documentazione per spiegare le relazioni 1:N.
 Solo che in questo caso non c’è stato neppure bisogno di impostare una relazione di progetto tra i vettori “regions” (1) e “airports” (N)!
+
+Realizzato da Martina Savarese
