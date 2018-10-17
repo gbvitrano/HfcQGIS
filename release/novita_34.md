@@ -37,10 +37,10 @@ map: one: 1, two: 2, 3: three → `{'one': 1, 'two': 2, 3: 'three'}`
 
 ![](/img/novita_34/map.png)
 
-## Icone per i tipi di campo nel widget di espressioni PR [#8195](https://github.com/qgis/QGIS/pull/8195)
+## Icone per i tipi di campo nel widget di espressioni
 
 ![](/img/novita_34/icone_widget_01.png)
 
-## Miglioramenti del field calc PR [#8183](https://github.com/qgis/QGIS/pull/8183)
+## Miglioramenti del field calc
 
 ![](/img/novita_34/miglioramenti.png)
