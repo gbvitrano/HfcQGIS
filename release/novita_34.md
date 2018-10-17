@@ -1,6 +1,6 @@
 # Novità rilevanti introdotte nella 3.4 LTR 26/10/2018
 
-## Nuovi gruppi funzioni nel calcolatore di campi
+## Nuovo gruppo funzioni nel calcolatore di campi
 ![](/img/novita_34/neo_gruppi.png)
 
 ## Nuove funzioni
@@ -36,3 +36,11 @@ prima → `ora`
 map: one: 1, two: 2, 3: three → `{'one': 1, 'two': 2, 3: 'three'}`
 
 ![](/img/novita_34/map.png)
+
+## Icone per i tipi di campo nel widget di espressioni PR [#8195](https://github.com/qgis/QGIS/pull/8195)
+
+![](/img/novita_34/icone_widget_01.png)
+
+## Miglioramenti del field calc PR [#8183](https://github.com/qgis/QGIS/pull/8183)
+
+![](/img/novita_34/miglioramenti.png)
