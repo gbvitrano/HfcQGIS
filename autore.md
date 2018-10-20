@@ -15,7 +15,7 @@ sono sovrapposti i simboli di pi greco, dell'infinito e della derivata prima: tr
 Prima di iniziare l'attività di divulgatore del Open Source (OS), _Salvatore_ ha utilizzato - per anni - software proprietari, solo dopo la scoperta del OS abbandonò definitivamente il mondo Close Source e decise di divulgare la filosofia OS tramite blog post e video su youtube. Attualmente il blog è seguito in tutto il mondo ed il canale youtube ha oltre 1000 iscritti.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/world_wp01.png" width="60%">
+  <img src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/world_wp02.png" width="60%">
 </p>
 
 Cura il Blog '[Pigrecoinfinito](https://pigrecoinfinito.wordpress.com/)' e il [canale](https://www.youtube.com/user/vediamo13/) YouTube dove scrive e parla di QGIS,Qfield, SpatiaLite, PostegreSQL/PostGIS, GDAL/OGR, GRASS GIS, SAGA GIS, GitHub, OSGeo4W, ed altri FOSS; ama usare, nella professione e non solo, software OS come LibreOffice, InkSCAPE, GIMP ecc...
@@ -45,10 +45,10 @@ Molto attivo nella comunità di QGIS: ha partecipato alla realizzazione di un pl
 **Foto**: Hack Fest QGIS ITA Padova 2017, da sinistra: _Salvatore Fiandaca, Amedeo Fadini, Federico Gianoli, Matteo Ghetta,prof. Massimo De Marchi, Stefano Campus, Alessandro Sarretta, Enrico Ferreguti_
 
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/hfita3_2018_viterbo.png">
+  <img width="600" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/hfita3_2018_viterbo.png">
 </p>
 
-[video](https://www.youtube.com/watch?v=o8iUxKG0CWI)
+[![hfqgisita3](https://img.youtube.com/vi/o8iUxKG0CWI/0.jpg)](https://www.youtube.com/watch?v=o8iUxKG0CWI "HackFest Ita Viterbo 2018")
 
 Ama ascoltare [E. Morricone](https://www.youtube.com/watch?v=LhOB8-cevIc)
 
