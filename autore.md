@@ -50,6 +50,12 @@ Molto attivo nella comunità di QGIS: ha partecipato alla realizzazione di un pl
 
 **Foto**: Hack Fest QGIS ITA Viterbo 2018
 
+
+<p align="center">
+  <img width="400" src= "[![hfqgisita3](https://img.youtube.com/vi/o8iUxKG0CWI/0.jpg)](https://www.youtube.com/watch?v=o8iUxKG0CWI "HackFest Ita Viterbo 2018")">
+</p>
+
+
 Ama ascoltare [E. Morricone](https://www.youtube.com/watch?v=LhOB8-cevIc)
 
 <p align="center"> <a href="http://opendatasicilia.it/" target="_blank"><img src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/compare_ods.png" width="150" class="immagonobox" title="opendatasicilia.it"></a>
