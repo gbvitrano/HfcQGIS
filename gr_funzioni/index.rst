@@ -8,8 +8,6 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 +=======================+=======================+=======================+
 | `Aggregates`_         | (22/22)               | >= QGIS 2.16          |
 +-----------------------+-----------------------+-----------------------+
-| `Array`_              |  (2/2)                | >= QGIS 3.4           |
-+-----------------------+-----------------------+-----------------------+
 | `Arrays`_             | (32/32)               | >= QGIS 3.0           |
 |                       |                       | (SpatiaLite, PostGIS) |
 |                       |                       |                       |
@@ -59,7 +57,6 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 +-----------------------+-----------------------+-----------------------+
 
 .. _Aggregates: aggregates/index.html
-.. _Array: array/index.html
 .. _Arrays: arrays/index.html
 .. _Campi e valori: campi_e_valori/index.html
 .. _Colore: colore/index.html

@@ -48,6 +48,15 @@ loro chiavi.
 | `array_first`_         | Restituisce il primo     |                 |
 |                        | valore di un array       |                 |
 +------------------------+--------------------------+-----------------+
+| `array_filter`_        | Restituisce un array con | >=QGIS 3.4      |
+|                        | solo gli elementi per i  |                 |
+|                        | quali l'espressione      |                 |
+|                        | restituisce true (vero)  |                 |
++------------------------+--------------------------+-----------------+
+| `array_foreach`_       | Restituisce un matrice   | >=QGIS 3.4      |
+|                        | con l'espressione data   |                 |
+|                        | valutata su ciscun campo |                 |
++------------------------+--------------------------+-----------------+
 | `array_get`_           | Restituisce il valore    |                 |
 |                        | ennesimo di un array     |                 |
 +------------------------+--------------------------+-----------------+
@@ -160,6 +169,8 @@ loro chiavi.
 .. _array_distinct: array_distinct.html
 .. _array_find: array_find.html
 .. _array_first: array_first.html
+.. _array_filter: array_filter.html
+.. _array_foreach: array_foreach.html
 .. _array_get: array_get.html
 .. _array_insert: array_insert.html
 .. _array_lambda: array_lambda.html
@@ -200,6 +211,8 @@ loro chiavi.
    array_count
    array_distinct
    array_find
+   array_first
+   array_filter
    array_get
    array_insert
    array_intersect
