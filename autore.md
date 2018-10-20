@@ -44,6 +44,12 @@ Molto attivo nella comunità di QGIS: ha partecipato alla realizzazione di un pl
 
 **Foto**: Hack Fest QGIS ITA Padova 2017, da sinistra: _Salvatore Fiandaca, Amedeo Fadini, Federico Gianoli, Matteo Ghetta,prof. Massimo De Marchi, Stefano Campus, Alessandro Sarretta, Enrico Ferreguti_
 
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/hfita3_2018_viterbo.png">
+</p>
+
+[video](https://www.youtube.com/watch?v=o8iUxKG0CWI)
+
 Ama ascoltare [E. Morricone](https://www.youtube.com/watch?v=LhOB8-cevIc)
 
 <p align="center"> <a href="http://opendatasicilia.it/" target="_blank"><img src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/compare_ods.png" width="150" class="immagonobox" title="opendatasicilia.it"></a>
