@@ -109,8 +109,8 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
   rasters/index
   recente/index
   record_e_attributi/index
-  relazioni/index
   reference/index
+  relazioni/index
   stringhe_di_testo/index
   timemanager/index
   variabili/index
