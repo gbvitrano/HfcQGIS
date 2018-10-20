@@ -213,6 +213,7 @@ loro chiavi.
    array_find
    array_first
    array_filter
+   array_foreach
    array_get
    array_insert
    array_intersect
