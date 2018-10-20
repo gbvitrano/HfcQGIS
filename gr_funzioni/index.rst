@@ -49,6 +49,8 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 +-----------------------+-----------------------+-----------------------+
 | `Reference`_          | (0/21)                | `Plugin refFunction`_ |
 +-----------------------+-----------------------+-----------------------+
+| `Relazioni`_          |                       |                       |
++-----------------------+-----------------------+-----------------------+
 | `Stringhe di testo`_  | (22/22)               |                       |
 +-----------------------+-----------------------+-----------------------+
 | `TimeManager`_        | (0/5)                 | Plugin Time Manager   |
@@ -75,6 +77,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. _Recente: recente/index.html
 .. _Record e attributi: record_e_attributi/index.html
 .. _Reference: reference/index.html
+.. _Relazioni: relazioni/index.html
 .. _Plugin refFunction: https://plugins.qgis.org/plugins/refFunctions/README.html
 .. _Stringhe di testo: stringhe_di_testo/index.html
 .. _TimeManager: timemanager/index.html
@@ -106,6 +109,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
   rasters/index
   recente/index
   record_e_attributi/index
+  relazioni/index
   reference/index
   stringhe_di_testo/index
   timemanager/index
