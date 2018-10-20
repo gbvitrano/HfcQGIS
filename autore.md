@@ -48,7 +48,7 @@ Molto attivo nella comunità di QGIS: ha partecipato alla realizzazione di un pl
   <img width="600" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/hfita3_2018_viterbo.png">
 </p>
 
-[![hfqgisita3](https://img.youtube.com/vi/o8iUxKG0CWI/0.jpg)](https://www.youtube.com/watch?v=o8iUxKG0CWI "HackFest Ita Viterbo 2018")
+**Foto**: Hack Fest QGIS ITA Viterbo 2018
 
 Ama ascoltare [E. Morricone](https://www.youtube.com/watch?v=LhOB8-cevIc)
 
