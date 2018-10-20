@@ -49,7 +49,9 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 +-----------------------+-----------------------+-----------------------+
 | `Reference`_          | (0/21)                | `Plugin refFunction`_ |
 +-----------------------+-----------------------+-----------------------+
-| `Relazioni`_          |                       |                       |
+| `Relazioni`_          |  (?/?)                |  Visibile solo se ci  |
+|                       |                       |  sono relazioni di    |
+|                       |                       |  progetto             |
 +-----------------------+-----------------------+-----------------------+
 | `Stringhe di testo`_  | (22/22)               |                       |
 +-----------------------+-----------------------+-----------------------+
