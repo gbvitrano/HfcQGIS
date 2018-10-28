@@ -41,6 +41,7 @@
     <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/release/index.html"><strong>Novità</strong></a>
       <ul>
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_3.2.html">Novità rilevanti introdotte nella 3.2</a></li>
+	<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_34.html">Novità rilevanti introdotte in QGIS 3.4 LTR </a></li>
       </ul>
     </li>
   </ul>
@@ -48,6 +49,7 @@
     <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/index.html"><strong>Elenco funzioni QGIS</strong></a>
       <ul>
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/aggregates/index.html">Aggregates</a></li>
+	 <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/array/index.html">Array</a></li>     
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/arrays/index.html">Arrays</a></li>
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/campi_e_valori/index.html">Campi e valori</a></li>
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/colore/index.html">Colore</a></li>
