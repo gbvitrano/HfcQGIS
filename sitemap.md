@@ -64,7 +64,8 @@
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/maps/index.html">Maps</a></li>
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/matematica/index.html">Matematica</a></li>
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/operatori/index.html">Operatori</a></li>
-        <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/recente/index.html">Recente</a></li>
+       <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/rasters/index.html">Rasters</a></li>
+       <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/recente/index.html">Recente</a></li>
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/record_e_attributi/index.html">Record ed attributi</a></li>
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/reference/index.html">Reference</a></li>
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/stringhe_di_testo/index.html">Stringhe di testo</a></li>
