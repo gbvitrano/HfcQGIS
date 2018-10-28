@@ -1,7 +1,7 @@
 # Novità rilevanti introdotte nella 3.4 LTR 26/10/2018
 
 ## Nuovo gruppo funzioni nel calcolatore di campi
-![](/img/novita_34/neo_gruppi2.png)
+![](/img/novita_34/neo_gruppo2.png)
 
 ## Nuove funzioni
 * [**raster_value()**](../gr_funzioni/rasters/raster_value.html)
