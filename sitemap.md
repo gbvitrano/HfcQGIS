@@ -34,6 +34,7 @@
 		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/conta_punti_in_poligono.html">Conta i punti nel poligono</a></li>
 		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/somma_lunghezze_nel_poligono.html">Somma lunghezze nel poligono</a></li>
 		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/punti_in_poligoni_categorie.html">Contare i punti nel poligono per categorie</a></li>
+	      <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/nascondi_etichette.html">Nascondi etichette</a></li>  	      
 		</ul>
     </li>
   </ul>
