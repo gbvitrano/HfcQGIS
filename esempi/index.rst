@@ -23,3 +23,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    conta_punti_in_poligono
    somma_lunghezze_nel_poligono
    punti_in_poligoni_categorie
+   nascondi_etichette
