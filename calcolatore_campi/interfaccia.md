@@ -21,11 +21,15 @@
 
 Nel caso risulti nascosta la sezione Gruppi funzioni:
 
+![interfaccia](../img/finestra_field_calc/hfcqgis_gruppi.gif)
+
 <p align="center">
   <img width="600" src="../img/finestra_field_calc/hfcqgis_gruppi.gif">
 </p>
 
 Nel caso risulti nascosta la sezione help in linea:
+
+![interfaccia](../img/finestra_field_calc/hfcqgis_Help.gif)
 
 <p align="center">
   <img width="600" src="../img/finestra_field_calc/hfcqgis_Help.gif">
