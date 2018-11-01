@@ -12,6 +12,7 @@ nro| contributo| messaggio
 3| Andrea Bortoluzzi| W Qgis e w Totò!;
 4| Federico Gianoli| Grazie per quello che fai per la comunità di QGIS. Il mio è, purtroppo, solo un gesto simbolico per dimostrarti che apprezzo moltissimo il tuo lavoro ed i tuoi sforzi per la comunità.;
 5| Giacomo Amerio| --
+6| Luca Bellami |un contributo davvero piccolo per l'enorme lavoro che fai per la comunitá! un abbraccio Luca
 
 
 ## Contributi in conoscenza su HfcQGIS
