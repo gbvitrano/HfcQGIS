@@ -5,7 +5,8 @@
    :date: 2018-10-26
    
    
-   - `Nuovi gruppi funzioni nel calcolatore di campi`_ 
+
+- `Nuovi gruppi funzioni nel calcolatore di campi`_ 
 - `Elenco funzioni`_
 - `Completamento codice per il costruttore di espressioni`_
 - `Cambiata la rappresentazione di array e map nelle espressioni`_
