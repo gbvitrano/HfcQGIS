@@ -5,6 +5,13 @@
    :date: 2018-10-26
    
    
+      
+.. raw:: html
+
+    <embed>
+        <p><a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_34.html" target="_blank"><img width="400"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/neo_gruppo2.png" Title="Novità rilevanti introdotte nella 3.4 LTR" alt="QGIS 3.4 LTR" style="margin: 0 auto; display: block;" /></a></p>
+    </embed>   
+   
 
 - `Nuovi gruppi funzioni nel calcolatore di campi`_ 
 - `Elenco funzioni`_
