@@ -120,7 +120,16 @@ Mappa del sito
 .. toctree::
    :maxdepth: 2
    
-   sitemap    
+   news    
+   
+   
+   News
+~~~~~~~~~~~~~~
+  
+.. toctree::
+   :maxdepth: 2
+   
+   sitemap  
 
 --------------
 
