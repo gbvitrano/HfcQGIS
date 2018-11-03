@@ -5,8 +5,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 
 `Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018`_
 ----------------------------------------------------------
-.. feed-entry::
-   :data: 2018-22-06
+
       
 -  `Il generatore di espressioni ora semplifica la creazione diespressioni in QGIS!`_
 -  `Form drill-down (a cascata) WIDGET Value Relation (Relazione valore)`_
@@ -16,11 +15,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 
 
 `Novità rilevanti introdotte in QGIS 3.4 LTR 26/10/2018`_
---------------------------------------------
-
-.. feed-entry::
-   :data: 2018-10-26
-   
+--------------------------------------------   
    
 - `Nuovi gruppi funzioni nel calcolatore di campi`_ 
 - `Elenco funzioni`_
