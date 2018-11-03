@@ -2,7 +2,7 @@
 ==============================================
 
 .. feed-entry::
-   :date: 2018-06-20
+   :date: 2018-10-20
 
 Appena attiviamo le etichette queste sono sempre al top e sempre visibili, vediamo in questo esempio come nascondere alcune etichette utilizzando le opzioni di visualizzazione delle etichette e le funzioni di aggregazione.
 
