@@ -2,7 +2,7 @@ Novità rilevanti introdotte in QGIS 3.4 LTR
 ============================================
 
 .. feed-entry::
-   :data: 2018-10-26
+        :date: 2018-10-26
 
 - Nuovi gruppi funzioni nel calcolatore di campi 
 - Elenco funzioni
