@@ -8,6 +8,13 @@
 -  `Form drill-down (a cascata) WIDGET Value Relation (Relazione valore)`_
 
 
+.. raw:: html
+
+    <embed>
+        <p><a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_32.html" target="_blank"><img width="400"  class="immagonobox" src="http://hfcqgis.opendatasicilia.it/it/latest/_images/novita_32_01.png" Title="Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018" alt="QGIS 3.2 Bonn" style="margin: 0 auto; display: block;" /></a></p>
+    </embed>
+
+
 
 
 
