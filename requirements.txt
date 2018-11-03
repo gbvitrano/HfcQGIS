@@ -1,5 +1,5 @@
-sphinxcontrib-newsfeed
 setuptools==36.8.0
+pip>=18
 sphinx-rtd-theme
 sphinx
 recommonmark
