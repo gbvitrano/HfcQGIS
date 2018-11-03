@@ -13,6 +13,7 @@ HfcQGIS `rss feed <https://hfcqgis.opendatasicilia.it/it/latest/index.rss>`_ |rs
 
     news/novita_32
     news/novita_34
+    news/Nascondi_etichette
 
 
 
