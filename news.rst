@@ -7,7 +7,7 @@ HfcQGIS `rss feed <https://hfcqgis.opendatasicilia.it/it/latest/index.rss>`_ |rs
         
 .. feed::
     :rss: index.rss
-    :title: HfcQGIG News
+    :title: HfcQGIS News
     :description: HfcQGIS: Help funzioni calcolatore di campi di QGIS
     :link:  http://hfcqgis.opendatasicilia.it/it/latest/
 
