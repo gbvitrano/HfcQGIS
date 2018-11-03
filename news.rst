@@ -1,6 +1,6 @@
 
 .. feed::
    :rss: index.rss
-   :title: HfcQGIG Feed RSS
+   :title: HfcQGIG News
 
    release/index
