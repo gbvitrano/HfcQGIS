@@ -47,16 +47,19 @@
 <!-- eu-cookie-lawt -->
 <script type="text/javascript" src="../_static/jquery-2.1.3.min.js"></script>
 <script type="text/javascript" src="../_static/jquery-eu-cookie-law-popup.js"></script>
-<link href="{{ pathto("_static/jquery-eu-cookie-law-popup.css", True) }}" rel="stylesheet" type="text/css" />
-
-<!-- feed rss -->
- <link rel="alternate"
-        type="application/rss+xml"
-        title="HfcQGIG News"
-        href="/index.rss" />
+<link href="{{ pathto("_static/jquery-eu-cookie-law-popup.css", True) }}" rel="stylesheet" type="text/css" /
 
  {% endblock %}
  
+<!-- feed rss -->
+
+ {% block linktags %}
+  {{ super() }}
+  <link rel="alternate"
+        type="application/rss+xml"
+        title="HfcQGIG News"
+        href="/index.rss" />
+{% endblock %}
 
 <!-- http://hfcqgis.opendatasicilia.it -->  
 
