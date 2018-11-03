@@ -43,7 +43,11 @@
 <!-- Script -->
 <!--<script type="text/javascript" src="../_static/jquery.min.js"></script> -->
 <script type="text/javascript" src="{{ pathto("_static/jquery.min.js", True) }}"></script> 
-
+<!-- feed rss -->
+<link rel="alternate"
+        type="application/rss+xml"
+        title="HfcQGIG News"
+        href="/index.rss" />
 <!-- eu-cookie-lawt -->
 <script type="text/javascript" src="../_static/jquery-2.1.3.min.js"></script>
 <script type="text/javascript" src="../_static/jquery-eu-cookie-law-popup.js"></script>
@@ -83,10 +87,5 @@
 		<!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b4bb82cddf7f677"></script>
 
-<!-- feed rss -->
-<link rel="alternate"
-        type="application/rss+xml"
-        title="HfcQGIG News"
-        href="/index.rss" />
 
  {% endblock %}
