@@ -51,15 +51,6 @@
 
  {% endblock %}
  
-<!-- feed rss -->
-
- {% block linktags %}
-  {{ super() }}
-  <link rel="alternate"
-        type="application/rss+xml"
-        title="HfcQGIG News"
-        href="/index.rss" />
-{% endblock %}
 
 <!-- http://hfcqgis.opendatasicilia.it -->  
 
@@ -91,5 +82,11 @@
 		</script>
 		<!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b4bb82cddf7f677"></script>
+
+<!-- feed rss -->
+<link rel="alternate"
+        type="application/rss+xml"
+        title="HfcQGIG News"
+        href="/index.rss" />
 
  {% endblock %}
