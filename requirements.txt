@@ -1,5 +1,4 @@
 sphinxcontrib-newsfeed
-pip>=18.1
 sphinx-rtd-theme
 sphinx
 recommonmark
