@@ -19,6 +19,5 @@ HfcQGIS `rss feed <https://hfcqgis.opendatasicilia.it/it/latest/index.rss>`_ |rs
 
 
 
-
- .. |rss| image:: img/rss.png
+.. |rss| image:: img/rss.png
          :target: https://hfcqgis.opendatasicilia.it/it/latest/index.rss
