@@ -3,3 +3,4 @@ sphinx
 recommonmark
 markdown
 sphinx-markdown-tables
+sphinxcontrib.newsfeed
