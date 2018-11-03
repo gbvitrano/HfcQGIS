@@ -51,6 +51,13 @@
 
  {% endblock %}
  
+ {% block linktags %}
+  {{ super() }}
+  <link rel="alternate"
+        type="application/rss+xml"
+        title="HfcQGIG News"
+        href="/index.rss" />
+{% endblock %}
 
 <!-- http://hfcqgis.opendatasicilia.it -->  
 
