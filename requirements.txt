@@ -1,7 +1,8 @@
-pip==18.1
+sphinxcontrib-newsfeed
+pip>=18.1
 sphinx-rtd-theme
 sphinx
 recommonmark
 markdown
 sphinx-markdown-tables
-sphinxcontrib-newsfeed
+
