@@ -2,9 +2,6 @@
 
 ## Generatore di espressioni più utile.
 
-.. feed-entry ::
-   : data: 2017-01-01
-
 Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!
 
 - Il builder ora mostra la descrizione per i valori definiti dai dati, compreso l'intervallo di valori attesi dall'espressione
