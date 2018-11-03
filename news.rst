@@ -1,5 +1,5 @@
-News/Feed Rss
-==============
+News
+====
 
 HfcQGIS `rss feed <https://hfcqgis.opendatasicilia.it/it/latest/index.rss>`_ |rss|.
 
