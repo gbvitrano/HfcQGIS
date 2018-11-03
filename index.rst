@@ -114,14 +114,7 @@ Disclaimer
         <a href="https://github.com/pigreco/HfcQGIS" title="GitHub repo size in bytesS" target="_blank"><img src="https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-squar" class="immagonobox" alt="" title="GitHub repo size in bytes"/></a>&nbsp;<a href="https://qgis.org/en/site/getinvolved/donations.html" title="Donate to QGIS" target="_blank"><img src="https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square" class="immagonobox" alt="Donate to QGIS" title="Donate to QGIS"/></a>
     </embed>
     
- News
-~~~~~~~~~~~~~~
-  
-.. toctree::
-   :maxdepth: 2
-   
-   news    
-   
+Mappa del sito   
 ~~~~~~~~~~~~~~
   
 .. toctree::
