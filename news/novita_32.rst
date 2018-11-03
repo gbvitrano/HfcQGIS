@@ -2,7 +2,10 @@
 ==============================================
 
 .. feed-entry::
-   :date: 2018-06-22
+    :title: Novità rilevanti introdotte in QGIS 3.2 Bon
+    :link:  http://hfcqgis.opendatasicilia.it/it/latest/release/novita_32.html
+    :description: Novità rilevanti introdotte in QGIS 3.2 Bon
+    :date: 2018-06-22
 
 -  `Il generatore di espressioni ora semplifica la creazione diespressioni in QGIS!`_
 -  `Form drill-down (a cascata) WIDGET Value Relation (Relazione valore)`_
