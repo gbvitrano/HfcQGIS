@@ -2,6 +2,9 @@
 ==============================================
 
 .. feed-entry::
+   :title: Novità rilevanti introdotte in QGIS 3.4 LTR
+   :link:  http://hfcqgis.opendatasicilia.it/it/latest/release/novita_34.html
+   :description: Novità rilevanti introdotte in QGIS 3.4 LTR
    :date: 2018-10-26
    
    
