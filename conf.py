@@ -50,6 +50,7 @@ source_parsers = {
 source_suffix = ['.rst', '.md']
 
 extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
+extensions.append('sphinxcontrib.newsfeed')
 
 # diattivare sphinx_markdown_tables in caso si malfunzionamento del plugin
 # tutte le tabelle markdown non verranno convertite
