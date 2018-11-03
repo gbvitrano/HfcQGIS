@@ -6,6 +6,7 @@ HfcQGIS `rss feed <https://hfcqgis.opendatasicilia.it/it/latest/index.rss>`_ |rs
 .. feed::
    :rss: index.rss
    :title: HfcQGIG News
+   :link: http://hfcqgis.opendatasicilia.it
 
-   novita_32
-   novita_34
+   news/novita_32
+   news/novita_34
