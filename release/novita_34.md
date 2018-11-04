@@ -1,6 +1,6 @@
 # Novità rilevanti introdotte nella 3.4 LTR 26/10/2018
 
-## Nuovo gruppo funzioni nel calcolatore di campi
+## Nuovo/i gruppo/i funzione/i nel calcolatore di campi (le funzioni all'interno del gruppo Array potrebbero essere presenti nel gruppo Arrays)
 ![](/img/novita_34/neo_gruppo2.png)
 
 ## Nuove funzioni
