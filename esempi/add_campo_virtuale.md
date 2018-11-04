@@ -3,11 +3,6 @@
 Facciamo un esempio, geopackage con vettore lineare:
 
 ![](/img/esempi/add_campo_virtuale/add_campo_virt3.png)
-
-
-.. feed-entry::
-   :date: 2018-10-26
-   
    
 selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabella attributi' oppure cliccare sull'icona ![icona_tab_attr](https://docs.qgis.org/2.18/it/_images/mActionOpenTable.png) oppure tasto funzione F6
 
