@@ -8,9 +8,6 @@ selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabe
 
 ![](/img/esempi/add_campo_virtuale/add_campo_virt1.png)
 
-::: {.feed-entry date="2013-12-13"}
-:::
-
 1. attivare editing;
 2. aprire calcolatore di campi ![calc](https://docs.qgis.org/testing/en/_images/mActionCalculateField.png)
 3. crea nuovo campo, crea campo virtuale;
