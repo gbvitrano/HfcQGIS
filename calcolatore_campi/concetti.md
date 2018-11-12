@@ -10,7 +10,7 @@
 8. è possibile **aggiornare** la *geometry* >= QGIS 2.14;
 9. $area, $perimeter ecc.. il $ davanti ad una funzione significa che riguarda la geometry corrente;
 10. i nomi dei layer vanno scritti tra apici semplici `('nome_layer')` mentre i nomi dei campi con doppi apici `("nome_campo")`;
-11. i valori numerici vanno scritti senza apici es: 10, mentre i valori alfanumerici vanno scritti tra apici semplici es: 'Sicilia';
+11. i valori numerici vanno scritti senza apici es: `10`, mentre i valori alfanumerici vanno scritti tra apici semplici es: `'Sicilia'`;
 12. l'anteprima del calcolatore (pto 13 - vedi screenshot) è utile ma non sempre corretta; provate la funzione _to_datetime_;
 13. con il doppio clic è possibile aggiungere funzioni o valori nelle espressioni;
 14. è possibile aggiungere funzioni personalizzate tremite codice Python nel gruppo _Custom_;
