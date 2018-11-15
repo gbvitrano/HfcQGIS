@@ -159,6 +159,10 @@ Geometria
 |                           | geometria con le coordinate x  |           |
 |                           | e y scambiate                  |           |
 +---------------------------+--------------------------------+-----------+
+| `force_rhr`_              | Forza una geometria a          |           |
+|                           | rispettare la regola           |           |
+|                           | della mano destra              | **>=3.6** |
++---------------------------+--------------------------------+-----------+
 | `geom_from_gml`_          | Restituisce una geometria da   |   2.18    |
 |                           | una rappresentazione GML di    |           |
 |                           | una geometria                  |           |
@@ -501,6 +505,7 @@ Geometria
 .. _exterior_ring: exterior_ring.html
 .. _extrude: extrude.html
 .. _flip_coordinates: flip_coordinates.html
+.. _force_rhr: force_rhr.html
 .. _geom_from_gml: geom_from_gml.html
 .. _geom_from_wkt: geom_from_wkt.html
 .. _geom_to_wkt: geom_to_wkt.html
@@ -615,6 +620,7 @@ Geometria
    exterior_ring
    extrude
    flip_coordinates
+   force_rhr
    geom_from_gml
    geom_from_wkt
    geom_to_wkt
