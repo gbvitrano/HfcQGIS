@@ -28,8 +28,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 `Novità rilevanti introdotte in QGIS 3.6 22/02/2019`_
 --------------------------------------------   
    
-- `Nuove funzioni nel gruppo geometria`_
-- `force_rhr`_ 
+- `Nuove funzioni nel gruppo geometria force_rhr`_ 
 
 
 
@@ -48,6 +47,5 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018: novita_32.html
 .. _Novità rilevanti introdotte in QGIS 3.4 LTR 26/10/2018: novita_34.html
 .. _Novità rilevanti introdotte in QGIS 3.6 22/02/2019: novita_36.html
-.. _force_rhr: ../gr_funzioni/geometria/force_rhr.html
-.. _Nuove funzioni nel gruppo geometria: novita_36.html#gruppo-geometria
+.. _Nuove funzioni nel gruppo geometria force_rhr: ../gr_funzioni/geometria/force_rhr.html
 
