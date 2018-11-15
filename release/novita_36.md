@@ -3,5 +3,5 @@
 ## Nuove funzioni
 
 ### Gruppo Geometria
-* [**force_rhr**](./gr_funzioni/geometria/force_rhr.html)
+* [**force_rhr**](../gr_funzioni/geometria/force_rhr.html)
 
