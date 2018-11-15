@@ -23,6 +23,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 - `Cambiata la rappresentazione di array e map nelle espressioni`_
 - `Icone per i tipi di campo nel widget di espressioni`_
 - `Miglioramenti del field calc`_
+- `Miglioramenti help in linea di alcune funzioni`_
 
 
 
