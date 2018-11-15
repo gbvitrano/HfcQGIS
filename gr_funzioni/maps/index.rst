@@ -12,9 +12,9 @@ Arrays`_).
 +--------------------------+----------------------------+-------------+
 | Funzione                 | Descrizione                | Plugin      |
 +==========================+============================+=============+
-| `hstore_to_map`_         | Coverte hstore in map      | ArrayPlus   |
+| `hstore_to_map`_         | Coverte hstore in map      |>= QGIS 3.4  |
 +--------------------------+----------------------------+-------------+
-| `json_to_map`_           | Converte string json in    | ArrayPlus   |
+| `json_to_map`_           | Converte string json in    |>= QGIS 3.4  |
 |                          | map                        |             |
 +--------------------------+----------------------------+-------------+
 | `map`_                   | Restituisce una mappa con  |             |
@@ -49,6 +49,14 @@ Arrays`_).
 | `map_insert`_            | Restituisce una mappa con  |             |
 |                          | una chiave/valore aggiunto |             |
 +--------------------------+----------------------------+-------------+
+| `map_to_hstore`_         | Unisci gli elementi della  |             |
+|                          | mappa in una stringa       |             |
+|                          | formattata in hstore       |>= QGIS 3.4  |
++--------------------------+----------------------------+-------------+
+| `map_to_json`_           | Unisci gli elementi della  |             |
+|                          | mappa in una stringa       |             |
+|                          | formattata con json        |>= QGIS 3.4  |
++--------------------------+----------------------------+-------------+
 
 
 |image0|
@@ -64,6 +72,8 @@ Arrays`_).
 .. _map_exist: map_exist.html
 .. _map_get: map_get.html
 .. _map_insert: map_insert.html
+.. map_to_hstore: map_insert.html
+.. map_to_json: map_insert.html
 
 .. |image0| image:: /img/maps/gruppo_maps1.png
 
@@ -82,4 +92,6 @@ Arrays`_).
    map_exist
    map_get
    map_insert 
+   map_to_hstore
+   map_to_json
    
