@@ -24,3 +24,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    somma_lunghezze_nel_poligono
    punti_in_poligoni_categorie
    nascondi_etichette
+   calcolo_area_poligoni_reticolo
