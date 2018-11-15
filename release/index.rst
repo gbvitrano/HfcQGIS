@@ -29,6 +29,10 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 --------------------------------------------   
    
 - `Elenco funzioni`_
+-  `force_rhr`_ 
+- PR `#8424`_
+
+
 
 
 
@@ -43,3 +47,6 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Miglioramenti help in linea di alcune funzioni: novita_34.html#Miglioramenti del field calc
 .. _Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018: novita_32.html
 .. _Novità rilevanti introdotte in QGIS 3.4 LTR 26/10/2018: novita_34.html
+.. _Novità rilevanti introdotte in QGIS 3.6 22/02/2019: novita_36.html
+.. _force_rhr: ./gr_funzioni/geometria/funzioni/force_rhr.html
+.. _#8424: https://github.com/qgis/QGIS/pull/8424
