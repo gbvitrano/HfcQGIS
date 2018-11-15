@@ -44,3 +44,7 @@ map: one: 1, two: 2, 3: three → `{'one': 1, 'two': 2, 3: 'three'}`
 ## Miglioramenti del field calc
 
 ![](/img/novita_34/miglioramenti.png)
+
+## Miglioramenti help in linea di alcune funzioni
+
+![](/img/novita_34/help_linea.png)
