@@ -25,6 +25,12 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 - `Miglioramenti del field calc`_
 - `Miglioramenti help in linea di alcune funzioni`_
 
+`Novità rilevanti introdotte in QGIS 3.6 22/02/2019`_
+--------------------------------------------   
+   
+- `Elenco funzioni`_
+
+
 
 
 
