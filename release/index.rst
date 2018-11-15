@@ -29,7 +29,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 --------------------------------------------   
    
 - `Funzioni`_
--  `force_rhr`_ 
+- `force_rhr`_ 
 
 
 
