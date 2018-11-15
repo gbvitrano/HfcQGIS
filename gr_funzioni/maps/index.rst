@@ -72,8 +72,8 @@ Arrays`_).
 .. _map_exist: map_exist.html
 .. _map_get: map_get.html
 .. _map_insert: map_insert.html
-.. map_to_hstore: map_to_hstore.html
-.. map_to_json: map_to_json.html
+.. _map_to_hstore: map_to_hstore.html
+.. _map_to_json: map_to_json.html
 
 .. |image0| image:: /img/maps/gruppo_maps1.png
 
