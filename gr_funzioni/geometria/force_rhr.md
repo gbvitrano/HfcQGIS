@@ -22,3 +22,7 @@ force_rhr(_geometry_)
 --
 
 ## osservazioni
+
+Ecco un esempio pratico della funzione (presente anche nelgli strumenti fi processing) ovvero un poligono disegnato in senso antiorario viene forzato in senso orario e l'etichettature è visibile correttamente.
+
+![](/img/geometria/force_rhr/force_rhr.gif)
