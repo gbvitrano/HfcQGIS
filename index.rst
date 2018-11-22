@@ -34,7 +34,7 @@ Contenuti:
    esempi/index
 
 .. toctree::
-   :glob:
+    :maxdepth: 2
     
    release/index
    
