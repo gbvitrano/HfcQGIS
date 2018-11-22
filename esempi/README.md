@@ -21,4 +21,5 @@ Esempio|Descrizione
 [conta punti nel poligono categorizzati](punti_in_poligoni_categorie.md)|Contare i punti nel poligono per categorie
 [nascondi etichette](nascondi_etichette.md)|Nasconde etichette tra due layer sovrapposti
 [calcolo area poligoni nel reticolo](calcolo_area_poligoni_reticolo.md)|Calcolare l’area delle porzioni di poligoni che ricadono dentro ad una cella di un reticolo
+[spatial join](spatial_join.md)|Trasferire un attributo usando le relazioni spaziali
 
