@@ -25,3 +25,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    punti_in_poligoni_categorie
    nascondi_etichette
    calcolo_area_poligoni_reticolo
+   spatial_join
