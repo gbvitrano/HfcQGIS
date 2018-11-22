@@ -49,7 +49,8 @@ source_parsers = {
 
 source_suffix = ['.rst', '.md']
 
-extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables','sphinxcontrib.newsfeed']
+extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
+#extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables','sphinxcontrib.newsfeed']
 #extensions.append('sphinxcontrib.newsfeed')
 
 # diattivare sphinx_markdown_tables in caso si malfunzionamento del plugin
