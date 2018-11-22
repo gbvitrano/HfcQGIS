@@ -31,13 +31,6 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 - `force_rhr`_ 
 
 
-.. toctree::
-   :hidden:
-   
-  novita_32
-  novita_34
-  novita_36
-
 
 
 
