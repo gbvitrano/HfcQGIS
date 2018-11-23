@@ -2223,7 +2223,22 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://hfcqgis.opendatasicilia.it/it/latest/esempi/novita_34.htmll</loc>
+  <loc>http://hfcqgis.opendatasicilia.it/it/latest/esempi/novita_34.html</loc>
+  <lastmod>2018-07-29T07:18:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hfcqgis.opendatasicilia.it/it/latest/release/novita_36.html</loc>
+  <lastmod>2018-07-29T07:18:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hfcqgis.opendatasicilia.it/it/latest/esempi/calcolo_area_poligoni_reticolo.html</loc>
+  <lastmod>2018-07-29T07:18:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hfcqgis.opendatasicilia.it/it/latest/esempi/spatial_join.html</loc>
   <lastmod>2018-07-29T07:18:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>

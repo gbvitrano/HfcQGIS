@@ -34,7 +34,9 @@
 		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/conta_punti_in_poligono.html">Conta i punti nel poligono</a></li>
 		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/somma_lunghezze_nel_poligono.html">Somma lunghezze nel poligono</a></li>
 		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/punti_in_poligoni_categorie.html">Contare i punti nel poligono per categorie</a></li>
-	      <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/nascondi_etichette.html">Nascondi etichette</a></li>  	      
+	    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/nascondi_etichette.html">Nascondi etichette</a></li>  
+		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/calcolo_area_poligoni_reticolo.html">Calcolo area poligoni all’interno di un reticoli</a></li>  
+	    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/spatial_join.html">Spatial join</a></li>  
 		</ul>
     </li>
   </ul>
@@ -42,7 +44,9 @@
     <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/release/index.html"><strong>Novità</strong></a>
       <ul>
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_3.2.html">Novità rilevanti introdotte nella 3.2</a></li>
-	<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_34.html">Novità rilevanti introdotte in QGIS 3.4 LTR </a></li>
+	    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_34.html">Novità rilevanti introdotte in QGIS 3.4 LTR </a></li>
+	    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_36.html">Novità rilevanti introdotte in QGIS 3.6</a></li>
+		
       </ul>
     </li>
   </ul>
