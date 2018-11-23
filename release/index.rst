@@ -5,6 +5,6 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. toctree::
    :maxdepth: 1
    
-    novita_32
-    novita_34
-    novita_36
+   novita_32
+   novita_34
+   novita_36
