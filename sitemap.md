@@ -46,8 +46,7 @@
         <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_3.2.html">Novità rilevanti introdotte nella 3.2</a></li>
 	    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_34.html">Novità rilevanti introdotte in QGIS 3.4 LTR </a></li>
 	    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/release/novita_36.html">Novità rilevanti introdotte in QGIS 3.6</a></li>
-		
-      </ul>
+		</ul>
     </li>
   </ul>
   <ul>
