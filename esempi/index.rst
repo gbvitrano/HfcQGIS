@@ -26,3 +26,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    nascondi_etichette
    calcolo_area_poligoni_reticolo
    spatial_join
+   unica_etichetta_più_poligoni
