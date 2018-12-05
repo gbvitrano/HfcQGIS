@@ -22,4 +22,5 @@ Esempio|Descrizione
 [nascondi etichette](nascondi_etichette.md)|Nasconde etichette tra due layer sovrapposti
 [calcolo area poligoni nel reticolo](calcolo_area_poligoni_reticolo.md)|Calcolare l’area delle porzioni di poligoni che ricadono dentro ad una cella di un reticolo
 [spatial join](spatial_join.md)|Trasferire un attributo usando le relazioni spaziali
+[unica label](unica_etichetta_più_poligoni.md)|Unica label per più poligoni
 
