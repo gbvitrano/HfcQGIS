@@ -36,7 +36,8 @@
 		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/punti_in_poligoni_categorie.html">Contare i punti nel poligono per categorie</a></li>
 	    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/nascondi_etichette.html">Nascondi etichette</a></li>  
 		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/calcolo_area_poligoni_reticolo.html">Calcolo area poligoni all’interno di un reticoli</a></li>  
-	    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/spatial_join.html">Spatial join</a></li>  
+	    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/spatial_join.html">Spatial join</a></li> 
+	      <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/unica_etichetta_più_poligoni.html">Etichettare più poligoni con unica label</a></li> 
 		</ul>
     </li>
   </ul>
