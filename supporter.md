@@ -13,6 +13,7 @@ nro| contributo| luogo| messaggio
 4| Federico Gianoli|Italia |Grazie per quello che fai per la comunità di QGIS. Il mio è, purtroppo, solo un gesto simbolico per dimostrarti che apprezzo moltissimo il tuo lavoro ed i tuoi sforzi per la comunità.;
 5| Giacomo Amerio|Italia|--
 6| Luca Bellami | Messico|un contributo davvero piccolo per l'enorme lavoro che fai per la comunitá! un abbraccio Luca
+7| Roberto Montagnetti | Inghilterra | Un piccolo modesto supporto alle attività di Pigrecoinfinito
 
 
 ## Contributi in conoscenza su HfcQGIS
