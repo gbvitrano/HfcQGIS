@@ -5,3 +5,10 @@
 ### Gruppo Geometria
 * [**force_rhr**](../gr_funzioni/geometria/force_rhr.html)
 
+## Interfaccia calcolatore campi
+
+### sposta la casella di gruppo valore nell'area di aiuto
+
+![screen](/img/novita_36/img1.png)
+
+
