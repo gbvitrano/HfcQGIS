@@ -30,7 +30,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
    
 - `force_rhr`_ 
 - `sposta la casella di gruppo valore nell'area di aiuto`_
-- `Show Help-Values`_
+- `show help-values`_
 
 
 
