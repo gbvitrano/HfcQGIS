@@ -47,4 +47,4 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Novità rilevanti introdotte in QGIS 3.6 22/02/2019: novita_36.html
 .. _force_rhr: ../gr_funzioni/geometria/force_rhr.html
 .. _sposta la casella di gruppo valore nell'area di aiuto: ../release/novita_36.html#sposta-la-casella-di-gruppo-valore-nell-area-di-aiuto
-.. _sposta la casella di gruppo valore nell'area di aiuto: ../release/novita_36.html#Show Help-Values
+.. _sposta la casella di gruppo valore nell'area di aiuto: ../release/novita_36.html#show-help-values
