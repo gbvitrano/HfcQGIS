@@ -11,4 +11,6 @@
 
 ![screen](/img/novita_36/img1.png)
 
+### Show Help-Values
 
+![screen](/img/novita_36/img2.gif) 
