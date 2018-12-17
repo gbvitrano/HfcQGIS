@@ -19,9 +19,8 @@
 
 ## Commenti per documentare espressione
 
-<p align="center">
-  <img width="600" src="../img/finestra_field_calc/commenti.png">
-</p> 
+![screen](../img/finestra_field_calc/commenti.png)
+
 
 ## Interfaccia calcolatore di campi e finestre nascoste
 
