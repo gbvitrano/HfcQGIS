@@ -32,7 +32,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 - `decode_uri`_
 - `sposta la casella di gruppo valore nell'area di aiuto`_
 - `Show Help-Values`_
-- `Show Help-Values`_
+- `Abilita l'uso di parentesi quadre per le map e array`_
 
 
 
