@@ -48,7 +48,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Novità rilevanti introdotte in QGIS 3.4 LTR 26/10/2018: novita_34.html
 .. _Novità rilevanti introdotte in QGIS 3.6 22/02/2019: novita_36.html
 .. _force_rhr: ../gr_funzioni/geometria/force_rhr.html
-.. _decode_uri: ../gr_funzioni/layer_delle_mappe/decode_uri.html
+.. _decode_uri: ../gr_funzioni/layer_della_mappa/decode_uri.html
 .. _sposta la casella di gruppo valore nell'area di aiuto: novita_36.html#sposta-la-casella-di-gruppo-valore-nell-area-di-aiuto
 .. _Show Help-Values: novita_36.html#show-help-values
 .. _Abilita l'uso di parentesi quadre per le map e array: novita_36.html#abilita-luso-di-parentesi-quadre-per-le-map-e-array
