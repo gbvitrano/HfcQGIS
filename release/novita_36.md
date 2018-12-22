@@ -4,7 +4,7 @@
 
 ### Gruppo Geometria
 * [**force_rhr**](../gr_funzioni/geometria/force_rhr.html)
-* [**decode_uri**](../gr_funzioni/layer_della_mappe/decode_uri.html)
+* [**decode_uri**](../gr_funzioni/layer_della_mappa/decode_uri.html)
 
 ## Interfaccia calcolatore campi
 
