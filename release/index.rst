@@ -28,7 +28,8 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 `Novità rilevanti introdotte in QGIS 3.6 22/02/2019`_
 --------------------------------------------   
    
-- `force_rhr`_ 
+- `force_rhr`_
+- `decode_uri`_
 - `sposta la casella di gruppo valore nell'area di aiuto`_
 - `Show Help-Values`_
 
