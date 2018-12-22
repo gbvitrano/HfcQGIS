@@ -16,7 +16,7 @@
 
 ![screen](/img/novita_36/img2.gif) 
 
-### Abilita uso di parentesi quadre per le map e array
+### Abilita l'uso di parentesi quadre per le map e array
 
 ![screen](/img/novita_36/img2.png)
 
