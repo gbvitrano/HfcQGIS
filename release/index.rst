@@ -51,4 +51,4 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _decode_uri: ../gr_funzioni/layer_della_mappa/decode_uri.html
 .. _sposta la casella di gruppo valore nell'area di aiuto: novita_36.html#sposta-la-casella-di-gruppo-valore-nell-area-di-aiuto
 .. _Show Help-Values: novita_36.html#show-help-values
-.. _Abilita l'uso di parentesi quadre per le map e array: novita_36.html#abilita-uso-di-parentesi-quadre-per-le-map-e-array
+.. _Abilita l'uso di parentesi quadre per le map e array: novita_36.html#abilita-l-uso-di-parentesi-quadre-per-le-map-e-array
