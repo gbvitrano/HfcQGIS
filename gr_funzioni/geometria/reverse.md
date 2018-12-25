@@ -1,6 +1,6 @@
 # reverse
 
-Inverte la direzione di una linestring invertendo l'ordine dei sui vertici
+Inverte il verso di una linestring invertendo l'ordine dei sui vertici
 
 ## Sintassi
 
