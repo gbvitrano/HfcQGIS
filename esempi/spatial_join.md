@@ -14,6 +14,11 @@ avviare il calcolatore di campi e creare un nuovo campo 'COD_REG' Integer (9) e 
 aggregate(layer:='Reg01012018_g', aggregate:='concatenate', expression:=to_string("COD_REG"), 
 filter:=intersects( Buffer($geometry,-10), geometry(@parent) ),concatenator:='-') 
 ```
+
+L'espressione di sopra in linguaggio umano:
+
+aggrega, usando il layer _Reg01012018_g_, il campo _COD_REG_ in modo da rispettare la relazione spaziale (filter:=) tra regioni `(geometry(@parent))` e province `($geometry)`.
+
 Step:
 
 seleziono il layer _ProvCM01012018_g_, clicco sull'icona del calcolatore di campi:
