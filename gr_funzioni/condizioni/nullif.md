@@ -1,4 +1,4 @@
-## Funzione `nullif`
+# nullif
 
 Restituisce un valore nullo se _value1_ è uguale a _value2_; altrimenti restituisce _value1_. Questo può essere usato per sostituire in modo condizionale i valori con `NULL`.
 
