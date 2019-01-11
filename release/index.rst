@@ -33,6 +33,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 - `sposta la casella di gruppo valore nell'area di aiuto`_
 - `Show Help-Values`_
 - `Abilita l'uso di parentesi quadre per le map e array`_
+- `nullif`_
 
 
 
@@ -52,3 +53,4 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _sposta la casella di gruppo valore nell'area di aiuto: novita_36.html#sposta-la-casella-di-gruppo-valore-nell-area-di-aiuto
 .. _Show Help-Values: novita_36.html#show-help-values
 .. _Abilita l'uso di parentesi quadre per le map e array: novita_36.html#abilita-l-uso-di-parentesi-quadre-per-le-map-e-array
+.. _nullif: ../gr_funzioni/condizioni/nullif.html
