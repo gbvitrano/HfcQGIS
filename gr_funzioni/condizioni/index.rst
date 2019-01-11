@@ -28,6 +28,14 @@ nelle espressioni.
 |                                 | all'interno di una stringa, o 0 se |
 |                                 | la sottostringa non viene trovata  |
 +---------------------------------+------------------------------------+
+| `nullif`_                      | Restituisce un valore nullo se     |
+|                                 | value1 è uguale a value2; 		   |
+|                                 | altrimenti restituisce value1.     |
+|                                 | Questo può essere usato per        |
+|                                 | sostituirein modo condizionale i   |
+|                                 | valori con NULL                    |
++---------------------------------+------------------------------------+
+
 
 |image0|
 
@@ -35,6 +43,8 @@ nelle espressioni.
 .. _coalesce: coalesce.html
 .. _if: if.html
 .. _regexp_match: regexp_match.html
+.. _nullif: nullif.html
+
 
 .. |image0| image:: /img/condizioni/gruppo_condizioni1.png
 
@@ -48,6 +58,7 @@ nelle espressioni.
    coalesce
    if
    regexp_match
+   nullif
    
    
    
