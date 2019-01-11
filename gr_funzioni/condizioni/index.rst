@@ -36,7 +36,6 @@ nelle espressioni.
 |                                 | valori con NULL                    |
 +---------------------------------+------------------------------------+
 
-
 |image0|
 
 .. _CASE: case.html
