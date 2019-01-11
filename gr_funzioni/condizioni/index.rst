@@ -28,8 +28,8 @@ nelle espressioni.
 |                                 | all'interno di una stringa, o 0 se |
 |                                 | la sottostringa non viene trovata  |
 +---------------------------------+------------------------------------+
-| `nullif`_                      | Restituisce un valore nullo se     |
-|                                 | value1 è uguale a value2; 		   |
+| `nullif`_                      | Restituisce un valore nullo se      |
+|                                 | value1 è uguale a value2; 		     |
 |                                 | altrimenti restituisce value1.     |
 |                                 | Questo può essere usato per        |
 |                                 | sostituirein modo condizionale i   |
