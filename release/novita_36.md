@@ -5,6 +5,7 @@
 ### Gruppo Geometria
 * [**force_rhr**](../gr_funzioni/geometria/force_rhr.html)
 * [**decode_uri**](../gr_funzioni/layer_della_mappa/decode_uri.html)
+* [**nullif**](../gr_funzioni/condizioni/nullif.html)
 
 ## Interfaccia calcolatore campi
 
