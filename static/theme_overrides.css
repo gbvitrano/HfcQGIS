@@ -29,9 +29,10 @@ background-color: rgba(27,31,35,0.05) !important;
    }}
    
     /* Sfondo e bordi tabelle */
-.wy-table-odd td, .wy-table-striped tr:nth-child(2n-1) td, 
-.rst-content table.docutils:not(.field-list) tr:nth-child(2n-1) td { 
- background-color: #e1e4e5 !important; } 
+.wy-table-odd td, .wy-table-striped tr:nth-child(2n-1) td, .rst-content table:not(.field-list).docutils tr:nth-child(2n-1) td {
+    background-color: #e1e4e5;
+}
+
 
 /*.wy-table-bordered-all td, 
 .rst-content table.docutils td {
