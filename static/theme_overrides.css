@@ -21,6 +21,7 @@ background-color: rgba(27,31,35,0.05) !important;
       /* !important prevents the common CSS stylesheets from overriding
          this as on RTD they are loaded after this stylesheet */
       white-space: normal !important;
+	  border: 1px solid #e1e4e5 !important;
    }
 
    .wy-table-responsive {
@@ -32,9 +33,9 @@ background-color: rgba(27,31,35,0.05) !important;
 .rst-content table.docutils:not(.field-list) tr:nth-child(2n-1) td { 
  background-color: #e1e4e5 !important; } 
 
-.wy-table-bordered-all td, 
+/*.wy-table-bordered-all td, 
 .rst-content table.docutils td {
-	 border: 1px solid #e1e4e5 !important; }
+	 border: 1px solid #e1e4e5 !important; }*/
 
 
 /* Colore Titolo*/
