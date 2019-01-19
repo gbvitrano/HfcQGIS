@@ -57,4 +57,4 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Abilita l'uso di parentesi quadre per le map e array: novita_36.html#abilita-l-uso-di-parentesi-quadre-per-le-map-e-array
 .. _nullif: ../gr_funzioni/condizioni/nullif.html
 .. _make_rectangle_3points: ../gr_funzioni/geometria/make_rectangle_3points.html
-.. _make_square: ../gr_funzioni/geometria/nullif.html
+.. _make_square: ../gr_funzioni/geometria/make_square.html
