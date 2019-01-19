@@ -1,4 +1,4 @@
-## Funzione `make_square`
+# make_square
 
 Crea un quadrato da una diagonale.
 
