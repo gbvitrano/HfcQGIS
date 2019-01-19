@@ -1,4 +1,4 @@
-## Funzione `make_rectangle_3points`
+# make_rectangle_3points
 
 Crea un rettangolo da 3 punti.
 
