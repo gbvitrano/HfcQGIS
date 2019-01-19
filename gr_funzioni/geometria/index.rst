@@ -276,8 +276,13 @@ Geometria
 |                           | opzionalmente da geometrie ad  |           |
 |                           | anello interne                 |           |
 +---------------------------+--------------------------------+-----------+
+| `make_rectangle_3points`_ |Crea un rettangolo da tre punti |**>=3.6**  |
++---------------------------+--------------------------------+-----------+
 | `make_regular_polygon`_   | Crea un poligono regolare      | **>=3.0** |
 |                           |                                |           |
++---------------------------+--------------------------------+-----------+
+| `make_square`_            |Crea un quadrato da una         |           |
+|                           |  diagonale                     |**>=3.6**  |
 +---------------------------+--------------------------------+-----------+
 | `make_triangle`_          | Crea un poligono triangolare   | **>=3.0** |
 |                           |                                |           |
@@ -531,7 +536,9 @@ Geometria
 .. _make_point: make_point.html
 .. _make_point_m: make_point_m.html
 .. _make_polygon: make_polygon.html
+.. _make_rectangle_3points: make_rectangle_3points.html
 .. _make_regular_polygon: make_regular_polygon.html
+.. _make_square: make_square.html
 .. _make_triangle: make_triangle.html
 .. _minimal_circle: minimal_circle.html
 .. _nodes_to_points: nodes_to_points.html
@@ -646,7 +653,9 @@ Geometria
    make_point
    make_point_m
    make_polygon
+   make_rectangle_3points
    make_regular_polygon
+   make_square
    make_triangle
    minimal_circle
    nodes_to_points
