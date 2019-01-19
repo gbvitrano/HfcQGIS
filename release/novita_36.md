@@ -4,6 +4,8 @@
 
 ### Gruppo Geometria
 * [**force_rhr**](../gr_funzioni/geometria/force_rhr.html)
+* [**make_rectangle_3points**](../gr_funzioni/geometria/make_rectangle_3points.html)
+* [**make_square**](../gr_funzioni/geometria/make_square.html)
 
 ### Gruppo layer della mappa
 * [**decode_uri**](../gr_funzioni/layer_della_mappa/decode_uri.html)
