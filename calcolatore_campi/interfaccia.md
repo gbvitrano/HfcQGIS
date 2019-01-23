@@ -24,7 +24,7 @@
 
 ## Interfaccia calcolatore di campi e finestre nascoste
 
-Nel caso risulti nascosta la sezione Gruppi funzioni:
+Nel caso risulti nascosta la sezione Gruppi funzioni (vale fino alla QGIS 3.4):
 
 ![interfaccia](../img/finestra_field_calc/hfcqgis_gruppi.gif)
 
