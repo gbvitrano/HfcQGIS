@@ -23,4 +23,6 @@ Esempio|Descrizione
 [calcolo area poligoni nel reticolo](calcolo_area_poligoni_reticolo.md)|Calcolare l’area delle porzioni di poligoni che ricadono dentro ad una cella di un reticolo
 [spatial join](spatial_join.md)|Trasferire un attributo usando le relazioni spaziali
 [unica label](unica_etichetta_più_poligoni.md)|Unica label per più poligoni
+[elenco comuni](elenco_comuni_attraversati_fiume.md)|Come ottenere l'elenco dei Comuni attraversati da un fiume
+[rotazione pattern lineare](rotazione_pattern.md)|Come ruotare un pattern lineare in funzione della feature
 
