@@ -27,3 +27,5 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    calcolo_area_poligoni_reticolo
    spatial_join
    unica_etichetta_più_poligoni
+   elenco_comuni_attraversati_fiume
+   rotazione_pattern
