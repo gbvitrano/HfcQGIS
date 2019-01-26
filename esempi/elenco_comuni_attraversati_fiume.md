@@ -36,4 +36,4 @@ ecco la tabella attributi:
 
 ### prova tu
 
-[dati e progetto QGIS 3.4](https://github.com/gbvitrano/HfcQGIS/blob/master/prova_tu/elenco_comuni.zip?raw=true)
+[dati e progetto QGIS 3.4](https://github.com/gbvitrano/HfcQGIS/raw/master/prova_tu/elenco_comuni.zip)
