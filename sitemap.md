@@ -37,7 +37,9 @@
 	    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/nascondi_etichette.html">Nascondi etichette</a></li>  
 		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/calcolo_area_poligoni_reticolo.html">Calcolo area poligoni all’interno di un reticoli</a></li>  
 	    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/spatial_join.html">Spatial join</a></li> 
-	      <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/unica_etichetta_più_poligoni.html">Etichettare più poligoni con unica label</a></li> 
+	    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/unica_etichetta_più_poligoni.html">Etichettare più poligoni con unica label</a></li> 
+		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/elenco_comuni_attraversati_fiume.html">Elenco Comuni</a></li>  
+		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/rotazione_pattern.html">Rotazione di pattern lineare</a></li>   
 		</ul>
     </li>
   </ul>
