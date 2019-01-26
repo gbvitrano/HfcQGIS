@@ -12,6 +12,9 @@ Arrays`_).
 +--------------------------+----------------------------+-------------+
 | Funzione                 | Descrizione                | Plugin      |
 +==========================+============================+=============+
+|`from_json`_              |Carica una stringa          |>= QGIS 3.6  |
+|                          |formattata JSON             |             |
++--------------------------+----------------------------+-------------+
 | `hstore_to_map`_         | Coverte hstore in map      |>= QGIS 3.4  |
 +--------------------------+----------------------------+-------------+
 | `json_to_map`_           | Converte string json in    |>= QGIS 3.4  |
@@ -57,11 +60,15 @@ Arrays`_).
 |                          | mappa in una stringa       |             |
 |                          | formattata con json        |>= QGIS 3.4  |
 +--------------------------+----------------------------+-------------+
-
+| `to_json`_               | Creare una stringa in      | >= QGIS 3.6 |
+|                          | formato JSON da una mappa, |             |
+|                          | array o altro valore       |             |
++--------------------------+----------------------------+-------------+
 
 |image0|
 
 .. _gruppo Arrays: ../arrays
+.. _from_json: from_json.html
 .. _hstore_to_map: hstore_to_map.html
 .. _json_to_map: json_to_map.html
 .. _map: map.html
@@ -74,6 +81,7 @@ Arrays`_).
 .. _map_insert: map_insert.html
 .. _map_to_hstore: map_to_hstore.html
 .. _map_to_json: map_to_json.html
+.. _to_json: to_json.html
 
 .. |image0| image:: /img/maps/gruppo_maps1.png
 
@@ -82,6 +90,7 @@ Arrays`_).
 .. toctree::
    :maxdepth: 3
    
+   from_json
    hstore_to_map
    json_to_map
    map
@@ -94,4 +103,5 @@ Arrays`_).
    map_insert 
    map_to_hstore
    map_to_json
+   to_json
    
