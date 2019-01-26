@@ -1,4 +1,4 @@
-## Funzione `from_json`
+# from_json
 
 Carica una stringa formattata JSON
 
