@@ -36,6 +36,8 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 - `nullif`_
 - `make_rectangle_3points`_
 - `make_square`_
+- `from_json`_
+- `to_json`_
 
 
 
@@ -58,3 +60,5 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _nullif: ../gr_funzioni/condizioni/nullif.html
 .. _make_rectangle_3points: ../gr_funzioni/geometria/make_rectangle_3points.html
 .. _make_square: ../gr_funzioni/geometria/make_square.html
+.. _from_json: ../gr_funzioni/maps/from_json.html
+.. _to_json: ../gr_funzioni/maps/to_json.html
