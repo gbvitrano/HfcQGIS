@@ -26,7 +26,7 @@ espressione:
 
 prova tu usando in file qml:
 
-[file QML](https://github.com/gbvitrano/HfcQGIS/blob/master/prova_tu/rotazione_pattern_lineare.zip)
+[file QML](https://github.com/gbvitrano/HfcQGIS/raw/master/prova_tu/rotazione_pattern_lineare.zip)
 
 
 
