@@ -1,4 +1,4 @@
-## Funzione `to_json`
+# to_json
 
 Creare una stringa in formato JSON da una mappa, array o altro valore.
 
