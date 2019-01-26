@@ -13,6 +13,10 @@
 ## Gruppo Condizioni
 * [**nullif**](../gr_funzioni/condizioni/nullif.html)
 
+### Gruppo maps
+* [**from_json**](./gr_funzioni/maps/funzioni/from_json.md)
+* [**to_json**](./gr_funzioni/maps/funzioni/to_json.md)
+
 ## Interfaccia calcolatore campi
 
 ### sposta la casella di gruppo valore nell'area di aiuto
