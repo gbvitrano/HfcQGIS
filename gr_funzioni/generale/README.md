@@ -8,7 +8,6 @@ Questo gruppo contiene un'assortimento di funzioni generiche.
 |[eval](eval.html)|Valuta una espressione che viene passata in una stringa. Molto utile per espandere parametri dinamici passati come variabili contestuali o campi|
 |[is_layer_visible](is_layer_visible.html)|Restituisce vero se uno specifico layer è visibile - visibile solo nel caso di tematizzazioni|
 |[layer_property](layer_property.html)|Restituisce una proprietà del layer corrispondente o un valore dei metadati|
-|[raster_statistic](raster_statistic.html)|Restituisce statistiche da un raster.|
 |[var](var.html)|	Restituisce il valore memorizzato in una variabile specificata|
 |[with_variable](with_variable.html)|Questa funzione imposta una variabile per qualunque codice di espressione che sarà fornita come argomento terzo. Questo è utile solamente per espressioni complicate, in cui lo stesso valore calcolato deve essere usato in posti differenti|
 
