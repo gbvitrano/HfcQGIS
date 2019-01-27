@@ -20,9 +20,6 @@ Questo gruppo contiene un'assortimento di funzioni generiche.
 |                                 | layer corrispondente o un valore   |
 |                                 | dei metadati                       |
 +---------------------------------+------------------------------------+
-| `raster_statistic`_             | Restituisce statistiche da un      |
-|                                 | raster.                            |
-+---------------------------------+------------------------------------+
 | `var`_                          | Restituisce il valore memorizzato  |
 |                                 | in una variabile specificata       |
 +---------------------------------+------------------------------------+
@@ -38,7 +35,6 @@ Questo gruppo contiene un'assortimento di funzioni generiche.
 .. _eval: eval.html
 .. _is_layer_visible: is_layer_visible.html
 .. _layer_property: layer_property.html
-.. _raster_statistic: raster_statistic.html
 .. _var: var.html
 .. _with_variable: with_variable.html
 
