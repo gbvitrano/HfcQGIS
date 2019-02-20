@@ -29,3 +29,5 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    unica_etichetta_più_poligoni
    elenco_comuni_attraversati_fiume
    rotazione_pattern
+   numerazione_poligoni_rel_spaziale
+   assegnare_cat_prevalente
