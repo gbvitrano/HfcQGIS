@@ -27,6 +27,6 @@ concatenator:=',')
 
 **PS:** occorre installare il plugin [ArrayPlus](https://framagit.org/jbdesbas/arrayPlus) in modo da poter usare la funzione [array_majority](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/arrays/array_majority.html).
 
-## Prova tu
+Prova tu
 
 [Geopackage](/esempi/dati_esempi.gpkg)
