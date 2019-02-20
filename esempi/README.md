@@ -25,4 +25,6 @@ Esempio|Descrizione
 [unica label](unica_etichetta_più_poligoni.md)|Unica label per più poligoni
 [elenco comuni](elenco_comuni_attraversati_fiume.md)|Come ottenere l'elenco dei Comuni attraversati da un fiume
 [rotazione pattern lineare](rotazione_pattern.md)|Come ruotare un pattern lineare in funzione della feature
+[numerazione poligoni in base a relazione spaziale](numerazione_poligoni_rel_spaziale.md)|Numerazione poligoni in base a relazioni spaziali
+[assegnare categoria prevalente](assegnare_cat_prevalente.md)|Assegnare categoria prevalente
 
