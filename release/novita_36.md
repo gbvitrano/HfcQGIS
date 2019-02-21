@@ -12,6 +12,7 @@
 
 ## Gruppo Condizioni
 * [**nullif**](../gr_funzioni/condizioni/nullif.html)
+* [**try**](../gr_funzioni/condizioni/try.html)
 
 ### Gruppo maps
 * [**from_json**](./gr_funzioni/maps/funzioni/from_json.md)
