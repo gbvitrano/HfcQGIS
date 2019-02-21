@@ -35,12 +35,16 @@ nelle espressioni.
 |                                 | sostituire in modo condizionale i  |
 |                                 | valori con ``NULL``                |
 +---------------------------------+------------------------------------+
+| `try`_                          |Prova un'espressione e restituisce  |
+|                                 |  il suo valore se priva di errori  |
++---------------------------------+------------------------------------+
 
 .. _CASE: case.html
 .. _coalesce: coalesce.html
 .. _if: if.html
 .. _regexp_match: regexp_match.html
 .. _nullif: nullif.html
+.. _try: try.html
 
 |image0|
 
@@ -57,6 +61,7 @@ nelle espressioni.
    if
    regexp_match
    nullif
+   try
    
    
    
