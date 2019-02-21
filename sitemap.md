@@ -40,6 +40,8 @@
 	    <li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/unica_etichetta_più_poligoni.html">Etichettare più poligoni con unica label</a></li> 
 		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/elenco_comuni_attraversati_fiume.html">Elenco Comuni</a></li>  
 		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/rotazione_pattern.html">Rotazione di pattern lineare</a></li>   
+		<li><a href="http://hfcqgis.opendatasicilia.it/it/latest/esempi/numerazione_poligoni_rel_spaziale.html">Numerazione dei poligoni in base alla relazione spaziale</a></li>   
+		<li><a href=http://hfcqgis.opendatasicilia.it/it/latest/esempi/assegnare_cat_prevalente.html">Assegnare categoria prevalente</a></li>   
 		</ul>
     </li>
   </ul>
