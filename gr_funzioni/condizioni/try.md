@@ -1,4 +1,4 @@
-## Funzione `try`
+# try
 
 Prova un'espressione e restituisce il suo valore se priva di errori. Se l'espressione restituisce un errore, verrà restituito un valore alternativo se fornito altrimenti la funzione restituirà null.
 
