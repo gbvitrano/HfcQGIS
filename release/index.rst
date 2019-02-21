@@ -38,6 +38,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 - `make_square`_
 - `from_json`_
 - `to_json`_
+- `try`_
 
 
 
@@ -62,3 +63,4 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _make_square: ../gr_funzioni/geometria/make_square.html
 .. _from_json: ../gr_funzioni/maps/from_json.html
 .. _to_json: ../gr_funzioni/maps/to_json.html
+.. _ty: ../gr_funzioni/condizioni/try.html
