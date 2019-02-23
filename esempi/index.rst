@@ -4,36 +4,34 @@ Questa sezione raccoglie degli esempi pratici e svolti step by step, con molti s
 La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 
 
-=== ============================================================================================= ==================
-nro Esempio                                                                 					  Autore
-1   `Come aggiungere colonna con area [mq]`_                                					  Salvatore Fiandaca
-2   `Come aggiungere le coordinate x e y alla tabella attributi`_          						  Salvatore Fiandaca
-3   `Come aggiungere un campo virtuale`_                                    					  Salvatore Fiandaca
-4   `Come aggiungere la quota z alla tabella attributi`_                    					  Salvatore Fiandaca
-5   `Etichettare usando attibuto geometry`_                                 					  Salvatore Fiandaca
-6   `Aggiornare l’attributo geometry`_                                      					  Salvatore Fiandaca
-7   `Etichettare punti EPSG 4326 sessadecimali in sessagesimali GMS`_       					  Salvatore Fiandaca
-8   `Tematizzare utilizzando la sovrascrittura definita dai dati`_          					  Salvatore Fiandaca
-9   `Espressione regolare: inserire automaticamente un carattere speciale`_ 					  Salvatore Fiandaca
-10  `Selezionare tramite funzioni di aggregazione - caso minimun`_          					  Salvatore Fiandaca
-11  `Calcolo della core area (area interna al poligono al netto di un’area di buffer interna )`_ `Ludovico Frate`_
-12  `Spostare etichetta e generare segmento`_                                                     Salvatore Fiandaca
-13  `Conteggio valori in un campo`_                                                               Salvatore Fiandaca
-14  `Ottenere i centroidi lungo le linee`_                                                        Salvatore Fiandaca
-15  `Conta i punti nel poligono`_                                                                 Salvatore Fiandaca
-16  `Somma lunghezze nel poligono`_                                                               Salvatore Fiandaca
-17  `Contare i punti nel poligono per categorie`_                                                 Martina Savarese
-18  `Nascondi etichette`_                                                                         Salvatore Fiandaca
-19  `Calcolo area poligoni all’interno di un reticoli`_                                           Salvatore Fiandaca
-20  `Spatial join`_     
-21  `Etichettare più poligoni con unica label`_                 								  Salvatore Fiandaca
-22  `Elenco Comuni`_                                            								  Salvatore Fiandaca
-23  `Rotazione di pattern lineare`_                             								  Salvatore Fiandaca
-24  `Numerazione dei poligoni in base alla relazione spaziale`_ 								  Salvatore Fiandaca
-25  `Assegnare categoria prevalente`_                                                             Salvatore Fiandaca
-=== ============================================================================================= ==================
-
-
++---+----------------------------------------------------------------------------------------------+------------------+ 
+|nro| Esempio                                                                 				         |Autore			    |
+|1  | `Come aggiungere colonna con area [mq]`_                                					      |Salvatore Fiandaca|
+|2  | `Come aggiungere le coordinate x e y alla tabella attributi`_          					         |Salvatore Fiandaca|
+|3  | `Come aggiungere un campo virtuale`_                                    					      |Salvatore Fiandaca|
+|4  | `Come aggiungere la quota z alla tabella attributi`_                    					      |Salvatore Fiandaca|
+|5  | `Etichettare usando attibuto geometry`_                                 					      |Salvatore Fiandaca|
+|6  | `Aggiornare l’attributo geometry`_                                      					      |Salvatore Fiandaca|
+|7  | `Etichettare punti EPSG 4326 sessadecimali in sessagesimali GMS`_       					      |Salvatore Fiandaca|
+|8  | `Tematizzare utilizzando la sovrascrittura definita dai dati`_          					      |Salvatore Fiandaca|
+|9  | `Espressione regolare: inserire automaticamente un carattere speciale`_ 					      |Salvatore Fiandaca|
+|10 | `Selezionare tramite funzioni di aggregazione - caso minimun`_          					      |Salvatore Fiandaca|
+|11 | `Calcolo della core area (area interna al poligono al netto di un’area di buffer interna )`_ |`Ludovico Frate`_ |
+|12 | `Spostare etichetta e generare segmento`_                                                    |Salvatore Fiandaca|
+|13 | `Conteggio valori in un campo`_                                                              |Salvatore Fiandaca|
+|14 | `Ottenere i centroidi lungo le linee`_                                                       |Salvatore Fiandaca|
+|15 | `Conta i punti nel poligono`_                                                                |Salvatore Fiandaca|
+|16 | `Somma lunghezze nel poligono`_                                                              |Salvatore Fiandaca|
+|17 | `Contare i punti nel poligono per categorie`_                                                |Martina Savarese  |
+|18 | `Nascondi etichette`_                                                                        |Salvatore Fiandaca|
+|19 | `Calcolo area poligoni all’interno di un reticoli`_                                          |Salvatore Fiandaca|
+|20 | `Spatial join`_     																		                     |Salvatore Fiandaca|
+|21 | `Etichettare più poligoni con unica label`_                 								         |Salvatore Fiandaca|
+|22 |`Elenco Comuni`_                                            								            |Salvatore Fiandaca|
+|23 | `Rotazione di pattern lineare`_                             								         |Salvatore Fiandaca|
+|24 | `Numerazione dei poligoni in base alla relazione spaziale`_ 								         |Salvatore Fiandaca|
+|25 | `Assegnare categoria prevalente`_                                                            |Salvatore Fiandaca|
++---+----------------------------------------------------------------------------------------------+------------------+ 
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
