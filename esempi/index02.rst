@@ -2,84 +2,100 @@ Esempi uso delle funzioni
 ===================================
 Questa sezione raccoglie degli esempi pratici e svolti step by step, con molti screenshot per rendere facile la comprensione di alcune funzioni di base come Area, lunghezza, Buffer ecc...
 La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
++---------------------------+-------------------------------------------+
+| Esempio                   | Descrizione                               |
++===========================+===========================================+
+| `campo area`_             | aggiungere colonna area per calcolo       |
+|                           | superficie                                |
++---------------------------+-------------------------------------------+
+| `campi coordinate`_       | aggiungere colonne coordinate x e y       |
++---------------------------+-------------------------------------------+
+| `campo virtuale`_         | aggiungere campo virtuale                 |
++---------------------------+-------------------------------------------+
+| `campo quota z`_          | aggingere colonna quota con valori z      |
++---------------------------+-------------------------------------------+
+| `etichettare`_            | etichettare usando il campo geometry      |
++---------------------------+-------------------------------------------+
+| `aggiornare geometria`_   | aggiornare il campo geometry              |
++---------------------------+-------------------------------------------+
+| `conversione`_            | etichettare punti da sessadecimali a      |
+|                           | sessagesimali (GG MM SS,ss)               |
++---------------------------+-------------------------------------------+
+| `tematizzare`_            | Tematizzare utilizzando la sovrascrittura |
+|                           | definita dai dati                         |
++---------------------------+-------------------------------------------+
+| `legenda`_                | Legenda con testo lungo, inserimento      |
+|                           | carattere speciale                        |
++---------------------------+-------------------------------------------+
+| `selezione`_              | Seleziona usando le funzioni di           |
+|                           | aggregazione                              |
++---------------------------+-------------------------------------------+
+| `core area`_              | Calcola la core area di un poligono       |
++---------------------------+-------------------------------------------+
+| `sposta etichette`_       | Sposta etichetta e genera segmento        |
++---------------------------+-------------------------------------------+
+| `conteggio valori`_       | Conteggio valori in un campo              |
++---------------------------+-------------------------------------------+
+| `centroid lungo le        | Centroide lungo le linee                  |
+| linee`_                   |                                           |
++---------------------------+-------------------------------------------+
+| `conta punti nel          | Conta i punti nel poligono                |
+| poligono`_                |                                           |
++---------------------------+-------------------------------------------+
+| `somma lunghezze nel      | Somma lunghezze linee dentro il poligono  |
+| poligono`_                |                                           |
++---------------------------+-------------------------------------------+
+| `conta punti nel poligono | Contare i punti nel poligono per          |
+| categorizzati`_           | categorie                                 |
++---------------------------+-------------------------------------------+
+| `nascondi etichette`_     | Nasconde etichette tra due layer          |
+|                           | sovrapposti                               |
++---------------------------+-------------------------------------------+
+| `calcolo area poligoni    | Calcolare l’area delle porzioni di        |
+| nel reticolo`_            | poligoni che ricadono dentro ad una cella |
+|                           | di un reticolo                            |
++---------------------------+-------------------------------------------+
+| `spatial join`_           | Trasferire un attributo usando le         |
+|                           | relazioni spaziali                        |
++---------------------------+-------------------------------------------+
+| `unica label`_            | Unica label per più poligoni              |
++---------------------------+-------------------------------------------+
+| `elenco comuni`_          | Come ottenere l'elenco dei Comuni         |
+|                           | attraversati da un fiume                  |
++---------------------------+-------------------------------------------+
+| `rotazione pattern        | Come ruotare un pattern lineare in        |
+| lineare`_                 | funzione della feature                    |
++---------------------------+-------------------------------------------+
+| `numerazione poligoni in  | Numerazione poligoni in base a relazioni  |
+| base a relazione          | spaziali                                  |
+| spaziale`_                |                                           |
++---------------------------+-------------------------------------------+
+| `assegnare categoria      | Assegnare categoria prevalente            |
+| prevalente`_              |                                           |
++---------------------------+-------------------------------------------+
 
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-|  #  | Esempio                                                                 				              | Autore			       |
-+=====+===============================================================================================+====================+
-| 1   | `Come aggiungere colonna con area [mq]`_                                					            | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 2   | `Come aggiungere le coordinate x e y alla tabella attributi`_          				                | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 3   | `Come aggiungere un campo virtuale`_                                    					            | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+-------------------+ 
-| 4   | `Come aggiungere la quota z alla tabella attributi`_                    					            | Salvatore Fiandaca | 
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 5   | `Etichettare usando attibuto geometry`_                                 					            | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 6   | `Aggiornare l’attributo geometry`_                                      					            | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 7   | `Etichettare punti EPSG 4326 sessadecimali in sessagesimali GMS`_       					            | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 8   | `Tematizzare utilizzando la sovrascrittura definita dai dati`_          					            | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 9   | `Espressione regolare: inserire automaticamente un carattere speciale`_ 					            | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 10  | `Selezionare tramite funzioni di aggregazione - caso minimun`_          					            | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 11  | `Calcolo della core area (area interna al poligono al netto di un’area di buffer interna )`_  | `Ludovico Frate`_  |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 12  | `Spostare etichetta e generare segmento`_                                                     | Salvatore Fiandaca | 
-+-----+------------------------------------------------------------------------------------------------+-------------------+ 
-| 13  | `Conteggio valori in un campo`_                                                               | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 14  | `Ottenere i centroidi lungo le linee`_                                                        | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 15  | `Conta i punti nel poligono`_                                                                 | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 16  | `Somma lunghezze nel poligono`_                                                               | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 17  | `Contare i punti nel poligono per categorie`_                                                 | Martina Savarese   |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 18  | `Nascondi etichette`_                                                                         | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 19  | `Calcolo area poligoni all’interno di un reticoli`_                                           | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 20  | `Spatial join`_     																		                                      | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 21  | `Etichettare più poligoni con unica label`_                 								                  | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 22  |`Elenco Comuni`_                                            								                    | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 23  | `Rotazione di pattern lineare`_                             								                  | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 24  | `Numerazione dei poligoni in base alla relazione spaziale`_ 								                  | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-| 25  | `Assegnare categoria prevalente`_                                                             | Salvatore Fiandaca |
-+-----+-----------------------------------------------------------------------------------------------+--------------------+ 
-
-.. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
-.. _Come aggiungere le coordinate x e y alla tabella attributi: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_coord_xy.html
-.. _Come aggiungere un campo virtuale: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_campo_virtuale.html
-.. _Come aggiungere la quota z alla tabella attributi: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_z.html
-.. _Etichettare usando attibuto geometry: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichette.html
-.. _Aggiornare l’attributo geometry: http://hfcqgis.opendatasicilia.it/it/latest/esempi/agg_geom.html
-.. _Etichettare punti EPSG 4326 sessadecimali in sessagesimali GMS: http://hfcqgis.opendatasicilia.it/it/latest/esempi/conversione.html
-.. _Tematizzare utilizzando la sovrascrittura definita dai dati: http://hfcqgis.opendatasicilia.it/it/latest/esempi/tematizzare.html
-.. _`Espressione regolare: inserire automaticamente un carattere speciale`: http://hfcqgis.opendatasicilia.it/it/latest/esempi/espressione_regolare.html
-.. _Selezionare tramite funzioni di aggregazione - caso minimun: http://hfcqgis.opendatasicilia.it/it/latest/esempi/select_with_aggregate.html
-.. _Calcolo della core area (area interna al poligono al netto di un’area di buffer interna ): http://hfcqgis.opendatasicilia.it/it/latest/esempi/core_area.html
-.. _Ludovico Frate: https://twitter.com/FrateLudovico?lang=it
-.. _Spostare etichetta e generare segmento: http://hfcqgis.opendatasicilia.it/it/latest/esempi/sposta_etichetta_linea.html
-.. _Conteggio valori in un campo: http://hfcqgis.opendatasicilia.it/it/latest/esempi/conteggio.html
-.. _Ottenere i centroidi lungo le linee: http://hfcqgis.opendatasicilia.it/it/latest/esempi/centroid_linee.html
-.. _Conta i punti nel poligono: http://hfcqgis.opendatasicilia.it/it/latest/esempi/conta_punti_in_poligono.html
-.. _Somma lunghezze nel poligono: http://hfcqgis.opendatasicilia.it/it/latest/esempi/somma_lunghezze_nel_poligono.html
-.. _Contare i punti nel poligono per categorie: http://hfcqgis.opendatasicilia.it/it/latest/esempi/punti_in_poligoni_categorie.html
-.. _Nascondi etichette: http://hfcqgis.opendatasicilia.it/it/latest/esempi/nascondi_etichette.html
-.. _Calcolo area poligoni all’interno di un reticoli: http://hfcqgis.opendatasicilia.it/it/latest/esempi/calcolo_area_poligoni_reticolo.html
-.. _Spatial join: http://hfcqgis.opendatasicilia.it/it/latest/esempi/spatial_join.html
-.. _Etichettare più poligoni con unica label: http://hfcqgis.opendatasicilia.it/it/latest/esempi/unica_etichetta_più_poligoni.html
-.. _Elenco Comuni: http://hfcqgis.opendatasicilia.it/it/latest/esempi/elenco_comuni_attraversati_fiume.html
-.. _Rotazione di pattern lineare: http://hfcqgis.opendatasicilia.it/it/latest/esempi/rotazione_pattern.html
-.. _Numerazione dei poligoni in base alla relazione spaziale: http://hfcqgis.opendatasicilia.it/it/latest/esempi/numerazione_poligoni_rel_spaziale.html
-.. _Assegnare categoria prevalente: http://hfcqgis.opendatasicilia.it/it/latest/esempi/assegnare_cat_prevalente.html
+.. _campo area: add_col_area.md
+.. _campi coordinate: add_coord_xy.md
+.. _campo virtuale: add_campo_virtuale.md
+.. _campo quota z: add_col_z.md
+.. _etichettare: etichette.md
+.. _aggiornare geometria: agg_geom.md
+.. _conversione: conversione.md
+.. _tematizzare: tematizzare.md
+.. _legenda: espressione_regolare.md
+.. _selezione: select_with_aggregate.md
+.. _core area: core_area.md
+.. _sposta etichette: sposta_etichetta_linea.md
+.. _conteggio valori: conteggio.md
+.. _centroid lungo le linee: centroid_linee.md
+.. _conta punti nel poligono: conta_punti_in_poligono.md
+.. _somma lunghezze nel poligono: somma_lunghezze_nel_poligono.md
+.. _conta punti nel poligono categorizzati: punti_in_poligoni_categorie.md
+.. _nascondi etichette: nascondi_etichette.md
+.. _calcolo area poligoni nel reticolo: calcolo_area_poligoni_reticolo.md
+.. _spatial join: spatial_join.md
+.. _unica label: unica_etichetta_più_poligoni.md
+.. _elenco comuni: elenco_comuni_attraversati_fiume.md
+.. _rotazione pattern lineare: rotazione_pattern.md
+.. _numerazione poligoni in base a relazione spaziale: numerazione_poligoni_rel_spaziale.md
+.. _assegnare categoria prevalente: assegnare_cat_prevalente.md
