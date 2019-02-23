@@ -3,96 +3,96 @@ Esempi uso delle funzioni
 Questa sezione raccoglie degli esempi pratici e svolti step by step, con molti screenshot per rendere facile la comprensione di alcune funzioni di base come Area, lunghezza, Buffer ecc...
 La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 
-+------------------------+--------------------------+-----------------+
-| nro                    | Esempio                  | Autore          |
-+========================+==========================+=================+
-| 1                      | `Come aggiungere colonna | Salvatore       |
-|                        | con area [mq]`_          | Fiandaca        |
-+------------------------+--------------------------+-----------------+
-| 2                      | `Come aggiungere le      | Salvatore       |
-|                        | coordinate x e y alla    | Fiandaca        |
-|                        | tabella attributi`_      |                 |
-+------------------------+--------------------------+-----------------+
-| 3                      | `Come aggiungere un      | Salvatore       |
-|                        | campo virtuale`_         | Fiandaca        |
-+------------------------+--------------------------+-----------------+
-| 4                      | `Come aggiungere la      | Salvatore       |
-|                        | quota z alla tabella     | Fiandaca        |
-|                        | attributi`_              |                 |
-+------------------------+--------------------------+-----------------+
-| 5                      | `Etichettare usando      | Salvatore       |
-|                        | attibuto geometry`_      | Fiandaca        |
-+------------------------+--------------------------+-----------------+
-| 6                      | `Aggiornare l’attributo  | Salvatore       |
-|                        | geometry`_               | Fiandaca        |
-+------------------------+--------------------------+-----------------+
-| 7                      | `Etichettare punti EPSG  | Salvatore       |
-|                        | 4326 sessadecimali in    | Fiandaca        |
-|                        | sessagesimali GMS`_      |                 |
-+------------------------+--------------------------+-----------------+
-| 8                      | `Tematizzare utilizzando | Salvatore       |
-|                        | la sovrascrittura        | Fiandaca        |
-|                        | definita dai dati`_      |                 |
-+------------------------+--------------------------+-----------------+
-| 9                      | `Espressione regolare:   | Salvatore       |
-|                        | inserire automaticamente | Fiandaca        |
-|                        | un carattere speciale`_  |                 |
-+------------------------+--------------------------+-----------------+
-| 10                     | `Selezionare tramite     | Salvatore       |
-|                        | funzioni di aggregazione | Fiandaca        |
-|                        | - caso minimun`_         |                 |
-+------------------------+--------------------------+-----------------+
-| 11                     | `Calcolo della core area | `Ludovico       |
-|                        | (area interna al         | Frate`_         |
-|                        | poligono al netto di     |                 |
-|                        | un’area di buffer        |                 |
-|                        | interna )`_              |                 |
-+------------------------+--------------------------+-----------------+
-| 12                     | `Spostare etichetta e    | Salvatore       |
-|                        | generare segmento`_      | Fiandaca        |
-+------------------------+--------------------------+-----------------+
-| 13                     | `Conteggio valori in un  | Salvatore       |
-|                        | campo`_                  | Fiandaca        |
-+------------------------+--------------------------+-----------------+
-| 14                     | `Ottenere i centroidi    | Salvatore       |
-|                        | lungo le linee`_         | Fiandaca        |
-+------------------------+--------------------------+-----------------+
-| 15                     | `Conta i punti nel       | Salvatore       |
-|                        | poligono`_               | Fiandaca        |
-+------------------------+--------------------------+-----------------+
-| 16                     | `Somma lunghezze nel     | Salvatore       |
-|                        | poligono`_               | Fiandaca        |
-+------------------------+--------------------------+-----------------+
-| 17                     | `Contare i punti nel     | Martina         |
-|                        | poligono per categorie`_ | Savarese        |
-+------------------------+--------------------------+-----------------+
-| 18                     | `Nascondi etichette`_    | Salvatore       |
-|                        |                          | Fiandaca        |
-+------------------------+--------------------------+-----------------+
-| 19                     | `Calcolo area poligoni   | Salvatore       |
-|                        | all’interno di un        | Fiandaca        |
-|                        | reticoli`_               |                 |
-+------------------------+--------------------------+-----------------+
-| 20                     | `Spatial join`_          | Salvatore       |
-|                        |                          | Fiandaca        |
-+------------------------+--------------------------+-----------------+
-| 21                     | `Etichettare più         | Salvatore       |
-|                        | poligoni con unica       | Fiandaca        |
-|                        | label`_                  |                 |
-+------------------------+--------------------------+-----------------+
-| 22                     | `Elenco Comuni`_         | Salvatore       |
-|                        |                          | Fiandaca        |
-+------------------------+--------------------------+-----------------+
-| 23                     | `Rotazione di pattern    | Salvatore       |
-|                        | lineare`_                | Fiandaca        |
-+------------------------+--------------------------+-----------------+
-| 24                     | `Numerazione dei         | Salvatore       |
-|                        | poligoni in base alla    | Fiandaca        |
-|                        | relazione spaziale`_     |                 |
-+------------------------+--------------------------+-----------------+
-| 25                     | `Assegnare categoria     | Salvatore       |
-|                        | prevalente`_             | Fiandaca        |
-+------------------------+--------------------------+-----------------+
++------+--------------------------+-----------------+
+| nro  | Esempio                  | Autore          |
++======+==========================+=================+
+| 1    | `Come aggiungere colonna | Salvatore       |
+|      | con area [mq]`_          | Fiandaca        |
++------+--------------------------+-----------------+
+| 2    | `Come aggiungere le      | Salvatore       |
+|      | coordinate x e y alla    | Fiandaca        |
+|      | tabella attributi`_      |                 |
++------+--------------------------+-----------------+
+| 3    | `Come aggiungere un      | Salvatore       |
+|      | campo virtuale`_         | Fiandaca        |
++------+--------------------------+-----------------+
+| 4    | `Come aggiungere la      | Salvatore       |
+|      | quota z alla tabella     | Fiandaca        |
+|      | attributi`_              |                 |
++------+--------------------------+-----------------+
+| 5    | `Etichettare usando      | Salvatore       |
+|      | attibuto geometry`_      | Fiandaca        |
++------+--------------------------+-----------------+
+| 6    | `Aggiornare l’attributo  | Salvatore       |
+|      | geometry`_               | Fiandaca        |
++------+--------------------------+-----------------+
+| 7    | `Etichettare punti EPSG  | Salvatore       |
+|      | 4326 sessadecimali in    | Fiandaca        |
+|      | sessagesimali GMS`_      |                 |
++------+--------------------------+-----------------+
+| 8    | `Tematizzare utilizzando | Salvatore       |
+|      | la sovrascrittura        | Fiandaca        |
+|      | definita dai dati`_      |                 |
++------+--------------------------+-----------------+
+| 9    | `Espressione regolare:   | Salvatore       |
+|      | inserire automaticamente | Fiandaca        |
+|      | un carattere speciale`_  |                 |
++------+--------------------------+-----------------+
+| 10   | `Selezionare tramite     | Salvatore       |
+|      | funzioni di aggregazione | Fiandaca        |
+|      | - caso minimun`_         |                 |
++------+--------------------------+-----------------+
+| 11   | `Calcolo della core area | `Ludovico       |
+|      | (area interna al         | Frate`_         |
+|      | poligono al netto di     |                 |
+|      | un’area di buffer        |                 |
+|      | interna )`_              |                 |
++------+--------------------------+-----------------+
+| 12   | `Spostare etichetta e    | Salvatore       |
+|      | generare segmento`_      | Fiandaca        |
++------+--------------------------+-----------------+
+| 13   | `Conteggio valori in un  | Salvatore       |
+|      | campo`_                  | Fiandaca        |
++------+--------------------------+-----------------+
+| 14   | `Ottenere i centroidi    | Salvatore       |
+|      | lungo le linee`_         | Fiandaca        |
++------+--------------------------+-----------------+
+| 15   | `Conta i punti nel       | Salvatore       |
+|      | poligono`_               | Fiandaca        |
++------+--------------------------+-----------------+
+| 16   | `Somma lunghezze nel     | Salvatore       |
+|      | poligono`_               | Fiandaca        |
++------+--------------------------+-----------------+
+| 17   | `Contare i punti nel     | Martina         |
+|      | poligono per categorie`_ | Savarese        |
++------+--------------------------+-----------------+
+| 18   | `Nascondi etichette`_    | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
+| 19   | `Calcolo area poligoni   | Salvatore       |
+|      | all’interno di un        | Fiandaca        |
+|      | reticoli`_               |                 |
++------+--------------------------+-----------------+
+| 20   | `Spatial join`_          | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
+| 21   | `Etichettare più         | Salvatore       |
+|      | poligoni con unica       | Fiandaca        |
+|      | label`_                  |                 |
++------+--------------------------+-----------------+
+| 22   | `Elenco Comuni`_         | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
+| 23   | `Rotazione di pattern    | Salvatore       |
+|      | lineare`_                | Fiandaca        |
++------+--------------------------+-----------------+
+| 24   | `Numerazione dei         | Salvatore       |
+|      | poligoni in base alla    | Fiandaca        |
+|      | relazione spaziale`_     |                 |
++------+--------------------------+-----------------+
+| 25   | `Assegnare categoria     | Salvatore       |
+|      | prevalente`_             | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 
