@@ -94,7 +94,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 **Indice gruppi di funzioni/espressioni (321/412)**
 
 .. toctree::
-   :maxdepth: 1
+   :hidden:
  
   aggregates/index
   array/index
