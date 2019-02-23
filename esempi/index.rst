@@ -127,7 +127,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 
 
 .. toctree::
-   :hidden:
+   :maxdepth: 1
    
    add_col_area
    add_coord_xy
