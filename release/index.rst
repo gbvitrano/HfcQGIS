@@ -5,7 +5,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. raw:: html
    
    <embed>
-        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_2_0.png?"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_2_0.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.2 Bonn"  title="QGIS 3.2 Bonn"style="margin: 0 auto; display: block;"/></h1>
+        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_2_0.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_2_0.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.2 Bonn"  title="QGIS 3.2 Bonn"style="margin: 0 auto; display: block;"/></h1>
     </embed>
 
 `Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018`_
@@ -21,7 +21,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. raw:: html
    
    <embed>
-        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_4_0.png?"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_4_0.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.4 Madeira"  title="QGIS 3.4 Madeira"style="margin: 0 auto; display: block;"/></h1>
+        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_4_0.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_4_0.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.4 Madeira"  title="QGIS 3.4 Madeira"style="margin: 0 auto; display: block;"/></h1>
     </embed>
     
 `Novità rilevanti introdotte in QGIS 3.4 LTR 26/10/2018`_
@@ -38,7 +38,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. raw:: html
    
    <embed>
-        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_6_0.png?"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_6_0.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.6 Noosa"  title="QGIS 3.6 Noosa"style="margin: 0 auto; display: block;"/></h1>
+        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_6_0.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_6_0.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.6 Noosa"  title="QGIS 3.6 Noosa"style="margin: 0 auto; display: block;"/></h1>
     </embed>
     
 `Novità rilevanti introdotte in QGIS 3.6 22/02/2019`_
