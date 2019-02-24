@@ -2,6 +2,11 @@ Novità
 ======
 Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che man mano usciranno nelle nuove versioni di QGIS. 
 
+.. raw:: html
+   
+   <embed>
+        <h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_2_0.png?raw=true" class="immagonobox" width="126" height="60" alt=""style="margin: 0 auto; display: block;"/></h1>
+    </embed>
 
 `Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018`_
 ----------------------------------------------------------
@@ -13,7 +18,12 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Il generatore di espressioni ora semplifica la creazione diespressioni in QGIS!: http://hfcqgis.opendatasicilia.it/it/latest/release/novita_32.html#generatore-di-espressioni-piu-utile
 .. _Form drill-down (a cascata) WIDGET Value Relation (Relazione valore): http://hfcqgis.opendatasicilia.it/it/latest/release/novita_32.html#form-drill-down-a-cascata-widget-value-relation-relazione-valore
 
-
+.. raw:: html
+   
+   <embed>
+        <h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_4_0.png?raw=true" class="immagonobox" width="126" height="60" alt=""style="margin: 0 auto; display: block;"/></h1>
+    </embed>
+    
 `Novità rilevanti introdotte in QGIS 3.4 LTR 26/10/2018`_
 --------------------------------------------   
    
@@ -25,6 +35,12 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 - `Miglioramenti del field calc`_
 - `Miglioramenti help in linea di alcune funzioni`_
 
+.. raw:: html
+   
+   <embed>
+        <h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_6_0.png?raw=true" class="immagonobox" width="126" height="60" alt=""style="margin: 0 auto; display: block;"/></h1>
+    </embed>
+    
 `Novità rilevanti introdotte in QGIS 3.6 22/02/2019`_
 --------------------------------------------   
    
