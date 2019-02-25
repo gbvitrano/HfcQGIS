@@ -16,7 +16,7 @@
 
 ![screen](/img/parlano_di_noi/parlano_05.png)
 
-* **14/012/2018** - Twitter [Gter](https://twitter.com/Gteronline/status/1073491660410155008)
+* **14/12/2018** - Twitter [Gter](https://twitter.com/Gteronline/status/1073491660410155008)
 
 ![screen](/img/parlano_di_noi/parlano_01.png)
 
