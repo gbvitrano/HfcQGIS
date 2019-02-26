@@ -116,7 +116,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Contare i punti nel poligono per categorie: http://hfcqgis.opendatasicilia.it/it/latest/esempi/punti_in_poligoni_categorie.html
 .. _Nascondi etichette: http://hfcqgis.opendatasicilia.it/it/latest/esempi/nascondi_etichette.html
 .. _Calcolo area poligoni all’interno di un reticoli: http://hfcqgis.opendatasicilia.it/it/latest/esempi/calcolo_area_poligoni_reticolo.html
-.. _Spatial join: Etichettare%20più%20poligoni%20con%20unica%20label
+.. _Spatial join: http://hfcqgis.opendatasicilia.it/it/latest/esempi/spatial_join.html
 .. _Etichettare più poligoni con unica label: http://hfcqgis.opendatasicilia.it/it/latest/esempi/unica_etichetta_pi%C3%B9_poligoni.html
 .. _Elenco Comuni: http://hfcqgis.opendatasicilia.it/it/latest/esempi/elenco_comuni_attraversati_fiume.html
 .. _Rotazione di pattern lineare: http://hfcqgis.opendatasicilia.it/it/latest/esempi/rotazione_pattern.html
