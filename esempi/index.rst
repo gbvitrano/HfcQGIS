@@ -93,6 +93,9 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 | 25   | `Assegnare categoria     | Salvatore       |
 |      | prevalente`_             | Fiandaca        |
 +------+--------------------------+-----------------+
+| 26   | `Creare hub lines`_      | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 
@@ -122,6 +125,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Rotazione di pattern lineare: http://hfcqgis.opendatasicilia.it/it/latest/esempi/rotazione_pattern.html
 .. _Numerazione dei poligoni in base alla relazione spaziale: http://hfcqgis.opendatasicilia.it/it/latest/esempi/numerazione_poligoni_rel_spaziale.html
 .. _Assegnare categoria prevalente: http://hfcqgis.opendatasicilia.it/it/latest/esempi/assegnare_cat_prevalente.html
+.. _Creare Hub lines: http://hfcqgis.opendatasicilia.it/it/latest/esempi/hub_lines.html
 
 
 
@@ -154,3 +158,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    rotazione_pattern
    numerazione_poligoni_rel_spaziale
    assegnare_cat_prevalente
+   hub_lines
