@@ -93,7 +93,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 | 25   | `Assegnare categoria     | Salvatore       |
 |      | prevalente`_             | Fiandaca        |
 +------+--------------------------+-----------------+
-| 26   | `Creare hub lines`_      | Salvatore       |
+| 26   | `Creare Hub lines`_      | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
 
