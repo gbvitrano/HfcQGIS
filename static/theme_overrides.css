@@ -5,6 +5,8 @@
 /*importa i font fontawesome 5.0 per i loghi social*/
  @import url(https://use.fontawesome.com/releases/v5.1.0/css/all.css);
 
+.wordart-attribution  {display: none !important;}
+.tagul-attribution  {display: none !important;}
 
 body {color: #344c25 !important;}
 
@@ -253,5 +255,4 @@ blockquote::after { content: '\201D';}
 
 .text_red{ color:#FF0000; font-style: italic;}
 
-.wordart-attribution  {display: none !important;}
-.tagul-attribution  {display: none !important;}
+
