@@ -252,3 +252,6 @@ blockquote::after { content: '\201D';}
   @media (min-width: 600px) and (max-width: 736px) {#menuft {font-size: 14px;}}
 
 .text_red{ color:#FF0000; font-style: italic;}
+
+.wordart-attribution, .tagul-attribution  {display: none !important;}
+
