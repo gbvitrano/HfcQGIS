@@ -253,5 +253,6 @@ blockquote::after { content: '\201D';}
 
 .text_red{ color:#FF0000; font-style: italic;}
 
-.wordart-attribution, .tagul-attribution  {display: none !important;}
+.wordart-attribution  {display: none !important;}
+tagul-attribution  {display: none !important;}
 
