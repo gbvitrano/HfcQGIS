@@ -14,6 +14,14 @@ Questo manuale
         <p>Questa versione in formato <a class="reference external" href="https://docs.readthedocs.io/en/latest/index.html" target="_blank">Read The Docs</a> del <a class="reference external" href="https://github.com/pigreco/HfcQGIS/blob/master/README.md" target="_blank">lavoro</a> di Salvatore  FIANDACA, è stata realizzata dalla comunità <a class="reference external" href="./ods.html"><strong>OpenDataSicilia</strong></a>, in  particolare da: <a class="reference external" href="https://twitter.com/aborruso" target="_blank">Andrea Borruso</a>, <a class="reference external" href="https://twitter.com/totofiandaca" target="_blank">Totò Fiandaca</a> e <a class="reference external" href="https://twitter.com/gbvitrano" target="_blank">Giovan Battista Vitrano</a>.<br>
         L'idea è stata di Giovan Battista, mentre la musa ispiratrice per la scelta di Read The Docs è <a class="reference external" href="https://twitter.com/cirospat" target="_blank">Ciro Spataro</a>.</p>
     </embed>
+    
+.. raw:: html
+    <embed>
+       <p><script src="//cdn.wordart.com/wordart.min.js" async defer></script>
+<div style="width: 100%; height: 150px; margin: 0 auto; display: block;" data-wordart-src="//cdn.wordart.com/json/uv6o87smemgy" data-wordart-show-attribution></div></p>
+    </embed>
+    
+    
 
 Contenuti:
 ~~~~~~~~~~
