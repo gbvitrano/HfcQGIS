@@ -55,9 +55,9 @@ Molto attivo nella comunità di QGIS: ha partecipato alla realizzazione di un pl
 </p>
 
 **Foto**: Hack Fest QGIS ITA Padova 2019
-HFQGISITA4PD.png
+
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/HFQGISITA4PD.png.png">
+  <img width="600" src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/HFQGISITA4PD.png?raw=true">
 </p>
 
 Ama ascoltare [E. Morricone](https://www.youtube.com/watch?v=LhOB8-cevIc)
