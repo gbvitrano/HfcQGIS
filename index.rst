@@ -16,7 +16,7 @@ Questo manuale
     </embed>
     
 
-    <div style="width: 100%; height: 200px; background-color:transparent !important; margin: 0 auto; display: block;" data-wordart-src="//cdn.wordart.com/json/uv6o87smemgy" data-wordart-show-attribution></div>
+    <div style="width: 100%; height: 200px; background-color:transparent !important; margin: 0 auto; display: block;" data-wordart-src="//cdn.wordart.com/json/w0d3x0c3dfu7" data-wordart-show-attribution></div>
   
     
 Contenuti:
