@@ -15,11 +15,9 @@ Questo manuale
         L'idea è stata di Giovan Battista, mentre la musa ispiratrice per la scelta di Read The Docs è <a class="reference external" href="https://twitter.com/cirospat" target="_blank">Ciro Spataro</a>.</p>
     </embed>
     
-.. raw:: html
 
-    <embed>
     <div style="width: 100%; height: 150px; margin: 0 auto; display: block;" data-wordart-src="//cdn.wordart.com/json/uv6o87smemgy" data-wordart-show-attribution></div>
-    </embed>
+  
     
 Contenuti:
 ~~~~~~~~~~
