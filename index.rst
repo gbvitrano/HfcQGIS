@@ -16,13 +16,11 @@ Questo manuale
     </embed>
     
 .. raw:: html
+
     <embed>
-       <p><script src="//cdn.wordart.com/wordart.min.js" async defer></script>
-<div style="width: 100%; height: 150px; margin: 0 auto; display: block;" data-wordart-src="//cdn.wordart.com/json/uv6o87smemgy" data-wordart-show-attribution></div></p>
+    <div style="width: 100%; height: 150px; margin: 0 auto; display: block;" data-wordart-src="//cdn.wordart.com/json/uv6o87smemgy" data-wordart-show-attribution></div>
     </embed>
     
-    
-
 Contenuti:
 ~~~~~~~~~~
 
