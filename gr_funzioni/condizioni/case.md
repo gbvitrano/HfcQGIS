@@ -2,6 +2,8 @@
 
 Valuta un'espressione e restituisce un risultato diverso, sia esso vero o falso. Puoi testare più condizioni
 
+## Sintassi
+
 ```
 CASE
 WHEN condizione THEN risultato
