@@ -5,18 +5,24 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. raw:: html
    
    <embed>
-        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_2_0.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_2_0.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.2 Bonn"  title="QGIS 3.2 Bonn"style="margin: 0 auto; display: block;"/></h1>
+        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_6_0.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_6_0.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.6 Noosa"  title="QGIS 3.6 Noosa"style="margin: 0 auto; display: block;"/></h1>
     </embed>
+    
+`Novità rilevanti introdotte in QGIS 3.6 22/02/2019`_
+--------------------------------------------   
+   
+- `force_rhr`_
+- `decode_uri`_
+- `sposta la casella di gruppo valore nell'area di aiuto`_
+- `Show Help-Values`_
+- `Abilita l'uso di parentesi quadre per le map e array`_
+- `nullif`_
+- `make_rectangle_3points`_
+- `make_square`_
+- `from_json`_
+- `to_json`_
+- `try`_
 
-`Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018`_
-----------------------------------------------------------
-
-      
--  `Il generatore di espressioni ora semplifica la creazione diespressioni in QGIS!`_
--  `Form drill-down (a cascata) WIDGET Value Relation (Relazione valore)`_
-
-.. _Il generatore di espressioni ora semplifica la creazione diespressioni in QGIS!: http://hfcqgis.opendatasicilia.it/it/latest/release/novita_32.html#generatore-di-espressioni-piu-utile
-.. _Form drill-down (a cascata) WIDGET Value Relation (Relazione valore): http://hfcqgis.opendatasicilia.it/it/latest/release/novita_32.html#form-drill-down-a-cascata-widget-value-relation-relazione-valore
 
 .. raw:: html
    
@@ -38,23 +44,18 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. raw:: html
    
    <embed>
-        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_6_0.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_6_0.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.6 Noosa"  title="QGIS 3.6 Noosa"style="margin: 0 auto; display: block;"/></h1>
+        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_2_0.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_2_0.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.2 Bonn"  title="QGIS 3.2 Bonn"style="margin: 0 auto; display: block;"/></h1>
     </embed>
-    
-`Novità rilevanti introdotte in QGIS 3.6 22/02/2019`_
---------------------------------------------   
-   
-- `force_rhr`_
-- `decode_uri`_
-- `sposta la casella di gruppo valore nell'area di aiuto`_
-- `Show Help-Values`_
-- `Abilita l'uso di parentesi quadre per le map e array`_
-- `nullif`_
-- `make_rectangle_3points`_
-- `make_square`_
-- `from_json`_
-- `to_json`_
-- `try`_
+
+`Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018`_
+----------------------------------------------------------
+
+      
+-  `Il generatore di espressioni ora semplifica la creazione diespressioni in QGIS!`_
+-  `Form drill-down (a cascata) WIDGET Value Relation (Relazione valore)`_
+
+.. _Il generatore di espressioni ora semplifica la creazione diespressioni in QGIS!: http://hfcqgis.opendatasicilia.it/it/latest/release/novita_32.html#generatore-di-espressioni-piu-utile
+.. _Form drill-down (a cascata) WIDGET Value Relation (Relazione valore): http://hfcqgis.opendatasicilia.it/it/latest/release/novita_32.html#form-drill-down-a-cascata-widget-value-relation-relazione-valore
 
 
 
