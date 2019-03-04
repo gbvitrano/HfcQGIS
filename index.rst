@@ -125,7 +125,7 @@ Disclaimer
 
 Tag Clouds
 ~~~~~~~~~~
-L'immagine Tag Cloud (in alto nella home) è stato realizzata con il tools `wordart`_ che consente di creare incredibili e unici word cloud art con facilità.
+L'immagine **HfcQGIS** Tag Cloud (in alto nella home) è stata realizzata con il tools `wordart`_ che consente di creare incredibili e unici word cloud art con facilità.
    
 Mappa del sito   
 ~~~~~~~~~~~~~~
