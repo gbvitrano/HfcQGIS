@@ -125,7 +125,7 @@ Disclaimer
 
 Tag Clouds
 ~~~~~~~~~~
-L'immagine **HfcQGIS** Tag Cloud (in alto nella home) è stata realizzata con il tools `wordart`_ che consente di creare incredibili e unici word cloud art con facilità.
+L'immagine **HfcQGIS** Tag Cloud (in alto nella home) è stata realizzata con il tools `WordArt`_ che consente di creare incredibili e unici word cloud art con facilità.
    
 Mappa del sito   
 ~~~~~~~~~~~~~~
@@ -146,7 +146,7 @@ Mappa del sito
   Versione 11.0 e successive versioni, Microsoft Edge versione 25.1 e
   immediatamente successive, Mozilla Firefox versione 50.0 e successive, Chrome versione 40.0 o successiva, Opera versione 48.0 o successiva e Safari versione 9.0 o successiva.
   
-.. _wordart: https://wordart.com/   
+.. _WordArt: https://wordart.com/   
 .. _Read The Docs: https://docs.readthedocs.io/en/latest/index.html
 .. _lavoro: https://github.com/pigreco/HfcQGIS/blob/master/README.md
 .. _@OpenDataSicilia: http://opendatasicilia.it/
