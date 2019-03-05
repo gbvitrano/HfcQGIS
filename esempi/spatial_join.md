@@ -17,7 +17,7 @@ filter:=intersects( Buffer($geometry,-10), geometry(@parent) ),concatenator:='-'
 
 L'espressione di sopra in linguaggio umano:
 
-aggrega, usando il layer _Reg01012018_g_, il campo _COD_REG_ in modo da rispettare la relazione spaziale (filter:=) tra regioni `(geometry(@parent))` e province `($geometry)`.
+aggrega, usando il layer _Reg01012018_g_, il campo _COD_REG_ in modo da rispettare la relazione spaziale (filter:=) tra regioni `($geometry)` e province`(geometry(@parent))`.
 
 Step:
 
