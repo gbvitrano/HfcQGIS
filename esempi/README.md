@@ -28,3 +28,4 @@ Esempio|Descrizione
 [numerazione poligoni in base a relazione spaziale](numerazione_poligoni_rel_spaziale.md)|Numerazione poligoni in base a relazioni spaziali
 [assegnare categoria prevalente](assegnare_cat_prevalente.md)|Assegnare categoria prevalente
 [Creare Hub lines](hub_lines.md)|Creare Hub lines
+[Aggregare con SR differenti](aggregare_con_sr_differenti.md)|Creare Hub lines
