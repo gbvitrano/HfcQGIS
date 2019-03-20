@@ -31,3 +31,7 @@
 * **22/02/2019** Twitter [QGIS México](https://twitter.com/qgismexico/status/1099002315690950656)
 
 ![screen](/img/parlano_di_noi/parlano_03.png)
+
+* **20/03/2019** Facebook [Risposta ad un post](https://www.facebook.com/groups/GisItalia/permalink/10157247104231385/?comment_id=10157247850806385&reply_comment_id=10157249097251385&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
+
+![screen](/img/parlano_di_noi/parlano_09.png)
