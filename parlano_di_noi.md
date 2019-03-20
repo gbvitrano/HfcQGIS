@@ -2,7 +2,7 @@
 
 * **20/03/2019** Facebook [Risposta ad un post](https://www.facebook.com/groups/GisItalia/permalink/10157247104231385/?comment_id=10157247850806385&reply_comment_id=10157249097251385&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 
-<img width="500"  class="immagonobox" src="/img/parlano_di_noi/parlano_09.png" Title="" alt=""/></a>
+<img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/pigreco/HfcQGIS/master/img/parlano_di_noi/parlano_09.png" Title="" alt=""/></a>
 
 * **22/02/2019** Twitter [QGIS México](https://twitter.com/qgismexico/status/1099002315690950656)
 
