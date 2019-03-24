@@ -35,3 +35,7 @@
 * **23/07/2018** - Facebook [QGIS Italia](https://www.facebook.com/qgis.it/posts/1012222122275138)
 
 <img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/parlano_04.png" Title="" alt=""/></a>
+
+* **mag/giu/lug/2018** - GitHub [GitHub](https://github.com/pigreco/HfcQGIS/issues/1)
+
+<img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/parlano_10.png" Title="" alt=""/></a>
