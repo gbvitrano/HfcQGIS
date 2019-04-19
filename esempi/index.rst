@@ -99,6 +99,9 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 | 27   |`Aggregare SR differenti`_| Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
+| 28   | `Distanze progressive    | Salvatore       |
+|      |   chilometriche`_        | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 
@@ -130,6 +133,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Assegnare categoria prevalente: http://hfcqgis.opendatasicilia.it/it/latest/esempi/assegnare_cat_prevalente.html
 .. _Creare Hub lines: http://hfcqgis.opendatasicilia.it/it/latest/esempi/hub_lines.html
 .. _Aggregare SR differenti: http://hfcqgis.opendatasicilia.it/it/latest/esempi/aggregare_con_sr_differenti.html
+.. _Distanze progressive chilometriche: http://hfcqgis.opendatasicilia.it/it/latest/esempi/distanze_progressive_chilometriche.html
 
 
 
@@ -164,3 +168,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    assegnare_cat_prevalente
    hub_lines
    aggregare_con_sr_differenti
+   distanze_progressive_chilometriche
