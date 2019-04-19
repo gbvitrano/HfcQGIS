@@ -14,7 +14,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
     * [Linguaggio](https://gis.stackexchange.com/questions/247474/what-language-do-qgis-expressions-use-what-language-should-qgis-queries-be-writ) Che linguaggio usa il calcolatore di campi?
     * [Interfaccia](./calcolatore_campi/interfaccia.md) Introduzione all'interfaccia calcolatore di campi
     * [Operatori](./calcolatore_campi/operatori.md) - Operatori presenti nell'interfaccia del calcolatore
-    * [Esempi](./esempi) (9) - Esempi dettagliati sull'uso delle funzioni
+    * [Esempi](./esempi) (28) - Esempi dettagliati sull'uso delle funzioni
 
 *  Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018
     * [Generatore di espressioni](https://github.com/pigreco/HfcQGIS/blob/master/novita_3.2.md#novit%C3%A0-rilevanti-introdotte-nella-32)
