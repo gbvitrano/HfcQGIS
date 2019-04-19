@@ -29,3 +29,4 @@ Esempio|Descrizione
 [assegnare categoria prevalente](assegnare_cat_prevalente.md)|Assegnare categoria prevalente
 [Creare Hub lines](hub_lines.md)|Creare Hub lines
 [Aggregare con SR differenti](aggregare_con_sr_differenti.md)|Aggregare con SR differenti
+[Distanze progressive chilometriche](distanze_progressive_chilometriche.md)|Formatta le distanze progressive chilometriche tipo Autostrade
