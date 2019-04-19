@@ -100,7 +100,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
 | 28   | `Distanze progressive    | Salvatore       |
-|      |   chilometriche`_        | Fiandaca        |
+|      | chilometriche`_          | Fiandaca        |
 +------+--------------------------+-----------------+
 
 
