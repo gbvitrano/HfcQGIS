@@ -3,11 +3,11 @@
 ## Nuove funzioni
 
 ### Gruppo Aggregates
-* [**concatenate_unique**](./gr_funzioni/aggregates/concatenate_unique.md) - PR [#9714](https://github.com/qgis/QGIS/pull/9714)
+* [**concatenate_unique**](../gr_funzioni/aggregates/concatenate_unique.md) - PR [#9714](https://github.com/qgis/QGIS/pull/9714)
 
 ### Gruppo Arrays
 
-* [**array_all**](./gr_funzioni/arrays/array_all.md) - PR [#9756](https://github.com/qgis/QGIS/pull/9756)
+* [**array_all**](../gr_funzioni/arrays/array_all.md) - PR [#9756](https://github.com/qgis/QGIS/pull/9756)
 
 ### Negative index support
 
