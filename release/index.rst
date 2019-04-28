@@ -5,6 +5,17 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. raw:: html
    
    <embed>
+        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/zanzibar_2018.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/zanzibar_2018.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.7 dev"  title="QGIS 3.7 dev"style="margin: 0 auto; display: block;"/></h1>
+    </embed>
+    
+`Novità rilevanti introdotte in QGIS 3.8 21/06/2019`_
+--------------------------------------------   
+   
+- `concatenate_unique`_
+
+.. raw:: html
+   
+   <embed>
         <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_6_0.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_6_0.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.6 Noosa"  title="QGIS 3.6 Noosa"style="margin: 0 auto; display: block;"/></h1>
     </embed>
     
@@ -81,3 +92,4 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _from_json: ../gr_funzioni/maps/from_json.html
 .. _to_json: ../gr_funzioni/maps/to_json.html
 .. _try: ../gr_funzioni/condizioni/try.html
+.. _concatenate_unique: ../gr_funzioni/aggregates/concatenate_unique.html
