@@ -12,6 +12,9 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 --------------------------------------------   
    
 - `concatenate_unique`_
+- `array_all`_
+- `Negative index support`_
+- `Gruppo Files and Paths`_
 
 .. raw:: html
    
@@ -93,3 +96,6 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _to_json: ../gr_funzioni/maps/to_json.html
 .. _try: ../gr_funzioni/condizioni/try.html
 .. _concatenate_unique: ../gr_funzioni/aggregates/concatenate_unique.html
+.. _array_all: ../gr_funzioni/arrays/array_all.html
+.. _Negative index support: novita_38.html#negative-index-support
+.. _Gruppo Files and Paths: novita_38.html#gruppo-files-and-paths
