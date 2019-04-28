@@ -1,4 +1,4 @@
-## Funzione `array_all`
+# array_all
 
 Restituisce true se un array contiene tutti i valori di un determinato array.
 
