@@ -15,6 +15,8 @@
 
 ![screen](/img/novita_38/img1.png)
 
-### Gruppo Files and Paths - PR [#9885](https://github.com/qgis/QGIS/pull/9885)
+### Gruppo Files and Paths
+
+- [**Files and Paths**] PR [#9885](https://github.com/qgis/QGIS/pull/9885)
 
 ![screen](/img/novita_38/files_and_paths.png)
