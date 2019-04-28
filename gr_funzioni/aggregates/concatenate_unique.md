@@ -1,4 +1,4 @@
-## Funzione `concatenate_unique`
+# concatenate_unique
 
 Restituisce tutte le stringhe aggregate univoche tratte da un campo o da una espressione unite con un delimitatore.
 
