@@ -81,6 +81,8 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 `Novità rilevanti introdotte in QGIS 3.0 Girona 23/02/2018`_
 ----------------------------------------------------------
 
+-  `Expressions`_
+
 .. _Expressions: http://changelog.qgis.org/en/qgis/version/3.0.0/#category-50
 
 
