@@ -72,7 +72,16 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Form drill-down (a cascata) WIDGET Value Relation (Relazione valore): http://hfcqgis.opendatasicilia.it/it/latest/release/novita_32.html#form-drill-down-a-cascata-widget-value-relation-relazione-valore
 
 
+.. raw:: html
+   
+   <embed>
+        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_0_0.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_0_0.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.0 Girona"  title="QGIS 3.0 Girona"style="margin: 0 auto; display: block;"/></h1>
+    </embed>
 
+`Novità rilevanti introdotte in QGIS 3.0 Girona 23/02/2018`_
+----------------------------------------------------------
+
+[Expression](http://changelog.qgis.org/en/qgis/version/3.0.0/#category-50)
 
 .. _Nuovi gruppi funzioni nel calcolatore di campi: novita_34.html#nuovi-gruppi-funzioni-nel-calcolatore-di-campi
 .. _Elenco funzioni: novita_34.html#nuove-funzioni
