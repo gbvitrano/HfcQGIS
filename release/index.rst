@@ -81,7 +81,8 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 `Novità rilevanti introdotte in QGIS 3.0 Girona 23/02/2018`_
 ----------------------------------------------------------
 
-[Expression](http://changelog.qgis.org/en/qgis/version/3.0.0/#category-50)
+.. _Expressions: http://changelog.qgis.org/en/qgis/version/3.0.0/#category-50
+
 
 .. _Nuovi gruppi funzioni nel calcolatore di campi: novita_34.html#nuovi-gruppi-funzioni-nel-calcolatore-di-campi
 .. _Elenco funzioni: novita_34.html#nuove-funzioni
@@ -90,6 +91,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Icone per i tipi di campo nel widget di espressioni: novita_34.html#Icone per i tipi di campo nel widget di espressioni
 .. _Miglioramenti del field calc: novita_34.html#Miglioramenti del field calc
 .. _Miglioramenti help in linea di alcune funzioni: novita_34.html#Miglioramenti del field calc
+.. _Novità rilevanti introdotte in QGIS 3.0 Girona 23/02/2018: novita_30.html
 .. _Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018: novita_32.html
 .. _Novità rilevanti introdotte in QGIS 3.4 LTR 26/10/2018: novita_34.html
 .. _Novità rilevanti introdotte in QGIS 3.6 22/02/2019: novita_36.html
