@@ -1,5 +1,13 @@
 # Parlano di noi
 
+* **29/04/2019** Facebook [GTer](https://www.facebook.com/Gteronline/posts/2295398600527904)
+
+<img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/parlano_12.png" Title="" alt=""/></a>
+
+* **29/04/2019** Facebook [Master in GIScience e droni per la gestione del territorio](https://www.facebook.com/MasterGIScience/posts/2210877379174741)
+
+<img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/parlano_11.png" Title="" alt=""/></a>
+
 * **20/03/2019** Facebook [Risposta ad un post](https://www.facebook.com/groups/GisItalia/permalink/10157247104231385/?comment_id=10157247850806385&reply_comment_id=10157249097251385&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 
 <img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/parlano_09.png" Title="" alt=""/></a>
