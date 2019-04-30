@@ -4,6 +4,10 @@
 
 <img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/parlano_12.png" Title="" alt=""/></a>
 
+* **29/04/2019** Twitter [Master GIS Droni](https://twitter.com/MasterGIS_Droni/status/1122765303090425857)
+
+<img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/parlano_13.png" Title="" alt=""/></a>
+
 * **29/04/2019** Facebook [Master in GIScience e droni per la gestione del territorio](https://www.facebook.com/MasterGIScience/posts/2210877379174741)
 
 <img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/parlano_11.png" Title="" alt=""/></a>
