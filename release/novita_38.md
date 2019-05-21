@@ -20,3 +20,9 @@
 - [**Files and Paths**] PR [#9885](https://github.com/qgis/QGIS/pull/9885)
 
 ![screen](/img/novita_38/files_and_paths.png)
+
+### Anteprima valori Expression builder
+
+- [PR 100037](https://github.com/qgis/QGIS/pull/10037)
+
+![express](https://user-images.githubusercontent.com/588407/58041676-f298dc80-7b38-11e9-9ae8-8fbe67394ac2.png)
