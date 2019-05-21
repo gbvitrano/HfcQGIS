@@ -15,6 +15,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 - `array_all`_
 - `Negative index support`_
 - `Gruppo Files and Paths`_
+- `Anteprima valori Expression builder`_
 
 .. raw:: html
    
@@ -113,3 +114,4 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _array_all: ../gr_funzioni/arrays/array_all.html
 .. _Negative index support: novita_38.html#negative-index-support
 .. _Gruppo Files and Paths: novita_38.html#gruppo-files-and-paths
+.. _Anteprima valori Expression builder: novita_38.html#anteprima-valori-expression-builder
