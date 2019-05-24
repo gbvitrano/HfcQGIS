@@ -102,7 +102,8 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 | 28   | `Distanze progressive    | Salvatore       |
 |      | chilometriche`_          | Fiandaca        |
 +------+--------------------------+-----------------+
-| 29   |Aggrega elementi adiacenti| Salvatore       |
+| 29   | `Aggrega elementi        |                 |
+|      |   adiacenti`_            | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
 
