@@ -138,7 +138,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Creare Hub lines: http://hfcqgis.opendatasicilia.it/it/latest/esempi/hub_lines.html
 .. _Aggregare SR differenti: http://hfcqgis.opendatasicilia.it/it/latest/esempi/aggregare_con_sr_differenti.html
 .. _Distanze progressive chilometriche: http://hfcqgis.opendatasicilia.it/it/latest/esempi/distanze_progressive_chilometriche.html
-.. _Aggrega elementi adiacenti: http://hfcqgis.opendatasicilia.it/it/latest/esempi/aggregare_elementi_contigui.html
+.. _Aggrega elementi contigui: http://hfcqgis.opendatasicilia.it/it/latest/esempi/aggregare_elementi_contigui.html
 
 
 
