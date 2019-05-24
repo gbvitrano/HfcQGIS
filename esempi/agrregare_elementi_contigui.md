@@ -39,7 +39,7 @@ aggregate(
 funzione [aggregate](/aggregates/funzioni/aggregate.md)
 
 
-## Prova tu
+**Prova tu**
 
 [Geopackage](/esempi/dati_esempi.gpkg)
 
