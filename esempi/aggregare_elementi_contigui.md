@@ -36,7 +36,7 @@ aggregate(
  )
 ```
 
-funzione [aggregate](/aggregates/funzioni/aggregate.md)
+funzione [aggregate](/aggregates/aggregate.md)
 
 
 **Prova tu**
