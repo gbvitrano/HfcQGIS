@@ -30,3 +30,4 @@ Esempio|Descrizione
 [Creare Hub lines](hub_lines.md)|Creare Hub lines
 [Aggregare con SR differenti](aggregare_con_sr_differenti.md)|Aggregare con SR differenti
 [Distanze progressive chilometriche](distanze_progressive_chilometriche.md)|Formatta le distanze progressive chilometriche tipo Autostrade
+[Aggregare elementi adiacenti](./es/agrregare_elementi_contigui.md)|Aggrega elementi adiacenti|Pigreco
