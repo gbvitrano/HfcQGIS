@@ -174,4 +174,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    hub_lines
    aggregare_con_sr_differenti
    distanze_progressive_chilometriche
-   agrregare_elementi_contigui
+   aggregare_elementi_contigui
