@@ -103,7 +103,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      | chilometriche`_          | Fiandaca        |
 +------+--------------------------+-----------------+
 | 29   | `Aggrega elementi        |                 |
-|      | adiacenti`_              | Salvatore       |
+|      | contigui`_              | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
 
