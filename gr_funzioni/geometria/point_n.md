@@ -27,3 +27,9 @@ point_n(geometry, index)
 --
 
 ![](/img/geometria/point_n/point_n2.png)
+
+---
+
+## Esempi correlati
+
+[esempio nro 4](/esempi/add_col_z.md) - Come aggiungere la quota Z alla tabella attributi
