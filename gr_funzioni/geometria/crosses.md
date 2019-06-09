@@ -25,4 +25,18 @@ crosses(_<span style="color:red;">geometry a</span>, <span style="color:red;">ge
 
 ## osservazioni
 
---
+Usando algoritmo `Seleziona per espressione` presente in strumenti di processing:
+
+espressione usata:
+
+`crosses(geometry(get_feature( 'fiume_arno','nome','ARNO')), $geometry)`
+
+dove:
+
+* _geometry a_ è `geometry(get_feature( 'fiume_arno','nome','ARNO'))`
+* _geometry b_ è `$geometry`
+
+
+![](/img/geometria/crosses/crosses2.png)
+
+seleziono tutti i comuni `crosses` (attraversati) dal fiume ARNO
