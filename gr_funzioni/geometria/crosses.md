@@ -39,3 +39,7 @@ dove:
 ![](/img/geometria/crosses/crosses2.png)
 
 seleziono tutti i comuni `crosses` (attraversati) dal fiume ARNO
+
+**PS:** potrei anche negare (`NOT`) l'espressione per selezionare il complementare (tutti i comuni tranne quelli attraversati dal fiume ARNO).
+
+`NOT crosses(geometry(get_feature( 'fiume_arno','nome','ARNO')), $geometry)`
