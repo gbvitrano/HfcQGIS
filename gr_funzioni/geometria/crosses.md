@@ -25,8 +25,7 @@ crosses(_<span style="color:red;">geometry a</span>, <span style="color:red;">ge
 
 ## osservazioni
 
-Usando algoritmo `Seleziona per espressione` presente in strumenti di processing:
-
+Usando algoritmo `Seleziona per espressione` presente in strumenti di processing oppure ![icona](https://docs.qgis.org/2.18/en/_images/mIconExpressionSelect.png) (ctrl+F3):
 espressione usata:
 
 `crosses(geometry(get_feature( 'fiume_arno','nome','ARNO')), $geometry)`
