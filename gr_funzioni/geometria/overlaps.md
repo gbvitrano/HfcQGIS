@@ -36,7 +36,7 @@ dove:
 * _geometry b_ è `$geometry`
 
 
-![](/img/geometria/intersects/intersects2.png)
+![](/img/geometria/overlaps/overlaps2.png)
 
 seleziono tutti i comuni `overlaps` (sovrapposti) al cerchio in figura.
 
