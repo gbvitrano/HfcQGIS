@@ -10,13 +10,16 @@
 ### Gruppo layer della mappa
 * [**decode_uri**](../gr_funzioni/layer_della_mappa/decode_uri.html)
 
-## Gruppo Condizioni
+### Gruppo Condizioni
 * [**nullif**](../gr_funzioni/condizioni/nullif.html)
 * [**try**](../gr_funzioni/condizioni/try.html)
 
 ### Gruppo maps
-* [**from_json**](./gr_funzioni/maps/funzioni/from_json.md)
-* [**to_json**](./gr_funzioni/maps/funzioni/to_json.md)
+* [**from_json**](./gr_funzioni/maps/from_json.md)
+* [**to_json**](./gr_funzioni/maps/to_json.md)
+
+### Gruppo Record e Attributi
+* [**sqlite_fetch_and_increment**](./gr_funzioni/record_e_attributi/sqlite_fetch_and_increment.md)
 
 ## Interfaccia calcolatore campi
 
