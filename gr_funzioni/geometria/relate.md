@@ -7,12 +7,12 @@ Restituisce la rappresentazione Dimensional Extended 9 Intersection Model (DE-9I
 
 ## Sintassi
 
-* relate(_geometry, geometry_)
+* relate(_geometry a, geometry b_)
 
 ## Argomenti
 
-* _geometry_ una geometria
-* _geometry_ una geometria
+* _geometry a_ una geometria
+* _geometry b_ una geometria
 
 ## Esempi
 
@@ -22,16 +22,16 @@ Restituisce la rappresentazione Dimensional Extended 9 Intersection Model (DE-9I
 
 ## Variabile corrispondenza pattern
 
-Testa se la relazione DE-9IM tra due geometrie corrisponde a un pattern specificato: restituisc true Vero, false Falso.
+Testa se la relazione DE-9IM tra due geometrie corrisponde a un pattern specificato: restituisce true (Vero), false (Falso).
 
 ## Sintassi
-relate(_geometry, geometry, pattern_)
+relate(_geometry a, geometry b, pattern_)
 
 ## Argomenti
 
-* _geometry_ una geometria
-* _geometry_ una geometria
-* _pattern_ Tratteggio DE-9IM da far corrispondere
+* _geometry a_ una geometria
+* _geometry b_ una geometria
+* _pattern_ Codice DE-9IM da far corrispondere
 
 ## Esempio
 
