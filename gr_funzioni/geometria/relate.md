@@ -45,9 +45,13 @@ relate(_geometry a, geometry b, pattern_)
 
 --
 
-![](/img/geometria/relate/relate1.png)
+![](/img/geometria/relate/relate2.png)
 
 ## Link utili
 
 * [Wikipedia](https://en.wikipedia.org/wiki/DE-9IM)
-* [OpenGeo](https://connect.boundlessgeo.com/docs/suite/4.6/dataadmin/pgAdvanced/de9im.html)
+* [PosGIS](https://postgis.net/workshops/postgis-intro/de9im.html)
+
+## Matrice
+
+![](/img/geometria/relate/matrix.png)
