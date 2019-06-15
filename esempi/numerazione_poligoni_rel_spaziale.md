@@ -31,7 +31,7 @@ espressione da usare:
 ```
 array_find(
     array_reverse( 
-        array_sort(x_min( $geometry))
+        array_sort(array_agg(x_min( $geometry)))
                  ),x_min( $geometry))+1
 ```
 
