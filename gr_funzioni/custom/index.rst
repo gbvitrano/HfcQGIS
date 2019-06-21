@@ -24,6 +24,8 @@ dall'utente.
 |                                 | valore corrente di un campo nella  |
 |                                 | form di inserimento dati.          |          
 +---------------------------------+------------------------------------+
+| `Fattoriale`_                   | Calcola il fattoriale di un numero |
++---------------------------------+------------------------------------+
 
 |image0|
 
@@ -36,6 +38,7 @@ Il codice Python va incollato qui:
 .. _perimetro_km(): perimetro_km().html
 .. _controlla_file: controlla_file.html
 .. _CurrentFormValue: CurrentFormValue.html
+.. _Fattoriale: CurrentFormValue.html
 
 
 .. |image0| image:: /img/custom/gruppo_custom1.png
@@ -52,6 +55,7 @@ Il codice Python va incollato qui:
    perimetro_km()
    reverse_string
    CurrentFormValue
+   fattoriale
    
    
    
