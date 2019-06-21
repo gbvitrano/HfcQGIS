@@ -1,4 +1,4 @@
-## Funzione `Fattoriale`
+# fattoriale
 
 Calcola il fattoriale di un numero definito come il prodotto di tutti i numeri tra 1 e n.
 Per convenzione il fattoriale di 0 = 1 la notazione matematica per fattoriale è n!
