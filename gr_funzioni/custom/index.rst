@@ -38,7 +38,7 @@ Il codice Python va incollato qui:
 .. _perimetro_km(): perimetro_km().html
 .. _controlla_file: controlla_file.html
 .. _CurrentFormValue: CurrentFormValue.html
-.. _Fattoriale: CurrentFormValue.html
+.. _Fattoriale: fattoriale.html
 
 
 .. |image0| image:: /img/custom/gruppo_custom1.png
