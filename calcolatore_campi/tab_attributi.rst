@@ -153,3 +153,12 @@ per passare dalla modalità docked alla modalità finestra
    :alt: tab_attr12
 
 .. |ico27| image:: /img/tabella_attributi/icon/mActionFormView.png
+
+Novità introdotta nella QGIS 3.8 Zanzibar:
+---------------------------------
+
+in modalità `modulo` introdotta la possibilità di sfogliare i record
+con Zoom, centramento feature e lampeggio
+
+.. figure:: /img/novita_38/sfoglia.gif
+   :alt: tab_attr12
