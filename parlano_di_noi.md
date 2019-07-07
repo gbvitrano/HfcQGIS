@@ -1,5 +1,9 @@
 # Parlano di noi
 
+* **06/07/2019** Twitter [Skampus](https://twitter.com/skampus1967/status/1147438041646149632)
+
+<img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/qgisscampita2019.png" Title="" alt=""/></a>
+
 * **29/04/2019** Facebook [GTer](https://www.facebook.com/Gteronline/posts/2295398600527904)
 
 <img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/parlano_12.png" Title="" alt=""/></a>
