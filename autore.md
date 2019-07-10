@@ -66,9 +66,9 @@ Molto attivo nella comunità di QGIS: ha partecipato alla realizzazione di un pl
   <img width="600" src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/summer_camp_pa_2019.png?raw=true">
 </p>
 
-**Certification of Appreciation**
+**Certificate of Appreciation**
 <p align="center">
-  <img width="600" src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/certificato_of_appreciation.png?raw=true">
+  <img width="600" src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/certification_of_appreciation.png?raw=true">
 </p>
 
 <p align="center">
