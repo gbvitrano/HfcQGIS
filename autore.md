@@ -60,6 +60,23 @@ Molto attivo nella comunità di QGIS: ha partecipato alla realizzazione di un pl
   <img width="600" src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/HFQGISITA4PD.png?raw=true">
 </p>
 
+**Foto**: QGIS Summer Camp Padova 2019
+
+<p align="center">
+  <img width="600" src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/summer_camp_pa_2019.png?raw=true">
+</p>
+
+**Certification of Appreciation**
+<p align="center">
+  <img width="600" src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/certificato_of_appreciation.png?raw=true">
+</p>
+
+<p align="center">
+  <img width="600" src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/certificato_summer_camp.png?raw=true">
+</p>
+
+Foto da sinistra: Rocco Pispico, Enrico Ferreguti, Federico Gianoli, Matteo Ghetta, Stefano Campus, Totò (io) e Paolo Cavallini
+
 Ama ascoltare [E. Morricone](https://www.youtube.com/watch?v=LhOB8-cevIc)
 
 <p align="center"> <a href="http://opendatasicilia.it/" target="_blank"><img src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/compare_ods.png" width="150" class="immagonobox" title="opendatasicilia.it"></a>
