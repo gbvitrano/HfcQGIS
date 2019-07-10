@@ -60,7 +60,7 @@ Molto attivo nella comunità di QGIS: ha partecipato alla realizzazione di un pl
   <img width="600" src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/HFQGISITA4PD.png?raw=true">
 </p>
 
-**Foto**: QGIS Summer Camp Padova 2019
+**Foto**: [QGIS Summer Camp Padova 2019](https://pigrecoinfinito.wordpress.com/2019/07/08/certificate-of-appreciation/) 5/7 luglio
 
 <p align="center">
   <img width="600" src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/summer_camp_pa_2019.png?raw=true">
