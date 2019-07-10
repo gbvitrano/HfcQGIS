@@ -75,7 +75,9 @@ Molto attivo nella comunità di QGIS: ha partecipato alla realizzazione di un pl
   <img width="600" src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/certificato_summer_camp.png?raw=true">
 </p>
 
-Foto da sinistra: Rocco Pispico, Enrico Ferreguti, Federico Gianoli, Matteo Ghetta, Stefano Campus, Totò (io) e Paolo Cavallini
+**Foto da sinistra:** Rocco Pispico, Enrico Ferreguti, Federico Gianoli, Matteo Ghetta, Stefano Campus, Totò (io) e Paolo Cavallini.
+
+---
 
 Ama ascoltare [E. Morricone](https://www.youtube.com/watch?v=LhOB8-cevIc)
 
