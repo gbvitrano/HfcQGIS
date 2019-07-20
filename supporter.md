@@ -23,5 +23,5 @@ nro| contributo|Luogo | sito  |sezione
 1| Stefano Campus|Italia | |[PR update funzione concat()](https://github.com/pigreco/HfcQGIS/pull/7/commits/a106fb8564dae849536b09bbc1efe8bc32d05a2a)
 2| [Ludovico Frate](https://twitter.com/FrateLudovico?lang=it)|Italia|[lezionigis.it](https://www.lezionigis.it/)| [es: 11 - Calcolo della core area (area interna al poligono al netto di un'area di buffer interna )](esempi/core_area.html)
 3| Martina Savarese| Italia||[es: 17 - Contare i punti nel poligono per categorie](esempi/punti_in_poligoni_categorie.html)
-4|[Giulio Fattori](https://github.com/Korto19)| Italia||[Fattoriale](custom/fattoriale.html)
+4|[Giulio Fattori](https://github.com/Korto19)| Italia||[Fattoriale](gr_funzioni/custom/fattoriale.html)
 
