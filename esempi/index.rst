@@ -143,7 +143,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Aggregare SR differenti: http://hfcqgis.opendatasicilia.it/it/latest/esempi/aggregare_con_sr_differenti.html
 .. _Distanze progressive chilometriche: http://hfcqgis.opendatasicilia.it/it/latest/esempi/distanze_progressive_chilometriche.html
 .. _Aggrega elementi contigui: http://hfcqgis.opendatasicilia.it/it/latest/esempi/aggregare_elementi_contigui.html
-.. _Linea di minima distanza tra oggetti: http://hfcqgis.opendatasicilia.it/it/latest/esempi/linea_min_distanza.html
+.. _Linea minima distanza tra oggetti: http://hfcqgis.opendatasicilia.it/it/latest/esempi/linea_min_distanza.html
 
 
 
