@@ -31,7 +31,7 @@ poi, con un po' di magia è possibile aggiungere l'etichetta con il valore della
 ![](/img/esempi/linea_min_distanza/min_dist_03.png)
 
 
-Provavi tu
+Provaci tu
 
 Geopackage è [qui](https://github.com/gbvitrano/HfcQGIS/raw/master/esempi/minima_distanza_tra_oggetti_qgis38.gpkg)
 
