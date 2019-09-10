@@ -30,5 +30,5 @@ Esempio|Descrizione
 [Creare Hub lines](hub_lines.md)|Creare Hub lines
 [Aggregare con SR differenti](aggregare_con_sr_differenti.md)|Aggregare con SR differenti
 [Distanze progressive chilometriche](distanze_progressive_chilometriche.md)|Formatta le distanze progressive chilometriche tipo Autostrade
-[Aggregare elementi adiacenti](agrregare_elementi_contigui.md)|Aggrega elementi adiacenti|Pigreco
+[Aggregare elementi adiacenti](aggregare_elementi_contigui.md)|Aggrega elementi adiacenti|Pigreco
 [Linea minima distanza tra due punti](linea_min_distanza.md)|Traccia una linea di minima distanza usando il generatore di geometrie|Pigreco
