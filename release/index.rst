@@ -129,5 +129,5 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Negative index support: novita_38.html#negative-index-support
 .. _Gruppo Files and Paths: novita_38.html#gruppo-files-and-paths
 .. _Anteprima valori Expression builder: novita_38.html#anteprima-valori-expression-builder
-.. _attributes: ../gr_funzioni/record_e_attributi/_attributes.html
-.. _collect_geometries: ../gr_funzioni/geometria/_collect_geometries.html
+.. _attributes: ../gr_funzioni/record_e_attributi/attributes.html
+.. _collect_geometries: ../gr_funzioni/geometria/collect_geometries.html
