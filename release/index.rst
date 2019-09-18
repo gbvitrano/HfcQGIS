@@ -5,6 +5,19 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. raw:: html
    
    <embed>
+        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/Bucarest2019.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/Bucarest2019.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS Dev"  title="QGIS Dev"style="margin: 0 auto; display: block;"/></h1>
+    </embed>
+    
+`Novità rilevanti introdotte in QGIS 3.10 25/10/2019`_
+--------------------------------------------   
+   
+- `attributes`_
+- `collect_geometries`_
+
+
+.. raw:: html
+   
+   <embed>
         <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_8_0.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_8_0.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS 3.8 Zanzibar"  title="QGIS 3.8 Zanzibar"style="margin: 0 auto; display: block;"/></h1>
     </embed>
     
@@ -99,6 +112,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Novità rilevanti introdotte in QGIS 3.4 LTR 26/10/2018: novita_34.html
 .. _Novità rilevanti introdotte in QGIS 3.6 22/02/2019: novita_36.html
 .. _Novità rilevanti introdotte in QGIS 3.8 21/06/2019: novita_38.html
+.. _Novità rilevanti introdotte in QGIS 3.10 25/10/2019: novita_310.html
 .. _force_rhr: ../gr_funzioni/geometria/force_rhr.html
 .. _decode_uri: ../gr_funzioni/layer_della_mappa/decode_uri.html
 .. _sposta la casella di gruppo valore nell'area di aiuto: novita_36.html#sposta-la-casella-di-gruppo-valore-nell-area-di-aiuto
@@ -115,3 +129,5 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Negative index support: novita_38.html#negative-index-support
 .. _Gruppo Files and Paths: novita_38.html#gruppo-files-and-paths
 .. _Anteprima valori Expression builder: novita_38.html#anteprima-valori-expression-builder
+.. _attributes: ../gr_funzioni/record_e_attributi/_attributes.html
+.. _collect_geometries: ../gr_funzioni/geometria/_collect_geometries.html
