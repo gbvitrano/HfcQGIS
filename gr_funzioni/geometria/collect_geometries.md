@@ -1,4 +1,4 @@
-## Funzione `collect_geometries`
+# collect_geometries
 
 Raccoglie un set di geometrie in un oggetto geometria multiparte.
 
