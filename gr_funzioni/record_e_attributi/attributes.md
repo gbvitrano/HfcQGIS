@@ -1,4 +1,4 @@
-## Funzione `attributes`
+# attributes
 
 Restituisce una mappa contenente tutti gli attributi di una feature, con i nomi dei campi come chiavi della mappa.
 
