@@ -8,7 +8,7 @@ selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabe
 
 1. attivare editing;
 2. aprire calcolatore di campi ![calc](https://docs.qgis.org/testing/en/_images/mActionCalculateField.png)
-3. crea nuovo campo e digittare nome campo **quota**;
+3. crea nuovo campo e digitare nome campo **quota**;
 4. tipo campo uscita Real e lunghezza uscita 13 e 2;
 5. cercare la funzione [z](../gr_funzioni/geometria/z.html);
 6. doppio clic sul risultato della ricerca per inserire la funzione;
