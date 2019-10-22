@@ -24,4 +24,5 @@ nro| contributo|Luogo | sito  |sezione
 2| [Ludovico Frate](https://twitter.com/FrateLudovico?lang=it)|Italia|[lezionigis.it](https://www.lezionigis.it/)| [es: 11 - Calcolo della core area (area interna al poligono al netto di un'area di buffer interna )](esempi/core_area.html)
 3| Martina Savarese| Italia||[es: 17 - Contare i punti nel poligono per categorie](esempi/punti_in_poligoni_categorie.html)
 4|[Giulio Fattori](https://github.com/Korto19)| Italia||[Fattoriale](gr_funzioni/custom/fattoriale.html)
+5|[Matteo Ghetta](https://github.com/ghtmtt)| Italia|[Faunalia](https://www.faunalia.eu/it/)|[add_col_z](http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_z.html)
 
