@@ -5,7 +5,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. raw:: html
    
    <embed>
-        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/Bucarest2019.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/Bucarest2019.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS Dev"  title="QGIS Dev"style="margin: 0 auto; display: block;"/></h1>
+        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_10.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_10.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS Dev"  title="QGIS Dev"style="margin: 0 auto; display: block;"/></h1>
     </embed>
     
 `Novità rilevanti introdotte in QGIS 3.10 25/10/2019`_
