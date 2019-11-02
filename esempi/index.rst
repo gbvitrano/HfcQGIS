@@ -110,7 +110,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      | tra oggetti`_            | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
-
+| 31   | `Creare campo somma      |                 |
+|      | cumulativa`_             | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
