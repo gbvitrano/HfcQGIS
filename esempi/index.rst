@@ -144,6 +144,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Distanze progressive chilometriche: http://hfcqgis.opendatasicilia.it/it/latest/esempi/distanze_progressive_chilometriche.html
 .. _Aggrega elementi contigui: http://hfcqgis.opendatasicilia.it/it/latest/esempi/aggregare_elementi_contigui.html
 .. _Linea minima distanza tra oggetti: http://hfcqgis.opendatasicilia.it/it/latest/esempi/linea_min_distanza.html
+.. _Creare campo somma cumulativa: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_campo_sum_cum.html
 
 
 
@@ -181,3 +182,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    distanze_progressive_chilometriche
    aggregare_elementi_contigui
    linea_min_distanza
+   add_campo_sum_cum
