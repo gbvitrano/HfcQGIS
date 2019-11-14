@@ -1,4 +1,4 @@
-# Corso di formazione
+# Corso di formazione (Novità)
 
 ## A chi è rivolto
 
