@@ -60,6 +60,11 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
 - `Twitter`: https://twitter.com/totofiandaca
 - `Telegram`: https://t.me/pigreco71
 
+### Sitografia
+
+- `blog`: https://pigrecoinfinito.wordpress.com/
+- `canale youtube`: https://www.youtube.com/channel/UC-rfLek_VKMP1mKG3QTa7rg?
+
 
   
 ## Certificato di partecipazione
