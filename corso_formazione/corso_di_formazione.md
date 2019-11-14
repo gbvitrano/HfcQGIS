@@ -56,14 +56,14 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
 ### Contatti
 
 - `Mail`: pigrecoinfinito@gmail.com
-- `Facebook`: https://www.facebook.com/pigreco314
-- `Twitter`: https://twitter.com/totofiandaca
-- `Telegram`: https://t.me/pigreco71
+- `Facebook`: [https://www.facebook.com/pigreco314](https://www.facebook.com/pigreco314)
+- `Twitter`: [https://twitter.com/totofiandaca](https://twitter.com/totofiandaca)
+- `Telegram`: [https://t.me/pigreco71](https://t.me/pigreco71)
 
 ### Sitografia
 
-- `blog`: https://pigrecoinfinito.wordpress.com/
-- `canale youtube`: https://www.youtube.com/channel/UC-rfLek_VKMP1mKG3QTa7rg?
+- `blog`: [https://pigrecoinfinito.wordpress.com/](https://pigrecoinfinito.wordpress.com/)
+- `canale youtube`: [https://www.youtube.com/channel/UC-rfLek_VKMP1mKG3QTa7rg](https://www.youtube.com/channel/UC-rfLek_VKMP1mKG3QTa7rg)
 
 
   
