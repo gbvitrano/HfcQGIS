@@ -30,6 +30,11 @@ Contenuti:
 .. toctree::
    :maxdepth: 2
       
+   corso_formazione/corso_di_formazione
+  
+.. toctree::
+   :maxdepth: 2
+      
    calcolatore_campi/index
    
 .. toctree::
