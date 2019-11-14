@@ -1,4 +1,4 @@
-# Corso di formazione sul field calc di QGIS
+# Corso di formazione
 
 ## A chi è rivolto
 
