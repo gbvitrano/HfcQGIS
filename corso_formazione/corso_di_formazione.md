@@ -2,7 +2,7 @@
 
 ## A chi è rivolto
 
-Il corso è rivolto agli utenti che conoscono l'uso generale di QGIS e desiderano approfondire l'uso della **tabella attributi** e del **calcolatore di campi**.
+Il corso è rivolto agli utenti che conoscono l'uso generale di [QGIS](https://qgis.org/it/site/) e desiderano approfondire l'uso della **tabella attributi** e del **calcolatore di campi**.
 
 ## Durata del corso
 
