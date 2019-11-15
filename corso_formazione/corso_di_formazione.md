@@ -66,7 +66,9 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
 - `canale youtube`: [https://www.youtube.com/channel/UC-rfLek_VKMP1mKG3QTa7rg](https://www.youtube.com/channel/UC-rfLek_VKMP1mKG3QTa7rg)
 - `HfcQGIS`: [http://hfcqgis.opendatasicilia.it/it/latest/index.html](http://hfcqgis.opendatasicilia.it/it/latest/index.html)
 - `Tansignari`: [http://tansignari.opendatasicilia.it/it/latest/#](http://tansignari.opendatasicilia.it/it/latest/#)
-- `data.world`: [https://data.world/](https://data.world/pigrecoinfinito)
+- `data.world`: [https://data.world/pigrecoinfinito](https://data.world/pigrecoinfinito)
+- `github`: [https://github.com/pigreco](https://github.com/pigreco)
+- `gitlab`: [https://gitlab.com/pigr3co](https://gitlab.com/pigr3co)
 
 
   
