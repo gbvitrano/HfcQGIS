@@ -42,7 +42,7 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
    14. cenni sull'editor delle funzioni python;
    15. esercitazione.
 3.  Novità introdotte in QGIS 3.x
-4.  Esercitazioni.
+4.  [Esercitazioni](http://hfcqgis.opendatasicilia.it/it/latest/esempi/index.html).
 
 ## Docente [Ing. Salvatore Fiandaca](http://hfcqgis.opendatasicilia.it/it/latest/autore.html)
 
