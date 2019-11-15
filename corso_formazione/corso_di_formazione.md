@@ -10,7 +10,7 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
 
 ## Programma Corso
 
-1. **Tabella attributi** ![ico](/img/tabella_attributi/icon/mActionOpenTable.png);
+1. **Tabella attributi** ![](/img/tabella_attributi/icon/mActionOpenTable.png);
    1. Concetti fondamentali sulla Tabella attributi
    2. che cosa è la tabella attributi;
    3. campi e record, come definirli;
@@ -25,7 +25,7 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
    8. riorganizzazione campi tabella - processing;
    9. selezione per espressione;
    10. esercitazioni.
-2. **Calcolatore di campi** ![ico](/img/mActionCalculateField.png);
+2. **Calcolatore di campi** ![](/img/mActionCalculateField.png);
    1. Concetti fondamentali sul Calcolatore di campi;
    2. Interfaccia;
    3. gruppo funzioni;
