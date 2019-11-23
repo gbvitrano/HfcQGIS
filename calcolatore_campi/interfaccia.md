@@ -32,3 +32,7 @@ Nel caso risulti nascosta la sezione help in linea:
 
 ![interfaccia](../img/finestra_field_calc/hfcqgis_Help.gif)
 
+Per aumentare dimensione caratteri:
+
+![interfaccia](../img/interfaccia/fieldCalc.gif)
+
