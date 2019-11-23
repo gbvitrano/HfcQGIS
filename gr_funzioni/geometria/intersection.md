@@ -36,6 +36,10 @@ make_line(  -- linea b
 -- NB: -- l' ordine delle geometrie è indifferente
 ```
 
+## prova tu
+
+[Dati e progetto qgz](./prova_tu/DIFFERENCE.zip)
+
 ## nota bene
 
 --
