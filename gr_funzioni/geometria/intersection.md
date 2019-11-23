@@ -38,7 +38,7 @@ make_line(  -- linea b
 
 ## prova tu
 
-[Dati e progetto qgz](./gr_funzioni/geometria/prova_tu/DIFFERENCE.zip)
+[Dati e progetto qgz](./DIFFERENCE.zip)
 
 ## nota bene
 
