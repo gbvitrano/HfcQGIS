@@ -17,7 +17,7 @@ sym_difference(_geometry1, geometry2_)
 
 ![](/img/geometria/sym_difference/sym_difference1.png)
 
-![](/img/geometria/sym_difference/sym_difference.png)
+![](/img/geometria/sym_difference/sym_difference3.png)
 
 Espressione:
 
