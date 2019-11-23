@@ -114,6 +114,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      | cumulativa`_             | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
+| 32   | `Aggiunge nodo ad una    |                 |
+|      | linea`_                  | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
@@ -148,6 +152,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Aggrega elementi contigui: http://hfcqgis.opendatasicilia.it/it/latest/esempi/aggregare_elementi_contigui.html
 .. _Linea minima distanza tra oggetti: http://hfcqgis.opendatasicilia.it/it/latest/esempi/linea_min_distanza.html
 .. _Creare campo somma cumulativa: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_campo_sum_cumulativo.html
+.. _Aggiunge un nodo ad una linea: http://hfcqgis.opendatasicilia.it/it/latest/esempi/aggiungere_punto_a_linea.html
 
 
 
@@ -186,3 +191,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    aggregare_elementi_contigui
    linea_min_distanza
    add_campo_sum_cumulativo
+   aggiungere_punto_a_linea
