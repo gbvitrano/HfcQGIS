@@ -17,7 +17,7 @@ difference(_<span style="color:red;">geometry_a</span>, <span style="color:red;"
 
 ![](/img/geometria/difference/difference1.png)
 
-![](/img/geometria/intersection/difference31.png)
+![](/img/geometria/difference/difference31.png)
 
 Espressione:
 
@@ -37,7 +37,7 @@ make_line(  -- linea b
 -- a - b è diverso da b - a
 ```
 
-![](/img/geometria/intersection/difference32.png)
+![](/img/geometria/difference/difference32.png)
 
 ```
 -- differenza linea b - linea a
