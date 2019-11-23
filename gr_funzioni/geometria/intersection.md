@@ -38,7 +38,7 @@ make_line(  -- linea b
 
 ## prova tu
 
-[Dati e progetto qgz](../prova_tu/DIFFERENCE.zip)
+[Dati e progetto qgz](https://github.com/gbvitrano/HfcQGIS/raw/master/prova_tu/DIFFERENCE.zip)
 
 ## nota bene
 
