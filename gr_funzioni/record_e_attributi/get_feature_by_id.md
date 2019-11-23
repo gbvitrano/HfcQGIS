@@ -9,7 +9,7 @@ Restituisce l'id dell'elemento della riga corrente.
 ## Argomenti
 
 * *<span style="color:red;">layer</span>* layer, nome del layer o id del layer
-* *<span style="color:red;">feature_id</span>* L'id dell'elemento che deve essere restituito
+* *<span style="color:red;">feature_id</span>* L'id dell'elemento che deve essere restituito (inizia da 0 per gli shapefile)
 
 ## Esempi
 
