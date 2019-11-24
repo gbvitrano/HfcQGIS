@@ -66,3 +66,5 @@ funzione [aggregate](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/agg
 
 [Geopackage con dati e progetto](https://github.com/gbvitrano/HfcQGIS/raw/master/prova_tu/drilldown_form_multiple.zip)
 
+Nel GeoPackage sono state memorizzate i tre stili usati per il form!!!
+
