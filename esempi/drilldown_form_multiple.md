@@ -2,15 +2,15 @@
 
 Una delle novità introdotte nella QGIS 3.2 è la [Form drill-down (a cascata) WIDGET Value Relation (Relazione valore)](http://hfcqgis.opendatasicilia.it/it/latest/release/novita_32.html#form-drill-down-a-cascata-widget-value-relation-relazione-valore) che permette di creare delle Form con filtro dinamico, in questo esercizio vedremo come realizzare una Form semplice e una multiselezione.
 
-![](./img/../../../img/esempi/drilldown_form/img_00.png)
+![](/img/esempi/drilldown_form/img_00.png)
 
-![](./img/../../../img/esempi/drilldown_form/img_03.png)
+![](/img/esempi/drilldown_form/img_03.png)
 
 ### Form semplice selezione 1:1
 
-![](./img/../../../img/esempi/drilldown_form/img_06.png)
+![](/img/esempi/drilldown_form/img_06.png)
 
-![](./img/../../../img/esempi/drilldown_form/img_07.png)
+![](/img/esempi/drilldown_form/img_07.png)
 
 - espressione da usare:
 
@@ -18,13 +18,13 @@ Una delle novità introdotte nella QGIS 3.2 è la [Form drill-down (a cascata) W
 "cod_prov" = current_value('provincia')
 ```
 
-![](./img/../../../img/esempi/drilldown_form/drill3.gif)
+![](/img/esempi/drilldown_form/drill3.gif)
 
 ### Form avanzato n:m
 
-![](./img/../../../img/esempi/drilldown_form/img_04.png)
+![](/img/esempi/drilldown_form/img_04.png)
 
-![](./img/../../../img/esempi/drilldown_form/img_05.png)
+![](/img/esempi/drilldown_form/img_05.png)
 
 - espressione da usare:
 
@@ -32,11 +32,11 @@ Una delle novità introdotte nella QGIS 3.2 è la [Form drill-down (a cascata) W
 eval( ' "cod_prov" in' || replace(current_value('provincia'),array('{','}', '"'),array('(',')', '\'')))
 ```
 
-![](./img/../../../img/esempi/drilldown_form/drill2.gif)
+![](/img/esempi/drilldown_form/drill2.gif)
 
 ### Form avanzato con spatial join 1:m
 
-![](./img/../../../img/esempi/drilldown_form/img_01.png)
+![](/img/esempi/drilldown_form/img_01.png)
 
 - espressione da scrivere in `Espressione filtro` nel primo campo della form:
   
@@ -49,7 +49,7 @@ filter:= intersects(@current_geometry, geometry(@parent) )
 ) 
 ```
 
-![](./img/../../../img/esempi/drilldown_form/img_02.png)
+![](/img/esempi/drilldown_form/img_02.png)
 
 - espressione da scrivere in `Espressione filtro` nel secondo campo della form:
 
@@ -57,7 +57,7 @@ filter:= intersects(@current_geometry, geometry(@parent) )
 eval( ' "cod_prov" in' || replace(current_value('provincia'),array('{','}', '"'),array('(',')', '\'')))
 ```
 
-![](./img/../../../img/esempi/drilldown_form/drill1.gif)
+![](/img/esempi/drilldown_form/drill1.gif)
 
 funzione [aggregate](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/aggregates/aggregate.html)
 
