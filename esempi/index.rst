@@ -118,6 +118,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      | linea`_                  | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
+| 33   | `DrillDown Form Multi`_  |                 |
+|      |                          | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
@@ -153,6 +157,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Linea minima distanza tra oggetti: http://hfcqgis.opendatasicilia.it/it/latest/esempi/linea_min_distanza.html
 .. _Creare campo somma cumulativa: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_campo_sum_cumulativo.html
 .. _Aggiunge nodo ad una linea: http://hfcqgis.opendatasicilia.it/it/latest/esempi/aggiungere_punto_a_linea.html
+.. _DrillDown Form Multi: http://hfcqgis.opendatasicilia.it/it/latest/esempi/drilldown_form_multiple.html
 
 
 
@@ -192,3 +197,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    linea_min_distanza
    add_campo_sum_cumulativo
    aggiungere_punto_a_linea
+   drilldown_form_multiple
