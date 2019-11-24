@@ -34,3 +34,4 @@ Esempio|Descrizione
 [Linea minima distanza tra due punti](linea_min_distanza.md)|Traccia una linea di minima distanza usando il generatore di geometrie|Pigreco
 [Creare campo somma cumulativa](add_campo_sum_cumulativo.md)|Espressione per popolare campo con somma cumulativa|Pigreco
 [Aggiungere nodo ad una linea](aggiungere_punto_a_linea.md)|Aggiunge un nodo di disegno ad una linea|Pigreco
+[Drilldown form multiple](drilldown_form_multiple.md)|Creare Form con filtro dinamico drillDown (cascade)|Pigreco
