@@ -79,3 +79,4 @@ Nel GeoPackage sono state memorizzate i tre stili usati per il form!!!
 
 [Lista QGIS dev](http://osgeo-org.1560.x6.nabble.com/QGIS-Developer-Drill-down-forms-with-multiple-selections-option-td5422867.html)
 
+Issue: https://github.com/qgis/QGIS/issues/33046
