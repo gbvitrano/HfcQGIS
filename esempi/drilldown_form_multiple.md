@@ -32,6 +32,10 @@ Una delle novità introdotte nella QGIS 3.2 è la [Form drill-down (a cascata) W
 eval( ' "cod_prov" in' || replace(current_value('provincia'),array('{','}', '"'),array('(',')', '\'')))
 ```
 
+Espressione di [Pedro Venâncio](https://twitter.com/PedroNGV) con suggerimento di [Alexandre Neto](https://twitter.com/AlexNetoGeo) - 
+[Lista QGIS dev](http://osgeo-org.1560.x6.nabble.com/QGIS-Developer-Drill-down-forms-with-multiple-selections-option-td5422867.html)
+
+
 ![](/img/esempi/drilldown_form/drill2.gif)
 
 ### Form avanzato con spatial join 1:m
@@ -57,6 +61,9 @@ filter:= intersects(@current_geometry, geometry(@parent) )
 eval( ' "cod_prov" in' || replace(current_value('provincia'),array('{','}', '"'),array('(',')', '\'')))
 ```
 
+Espressione di [Pedro Venâncio](https://twitter.com/PedroNGV) con suggerimento di [Alexandre Neto](https://twitter.com/AlexNetoGeo) - 
+[Lista QGIS dev](http://osgeo-org.1560.x6.nabble.com/QGIS-Developer-Drill-down-forms-with-multiple-selections-option-td5422867.html)
+
 ![](/img/esempi/drilldown_form/drill1.gif)
 
 funzione [aggregate](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/aggregates/aggregate.html)
@@ -67,4 +74,8 @@ funzione [aggregate](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/agg
 [Geopackage con dati e progetto](https://github.com/gbvitrano/HfcQGIS/raw/master/prova_tu/drilldown_form_multiple.zip)
 
 Nel GeoPackage sono state memorizzate i tre stili usati per il form!!!
+
+## Riferimenti
+
+[Lista QGIS dev](http://osgeo-org.1560.x6.nabble.com/QGIS-Developer-Drill-down-forms-with-multiple-selections-option-td5422867.html)
 
