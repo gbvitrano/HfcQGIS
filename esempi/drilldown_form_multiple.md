@@ -53,6 +53,10 @@ filter:= intersects(@current_geometry, geometry(@parent) )
 ) 
 ```
 
+o meglio ancora:
+
+`intersects( @current_geometry ,$geometry)`
+
 ![](/img/esempi/drilldown_form/img_02.png)
 
 - espressione da scrivere in `Espressione filtro` nel secondo campo della form:
