@@ -53,9 +53,17 @@ filter:= intersects(@current_geometry, geometry(@parent) )
 ) 
 ```
 
-o meglio ancora:
+o più semplicemente (e anche più performante)
 
-`intersects( @current_geometry ,$geometry)`
+```
+intersects( @current_geometry ,$geometry)
+```
+
+- Nel caso volessimo filtrare **la feature più vicina**:
+
+```
+minimum(distance(@current_geometry ,$geometry)) = distance(@current_geometry ,$geometry)
+```
 
 ![](/img/esempi/drilldown_form/img_02.png)
 
