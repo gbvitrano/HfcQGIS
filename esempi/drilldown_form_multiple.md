@@ -59,11 +59,14 @@ o più semplicemente (e anche più performante)
 intersects( @current_geometry ,$geometry)
 ```
 
-- Nel caso volessimo filtrare **la feature più vicina**:
+- Nel caso volessimo filtrare **la feature più vicina** (quindi non necessariamnete intersecante):
 
 ```
 minimum(distance(@current_geometry ,$geometry)) = distance(@current_geometry ,$geometry)
 ```
+
+![](/img/esempi/drilldown_form/drill4.gif)
+
 
 ![](/img/esempi/drilldown_form/img_02.png)
 
