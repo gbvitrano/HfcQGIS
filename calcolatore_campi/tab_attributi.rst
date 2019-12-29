@@ -169,5 +169,5 @@ Novità introdotta nella QGIS 3.12 xxxxxx:
 possibilità di salvare le espressioni utente
 le espressioni sono memorizzate nel profilo utente
 
-.. figure:: /img/novita_312/espressioniutente.gif
+.. figure:: /img/novita_312/espressioni_utente.gif
    :alt: tab_attr12
