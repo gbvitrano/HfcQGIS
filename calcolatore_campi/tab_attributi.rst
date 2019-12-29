@@ -163,7 +163,7 @@ con Zoom, centramento feature e lampeggio
 .. figure:: /img/novita_38/sfoglia.gif
    :alt: tab_attr12
    
-   Novità introdotta nella QGIS 3.12 xxxxxx:
+Novità introdotta nella QGIS 3.12 xxxxxx:
 ---------------------------------
 
 possibilità di salvare le espressioni utente
