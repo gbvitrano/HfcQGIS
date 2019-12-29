@@ -166,8 +166,10 @@ con Zoom, centramento feature e lampeggio
 Novità introdotta nella QGIS 3.12 xxxxxx:
 ---------------------------------
 
-possibilità di salvare le espressioni utente
+possibilità di salvare le `espressioni utente`_
 le espressioni sono memorizzate nel profilo utente
 
 .. figure:: /img/novita_312/espressioni_utente.gif
    :alt: tab_attr12
+
+.. _espressioni utente: https://pigrecoinfinito.com/2019/12/14/field-calc-di-qgis-save-expressions-crowdfunding/
