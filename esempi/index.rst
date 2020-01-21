@@ -122,7 +122,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      |                          | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
-| 33   |`Select_primi_n_valori`_  |                 |
+| 34   |`Select_primi_n_valori`_  |                 |
 |      |                          | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
