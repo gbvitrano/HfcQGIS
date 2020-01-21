@@ -122,6 +122,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      |                          | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
+| 33   |`Select_primi_n_valori`_  |                 |
+|      |                          | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
@@ -158,6 +162,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Creare campo somma cumulativa: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_campo_sum_cumulativo.html
 .. _Aggiunge nodo ad una linea: http://hfcqgis.opendatasicilia.it/it/latest/esempi/aggiungere_punto_a_linea.html
 .. _DrillDown Form Multi: http://hfcqgis.opendatasicilia.it/it/latest/esempi/drilldown_form_multiple.html
+.. _Select_primi_n_valori: http://hfcqgis.opendatasicilia.it/it/latest/esempi/selezionare_primi_n_valori.html
 
 
 
@@ -198,3 +203,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    add_campo_sum_cumulativo
    aggiungere_punto_a_linea
    drilldown_form_multiple
+   Select_primi_n_valori
