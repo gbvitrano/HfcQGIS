@@ -31,7 +31,7 @@ Vediamo le diverse parti che compongono l'espressione:
 1.	Seleziona il layer contenente le curve di livello. 
 2.	Nel Pannelo Stile Layer seleziona la scheda Simbologia
 3.	In Tipo simbolo del vettore seleziona Generatore Geometria
-4.	In Tipo d geometria seleziona LineStyring/MultiLineString
+4.	In Tipo di geometria seleziona LineString/MultiLineString
 5.	Copia l’espressione nel riquadro
 
 La simbologia del layer si aggiornerá automaticamente. In questo modo é possibile cambiare alcuni dei valori inseriti e verificare in tempo reale il risultato. 
@@ -44,7 +44,7 @@ Una volta trovata la combinazione migliore di valori che restituisce la simbolog
 1.	Seleziona il layer contenente le curve di livello. 
 2.	Apri il Calcolatore di campi
 3.	Spunta l'opzione Aggiorna un campo esistente
-4.	Nel meú a tendina seleziona <geometry>.
+4.	Nel menú a tendina seleziona <geometry>.
 5.	Copia l’espressione nel riquadro
 6.  Clicca ok
 
