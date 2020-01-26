@@ -25,5 +25,5 @@ nro| contributo|Luogo | sito  |sezione
 3| Martina Savarese| Italia||[es: 17 - Contare i punti nel poligono per categorie](esempi/punti_in_poligoni_categorie.html)
 4|[Giulio Fattori](https://github.com/Korto19)| Italia||[Fattoriale](gr_funzioni/custom/fattoriale.html)
 5|[Matteo Ghetta](https://github.com/ghtmtt)| Italia|[Faunalia](https://www.faunalia.eu/it/)|[add_col_z](http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_z.html)
-6|[Valerio Pinna](https://www.facebook.com/valerio.pinna.5811)| Italia||[es: 35 - Generalizzare isoipse )](esempi/generalizzare_linee.html)
+6|[Valerio Pinna](https://www.facebook.com/valerio.pinna.5811)| Italia||[es: 35 - Generalizzare isoipse](esempi/generalizzare_linee.html)
 
