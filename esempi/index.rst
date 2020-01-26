@@ -126,6 +126,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      |                          | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
+| 34   |`Generalizzare_linee`_    |                 |
+|      |                          | Valerio         |
+|      |                          | Pinna           |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
@@ -163,6 +167,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Aggiunge nodo ad una linea: http://hfcqgis.opendatasicilia.it/it/latest/esempi/aggiungere_punto_a_linea.html
 .. _DrillDown Form Multi: http://hfcqgis.opendatasicilia.it/it/latest/esempi/drilldown_form_multiple.html
 .. _Select_primi_n_valori: http://hfcqgis.opendatasicilia.it/it/latest/esempi/selezionare_primi_n_valori.html
+.. _Generalizzare_linee: http://hfcqgis.opendatasicilia.it/it/latest/esempi/generalizzare_linee.html
 
 
 
@@ -204,3 +209,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    aggiungere_punto_a_linea
    drilldown_form_multiple
    Select_primi_n_valori
+   generalizzare_linee
