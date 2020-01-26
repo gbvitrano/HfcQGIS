@@ -126,7 +126,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      |                          | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
-| 34   |`Generalizzare_linee`_    |                 |
+| 35   |`Generalizzare_linee`_    |                 |
 |      |                          | Valerio         |
 |      |                          | Pinna           |
 +------+--------------------------+-----------------+
