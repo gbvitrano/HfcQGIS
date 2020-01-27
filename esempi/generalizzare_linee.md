@@ -44,7 +44,7 @@ Una volta trovata la combinazione migliore di valori che restituisce la simbolog
 1.	Seleziona il layer contenente le curve di livello. 
 2.	Apri il Calcolatore di campi
 3.	Spunta l'opzione Aggiorna un campo esistente
-4.	Nel menú a tendina seleziona <geometry>.
+4.	Nel menú a tendina seleziona `geometry`.
 5.	Copia l’espressione nel riquadro
 6.  Clicca ok
 
