@@ -16,7 +16,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 - `is_valid`_
 - `geom_from_wkb`_
 - `geom_to_wkb`_
-- `is_empy`_
+- `is_empty`_
 - `is_empty_or_null`_
 - `rotate`_
 - `datetime_from_epoch`_
