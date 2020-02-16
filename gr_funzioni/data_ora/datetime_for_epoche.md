@@ -1,4 +1,4 @@
-## Funzione `datetime_from_epoch`
+# datetime_from_epoch
 
 Restituisce un datetime il cui data e ora sono il numero di millisecondi, msec, che sono passati dal 1970-01-01T00: 00: 00.000, Coordinated Universal Time (Qt.UTC) e convertiti in Qt.LocalTime.
 
