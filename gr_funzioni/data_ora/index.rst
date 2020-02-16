@@ -103,7 +103,7 @@ data (ad es. *day()* per ottenere l'intervallo espresso in giorni)
 .. _to_time: to_time.html
 .. _week: week.html
 .. _year: year.html
-.. _datetime_from_epoch.html
+.. _datetime_from_epoch: datetime_from_epoch.html
 
 .. |image0| image:: /img/data_e_ora/gruppo_data_e_ora1.png
 
