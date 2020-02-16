@@ -71,7 +71,7 @@ Questo gruppo contiene funzioni per gestire dati con *date* e *ore*.
 |                                 | passatidal                         |
 |                                 | 1970-01-01T00: 00: 00.000,         |
 |                                 | Coordinated Universal Time (Qt.UTC)|
-|                                 | e convertiti in Qt.LocalTime.
+|                                 | e convertiti in Qt.LocalTime.      |
 +---------------------------------+------------------------------------+
   
 **Osservazione**
