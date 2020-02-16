@@ -1,4 +1,4 @@
-## Funzione `relate`
+# relate
 
 Testa la rappresentazione Dimensional Extended 9 Intersection [Model (DE-9IM)](https://en.wikipedia.org/wiki/DE-9IM) della relazione tra due geometrie.
 
