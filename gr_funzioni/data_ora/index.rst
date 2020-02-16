@@ -67,9 +67,9 @@ Questo gruppo contiene funzioni per gestire dati con *date* e *ore*.
 +---------------------------------+------------------------------------+
 | `datetime_for_epoch`_           | Restituisce un datetime il cui     |
 |								                  | data e ora sono il numero di       |
-|				                          | millisecondi, msec, che sono...    |
-|                                 |                                    |
+|				                          | millisecondi, msec, che sono...    | 
 +---------------------------------+------------------------------------+
+
   
 **Osservazione**
 
