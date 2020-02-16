@@ -65,9 +65,10 @@ Questo gruppo contiene funzioni per gestire dati con *date* e *ore*.
 |                                 | o il numero di anni da un          |
 |                                 | intervallo                         |
 +---------------------------------+------------------------------------+
-| `datetime_for_epoch`_ 		      | Restituisce un datetime il cui     |
+| `datetime_for_epoch`_           | Restituisce un datetime il cui     |
 |								                  | data e ora sono il numero di       |
-|								                  | millisecondi, msec, che sono...    |
+|				                          | millisecondi, msec, che sono...    |
+|                                 |                                    |
 +---------------------------------+------------------------------------+
   
 **Osservazione**
