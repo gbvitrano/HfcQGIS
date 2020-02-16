@@ -73,6 +73,8 @@ Questo gruppo contiene funzioni per gestire dati con *date* e *ore*.
 |                                 | Coordinated Universal Time (Qt.UTC)|
 |                                 | e convertiti in Qt.LocalTime.      |
 +---------------------------------+------------------------------------+
+
+
   
 **Osservazione**
 
