@@ -1,10 +1,10 @@
-## Funzione `rotate`
+# rotate
 
 Restituisce una versione ruotata di una geometria. I calcoli si trovano nel sistema di riferimento spaziale di questa geometria.
 
 ## Sintassi
 
-rotate(_geom_,[,point]_)
+rotate(_geom[,point]_)
 
 ## Argomenti
 
