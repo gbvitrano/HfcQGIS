@@ -14,7 +14,7 @@ Se viene fornito, il parametro opzionale `seed`, il valore sarà sempre lo stess
 
 - `is_valid` https://github.com/qgis/QGIS/pull/32900
 
-![screen](./img/novita_312/image01.png)
+![screen](/img/novita_312/Image01.png)
 
 - `geom_from_wkb` e `geom_to_wkb` https://github.com/qgis/QGIS/pull/32561
 
@@ -22,21 +22,21 @@ Aggiunge `geom_from_wkb` e `geom_to_wkb`, che rispecchiano le funzioni `geom_fro
 
 - `is_empy` e `is_empty_or_null` https://github.com/qgis/QGIS/pull/33333
 
-![screen](./img/novita_312/image02.png)
+![screen](/img/novita_312/Image02.png)
 
 - `rotate` https://github.com/qgis/QGIS/pull/33125
 
-![screen](./img/novita_312/image03.png)
+![screen](/img/novita_312/Image03.png)
 
 ### Gruppo Data e ora
 
 - `datetime_from_epoch` https://github.com/qgis/QGIS/pull/32551
 
-![screen](./img/novita_312/image04.png)
+![screen](/img/novita_312/Image04.png)
 
 - `format_date` https://github.com/qgis/QGIS/pull/32908
 
-![screen](./img/novita_312/image05.png)
+![screen](/img/novita_312/Image05.png)
 
 ## tag espressioni
 
