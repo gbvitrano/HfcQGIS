@@ -1,4 +1,4 @@
-## Funzione `is_valid`
+# is_valid
 
 Restituisce vero se una geometria è valida; se è ben formato in 2D secondo le regole **OGC**
 
