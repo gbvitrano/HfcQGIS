@@ -39,7 +39,9 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [extrude](extrude.html)|Restituisce una versione estrusa della geometria (Multi-)Curve o (Multi-)Linestring in ingresso, con un'estensione specificata da x e y.|2.18
 [flip_coordinates](flip_coordinates.html)|Restituisce una copia della geometria con le coordinate x e y scambiate|**>=3.2**
 [geom_from_gml](geom_from_gml.html)|Restituisce una geometria da una rappresentazione GML di una geometria|2.18
-[geom_from_wkt](geom_from_wkt.html)|Restituisce una geometria creata da una rappresentazione Well-Known Text (WKT)|2.18
+[geom_from_wkb](funzioni/geom_from_wkb.md)|Restituisce una geometria creata da una rappresentazione binaria ben nota (WKB).|**>=3.12**
+[geom_from_wkt](funzioni/geom_from_wkt.md)|Restituisce una geometria creata da una rappresentazione Well-Known Text (WKT)|2.18
+[geom_to_wkb](funzioni/geom_to_wkb.md)|Restituisce la rappresentazione binaria ben nota (WKB) di una geometria come BLOB binario.|**>=3.12**
 [geom_to_wkt](geom_to_wkt.html)|Restituisce la rappresentazione Well-Known Text (WKT) della geometria senza metadati del SR|2.18
 [geometry](geometry.html)|Restituisce la geometria di un elemento|2.18
 [geometry_n](geometry_n.html)|Restituisce una geometria specifica da una raccolta di geometrie, o null se la geometria in ingresso non è una raccolta|>=2.14
@@ -50,6 +52,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [intersects](intersects.html)|Controlla qualora una geometria ne interseca un'altra|2.18
 [intersects_bbox](intersects_bbox.html)|Controlla se il perimetro di delimitazione della geometria si sovrappone a quello di un'altra geometria|2.18
 [is_closed](is_closed.html)|Restituisce vero se una line string è chiusa (i punti di inizio e di fine coincidono), o falso se una linea string non è chiusa|>=2.14
+[is_valid](funzioni/is_valid.md)|Restituisce vero se una geometria è valida; se è ben formato in 2D secondo le regole **OGC**|**>=3.12**
 [length](length.html)|Restituisce il numero di caratteri in una stringa o la lunghezza di una geometria di tipo linestring|2.18
 [line_interpolate_angle](line_interpolate_angle.html)|Restituisce l'angolo parallelo alla geometria ad una distanza specifica lungo una geometria di tipo linestring|>=2.18
 [line_interpolate_point](line_interpolate_point.html)|Restituisce il punto interpolato ad una specifica distanza lungo un geometria di tipo linestring|>=2.18
@@ -84,6 +87,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [project](project.html)|Restituisce un punto proiettato da un punto di partenza usando una distanza e una direzione di immersione (azimut) in radianti|2.18
 [relate](relate.html)|Testa la rappresentazione Dimensional Extended 9 Intersection Model (DE-9IM) della relazione tra due geometrie|>=2.14
 [reverse](reverse.html)|Inverte la direzione di una line string invertendo l'ordine dei sui vertici|>=2.14
+[rotate](funzioni/rotate.md)|Restituisce una versione ruotata di una geometria. I calcoli si trovano nel sistema di riferimento spaziale di questa geometria.|**>=3.12**
 [segments_to_lines](segments_to_lines.html)|Restituisce una geometria multi linea consistente in una linea per ogni segmento nella geometria in ingresso|>=2.14
 [shortest_line](shortest_line.html)|Restituisce la linea più corta che unisce la geometria 1 alla geometria 2|>=2.14
 [simplify](simplify.html)|Semplifica una geometria rimuovendo nodi usando una soglia basata sulla distanza (cioè, l'algoritmo Douglas Peucker) |**>=3.0**
