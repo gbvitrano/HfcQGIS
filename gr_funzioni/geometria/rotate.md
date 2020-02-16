@@ -25,4 +25,4 @@ rotate(_geom[,point]_)
 
 ## osservazioni
 
-![screen](/img/novita_312/image03.png)
+![screen](/img/novita_312/Image03.png)
