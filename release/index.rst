@@ -152,13 +152,13 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Anteprima valori Expression builder: novita_38.html#anteprima-valori-expression-builder
 .. _attributes: ../gr_funzioni/record_e_attributi/attributes.html
 .. _collect_geometries: ../gr_funzioni/geometria/collect_geometries.html
-.. _rand: ../gr_funzioni/geometria/collect_geometries.html
-.. _randf: ../gr_funzioni/geometria/collect_geometries.html
-.. _is_valid: ../gr_funzioni/geometria/collect_geometries.html
-.. _geom_from_wkb: ../gr_funzioni/geometria/collect_geometries.html
-.. _geom_to_wkb: ../gr_funzioni/geometria/collect_geometries.html
-.. _is_empty: ../gr_funzioni/geometria/collect_geometries.html
-.. _is_empty_or_null: ../gr_funzioni/geometria/collect_geometries.html
-.. _rotate: ../gr_funzioni/geometria/collect_geometries.html
-.. _datetime_from_epoch: ../gr_funzioni/geometria/collect_geometries.html
-.. _format_date: ../gr_funzioni/geometria/collect_geometries.html
+.. _rand: ../gr_funzioni/matematica/rand.html
+.. _randf: ../gr_funzioni/matematica/randf.html
+.. _is_valid: ../gr_funzioni/geometria/is_valid.html
+.. _geom_from_wkb: ../gr_funzioni/geometria/geom_from_wkb.html
+.. _geom_to_wkb: ../gr_funzioni/geometria/geom_to_wkb.html
+.. _is_empty: ../gr_funzioni/geometria/is_empty.html
+.. _is_empty_or_null: ../gr_funzioni/geometria/is_empty_or_null.html
+.. _rotate: ../gr_funzioni/geometria/rotate.html
+.. _datetime_from_epoch: ../gr_funzioni/data_ora/datetime_from_epoch.html
+.. _format_date: ../gr_funzioni/data_ora/format_date.html
