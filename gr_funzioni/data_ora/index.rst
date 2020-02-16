@@ -65,7 +65,15 @@ Questo gruppo contiene funzioni per gestire dati con *date* e *ore*.
 |                                 | o il numero di anni da un          |
 |                                 | intervallo                         |
 +---------------------------------+------------------------------------+
-
+| `datetime_for_epoch`_           | Restituisce un datetime il cui data|
+								  | e ora sono il numero di            |
+|                                 | millisecondi, msec, che sono       |   
+|                                 | passatidal                         |
+|                                 | 1970-01-01T00: 00: 00.000,         |
+|                                 | Coordinated Universal Time (Qt.UTC)|
+|                                 | e convertiti in Qt.LocalTime.
++---------------------------------+------------------------------------+
+  
 **Osservazione**
 
 La possibilità di memorizzare i valori di data, ora e datetime
@@ -99,6 +107,7 @@ data (ad es. *day()* per ottenere l'intervallo espresso in giorni)
 .. _to_time: to_time.html
 .. _week: week.html
 .. _year: year.html
+.. _datetime_for_epoch.html
 
 .. |image0| image:: /img/data_e_ora/gruppo_data_e_ora1.png
 
@@ -123,6 +132,7 @@ data (ad es. *day()* per ottenere l'intervallo espresso in giorni)
    to_time
    week
    year
+   datetime_for_epoch
    
    
    
