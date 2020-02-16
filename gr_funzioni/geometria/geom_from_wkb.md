@@ -1,4 +1,4 @@
-## Funzione `geom_from_wkb`
+# geom_from_wkb
 
 Restituisce una geometria creata da una rappresentazione binaria ben nota (WKB).
 
