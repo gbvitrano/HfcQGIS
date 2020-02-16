@@ -21,4 +21,4 @@ Restituisce un datetime il cui data e ora sono il numero di millisecondi, msec, 
 
 Feature introdotta a partire da **QGIS 3.12**
 
-![screen](/img/novita_312/image04.png)
+![screen](/img/novita_312/Image04.png)
