@@ -66,10 +66,10 @@ Questo gruppo contiene funzioni per gestire dati con *date* e *ore*.
 |                                 | intervallo                         |
 +---------------------------------+------------------------------------+
 | `datetime_from_epoch`_          | Restituisce un datetime il cui     |
-|								                  | data e ora sono il numero di       |
-|				                          | millisecondi, msec, che sono...    | 
+|                                 | datae orasono il numero di         |
+|                                 | millisecondi...                    |
 +---------------------------------+------------------------------------+
-  
+    
 **Osservazione**
 
 La possibilità di memorizzare i valori di data, ora e datetime
