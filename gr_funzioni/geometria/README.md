@@ -52,6 +52,8 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [intersects](intersects.html)|Controlla qualora una geometria ne interseca un'altra|2.18
 [intersects_bbox](intersects_bbox.html)|Controlla se il perimetro di delimitazione della geometria si sovrappone a quello di un'altra geometria|2.18
 [is_closed](is_closed.html)|Restituisce vero se una line string è chiusa (i punti di inizio e di fine coincidono), o falso se una linea string non è chiusa|>=2.14
+[is_empty](is_empty.html)|Restituisce vero se una geometria è vuota (senza coordinate), falso se la geometria non è vuota e NULL se non c'è geometria. Vedi anche `is_empty_or_null`.|**>=3.12**
+[is_empty_or_null](is_empty_or_null.html)|Restituisce vero se una geometria è NULL o vuota (senza coordinate) o false in caso contrario. Questa funzione è come l'espressione "$ geometry IS NULL o is_empty ($ geometry)".|**>=3.12**
 [is_valid](is_valid.html)|Restituisce vero se una geometria è valida; se è ben formato in 2D secondo le regole **OGC**|**>=3.12**
 [length](length.html)|Restituisce il numero di caratteri in una stringa o la lunghezza di una geometria di tipo linestring|2.18
 [line_interpolate_angle](line_interpolate_angle.html)|Restituisce l'angolo parallelo alla geometria ad una distanza specifica lungo una geometria di tipo linestring|>=2.18
