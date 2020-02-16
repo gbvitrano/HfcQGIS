@@ -10,7 +10,7 @@ Restituisce un datetime il cui data e ora sono il numero di millisecondi, msec, 
 
 ## Argomenti
 
-* _int__ numero (millisecondi)
+* _int_ numero (millisecondi)
   
 ## Esempi
 ```
