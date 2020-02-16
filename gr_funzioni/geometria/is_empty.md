@@ -1,4 +1,4 @@
-## Funzione `is_empty`
+# is_empty
 
 Restituisce vero se una geometria è vuota (senza coordinate), falso se la geometria non è vuota e NULL se non c'è geometria. Vedi anche `is_empty_or_null`.
 
