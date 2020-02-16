@@ -42,7 +42,7 @@ AP o A|interpretato come un orario nel formato AM/PM. AP deve essere "AM" oppure
 ap o a|interpretato come un orario nel formato AM/PM. ap deve essere "am" oppure "pm".
 
 
-* _language_ linguaggio (minuscolo, due o tre lettere, codice ISO 639) utilizzato per formattare la data in una stringa personalizzata (**>= QGIS 3.12)
+* _language_ linguaggio (minuscolo, due o tre lettere, codice ISO 639) utilizzato per formattare la data in una stringa personalizzata (**>= QGIS 3.12**)
 
 
 ## Esempi
