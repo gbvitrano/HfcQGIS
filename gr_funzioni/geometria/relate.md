@@ -1,4 +1,4 @@
-# relate
+## Funzione `relate`
 
 Testa la rappresentazione Dimensional Extended 9 Intersection [Model (DE-9IM)](https://en.wikipedia.org/wiki/DE-9IM) della relazione tra due geometrie.
 
@@ -7,12 +7,12 @@ Restituisce la rappresentazione Dimensional Extended 9 Intersection Model (DE-9I
 
 ## Sintassi
 
-* relate(_geometry a, geometry b_)
+* relate(_geometry, geometry_)
 
 ## Argomenti
 
-* _geometry a_ una geometria
-* _geometry b_ una geometria
+* _geometry_ una geometria
+* _geometry_ una geometria
 
 ## Esempi
 
@@ -22,16 +22,16 @@ Restituisce la rappresentazione Dimensional Extended 9 Intersection Model (DE-9I
 
 ## Variabile corrispondenza pattern
 
-Testa se la relazione DE-9IM tra due geometrie corrisponde a un pattern specificato: restituisce true (Vero), false (Falso).
+Testa se la relazione DE-9IM tra due geometrie corrisponde a un pattern specificato: restituisc true Vero, false Falso.
 
 ## Sintassi
-relate(_geometry a, geometry b, pattern_)
+relate(_geometry, geometry, pattern_)
 
 ## Argomenti
 
-* _geometry a_ una geometria
-* _geometry b_ una geometria
-* _pattern_ Codice DE-9IM da far corrispondere
+* _geometry_ una geometria
+* _geometry_ una geometria
+* _pattern_ Tratteggio DE-9IM da far corrispondere
 
 ## Esempio
 
@@ -45,13 +45,9 @@ relate(_geometry a, geometry b, pattern_)
 
 --
 
-![](/img/geometria/relate/relate2.png)
+![](/img/geometria/relate/relate1.png)
 
 ## Link utili
 
 * [Wikipedia](https://en.wikipedia.org/wiki/DE-9IM)
-* [PosGIS](https://postgis.net/workshops/postgis-intro/de9im.html)
-
-## Matrice
-
-![](/img/geometria/relate/matrix.png)
+* [OpenGeo](https://connect.boundlessgeo.com/docs/suite/4.6/dataadmin/pgAdvanced/de9im.html)
