@@ -11,7 +11,16 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 `Novità rilevanti introdotte in QGIS 3.12 21/02/2020`_
 --------------------------------------------   
    
-
+- `rand`_
+- `randf`_
+- `is_valid`_
+- `geom_from_wkb`_
+- `geom_to_wkb`_
+- `is_empy`_
+- `is_empty_or_null`_
+- `rotate`_
+- `datetime_from_epoch`_
+- `format_date`_
 
 .. raw:: html
    
@@ -143,3 +152,13 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Anteprima valori Expression builder: novita_38.html#anteprima-valori-expression-builder
 .. _attributes: ../gr_funzioni/record_e_attributi/attributes.html
 .. _collect_geometries: ../gr_funzioni/geometria/collect_geometries.html
+.. _rand: ../gr_funzioni/geometria/collect_geometries.html
+.. _randf: ../gr_funzioni/geometria/collect_geometries.html
+.. _is_valid: ../gr_funzioni/geometria/collect_geometries.html
+.. _geom_from_wkb: ../gr_funzioni/geometria/collect_geometries.html
+.. _geom_to_wkb: ../gr_funzioni/geometria/collect_geometries.html
+.. _is_empty: ../gr_funzioni/geometria/collect_geometries.html
+.. _is_empty_or_null: ../gr_funzioni/geometria/collect_geometries.html
+.. _rotate: ../gr_funzioni/geometria/collect_geometries.html
+.. _datetime_from_epoch: ../gr_funzioni/geometria/collect_geometries.html
+.. _format_date: ../gr_funzioni/geometria/collect_geometries.html
