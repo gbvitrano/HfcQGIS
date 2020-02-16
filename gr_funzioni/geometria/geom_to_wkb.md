@@ -1,4 +1,4 @@
-## Funzione `geom_to_wkb`
+# geom_to_wkb
 
 Restituisce la rappresentazione binaria ben nota (WKB) di una geometria come BLOB binario.
 
