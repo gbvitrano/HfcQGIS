@@ -6,51 +6,66 @@
 
 ## Gruppo Matematica
 
-- `rand` e `randf` <https://github.com/qgis/QGIS/pull/33204>
+- `rand`
+- `randf`
 
-Se viene fornito, il parametro opzionale `seed`, il valore sarà sempre lo stesso, a seconda del 'seed' fissato.
+qui PR: <https://github.com/qgis/QGIS/pull/33204>
 
 ### Gruppo Geometria
 
-- `is_valid` <https://github.com/qgis/QGIS/pull/32900>
+- `is_valid`
+
+qui PR: <https://github.com/qgis/QGIS/pull/32900>
 
 ![screen](/img/novita_312/Image01.png)
 
-- `geom_from_wkb` e `geom_to_wkb` <https://github.com/qgis/QGIS/pull/32561>
+- `geom_from_wkb`
+- `geom_to_wkb` 
 
-Aggiunge `geom_from_wkb` e `geom_to_wkb`, che rispecchiano le funzioni `geom_from_wkt / geom_to_wkt` esistenti ma per le rappresentazioni WKB delle geometrie.
+qui PR: <https://github.com/qgis/QGIS/pull/32561>
 
-- `is_empy` e `is_empty_or_null` <https://github.com/qgis/QGIS/pull/33333>
+- `is_empy`
+- `is_empty_or_null` 
+
+qui PR: <https://github.com/qgis/QGIS/pull/33333>
 
 ![screen](/img/novita_312/Image02.png)
 
-- `rotate` <https://github.com/qgis/QGIS/pull/33125>
+- `rotate` 
+
+qui PR: <https://github.com/qgis/QGIS/pull/33125>
 
 ![screen](/img/novita_312/Image03.png)
 
 ### Gruppo Data e ora
 
-- `datetime_from_epoch` <https://github.com/qgis/QGIS/pull/32551>
+- `datetime_from_epoch` 
+
+qui PR: <https://github.com/qgis/QGIS/pull/32551>
 
 ![screen](/img/novita_312/Image04.png)
 
-- `format_date` <https://github.com/qgis/QGIS/pull/32908>
+- `format_date` 
+
+qui PR: <https://github.com/qgis/QGIS/pull/32908>
 
 ![screen](/img/novita_312/Image05.png)
 
 ## tag espressioni
 
-<https://github.com/qgis/QGIS/pull/33197>
+PR: <https://github.com/qgis/QGIS/pull/33197>
 
 ![](https://user-images.githubusercontent.com/28384354/70033165-2dcb9c00-15af-11ea-98a9-3a4305dd9180.gif)
 
 ## Tabella attributi
 
-<https://github.com/qgis/QGIS/pull/33322> -- chiusa
+PR: <https://github.com/qgis/QGIS/pull/33322> -- chiusa
 
 ## Interfaccia
 
-- `List referenced layer values` <https://github.com/qgis/QGIS/pull/33436>
+- `List referenced layer values` 
+
+qui PR: <https://github.com/qgis/QGIS/pull/33436>
 
 ![](https://user-images.githubusercontent.com/28384354/70978774-ab63d180-20b0-11ea-901b-d51d44fa8fa4.gif)
 
