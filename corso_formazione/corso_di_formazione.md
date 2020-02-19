@@ -76,4 +76,4 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
 
 Alla fine del corso verrà rilasciato un certificato di partecipazione.
 
-![screen](./certificato_bozza2.png)
+![screen](./certificato_bozza_3.png)
