@@ -53,9 +53,11 @@ qui PR: <https://github.com/qgis/QGIS/pull/32908>
 
 ### Gruppo Conversioni
 
-* [`hash`(value, method)](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/conversioni/hash.html) <https://github.com/qgis/QGIS/pull/31726>
+* [`hash`(value, method)](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/conversioni/hash.html) 
 * [`md5`(value)](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/conversioni/md5.html)
 * [`sha256`(value)](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/conversioni/sha256.html)
+
+qui PR: <https://github.com/qgis/QGIS/pull/31726>
 
 ## tag espressioni
 
