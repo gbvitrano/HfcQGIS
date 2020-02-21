@@ -1,4 +1,4 @@
-## Funzione `hash`
+# hash
 
 Crea un [hash](https://it.wikipedia.org/wiki/Funzione_crittografica_di_hash) da una stringa con un determinato metodo.
 
