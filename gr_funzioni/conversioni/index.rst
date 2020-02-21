@@ -7,6 +7,15 @@ un altro, es. da stringa a intero, da intero a stringa.
 +---------------------------------+------------------------------------+
 | Funzione                        | Descrizione                        |
 +=================================+====================================+
+| `hash`_                         | Crea un hash da una stringa con un |
+|                                 | determinato metodo                 |
++---------------------------------+------------------------------------+
+| `md5`_                          | Crea un hash md5 da una stringa    |
+|                                 |                                    |
++---------------------------------+------------------------------------+
+| `sha256`_                       | Crea un hash sha256 da una stringa |
+|                                 |                                    |
++---------------------------------+------------------------------------+
 | `to_date`_                      | Converte una stringa in un oggetto |
 |                                 | data                               |
 +---------------------------------+------------------------------------+
@@ -57,6 +66,9 @@ un altro, es. da stringa a intero, da intero a stringa.
 .. _to_real: to_real.html
 .. _to_string: to_string.html
 .. _to_time: to_time.html
+.. _hash: hash.html
+.. _md5: md5.html
+.. _sha256: sha256.html
 
 .. |image0| image:: /img/conversioni/gruppo_conversioni1.png
 
@@ -74,5 +86,8 @@ un altro, es. da stringa a intero, da intero a stringa.
    to_real
    to_string
    to_time
+   hash
+   md5
+   sha256
    
 
