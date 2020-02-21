@@ -1,4 +1,4 @@
-## Funzione `md5`
+# md5
 
 Crea un hash md5 da una stringa.
 
