@@ -45,11 +45,17 @@ qui PR: <https://github.com/qgis/QGIS/pull/32551>
 
 ![screen](/img/novita_312/Image04.png)
 
-- [`format_date`](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/data_ora/frfomat_date.html)
+- [`format_date`](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/data_ora/format_date.html)
 
 qui PR: <https://github.com/qgis/QGIS/pull/32908>
 
 ![screen](/img/novita_312/Image05.png)
+
+### Gruppo Conversioni
+
+* [`hash`(value, method)](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/conversioni/hash.html) <https://github.com/qgis/QGIS/pull/31726>
+* [`md5`(value)](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/conversioni/md5.html)
+* [`sha256`(value)](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/conversioni/sha256.html)
 
 ## tag espressioni
 
