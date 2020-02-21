@@ -21,6 +21,9 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 - `rotate`_
 - `datetime_from_epoch`_
 - `format_date`_
+- `hash`_
+- `md5`_
+- `sha256`_
 
 .. raw:: html
    
@@ -162,3 +165,6 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _rotate: ../gr_funzioni/geometria/rotate.html
 .. _datetime_from_epoch: ../gr_funzioni/data_ora/datetime_from_epoch.html
 .. _format_date: ../gr_funzioni/data_ora/format_date.html
+.. _hash: ../gr_funzioni/conversioni/hash.html
+.. _md5: ../gr_funzioni/conversioni/md5.html
+.. _sha256: ../gr_funzioni/conversioni/sha256.html
