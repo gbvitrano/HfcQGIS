@@ -130,7 +130,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      |                          | Valerio         |
 |      |                          | Pinna           |
 +------+--------------------------+-----------------+
-| 35   |`campo_coord_in_lat_lon`_ |                 |
+| 36   |`campo_coord_in_lat_lon`_ |                 |
 |      |                          | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
