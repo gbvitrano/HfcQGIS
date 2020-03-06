@@ -130,6 +130,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      |                          | Valerio         |
 |      |                          | Pinna           |
 +------+--------------------------+-----------------+
+| 35   |`campo_coord_in_lat_lon`_ |                 |
+|      |                          | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
@@ -168,6 +172,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _DrillDown Form Multi: http://hfcqgis.opendatasicilia.it/it/latest/esempi/drilldown_form_multiple.html
 .. _Select_primi_n_valori: http://hfcqgis.opendatasicilia.it/it/latest/esempi/selezionare_primi_n_valori.html
 .. _Generalizzare_linee: http://hfcqgis.opendatasicilia.it/it/latest/esempi/generalizzare_linee.html
+.. _campo_coord_in_lat_lon: http://hfcqgis.opendatasicilia.it/it/latest/esempi/campo_coord_in_lat_lon.html
 
 
 
@@ -210,3 +215,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    drilldown_form_multiple
    Select_primi_n_valori
    generalizzare_linee
+   campo_coord_in_lat_lon
