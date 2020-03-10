@@ -134,6 +134,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      |                          | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
+| 37   |`Calcolo incrementi`_     |                 |
+|      |                          | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
@@ -173,6 +177,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Select_primi_n_valori: http://hfcqgis.opendatasicilia.it/it/latest/esempi/selezionare_primi_n_valori.html
 .. _Generalizzare_linee: http://hfcqgis.opendatasicilia.it/it/latest/esempi/generalizzare_linee.html
 .. _campo_coord_in_lat_lon: http://hfcqgis.opendatasicilia.it/it/latest/esempi/campo_coord_in_lat_lon.html
+.. _Calcolo incrementi: http://hfcqgis.opendatasicilia.it/it/latest/esempi/calcolo_incrementi_giornalieri.html
 
 
 
@@ -216,3 +221,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    Select_primi_n_valori
    generalizzare_linee
    campo_coord_in_lat_lon
+   calcolo_incrementi_giornalieri
