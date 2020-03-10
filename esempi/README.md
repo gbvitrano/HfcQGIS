@@ -37,3 +37,5 @@ Esempio|Descrizione
 [Drilldown form multiple](drilldown_form_multiple.md)|Creare Form con filtro dinamico drillDown (cascade)|Pigreco
 [selezionare_primi_n_valori](selezionare_primi_n_valori.md)|Come selezionare i primi n poligoni più grandi|Pigreco
 [Generalizzare isoipse](generalizzare_linee.md)|Generalizzare le linee di contorno|Valerio Pinna
+[Campo coord in lat lon](campo_coord_in_lat_lon.md)|Generare due campi lon lat a partire da un unico campo|Pigreco
+[calcolo incrementi giornalieri](calcolo_incrementi_giornalieri.md)|Calcola gli incrementi giornalieri di un attributo|Pigreco
