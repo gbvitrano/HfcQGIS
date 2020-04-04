@@ -122,7 +122,7 @@ loro chiavi.
 | `array_slice`_         | Restituisce una porzione |                 |
 |                        | dell'array               |                 |
 +------------------------+--------------------------+-----------------+
-| `array_sort`_          | Ordina i valori in       | ArrayPlus       |
+| `array_sort`_          | Ordina i valori in       |    >= QGIS 3.4  |
 |                        | ordine crescente (usa    |                 |
 |                        | *array_reverse* per      |                 |
 |                        | desc)                    |                 |
