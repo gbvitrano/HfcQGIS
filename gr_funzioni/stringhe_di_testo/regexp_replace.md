@@ -41,7 +41,29 @@ id|particella
 2 |BBG
 3 |JJU
 
-ecco un tool dove provare le regexp: https://regex101.com/r/SSDBmj/1
+ecco un tool dove provare le regexp: <https://regex101.com/r/SSDBmj/1>
+
+## Esempio 3
+
+id | valore
+---|------
+1  | data20200224
+2  | data20200225
+3  | data20200226
+
+eliminare data e inserire un simbolo tra anno, mese e giorno
+
+espressione da usare:
+
+- `regexp_replace("valore" ,'(data)(....)(..)(..)','\\2-\\3-\\4')`
+
+risultato:
+
+id | valore
+---|------
+1  | 2020-02-24
+2  | 2020-02-25
+3  | 2020-02-26
 
 
 ## nota bene
