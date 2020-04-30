@@ -69,6 +69,7 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
 - `data.world`: [https://data.world/pigrecoinfinito](https://data.world/pigrecoinfinito)
 - `github`: [https://github.com/pigreco](https://github.com/pigreco)
 - `gitlab`: [https://gitlab.com/pigr3co](https://gitlab.com/pigr3co)
+- `Canale Telegram` : <https://t.me/pigrecoinfinito>
 
 
   
