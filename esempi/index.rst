@@ -142,6 +142,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      |                          | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
+| 39   |`Elenco ordinato Comuni`_ |                 |
+|      |                          | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
@@ -183,6 +187,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _campo_coord_in_lat_lon: http://hfcqgis.opendatasicilia.it/it/latest/esempi/campo_coord_in_lat_lon.html
 .. _Calcolo incrementi: http://hfcqgis.opendatasicilia.it/it/latest/esempi/calcolo_incrementi_giornalieri.html
 .. _Tracciare un grafico: http://hfcqgis.opendatasicilia.it/it/latest/esempi/tracciare_grafico_generatore_geometrie.html
+.. _Elenco ordinato Comuni: http://hfcqgis.opendatasicilia.it/it/latest/esempi/elenco_ordinato_comuni_attraversati.html
 
 
 
@@ -228,3 +233,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    campo_coord_in_lat_lon
    calcolo_incrementi_giornalieri
    tracciare_grafico_generatore_geometrie
+   elenco_ordinato_comuni_attraversati
