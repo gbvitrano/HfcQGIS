@@ -130,14 +130,14 @@ Gif animata realizzata con il plugin TimeManager di Anita Graser
 
 ![](/img/esempi/geoplot/covid19_geoplot_sicilia.gif)
 
-## Prova tu
+### Prova tu
 
 - **file CSV** : <https://raw.githubusercontent.com/pigreco/COVID19_Sicilia/master/risorse/dpc-covid19-ita-province.vrt>
 - **shapefile** : <https://github.com/pigreco/COVID19_Sicilia/raw/master/risorse/province.7z>
 
 - **Blog post su Pigrecoinfinito**: <https://pigrecoinfinito.com/2020/04/14/qgis-grafici-geoplot-usando-solo-il-geometry-generator/>
 
-## caso generico
+### caso generico
 
 espressione consigliata
 
