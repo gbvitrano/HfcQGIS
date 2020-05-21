@@ -52,6 +52,7 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
 - Co-Admin canale [Telegram Ufficiale di QGIS.it](https://t.me/qgisitalia);
 - Co-Admin canale [Twitter Ufficiale di QGIS.it](https://twitter.com/qgisitalia);
 - Socio [GFOSS.it](http://gfoss.it/);
+- Membro @qgis organization : <https://github.com/qgis>
 
 ### Contatti
 
