@@ -146,6 +146,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      |                          | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
+| 40   |`Label chiave-valore`_    |                 |
+|      |                          | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
@@ -188,6 +192,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Calcolo incrementi: http://hfcqgis.opendatasicilia.it/it/latest/esempi/calcolo_incrementi_giornalieri.html
 .. _Tracciare un grafico: http://hfcqgis.opendatasicilia.it/it/latest/esempi/tracciare_grafico_generatore_geometrie.html
 .. _Elenco ordinato Comuni: http://hfcqgis.opendatasicilia.it/it/latest/esempi/elenco_ordinato_comuni_attraversati.html
+.. _Label chiave-valore: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichettare_chiave_valore.html
 
 
 
@@ -234,3 +239,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    calcolo_incrementi_giornalieri
    tracciare_grafico_generatore_geometrie
    elenco_ordinato_comuni_attraversati
+   etichettare_chiave_valore
