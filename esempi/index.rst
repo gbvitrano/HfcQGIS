@@ -150,6 +150,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      |                          | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
+| 41   |`Etichettare itinerario`_ |                 |
+|      |                          | Valerio         |
+|      |                          | Pinna           |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
@@ -193,6 +197,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Tracciare un grafico: http://hfcqgis.opendatasicilia.it/it/latest/esempi/tracciare_grafico_generatore_geometrie.html
 .. _Elenco ordinato Comuni: http://hfcqgis.opendatasicilia.it/it/latest/esempi/elenco_ordinato_comuni_attraversati.html
 .. _Label chiave-valore: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichettare_chiave_valore.html
+.. _Etichettare itinerario: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichettare_itinerario_elenco_comuni_attraversati.html
 
 
 
@@ -240,3 +245,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    tracciare_grafico_generatore_geometrie
    elenco_ordinato_comuni_attraversati
    etichettare_chiave_valore
+   etichettare_itinerario_elenco_comuni_attraversati
