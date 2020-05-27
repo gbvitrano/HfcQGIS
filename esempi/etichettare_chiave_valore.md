@@ -4,7 +4,7 @@ Alcune volte nasce la necessità di etichettare le feature facendo vedere sia il
 
 Shapefile regioni ISTAT, creare l'etichetta in modo da visualizzare, per ogni regione, tutti i campi e relativi valori, vedi screenshot:
 
-![](./img/../../../img/esempi/etichetta_chiave_valore/img_01.png)
+![](./img/esempi/etichetta_chiave_valore/img_01.png)
 
 Espressione da usare:
 
@@ -23,5 +23,7 @@ map_to_hstore( attributes()) → '"cod_reg"=>"1","cod_rip"=>"1","den_reg"=>"Piem
 ```
 
 le funzioni `replace()` servono a modificare l'output, cioè a togliere i doppi apici e la freccia.
+
+**NB:** I campi sono rdinati alfabeticamente!
 
 
