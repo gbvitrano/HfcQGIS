@@ -4,7 +4,7 @@ Indica se una geometria è selezionata. Se chiamata senza parametri, controlla l
 
 ## Sintassi
 
-* is_selected(<span style="color:red;">layer</span>*, *<span style="color:red;">feature</span>)
+* is_selected(*<span style="color:red;">layer</span>, <span style="color:red;">feature</span>*)
 
 ## Argomenti
 
