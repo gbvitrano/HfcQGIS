@@ -4,13 +4,12 @@ Indica se una geometria è selezionata. Se chiamata senza parametri, controlla l
 
 ## Sintassi
 
-* is_selected(*<span style="color:red;">feature</span>, <span style="color:red;">layer</span>*)
+* is_selected(<span style="color:red;">layer</span>*, *<span style="color:red;">feature</span>)
 
 ## Argomenti
 
-* *<span style="color:red;">feature</span>* La geometria che deve essere controllata per la selezione.
 * *<span style="color:red;">layer</span>* Il vettore (o il suo id o nome) sul quale la selezione sarà controllata.
-
+* *<span style="color:red;">feature</span>* La geometria che deve essere controllata per la selezione.
 
 ## Esempi
 
