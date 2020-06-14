@@ -5,6 +5,17 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. raw:: html
    
    <embed>
+        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_14.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_14.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS Dev"  title="QGIS 3.14 Pi"style="margin: 0 auto; display: block;"/></h1>
+    </embed>
+    
+`Novità rilevanti introdotte in QGIS 3.14 19/06/2020`_
+--------------------------------------------   
+   
+- `rand`_
+
+.. raw:: html
+   
+   <embed>
         <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_12.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_12.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS Dev"  title="QGIS 3.12 București"style="margin: 0 auto; display: block;"/></h1>
     </embed>
     
