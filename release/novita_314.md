@@ -57,7 +57,7 @@
 
 ## GUI/UI/Forms
 
-* form: <https://github.com/qgis/QGIS/pull/34827<
+* form: <https://github.com/qgis/QGIS/pull/34827>
   * current_feature;
   * current_geometry;
   * current_parent_feature;
