@@ -1,4 +1,4 @@
-## Funzione `make_datetime`
+# make_datetime
 
 Crea un valore datetime da anno, mese, giorno, ora, minuti e secondi numeri.
 
