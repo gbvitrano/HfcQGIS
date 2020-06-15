@@ -13,10 +13,10 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
    
 - `ascii`_
 - `is_multipart`_
-- `min_z`_
-- `max_z`_
-- `min_m`_
-- `max_m`_
+- `z_min`_
+- `z_max`_
+- `m_min`_
+- `m_max`_
 - `close_line`_
 - `make_date`_
 - `make_time`_
@@ -192,10 +192,10 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _sha256: ../gr_funzioni/conversioni/sha256.html
 .. _ascii: ../gr_funzioni/strinche_di_testo/ascii.html
 .. _is_multipart: ../gr_funzioni/geometria/is_multipart.html
-.. _min_z: ../gr_funzioni/geometria/min_z.html
-.. _max_z: ../gr_funzioni/geometria/max_z.html
-.. _min_m: ../gr_funzioni/geometria/min_m.html
-.. _max_m: ../gr_funzioni/geometria/max_m.html
+.. _z_min: ../gr_funzioni/geometria/z_min.html
+.. _z_max: ../gr_funzioni/geometria/z_max.html
+.. _m_min: ../gr_funzioni/geometria/m_min.html
+.. _m_max: ../gr_funzioni/geometria/m_max.html
 .. _close_line: ../gr_funzioni/geometria/close_line.html
 .. _make_date: ../gr_funzioni/date_e_ora/make_date.html
 .. _make_time: ../gr_funzioni/date_e_ora/make_time.html
