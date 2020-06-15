@@ -1,4 +1,4 @@
-## Funzione `m_max`
+# m_max
 
 Restituisce il valore minimo m (misura) di una geometria.
 
