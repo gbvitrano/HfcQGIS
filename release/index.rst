@@ -11,17 +11,17 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 `Novità rilevanti introdotte in QGIS 3.14 19/06/2020`_
 --------------------------------------------   
    
-- `ascii`
-- `is_multipart`
-- `min_z`
-- `max_z`
-- `min_m`
-- `max_m`
-- `close_line`
-- `make_date`
-- `make_time`
-- `make_datetime`
-- `make_interval`
+- `ascii`_
+- `is_multipart`_
+- `min_z`_
+- `max_z`_
+- `min_m`_
+- `max_m`_
+- `close_line`_
+- `make_date`_
+- `make_time`_
+- `make_datetime`_
+- `make_interval`_
 
 .. raw:: html
    
