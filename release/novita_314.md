@@ -1,4 +1,4 @@
-# Novità rilevanti introdotte nella 3.14 Pi (π)
+# Novità rilevanti introdotte nella 3.14 Pi
 
 <!-- TOC -->
 
