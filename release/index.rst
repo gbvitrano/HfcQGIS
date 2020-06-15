@@ -197,7 +197,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _m_min: ../gr_funzioni/geometria/m_min.html
 .. _m_max: ../gr_funzioni/geometria/m_max.html
 .. _close_line: ../gr_funzioni/geometria/close_line.html
-.. _make_date: ../gr_funzioni/date_ora/make_date.html
-.. _make_time: ../gr_funzioni/date_ora/make_time.html
-.. _make_datetime: ../gr_funzioni/date_ora/make_datetime.html
-.. _make_interval: ../gr_funzioni/date_ora/make_interval.html
+.. _make_date: ../gr_funzioni/data_ora/make_date.html
+.. _make_time: ../gr_funzioni/data_ora/make_time.html
+.. _make_datetime: ../gr_funzioni/data_ora/make_datetime.html
+.. _make_interval: ../gr_funzioni/data_ora/make_interval.html
