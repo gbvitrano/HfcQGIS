@@ -1,4 +1,4 @@
-## Funzione `close_line`
+# close_line
 
 Restituisce una linestring chiusa della linestring di input aggiungendo il primo punto alla fine della linea, se non è già chiusa. Se la geometria non è una linestring o una MultiLinestring, il risultato sarà null.
 
