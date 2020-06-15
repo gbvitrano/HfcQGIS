@@ -1,4 +1,4 @@
-## Funzione `make_interval`
+# make_interval
 
 Crea un valore di intervallo dai valori di anno, mese, settimane, giorni, ore, minuti e secondi.
 
