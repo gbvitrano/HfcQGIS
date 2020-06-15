@@ -23,6 +23,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [buffer](buffer.html)|Restituisce una geometria che rappresenta tutti i punti la cui distanza dalla geometria è minore o uguale alla distanza inserita|2.18
 [buffer_by_m](buffer_by_m.html)|Crea un buffer lungo una geometria della linea in cui il diametro del buffer varia in base ai valori m nei vertici della linea|**>=3.2**
 [centroid](centroid.html)|Restituisce il centro geometrico di una geometria|2.18
+[close_line](close_line.html)|Restituisce una linestring chiusa della linestring|>=3.14
 [closest_point](closest_point.html)|Restituisce il punto sulla geometria 1 che è più vicino alla geometria 2|>=2.14
 [collect_geometries](funzioni/collect_geometries.md)|Raccoglie un set di geometrie in un oggetto geometria multiparte.|**>=3.10**
 [combine](combine.html)|Restituisce la combinazione di due geometrie|2.18
@@ -54,6 +55,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [is_closed](is_closed.html)|Restituisce vero se una line string è chiusa (i punti di inizio e di fine coincidono), o falso se una linea string non è chiusa|>=2.14
 [is_empty](is_empty.html)|Restituisce vero se una geometria è vuota (senza coordinate), falso se la geometria non è vuota e NULL se non c'è geometria. Vedi anche `is_empty_or_null`.|**>=3.12**
 [is_empty_or_null](is_empty_or_null.html)|Restituisce vero se una geometria è NULL o vuota (senza coordinate) o false in caso contrario. Questa funzione è come l'espressione "$ geometry IS NULL o is_empty ($ geometry)".|**>=3.12**
+[is_multipart](is_multipart.html)|Restituisce vero se la geometria è Multi.|**>=3.14**
 [is_valid](is_valid.html)|Restituisce vero se una geometria è valida; se è ben formato in 2D secondo le regole **OGC**|**>=3.12**
 [length](length.html)|Restituisce il numero di caratteri in una stringa o la lunghezza di una geometria di tipo linestring|2.18
 [line_interpolate_angle](line_interpolate_angle.html)|Restituisce l'angolo parallelo alla geometria ad una distanza specifica lungo una geometria di tipo linestring|>=2.18
@@ -62,6 +64,8 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [line_merge](line_merge.html)|Restituisce una geometria di tipo LineString o MultiLineString, dove qualsiasi LineString connessa dalla geometria in ingresso è stata fusa (merge) in una linestring singola|>=2.18
 [line_substring](line_substring.html)|Restituisce la porzione di una geometria di linea (o curva) che rientra tra le distanze iniziale e finale specificate|**>=3.4**
 [m](m.html)|Restituisce il valore m di una geometria puntuale|>=2.14
+[m_max](m_max.html)|Restituisce il valore massimo m (misura) di una geometria|>=3.14
+[m_min](m_min.html)|Restituisce il valore minimo m (misura) di una geometria|>=3.14
 [make_circle](make_circle.html)|Crea un poligono circolare |**>=3.0**
 [make_ellipse](make_ellipse.html)|Crea un poligono ellittico |**>=3.0**
 [make_line](make_line.html)|Crea una geometria linea da una serie di geometrie punto|>=2.14
@@ -112,6 +116,8 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [y_min](y_min.html)|Restituisce la coordinata y minima di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria|2.18
 [y_max](y_max.html)|Restituisce la coordinata y massima di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria|2.18
 [z](z.html)|Restituisce la coordinata z di una geometria puntuale|>=2.14
+[z_max](z_max.html)|Restituisce la coordinata z massima di una geometria.|>=3.14
+[z_min](z_min.html)|Restituisce la coordinata z minima di una geometria.|>=3.14
 
 ![](/img/geometria/gruppo_geometria1.png)
 
