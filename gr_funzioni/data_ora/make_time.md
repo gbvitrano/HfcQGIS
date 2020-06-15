@@ -1,4 +1,4 @@
-## Funzione `make_time`
+# make_time
 
 Crea un valore temporale da ore, minuti e secondi numeri.
 
