@@ -1,4 +1,4 @@
-## Funzione `ascii`
+# ascii
 
 Restituisce il codice unicode associato al primo carattere di una stringa.
 
