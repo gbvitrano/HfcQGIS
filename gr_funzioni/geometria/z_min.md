@@ -1,4 +1,4 @@
-## Funzione `z_min`
+# z_min
 
 Restituisce la coordinata z minima di una geometria.
 
