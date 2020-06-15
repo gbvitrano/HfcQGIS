@@ -3,7 +3,8 @@
 Questo gruppo contiene le funzioni che operano sulle stringhe es. _sostituzione_, _conversione in maiuscolo_.
 
  Funzione | Descrizione 
- -------: | :---------- 
+ -------: | :----------
+[ascii](funzioni/ascii.md)|la stringa da convertire in codice unicode (**>=3.14**)
 [char](char.html)|Restituisce il carattere associato ad un codice unicode
 [concat](concat.html)|Concatena svariate stringhe in una sola. Valori NULL sono convertiti in stringhe vuote. Altri valori (come i numeri) sono convertiti in stringa
 [format](format.html)|Formatta una stringa usando gli argomenti forniti
