@@ -1,4 +1,4 @@
-## Funzione `z_max`
+# z_max
 
 Restituisce la coordinata z massima di una geometria.
 
