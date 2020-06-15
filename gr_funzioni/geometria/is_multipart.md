@@ -1,4 +1,4 @@
-## Funzione `is_multipart`
+# is_multipart
 
 Restituisce vero se la geometria è di tipo Multi.
 
