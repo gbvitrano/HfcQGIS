@@ -109,6 +109,6 @@
   * @animation_start_time;
   * @animation_end_time
 
-## Migliormasnti funzioni
+## Miglioramenti funzioni
 
 https://github.com/qgis/QGIS/pull/36988
