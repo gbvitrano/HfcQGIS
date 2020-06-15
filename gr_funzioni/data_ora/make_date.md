@@ -1,4 +1,4 @@
-## Funzione `make_date`
+# make_date
 
 Crea un valore di data dai numeri di anno, mese e giorno.
 
