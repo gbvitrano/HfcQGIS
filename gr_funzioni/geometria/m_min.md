@@ -1,4 +1,4 @@
-## Funzione `m_min`
+# m_min
 
 Restituisce il valore minimo m (misura) di una geometria.
 
