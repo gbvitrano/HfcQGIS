@@ -11,7 +11,17 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 `Novità rilevanti introdotte in QGIS 3.14 19/06/2020`_
 --------------------------------------------   
    
-- `rand`_
+- `ascii`
+- `is_multipart`
+- `min_z`
+- `max_z`
+- `min_m`
+- `max_m`
+- `close_line`
+- `make_date`
+- `make_time`
+- `make_datetime`
+- `make_interval`
 
 .. raw:: html
    
@@ -180,3 +190,14 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _hash: ../gr_funzioni/conversioni/hash.html
 .. _md5: ../gr_funzioni/conversioni/md5.html
 .. _sha256: ../gr_funzioni/conversioni/sha256.html
+.. _ascii: ../gr_funzioni/strinche_di_testo/ascii.html
+.. _is_multipart: ../gr_funzioni/geometria/is_multipart.html
+.. _min_z: ../gr_funzioni/geometria/min_z.html
+.. _max_z: ../gr_funzioni/geometria/max_z.html
+.. _min_m: ../gr_funzioni/geometria/min_m.html
+.. _max_m: ../gr_funzioni/geometria/max_m.html
+.. _close_line: ../gr_funzioni/geometria/close_line.html
+.. _make_date: ../gr_funzioni/date_e_ora/make_date.html
+.. _make_time: ../gr_funzioni/date_e_ora/make_time.html
+.. _make_datetime: ../gr_funzioni/date_e_ora/make_datetime.html
+.. _make_interval: ../gr_funzioni/date_e_ora/make_interval.html
