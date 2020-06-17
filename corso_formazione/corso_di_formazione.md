@@ -45,6 +45,7 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
 4.  [Esercitazioni](http://hfcqgis.opendatasicilia.it/it/latest/esempi/index.html).
 
 ## Video-Corso Field Calc QGIS 3 - 57 video lezioni
+Per maggiori Info contattatemi
 
 ## Docente [Ing. Salvatore Fiandaca](http://hfcqgis.opendatasicilia.it/it/latest/autore.html)
 
