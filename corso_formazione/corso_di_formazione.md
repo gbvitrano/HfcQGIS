@@ -4,7 +4,7 @@
 
 Il corso è rivolto agli utenti che conoscono l'uso generale di [QGIS](https://qgis.org/it/site/) e desiderano approfondire l'uso della **tabella attributi** e del **calcolatore di campi**.
 
-## Durata del corso
+## Durata del corso FRONTALE
 
 Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due giorni da otto ore)
 
@@ -43,6 +43,8 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
    15. esercitazione.
 3.  Novità introdotte in QGIS 3.x
 4.  [Esercitazioni](http://hfcqgis.opendatasicilia.it/it/latest/esempi/index.html).
+
+## Video-Corso Field Calc QGIS 3 - 57 video lezioni
 
 ## Docente [Ing. Salvatore Fiandaca](http://hfcqgis.opendatasicilia.it/it/latest/autore.html)
 
