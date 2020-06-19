@@ -55,7 +55,7 @@ Utilizzando la funzione `concat` o il simbolo di concatenazione `||` si possono 
 
 Per rendere gli stili disponibili a tutti i layer del progetto é possibile utilizzare le variabili personalizzate di progetto, cosí da richiamare i diversi stili velocemente all’interno dell’espressione. 
 
-**Step 1 **
+**Step 1**
 
 All’interno delle proprietá del progetto, nella scheda Variabili, creare una nuova variabile per ciascuno degli stili, contenente l’intera serie di caratteri separati dalla virgola. 
 
@@ -84,7 +84,7 @@ replace('corsivo', @caratteri_normali,  @corsivo )
 
 ![](/img/esempi/etichette_formattate_diversi_stili/img_03.jpg)
 
-L’idea di questo esempio e stata suggerita da una risposta su **GIS.Stackexchange** (LINK 3) data dall’utente bugmenot123 che ringrazio per la geniale soluzione proposta.
+L’idea di questo esempio e stata suggerita da una risposta su **GIS.Stackexchange** (LINK 3) data dall’utente [bugmenot123](https://gis.stackexchange.com/users/51035/bugmenot123) che ringrazio per la geniale soluzione proposta.
 
 Grazie a _**Salvatore Fiandaca**_ per avermi proposto di scrivere questo esempio e per il suo suggerimento per  proporre anche la soluzione con variabili di progetto.
 
