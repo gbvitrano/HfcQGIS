@@ -202,7 +202,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Elenco ordinato Comuni: http://hfcqgis.opendatasicilia.it/it/latest/esempi/elenco_ordinato_comuni_attraversati.html
 .. _Label chiave-valore: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichettare_chiave_valore.html
 .. _Etichettare itinerario: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichettare_itinerario_elenco_comuni_attraversati.html
-.. _Etichettare formattate: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichette_formattate_diversi_stili.html
+.. _Etichette formattate: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichette_formattate_diversi_stili.html
 
 
 
