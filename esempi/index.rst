@@ -154,7 +154,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      |                          | Valerio         |
 |      |                          | Pinna           |
 +------+--------------------------+-----------------+
-| 42   |`Etichetta formattate`_   |                 |
+| 42   |`Etichette formattate`_   |                 |
 |      |                          | Valerio         |
 |      |                          | Pinna           |
 +------+--------------------------+-----------------+
