@@ -90,9 +90,9 @@ Grazie a _**Salvatore Fiandaca**_ per avermi proposto di scrivere questo esempio
 
 **Link utili:**
 
-1. https://boldtext.io/
-2. https://lingojam.com/ItalicTextGenerator
-3. https://gis.stackexchange.com/questions/357234/styling-substring-of-label-with-different-style-without-creating-two-separate-la?fbclid=IwAR3n94vGBAe9MMoayzLTkGjdlimq7Dkbefm0lAzuSPSbS_kLpxq88w6Eixk
+1. <https://boldtext.io/>
+2. <https://lingojam.com/ItalicTextGenerator>
+3. <https://gis.stackexchange.com/questions/357234/styling-substring-of-label-with-different-style-without-creating-two-separate-la?fbclid=IwAR3n94vGBAe9MMoayzLTkGjdlimq7Dkbefm0lAzuSPSbS_kLpxq88w6Eixk>
 
 Realizzato da **Valerio Pinna** (grazie mille!)
 
