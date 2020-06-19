@@ -42,4 +42,5 @@ Esempio|Descrizione
 [Tracciare un grafico](tracciare_grafico_generatore_geometrie.md)|Come tracciare un grafico per ogni feature usando il generatore di geometrie|Pigreco
 [Elenco ordinato di Comuni](elenco_ordinato_comuni_attraversati.md)|Come ottenere l'elenco ordinato dei Comuni attraversati da un itinerario|Pigreco
 [Etichettare con chiave-valore](etichettare_chiave_valore.md)|Etichettare facendo vedere sia il nome del campo che il corrispondente valore|Pigreco
-[Etichettare itinerario con elenco ordinato Comuni](.etichettare_itinerario_elenco_comuni_attraversati.md)|Etichettare itinerario con elenco ordinato di Comuni attraversti|Valerio Pinna
+[Etichettare itinerario con elenco ordinato Comuni](etichettare_itinerario_elenco_comuni_attraversati.md)|Etichettare itinerario con elenco ordinato di Comuni attraversti|Valerio Pinna
+[etichette_formattate_diversi_stili](etichette_formattate_diversi_stili.md)|Etichette formattate con diversi stili|Valerio Pinna
