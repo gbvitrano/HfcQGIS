@@ -95,4 +95,4 @@ In collaborazione con **Valerio Pinna** che ringrazio per la disponibilità.
 
 ### Prova tu
 
-il geopackage è scaricabile [qui](/esempi/vertici_duplicati.gpkg)
+il geopackage è scaricabile [qui](https://github.com/pigreco/HfcQGIS/raw/master/esempi/vertici_duplicati.gpkg)
