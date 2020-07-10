@@ -158,6 +158,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      |                          | Valerio         |
 |      |                          | Pinna           |
 +------+--------------------------+-----------------+
+| 43   | `Selezionare vertici     |                 |
+|      | duplicati`_              | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
@@ -203,6 +207,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Label chiave-valore: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichettare_chiave_valore.html
 .. _Etichettare itinerario: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichettare_itinerario_elenco_comuni_attraversati.html
 .. _Etichette formattate: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichette_formattate_diversi_stili.html
+.. _Selezionare vertici duplicati: http://hfcqgis.opendatasicilia.it/it/latest/esempi/select_duplicate_vertices.html
 
 
 
@@ -252,3 +257,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    etichettare_chiave_valore
    etichettare_itinerario_elenco_comuni_attraversati
    etichette_formattate_diversi_stili
+   select_duplicate_vertices
