@@ -1,5 +1,9 @@
 # Parlano di noi
 
+* **24/07/2020** Facebook [EstateGIS2020](https://www.facebook.com/MasterGIScience/videos/829166000940988/)
+
+<img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/estategis2020.png" Title="" alt=""/></a>
+
 * **06/07/2019** Twitter [Skampus](https://twitter.com/skampus1967/status/1147438041646149632)
 
 <img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/qgisscampita2019.png" Title="" alt=""/></a>
