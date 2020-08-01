@@ -1,5 +1,9 @@
 # Parlano di noi
 
+* 01/08/2020** Lista QGIS-it-user [Marco S.](http://osgeo-org.1560.x6.nabble.com/HfcQGIS-e-come-un-coltellino-svizzero-tc5443101.html)
+
+<img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/qgis-it-user.png" Title="" alt=""/></a>
+
 * **24/06/2020** Facebook [EstateGIS2020](https://www.facebook.com/MasterGIScience/videos/829166000940988/)
 
 <img width="500"  class="immagonobox" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/parlano_di_noi/estategis2020.png" Title="" alt=""/></a>
