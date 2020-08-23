@@ -4,7 +4,7 @@ Ordina i valori in ordine crescente (usa _array_reverse_ per desc).
 
 ## Sintassi
 
-array_minority(_<span style="color:red;">array</span>,<span style="color:red;">before</span>,<span style="color:red;">after</span>_)
+array_replace(_<span style="color:red;">array</span>,<span style="color:red;">before</span>,<span style="color:red;">after</span>_)
 
 ## Argomenti
 
