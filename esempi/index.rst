@@ -162,6 +162,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      | duplicati`_              | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
+| 43   | `Conteggio caratteri     |                 |
+|      | diversi`_                | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
@@ -208,6 +212,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Etichettare itinerario: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichettare_itinerario_elenco_comuni_attraversati.html
 .. _Etichette formattate: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichette_formattate_diversi_stili.html
 .. _Selezionare vertici duplicati: http://hfcqgis.opendatasicilia.it/it/latest/esempi/select_duplicate_vertices.html
+.. _Conteggio caratteri diversi: http://hfcqgis.opendatasicilia.it/it/latest/esempi/conteggio_caratteri_diversi.html
 
 
 
@@ -258,3 +263,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    etichettare_itinerario_elenco_comuni_attraversati
    etichette_formattate_diversi_stili
    select_duplicate_vertices
+   conteggio_caratteri_diversi
