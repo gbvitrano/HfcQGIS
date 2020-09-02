@@ -162,7 +162,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      | duplicati`_              | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
-| 43   | `Conteggio caratteri     |                 |
+| 44   | `Conteggio caratteri     |                 |
 |      | diversi`_                | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
