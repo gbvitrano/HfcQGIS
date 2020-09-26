@@ -65,6 +65,29 @@ id | valore
 2  | 2020-02-25
 3  | 2020-02-26
 
+## Esempio 4
+
+Tabella:
+
+id|particella
+--|----------
+1 |00AXJ.su
+2 |000BBG.cot
+3 |0JJU.1234
+
+Aggiornare il campo `particella` togliendo tutto quello dopo il punto (.):
+
+espressione da usare:
+
+- ` regexp_replace( 'xxxxx.yyy','\\.(.+)$','')`
+
+risultato:
+
+id|particella
+--|----------
+1 |00AXJ
+2 |000BBG
+3 |0JJU
 
 ## nota bene
 
