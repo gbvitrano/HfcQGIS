@@ -38,7 +38,3 @@ shortest_line(
 ```
 
 Osservazione: la funzione `geometry_overlay_nearest` è presente in QGIS a partire dalla 3.16 Hannover
-
-Provavi tu
-
-Geopackage è [qui](/esempi/dati_esempi.gpkg)
