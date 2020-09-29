@@ -166,6 +166,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      | diversi`_                | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
+| 45   | `Lunghezza minima tra    |                 |
+|      | due vettori`_            | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
@@ -213,6 +217,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Etichette formattate: http://hfcqgis.opendatasicilia.it/it/latest/esempi/etichette_formattate_diversi_stili.html
 .. _Selezionare vertici duplicati: http://hfcqgis.opendatasicilia.it/it/latest/esempi/select_duplicate_vertices.html
 .. _Conteggio caratteri diversi: http://hfcqgis.opendatasicilia.it/it/latest/esempi/conteggio_caratteri_diversi.html
+.. _Lunghezza minima tra due vettori: http://hfcqgis.opendatasicilia.it/it/latest/esempi/linea_min_distanza2.html
 
 
 
@@ -264,3 +269,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    etichette_formattate_diversi_stili
    select_duplicate_vertices
    conteggio_caratteri_diversi
+   linea_min_distanza2
