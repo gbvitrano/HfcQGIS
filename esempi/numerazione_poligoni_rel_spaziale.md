@@ -30,9 +30,8 @@ espressione da usare:
 
 ```
 array_find(
-    array_reverse( 
         array_sort(array_agg(x_min( $geometry)))
-                 ),x_min( $geometry))+1
+                 ,x_min( $geometry))+1
 ```
 
 Altro esempio:
