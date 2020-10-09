@@ -170,6 +170,10 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 |      | due vettori`_            | Salvatore       |
 |      |                          | Fiandaca        |
 +------+--------------------------+-----------------+
+| 46   | `Lunghezza segmenti di un|                 |
+|      | poligono`_               | Salvatore       |
+|      |                          | Fiandaca        |
++------+--------------------------+-----------------+
 
 
 .. _Come aggiungere colonna con area [mq]: http://hfcqgis.opendatasicilia.it/it/latest/esempi/add_col_area.html
@@ -218,6 +222,7 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
 .. _Selezionare vertici duplicati: http://hfcqgis.opendatasicilia.it/it/latest/esempi/select_duplicate_vertices.html
 .. _Conteggio caratteri diversi: http://hfcqgis.opendatasicilia.it/it/latest/esempi/conteggio_caratteri_diversi.html
 .. _Lunghezza minima tra due vettori: http://hfcqgis.opendatasicilia.it/it/latest/esempi/linea_min_distanza2.html
+.. _Lunghezza segmenti di un poligono: http://hfcqgis.opendatasicilia.it/it/latest/esempi/lunghezze_segmenti_poligono.html
 
 
 
@@ -270,3 +275,4 @@ La sezione è in contunua evoluzione e sono benvenuti contributi esterni.
    select_duplicate_vertices
    conteggio_caratteri_diversi
    linea_min_distanza2
+   lunghezze_segmenti_poligono
