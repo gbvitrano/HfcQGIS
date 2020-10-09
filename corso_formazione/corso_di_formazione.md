@@ -51,7 +51,6 @@ Per maggiori Info contattatemi
 
 - Membro attivo di **QGIS Italia** e gruppo utenti [QGIS.it](http://qgis.it/);
 - Co-Admin pagina Facebook ufficiale di [QGIS Italia](https://www.facebook.com/qgis.it/);
-- Co-Admin gruppo [Telegram Ufficiale QGIS.it](https://t.me/qgis_it);
 - Co-Admin canale [Telegram Ufficiale di QGIS.it](https://t.me/qgisitalia);
 - Co-Admin canale [Twitter Ufficiale di QGIS.it](https://twitter.com/qgisitalia);
 - Socio [GFOSS.it](http://gfoss.it/);
