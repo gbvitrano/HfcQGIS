@@ -1,4 +1,4 @@
-## Funzione `main_angle`
+# main_angle
 
 Restituisce l'angolo principale di una geometria (senso orario, in gradi dal Nord), il quale rappresenta l'angolo dell'orientamento del rettangolo minimo che copre completamente la geometria.
 
