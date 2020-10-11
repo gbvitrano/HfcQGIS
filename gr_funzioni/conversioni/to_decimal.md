@@ -1,4 +1,4 @@
-## Funzione `to_decimal`
+# to_decimal
 
 Converte una coordinata in gradi, minuti e secondi nel suo equivalente decimale.
 
