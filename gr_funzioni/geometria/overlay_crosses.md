@@ -1,4 +1,4 @@
-## Funzione `overlay_crosses`
+# overlay_crosses
 
 Esegue un'unione spaziale di tipo CROSSES. Questo restituisce un array di risultati di un'espressione valutata su elementi provenienti da un vettore diverso che ATTRAVERSANO l'elemento corrente, o, se non viene fornita alcuna espressione, semplicemente restituisce se almeno un elemento dell'altro vettore ATTRAVERSA l'elemento corrente.
 
