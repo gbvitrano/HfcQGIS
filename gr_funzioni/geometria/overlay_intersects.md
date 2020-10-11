@@ -1,4 +1,4 @@
-## Funzione `overlay_intersects`
+# overlay_intersects
 
 Esegue un'unione spaziale di tipo INTERSECTS . Questo restituisce un array di risultati di un'espressione valutata su elementi provenienti da un vettore diverso che INTERSECANO l'elemento corrente, o, se non viene fornita alcuna espressione, semplicemente restituisce se almeno un elemento dell'altro vettore INTERSECA l'elemento corrente.
 
