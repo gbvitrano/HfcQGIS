@@ -10,25 +10,25 @@
 
 ## Miglioramenti help in linea
 
-help in linea: https://github.com/qgis/QGIS/pull/37532
+help in linea: <https://github.com/qgis/QGIS/pull/37532>
 
 ![](/img/novita_316/37532.png)
 
-help in linea : https://github.com/qgis/QGIS/pull/37771
+help in linea : <https://github.com/qgis/QGIS/pull/37771>
 
 ![](/img/novita_316/37771.png)
 
 ## Nuove funzioni
 
-- `main_angle` : https://github.com/qgis/QGIS/pull/37798
+- `main_angle` : <https://github.com/qgis/QGIS/pull/37798>
 
 ![](https://user-images.githubusercontent.com/1829991/87367553-aae7d680-c5be-11ea-923a-e81200f2b90c.gif)
 
-- `to_decimal()` : https://github.com/qgis/QGIS/pull/38025
+- `to_decimal()` : <https://github.com/qgis/QGIS/pull/38025>
 
 ![](./img/novita_316/38025.png)
 
-- refFunction: https://github.com/qgis/QGIS/pull/38405
+- refFunction: <https://github.com/qgis/QGIS/pull/38405>
 
 ![](https://user-images.githubusercontent.com/1894106/90797864-7bd92900-e311-11ea-945f-0c2ade14e801.gif)
 
