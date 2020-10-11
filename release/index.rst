@@ -5,6 +5,26 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. raw:: html
    
    <embed>
+        <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_14.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_16.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS Dev"  title="QGIS 3.14 Pi"style="margin: 0 auto; display: block;"/></h1>
+    </embed>
+    
+`Novità rilevanti introdotte in QGIS 3.16 23/10/2020`_
+--------------------------------------------   
+   
+- `main_angle`_
+- `to_decimal`_
+- `overlay_intersects`_
+- `overlay_contains`_
+- `overlay_crosses`_
+- `overlay_equals`_
+- `overlay_touches`_
+- `overlay_disjoint`_
+- `overlay_within`_
+- `overlay_nearest`_
+
+.. raw:: html
+   
+   <embed>
         <a href="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_14.png?raw=true"target="_blank"><h1><img src="https://github.com/gbvitrano/HfcQGIS/blob/master/img/splashscreen/splash_3_14.png?raw=true" class="immagonobox" width="126" height="60" alt="QGIS Dev"  title="QGIS 3.14 Pi"style="margin: 0 auto; display: block;"/></h1>
     </embed>
     
@@ -159,6 +179,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Novità rilevanti introdotte in QGIS 3.10 25/10/2019: novita_310.html
 .. _Novità rilevanti introdotte in QGIS 3.12 21/02/2020: novita_312.html
 .. _Novità rilevanti introdotte in QGIS 3.14 19/06/2020: novita_314.html
+.. _Novità rilevanti introdotte in QGIS 3.16 23/10/2020: novita_316.html
 .. _force_rhr: ../gr_funzioni/geometria/force_rhr.html
 .. _decode_uri: ../gr_funzioni/layer_della_mappa/decode_uri.html
 .. _sposta la casella di gruppo valore nell'area di aiuto: novita_36.html#sposta-la-casella-di-gruppo-valore-nell-area-di-aiuto
@@ -199,5 +220,17 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _close_line: ../gr_funzioni/geometria/close_line.html
 .. _make_date: ../gr_funzioni/data_ora/make_date.html
 .. _make_time: ../gr_funzioni/data_ora/make_time.html
-.. _make_datetime: ../gr_funzioni/data_ora/make_datetime.html
 .. _make_interval: ../gr_funzioni/data_ora/make_interval.html
+.. _main_angle: ../gr_funzioni/geometria/main_angle.html
+.. _to_decimal: ../gr_funzioni/conversioni/make_interval.html
+.. _overlay_intersects: ../gr_funzioni/geometria/overlay_intersects.html
+.. _overlay_contains: ../gr_funzioni/geometria/overlay_contains.html
+.. _overlay_crosses: ../gr_funzioni/geometria/overlay_crosses.html
+.. _overlay_equals: ../gr_funzioni/geometria/overlay_equals.html
+.. _overlay_touches: ../gr_funzioni/geometria/overlay_touches.html
+.. _overlay_disjoint: ../gr_funzioni/geometria/overlay_disjoint.html
+.. _overlay_within: ../gr_funzioni/geometria/overlay_within.html
+.. _overlay_nearest: ../gr_funzioni/geometria/overlay_nearest.html
+
+
+
