@@ -1,4 +1,4 @@
-## Funzione `overlay_contains`
+# overlay_contains
 
 Esegue un'unione spaziale di tipo CONTAINS. Questo restituisce un array di risultati di un'espressione valutata su elementi provenienti da un vettore diverso che CONTENGONO l'elemento corrente, o, se non viene fornita alcuna espressione, semplicemente restituisce se almeno un elemento dell'altro vettore CONTIENE l'elemento corrente.
 
