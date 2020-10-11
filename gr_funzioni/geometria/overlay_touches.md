@@ -1,4 +1,4 @@
-## Funzione `overlay_touches`
+# overlay_touches
 
 Esegue un'unione spaziale di tipo TOUCHES. Questo restituisce un array di risultati di un'espressione valutata su elementi provenienti da un vettore diverso che TOCCANO l'elemento corrente, o, se non viene fornita alcuna espressione, semplicemente restituisce se almeno un elemento dell'altro vettore TOCCA l'elemento corrente.
 
