@@ -1,4 +1,4 @@
-## Funzione `overlay_nearest`
+# overlay_nearest
 
 Questo restituisce un array di risultati di un'espressione valutata su elementi da un layer diverso ordinato PER DISTANZA dall'elemento corrente, o, se non viene fornita alcuna espressione, semplicemente restituisce se è stato trovato almeno un elemento contenuto nell'altro layer. Nota: questa funzione può essere lenta e consumare molta memoria per vettori di grandi dimensioni.
 
