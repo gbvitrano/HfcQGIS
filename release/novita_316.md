@@ -12,11 +12,11 @@
 
 help in linea: https://github.com/qgis/QGIS/pull/37532
 
-![](./img/novita_316/37532.png)
+![](/img/novita_316/37532.png)
 
 help in linea : https://github.com/qgis/QGIS/pull/37771
 
-![](./img/novita_316/37771.png)
+![](/img/novita_316/37771.png)
 
 ## Nuove funzioni
 
