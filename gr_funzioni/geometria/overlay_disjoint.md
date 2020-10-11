@@ -1,4 +1,4 @@
-## Funzione `overlay_disjoint`
+# overlay_disjoint
 
 Esegue un'unione spaziale di tipo DISJOINT. Questo restituisce un array di risultati di un'espressione valutata su elementi provenienti da un vettore diverso DISGIUNTI dall'elemento corrente, o, se non viene fornita alcuna espressione, semplicemente restituisce se almeno un elemento dell'altro vettore è DISGIUNTO dall'elemento corrente.
 
