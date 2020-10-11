@@ -222,7 +222,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _make_time: ../gr_funzioni/data_ora/make_time.html
 .. _make_interval: ../gr_funzioni/data_ora/make_interval.html
 .. _main_angle: ../gr_funzioni/geometria/main_angle.html
-.. _to_decimal: ../gr_funzioni/conversioni/make_interval.html
+.. _to_decimal: ../gr_funzioni/conversioni/to_decimal.html
 .. _overlay_intersects: ../gr_funzioni/geometria/overlay_intersects.html
 .. _overlay_contains: ../gr_funzioni/geometria/overlay_contains.html
 .. _overlay_crosses: ../gr_funzioni/geometria/overlay_crosses.html
