@@ -1,4 +1,4 @@
-## Funzione `overlay_within`
+# overlay_within
 
 Esegue un'unione spaziale di tipo WITHIN. Questo restituisce un array di risultati di un'espressione valutata su elementi provenienti da un vettore diverso che sono ALL'INTERNO dell'elemento corrente, o, se non viene fornita alcuna espressione, semplicemente restituisce se almeno un elemento dell'altro vettore è ALL'INTERNO dell'elemento corrente.
 
