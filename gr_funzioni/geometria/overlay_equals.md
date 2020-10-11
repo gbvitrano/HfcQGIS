@@ -1,4 +1,4 @@
-## Funzione `overlay_equals`
+# overlay_equals
 
 Esegue un'unione spaziale di tipo EQUALS. Questo restituisce un array di risultati di un'espressione valutata su elementi provenienti da un vettore diverso che EGUAGLIANO l'elemento corrente, o, se non viene fornita alcuna espressione, semplicemente restituisce se almeno un elemento dell'altro vettore EGUAGLIA l'elemento corrente.
 
