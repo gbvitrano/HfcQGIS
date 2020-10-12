@@ -4,7 +4,7 @@ Questo restituisce un array di risultati di un'espressione valutata su elementi 
 
 ## Sintassi
 
-* overlay_nearest(_<span style="color:red;">layer[,expression][,filter][,limit][,cache]</span>_)
+* **overlay_nearest**(_<span style="color:red;">layer[,expression][,filter][,limit][,cache]</span>_)
 
 [ ] indica componenti opzionali
 
