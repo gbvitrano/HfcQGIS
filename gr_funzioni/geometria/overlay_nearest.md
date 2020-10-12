@@ -32,4 +32,4 @@ Questo restituisce un array di risultati di un'espressione valutata su elementi 
 
 ## osservazioni
 
---
+Esempio 45: <http://hfcqgis.opendatasicilia.it/it/latest/esempi/linea_min_distanza2.html>
