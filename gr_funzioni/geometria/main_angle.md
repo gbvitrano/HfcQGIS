@@ -4,11 +4,11 @@ Restituisce l'angolo principale di una geometria (senso orario, in gradi dal Nor
 
 ## Sintassi
 
-main_angle(_geometry_)
+* main_angle(_<span style="color:red;">geometry</span>_)
 
 ## Argomenti
 
-* _geometry_ una geometria poligono
+* _<span style="color:red;">geometry</span>_ una geometria poligono
 
 ## Esempi
 
