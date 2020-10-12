@@ -16,8 +16,6 @@ Esegue un'unione spaziale di tipo CONTAINS. Questo restituisce un array di risul
 * _<span style="color:red;">limit</span>_ un numero intero opzionale per limitare il numero di elementi corrispondenti (se non impostato, verranno restituiti tutti gli elementi);
 * _<span style="color:red;">cache</span>_ imposta su "vero" per creare un indice spaziale locale (il più delle volte, questo è indesiderato, a meno che tu non stia lavorando con un fornitore di dati particolarmente lento);
 
-[ ] indica componenti opzionali
-
 ## Esempi
 
 * `overlay_contains('regions') → Vero`
