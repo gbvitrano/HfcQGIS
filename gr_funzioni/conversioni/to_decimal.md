@@ -4,11 +4,11 @@ Converte una coordinata in gradi, minuti e secondi nel suo equivalente decimale.
 
 ## Sintassi
 
-* to_decimal(_value_)
+* to_decimal(_<span style="color:red;">value</span_)
 
 ## Argomenti
 
-* _value_ Una stringa di gradi, minuti, secondi
+* _<span style="color:red;">value</span_ Una stringa di gradi, minuti, secondi
 
 ## Esempi
 ```
