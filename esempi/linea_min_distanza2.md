@@ -13,7 +13,7 @@ Traccio la linea di minima distanza solo per visualizzarla a schermo tramite il 
 ```
 shortest_line(
 	$geometry,
- 	geometry_overlay_nearest( 
+ 	overlay_nearest( 
  	layer:='fiumi',
  	expression:=$geometry)[0]
 	     )
@@ -30,11 +30,11 @@ per calcolare la lunghezza e aggiungerla come campo nella tabella attributi del 
 length(
 shortest_line(
 	$geometry,
- 	geometry_overlay_nearest( 
+ 	overlay_nearest( 
  	layer:='fiumi',
  	expression:=$geometry)[0]
 	     )
        )
 ```
 
-Osservazione: la funzione `geometry_overlay_nearest` è presente in QGIS a partire dalla 3.16 Hannover
+Osservazione: la funzione `overlay_nearest` è presente in QGIS a partire dalla 3.16 Hannover
