@@ -1,4 +1,4 @@
-## Funzione `array_get`
+# array_get
 
 Restituisce l'ennesimo valore (0 per il primo) o l'ultimo -Nesimo valore (-1 per l'ultimo) di un array. Aggiornato a QGIS 3.18
 
