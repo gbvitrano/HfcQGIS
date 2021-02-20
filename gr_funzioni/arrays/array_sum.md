@@ -1,4 +1,4 @@
-## Funzione `array_sum`
+# array_sum
 
 Restituisce la somma dei valori aritmetici in un array. I valori non-numerici nell'array vengono ignorati.
 
