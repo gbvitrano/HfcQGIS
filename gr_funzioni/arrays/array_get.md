@@ -1,19 +1,19 @@
-# array_get
+## Funzione `array_get`
 
-Restituisce il valore ennesimo (0 per il primo elemento) di un array.
+Restituisce l'ennesimo valore (0 per il primo) o l'ultimo -Nesimo valore (-1 per l'ultimo) di un array. Aggiornato a QGIS 3.18
 
 ## Sintassi
 
-* array_get(_<span style="color:red;">array</span>, <span style="color:red;">index</span>_)
+* array_get(_array, index_)
 
 ## Argomenti
 
-* _<span style="color:red;">array</span>_ un array
-* _<span style="color:red;">index</span>_ l'indice da estrarre (partendo da 0)
+* _array_ un array
+* _index_ l'indice da estrarre (partendo da 0)
 
 ## Esempi
 
-* `array_get(array('a','b','c'),1) → 'b'`
+* `array_get(array('a','b','c'),-1) → 'c'`
 
 ![](/img/arrays/array_get/array_get1.png)
 
