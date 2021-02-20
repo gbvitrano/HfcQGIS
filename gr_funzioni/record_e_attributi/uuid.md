@@ -1,4 +1,4 @@
-## Funzione `uuid`
+# uuid
 
 Genera un Universally Unique Identifier (UUID) per ciascun record usando il metodo Qt [QUuid::createUuid](https://doc.qt.io/qt-5/quuid.html#createUuid). Aggiornato dalla QGIS 3.18
 
