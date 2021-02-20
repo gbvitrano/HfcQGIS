@@ -35,4 +35,4 @@
 ## GUI/UX
 - Gruppo `recente` singola linea https://github.com/qgis/QGIS/pull/41545
 
-![](../HfcQGIS/img/novita_318/img_01.png)
+![](/img/novita_318/img_01.png)
