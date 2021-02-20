@@ -1,4 +1,4 @@
-## Funzione `array_majority`
+# array_majority
 
 Restituisce un array contenente il valore più comune in un array. L'array restituito può contenere più di un valore se più valori si verificano con la stessa frequenza.
 
