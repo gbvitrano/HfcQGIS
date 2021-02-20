@@ -200,6 +200,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _Novità rilevanti introdotte in QGIS 3.12 21/02/2020: novita_312.html
 .. _Novità rilevanti introdotte in QGIS 3.14 19/06/2020: novita_314.html
 .. _Novità rilevanti introdotte in QGIS 3.16 23/10/2020: novita_316.html
+.. _Novità rilevanti introdotte in QGIS 3.18 22/02/2021: novita_318.html
 .. _force_rhr: ../gr_funzioni/geometria/force_rhr.html
 .. _decode_uri: ../gr_funzioni/layer_della_mappa/decode_uri.html
 .. _sposta la casella di gruppo valore nell'area di aiuto: novita_36.html#sposta-la-casella-di-gruppo-valore-nell-area-di-aiuto
@@ -251,6 +252,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _overlay_disjoint: ../gr_funzioni/geometria/overlay_disjoint.html
 .. _overlay_within: ../gr_funzioni/geometria/overlay_within.html
 .. _overlay_nearest: ../gr_funzioni/geometria/overlay_nearest.html
+.. _array_sum: ../gr_funzioni/arrays/array_sumt.html
 
 
 
