@@ -1,4 +1,4 @@
-## Funzione `array_mean`
+# array_mean
 
 Restituisce la media dei valori aritmetici in un array. I valori non-numerici nell'array vengono ignorati.
 
