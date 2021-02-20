@@ -12,7 +12,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 --------------------------------------------   
    
 - `UUID`_
-- `arrey_get`_
+- `array_get`_
 - `array_min`_
 - `array_max`_
 - `array_majority`_
