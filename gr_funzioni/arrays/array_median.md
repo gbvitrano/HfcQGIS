@@ -1,4 +1,4 @@
-## Funzione `array_median`
+# array_median
 
 Restituisce la mediana dei valori aritmetici in un array. I valori non-numerici nell'array vengono ignorati.
 
