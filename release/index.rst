@@ -11,16 +11,14 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 `Novità rilevanti introdotte in QGIS 3.18 22/02/2021`_
 --------------------------------------------   
    
+- `UUID`_
+- `arrey_get`_
+- `array_min`_
+- `array_max`_
+- `array_majority`_
 - `array_sum`_
-- `to_decimal`_
-- `overlay_intersects`_
-- `overlay_contains`_
-- `overlay_crosses`_
-- `overlay_equals`_
-- `overlay_touches`_
-- `overlay_disjoint`_
-- `overlay_within`_
-- `overlay_nearest`_
+- `array_mean`_
+- `array_median`_
    
 .. raw:: html
    
@@ -252,7 +250,14 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _overlay_disjoint: ../gr_funzioni/geometria/overlay_disjoint.html
 .. _overlay_within: ../gr_funzioni/geometria/overlay_within.html
 .. _overlay_nearest: ../gr_funzioni/geometria/overlay_nearest.html
-.. _array_sum: ../gr_funzioni/arrays/array_sumt.html
+.. _UUID: ../gr_funzioni/record_e_attributi/uuid.html
+.. _array_get: ../gr_funzioni/arrays/array_get.html
+.. _array_min: ../gr_funzioni/arrays/array_min.html
+.. _array_max: ../gr_funzioni/arrays/array_max.html
+.. _array_majority: ../gr_funzioni/arrays/array_majority.html
+.. _array_sum: ../gr_funzioni/arrays/array_sum.html
+.. _array_mean: ../gr_funzioni/arrays/array_mean.html
+.. _array_media: ../gr_funzioni/arrays/array_median.html
 
 
 
