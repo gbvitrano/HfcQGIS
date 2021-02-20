@@ -257,7 +257,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 .. _array_majority: ../gr_funzioni/arrays/array_majority.html
 .. _array_sum: ../gr_funzioni/arrays/array_sum.html
 .. _array_mean: ../gr_funzioni/arrays/array_mean.html
-.. _array_media: ../gr_funzioni/arrays/array_median.html
+.. _array_median: ../gr_funzioni/arrays/array_median.html
 
 
 
