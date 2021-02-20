@@ -20,10 +20,10 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 |[array_intersect](array_intersect.html)|Restituisce vero se almeno un elemento dell'array1 esiste in array2|
 |[array_last](array_last.html)|Restituisce l'ultimo valore di un array|
 |[array_length](array_length.html)|Restituisce il numero di elementi di un array|
-|[array_majority](array_majority.html)|Restituisce il valore più comune. Restituisce un valore arbitrario se ex-equo|ArrayPlus
+|[array_majority](array_majority.html)|Restituisce il valore più comune. Restituisce un valore arbitrario se ex-equo| **>=QGIS 3.18**
 |[array_minority](array_minority.html)|Restituisce il valore più comune. Restituisce un valore arbitrario se ex-equo|ArrayPlus
-|[array_max](array_max.html)|Restituisce il valore massimo di un array|ArrayPlus
-|[array_min](array_min.html)|Restituisce il valore minimo di un array|ArrayPlus
+|[array_max](array_max.html)|Restituisce il valore massimo di un array|**>=QGIS 3.18**
+|[array_min](array_min.html)|Restituisce il valore minimo di un array|**>=QGIS 3.18**
 |[array_prepend](array_prepend.html)|Restituisce un array con il valore dato aggiunto all'inizio|
 |[array_prioritize](array_prioritize.html)|Ordina un array rispetto ad un altro QGIS >= 3.2|ArrayPlus
 |[array_remove_all](array_remove_all.html)|Restituisce un array con tutti gli elementi del valore passato rimossi|
@@ -32,7 +32,7 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 |[array_reverse](array_reverse.html)|Restituisce l'array dato con valori dell'array in ordine inverso|
 |[array_slice](array_slice.html)|Restituisce una porzione dell'array|
 |[array_sort](array_sort.html)|Ordina i valori in ordine crescente (usa _array_reverse_ per desc)|ArrayPlus
-|[array_sum](array_sum.html)|Calcola la somma dei valori|ArrayPlus
+|[array_sum](array_sum.html)|Calcola la somma dei valori|**>=QGIS 3.18**
 |[array_to_string](array_to_string.html)|Concatena gli elementi di un array in una stringa separata da un delimitatore usando una stringa opzionale per valori mancanti|
 |[generate_series](generate_series.html)|La funzione crea una matrice contenente una sequenza di numeri|>= QGIS 3.4
 |[regexp_matches](regexp_matches.html)|Restituisce un array di tutte le stringhe catturate dai gruppo, nell'ordine che i gruppi stessi compaiono con l'espressione regolare fornita con una stringa|
