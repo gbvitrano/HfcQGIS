@@ -11,7 +11,7 @@ Questa sezione raccoglie le novità sul calcolatore di campi e le funzioni che m
 `Novità rilevanti introdotte in QGIS 3.18 22/02/2021`_
 --------------------------------------------   
    
-- `main_angle`_
+- `array_sum`_
 - `to_decimal`_
 - `overlay_intersects`_
 - `overlay_contains`_
